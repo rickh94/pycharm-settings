@@ -89,12 +89,12 @@
         <mark key="^" line="39" column="13" />
         <mark key="." line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/views.py" timestamp="1543899601815">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="51" column="63" />
-        <mark key="]" line="51" column="86" />
-        <mark key="." line="51" column="86" />
-        <mark key="^" line="51" column="86" />
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/views.py" timestamp="1543907514927">
+        <mark key="'" line="75" column="52" />
+        <mark key="[" line="88" column="41" />
+        <mark key="]" line="90" column="39" />
+        <mark key="^" line="90" column="39" />
+        <mark key="." line="90" column="39" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/advanced_django/advcbv/basic_app/models.py" timestamp="1543883029714">
         <mark key="[" line="13" column="43" />
@@ -200,10 +200,11 @@
         <mark key="." line="40" column="7" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/large/urls.py" timestamp="1543903561744">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/large/urls.py" timestamp="1543907792552">
+        <mark key="[" line="23" column="70" />
+        <mark key="]" line="23" column="70" />
+        <mark key="." line="23" column="70" />
+        <mark key="^" line="23" column="70" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/django_level_one/first_project/templates/index.html" timestamp="1543476998698">
         <mark key="'" line="7" column="32" />
@@ -287,11 +288,11 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/urls.py" timestamp="1543899685972">
-        <mark key="[" line="13" column="74" />
-        <mark key="]" line="13" column="74" />
-        <mark key="^" line="13" column="74" />
-        <mark key="." line="13" column="74" />
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/urls.py" timestamp="1543907561391">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="75" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1542578988615">
         <mark key="'" line="151" column="70" />
@@ -667,9 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="8" filename="$USER_HOME$/beethoven_home/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
-      <jump line="418" column="4" filename="$USER_HOME$/beethoven_home/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
-      <jump line="420" column="8" filename="$USER_HOME$/beethoven_home/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
       <jump line="460" column="8" filename="$USER_HOME$/beethoven_home/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
       <jump line="461" column="8" filename="$USER_HOME$/beethoven_home/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
       <jump line="464" column="16" filename="$USER_HOME$/beethoven_home/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
@@ -767,64 +765,66 @@
       <jump line="122" column="44" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/large/settings.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/views.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/views.py" />
+      <jump line="55" column="27" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/views.py" />
+      <jump line="75" column="52" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/views.py" />
+      <jump line="16" column="4" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhdGgoJycsIGluY2x1ZGUoJ2Jsb2cudXJscycpKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ogin</text>
       </register>
       <register name="/" type="4">
-        <text>username</text>
+        <text>approve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vcmVtb3ZlLycsIHZpZXdzLlBvc3REZWxldGVWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ncmVtb3ZlJyksCg==</text>
+        <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vY29tbWVudCcsIHZpZXdzLmFkZF9jb21tZW50X3RvX3Bvc3QsIG5hbWU9J2FkZF9jb21tZW50X3RvX3Bvc3QnKSwK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhdGgoJycsIGluY2x1ZGUoJ2Jsb2cudXJscycpKSwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhdGgoJ2RyYWZ0cy8nLCB2aWV3cy5EcmFmdExpc3RWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ncG9zdF9kcmFmdF9saXN0JyksCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vY29tbWVudC8nLCB2aWV3cy5hZGRfY29tbWVudF90b19wb3N0LCBuYW1lPSdhZGRfY29tbWVudF90b19wb3N0JyksCiAgICBwYXRoKCdwb3N0LzxpbnQ6cGs+L3B1Ymxpc2gvJywgdmlld3MuYWRkX2NvbW1lbnRfdG9fcG9zdCwgbmFtZT0ncG9zdF9wdWJsaXNoJyksCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyMjIyMjCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vcmVtb3ZlLycsIHZpZXdzLlBvc3REZWxldGVWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ncmVtb3ZlJyksCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>timezone.now()).order_by(
             '-published_date')</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGxvZ2luX3VybCA9ICcvbG9naW4vJwogICAgcmVkaXJlY3RfZmllbGRfbmFtZSA9ICdibG9nL3Bvc3RfZGV0YWlsLmh0bWwnCiAgICBmb3JtX2NsYXNzID0gUG9zdEZvcm0KICAgIG1vZGVsID0gUG9zdAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIG1vZGVsID0gUG9zdAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJycpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2Fib3V0JykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlldy5nZW5lcmljCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/approve/remove/g</text>
       </register>
     </registers>
     <search>
-      <last-search>username</last-search>
+      <last-search>approve</last-search>
       <last-offset />
-      <last-pattern>username</last-pattern>
-      <last-replace>password</last-replace>
-      <last-substitute>username</last-substitute>
+      <last-pattern>approve</last-pattern>
+      <last-replace>remove</last-replace>
+      <last-substitute>approve</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>existing</entry>
         <entry>mutopia</entry>
         <entry>vers</entry>
@@ -844,9 +844,9 @@
         <entry>piece1</entry>
         <entry>Mutopia</entry>
         <entry>username</entry>
+        <entry>approve</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Rlc3RfcnVubmVyX29uZS9ydW5uZXIv</entry>
         <entry encoding="base64">JzwsJz5zLzIvMw==</entry>
         <entry encoding="base64">JzwsJz5zL3R3by9mb3Vy</entry>
         <entry>s/ /,/e</entry>
@@ -866,6 +866,7 @@
         <entry>s/ensemble/composer/g</entry>
         <entry>s/username/password/g</entry>
         <entry>w</entry>
+        <entry>s/approve/remove/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
