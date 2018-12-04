@@ -288,11 +288,12 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/urls.py" timestamp="1543907561391">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="75" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/urls.py" timestamp="1543911676420">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1542578988615">
         <mark key="'" line="151" column="70" />
@@ -771,7 +772,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJycsIGluY2x1ZGUoJ2Jsb2cudXJscycpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ogin</text>
@@ -783,32 +784,32 @@
         <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vY29tbWVudCcsIHZpZXdzLmFkZF9jb21tZW50X3RvX3Bvc3QsIG5hbWU9J2FkZF9jb21tZW50X3RvX3Bvc3QnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJycsIGluY2x1ZGUoJ2Jsb2cudXJscycpKSwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2RyYWZ0cy8nLCB2aWV3cy5EcmFmdExpc3RWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ncG9zdF9kcmFmdF9saXN0JyksCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vY29tbWVudC8nLCB2aWV3cy5hZGRfY29tbWVudF90b19wb3N0LCBuYW1lPSdhZGRfY29tbWVudF90b19wb3N0JyksCiAgICBwYXRoKCdwb3N0LzxpbnQ6cGs+L3B1Ymxpc2gvJywgdmlld3MuYWRkX2NvbW1lbnRfdG9fcG9zdCwgbmFtZT0ncG9zdF9wdWJsaXNoJyksCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBhcHBfbmFtZSA9ICdibG9nJwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBhdGgoJycsIGluY2x1ZGUoJ2Jsb2cudXJscycpKSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhdGgoJ2RyYWZ0cy8nLCB2aWV3cy5EcmFmdExpc3RWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ncG9zdF9kcmFmdF9saXN0JyksCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIyMjCg==</text>
+        <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vY29tbWVudC8nLCB2aWV3cy5hZGRfY29tbWVudF90b19wb3N0LCBuYW1lPSdhZGRfY29tbWVudF90b19wb3N0JyksCiAgICBwYXRoKCdwb3N0LzxpbnQ6cGs+L3B1Ymxpc2gvJywgdmlld3MuYWRkX2NvbW1lbnRfdG9fcG9zdCwgbmFtZT0ncG9zdF9wdWJsaXNoJyksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vcmVtb3ZlLycsIHZpZXdzLlBvc3REZWxldGVWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ncmVtb3ZlJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>timezone.now()).order_by(
-            '-published_date')</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyMjIyMjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2luX3VybCA9ICcvbG9naW4vJwogICAgcmVkaXJlY3RfZmllbGRfbmFtZSA9ICdibG9nL3Bvc3RfZGV0YWlsLmh0bWwnCiAgICBmb3JtX2NsYXNzID0gUG9zdEZvcm0KICAgIG1vZGVsID0gUG9zdAo=</text>
+        <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vcmVtb3ZlLycsIHZpZXdzLlBvc3REZWxldGVWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ncmVtb3ZlJyksCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gUG9zdAo=</text>
+      <register name="9" type="4">
+        <text>timezone.now()).order_by(
+            '-published_date')</text>
       </register>
       <register name=":" type="4">
         <text>s/approve/remove/g</text>
