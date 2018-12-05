@@ -488,11 +488,11 @@
         <mark key="." line="244" column="0" />
         <mark key="^" line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/forms.py" timestamp="1543897475078">
-        <mark key="[" line="28" column="57" />
-        <mark key="]" line="28" column="57" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="28" column="57" />
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/forms.py" timestamp="1543995280296">
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="56" />
+        <mark key="^" line="13" column="69" />
+        <mark key="." line="13" column="56" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/templates/notes.ily" timestamp="1542578453240">
         <mark key="[" line="15" column="0" />
@@ -780,11 +780,11 @@
       <jump line="16" column="4" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGRyb3Bkb3duLW1lbnU=</text>
       </register>
       <register name="-" type="4">
-        <text>ogin</text>
+        <text encoding="base64">IGRyb3Bkb3duLW1lbnU=</text>
       </register>
       <register name="/" type="4">
         <text>approve</text>
