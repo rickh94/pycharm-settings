@@ -293,12 +293,6 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/urls.py" timestamp="1543899685972">
-        <mark key="[" line="16" column="74" />
-        <mark key="]" line="16" column="74" />
-        <mark key="^" line="16" column="74" />
-        <mark key="." line="16" column="74" />
-      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1542578988615">
         <mark key="'" line="151" column="70" />
         <mark key="[" line="23" column="22" />
@@ -319,11 +313,10 @@
         <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/large/settings.py" timestamp="1543897949960">
-        <mark key="'" line="123" column="44" />
-        <mark key="[" line="125" column="24" />
-        <mark key="]" line="125" column="24" />
-        <mark key="." line="125" column="24" />
-        <mark key="^" line="125" column="24" />
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="24" />
+        <mark key="." line="41" column="24" />
+        <mark key="^" line="41" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/mutopia.py" timestamp="1542824079327">
         <mark key="'" line="66" column="16" />
@@ -496,11 +489,12 @@
         <mark key="." line="244" column="0" />
         <mark key="^" line="248" column="28" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/forms.py" timestamp="1543897475078">
-        <mark key="[" line="29" column="57" />
-        <mark key="]" line="29" column="57" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="29" column="57" />
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/forms.py" timestamp="1544042117607">
+        <mark key="'" line="35" column="33" />
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="22" />
+        <mark key="." line="39" column="22" />
+        <mark key="^" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/templates/notes.ily" timestamp="1542578453240">
         <mark key="[" line="15" column="0" />
@@ -521,10 +515,9 @@
         <mark key="." line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/models.py" timestamp="1543903593999">
-        <mark key="[" line="9" column="59" />
-        <mark key="]" line="9" column="59" />
-        <mark key="." line="9" column="59" />
-        <mark key="^" line="6" column="67" />
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="12" column="59" />
+        <mark key="." line="12" column="59" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/django_level_one/first_project/first_project/settings.py" timestamp="1543478658417">
         <mark key="'" line="59" column="17" />
@@ -680,7 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="8" filename="$USER_HOME$/beethoven_home/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
       <jump line="418" column="4" filename="$USER_HOME$/beethoven_home/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
       <jump line="420" column="8" filename="$USER_HOME$/beethoven_home/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
       <jump line="460" column="8" filename="$USER_HOME$/beethoven_home/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
@@ -780,13 +772,14 @@
       <jump line="122" column="44" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/large/settings.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/views.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/views.py" />
+      <jump line="35" column="33" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Field(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Field(</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
@@ -795,32 +788,31 @@
         <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vcmVtb3ZlLycsIHZpZXdzLlBvc3REZWxldGVWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ncmVtb3ZlJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vcmVtb3ZlLycsIHZpZXdzLlBvc3REZWxldGVWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ncmVtb3ZlJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>timezone.now()).order_by(
-            '-published_date')</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN1Ym1pdCgnc3VibWl0JywgIlNhdmUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2luX3VybCA9ICcvbG9naW4vJwogICAgcmVkaXJlY3RfZmllbGRfbmFtZSA9ICdibG9nL3Bvc3RfZGV0YWlsLmh0bWwnCiAgICBmb3JtX2NsYXNzID0gUG9zdEZvcm0KICAgIG1vZGVsID0gUG9zdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gUG9zdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTXVsdGlGaWVsZCggJ05ldyBQb3N0JywKICAgICAgICAgICAgICAgICMgRGl2KAogICAgICAgICAgICAgICAgIyAgICAgRGl2KAogICAgICAgICAgICAgICAgIyAgICAgICAgIEhUTUwoIiIiPGgxPk5ldyBQb3N0PGgxPiIiIiksCiAgICAgICAgICAgICAgICAjICAgICAgICAgIyBjc3NfY2xhc3M9J2NvbC1tZC04IHB5LTIgcHgtNCcKICAgICAgICAgICAgICAgICMgICAgICksCiAgICAgICAgICAgICAgICAjICAgICBEaXYoCiAgICAgICAgICAgICAgICAjICAgICAgICAgU3VibWl0KCdzdWJtaXQnLCAnU2F2ZScsCiAgICAgICAgICAgICAgICAjICAgICAgICAgICAgICAgIGNzc19jbGFzcz0nYnRuIGJ0bi1zdWNjZXNzJyksCiAgICAgICAgICAgICAgICAjICAgICAgICAgIyBjc3NfY2xhc3M9J2NvbC1tZC00IGZsZXgtcm93LXJldmVyc2UgZC1mbGV4JwogICAgICAgICAgICAgICAgIyAgICAgKSwKICAgICAgICAgICAgICAgICMgICAgICMgY3NzX2NsYXNzPSdyb3cnLAogICAgICAgICAgICAgICAgIyApCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpdigKICAgICAgICAgICAgICAgICAgICAnUG9zdCcsCiAgICAgICAgICAgICAgICApLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2Fib3V0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpdigK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlldy5nZW5lcmljCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjc3NfY2xhc3M9J2NvbC1tZC04JywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
