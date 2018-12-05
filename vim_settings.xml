@@ -291,12 +291,12 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/urls.py" timestamp="1543911676420">
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/urls.py" timestamp="1543997470617">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+        <mark key="[" line="11" column="72" />
+        <mark key="]" line="11" column="76" />
+        <mark key="." line="11" column="76" />
+        <mark key="^" line="11" column="76" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1542578988615">
         <mark key="'" line="151" column="70" />
