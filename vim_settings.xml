@@ -175,6 +175,11 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/templates/posts/post_base.html" timestamp="1544217342178">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/lp_backup/docs/source/sample-config.yml" timestamp="1542427458286">
         <mark key="[" line="31" column="3" />
         <mark key="]" line="31" column="4" />
@@ -274,6 +279,12 @@
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/models.py" timestamp="1544218226434">
+        <mark key="[" line="28" column="66" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/cliblog/README.md" timestamp="1527352489157">
         <mark key="[" line="18" column="12" />
@@ -614,6 +625,12 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="7" column="10" />
       </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/models.py" timestamp="1544218699792">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="42" />
+      </file>
       <file name="$USER_HOME$/repositories/lp-backup/setup.cfg" timestamp="1533688217641">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="23" />
@@ -780,11 +797,11 @@
       <jump line="35" column="33" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/large/blog/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Field(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Field(</text>
+        <text>groups</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
@@ -793,31 +810,31 @@
         <text encoding="base64">ICAgIHBhdGgoJ3Bvc3QvPGludDpwaz4vcmVtb3ZlLycsIHZpZXdzLlBvc3REZWxldGVWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ncmVtb3ZlJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN1Ym1pdCgnc3VibWl0JywgIlNhdmUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTXVsdGlGaWVsZCggJ05ldyBQb3N0JywKICAgICAgICAgICAgICAgICMgRGl2KAogICAgICAgICAgICAgICAgIyAgICAgRGl2KAogICAgICAgICAgICAgICAgIyAgICAgICAgIEhUTUwoIiIiPGgxPk5ldyBQb3N0PGgxPiIiIiksCiAgICAgICAgICAgICAgICAjICAgICAgICAgIyBjc3NfY2xhc3M9J2NvbC1tZC04IHB5LTIgcHgtNCcKICAgICAgICAgICAgICAgICMgICAgICksCiAgICAgICAgICAgICAgICAjICAgICBEaXYoCiAgICAgICAgICAgICAgICAjICAgICAgICAgU3VibWl0KCdzdWJtaXQnLCAnU2F2ZScsCiAgICAgICAgICAgICAgICAjICAgICAgICAgICAgICAgIGNzc19jbGFzcz0nYnRuIGJ0bi1zdWNjZXNzJyksCiAgICAgICAgICAgICAgICAjICAgICAgICAgIyBjc3NfY2xhc3M9J2NvbC1tZC00IGZsZXgtcm93LXJldmVyc2UgZC1mbGV4JwogICAgICAgICAgICAgICAgIyAgICAgKSwKICAgICAgICAgICAgICAgICMgICAgICMgY3NzX2NsYXNzPSdyb3cnLAogICAgICAgICAgICAgICAgIyApCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Y2xhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERpdigKICAgICAgICAgICAgICAgICAgICAnUG9zdCcsCiAgICAgICAgICAgICAgICApLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICksCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERpdigK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjc3NfY2xhc3M9J2NvbC1tZC04JywK</text>
+        <text encoding="base64">ICAgIHVuaXF1Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
