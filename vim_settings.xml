@@ -2,9 +2,65 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" timestamp="1544248819684">
+        <mark key="'" line="67" column="44" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544247587051">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="76" />
+        <mark key="^" line="9" column="76" />
+        <mark key="." line="9" column="76" />
+      </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/urls.py" timestamp="1544248960868">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="12" column="71" />
+        <mark key="^" line="12" column="71" />
+        <mark key="." line="12" column="71" />
+      </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/admin.py" timestamp="1544247663402">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="18" column="57" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
+      <jump line="58" column="40" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
+      <jump line="2" column="32" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
+      <jump line="8" column="14" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/urls.py" />
+      <jump line="66" column="44" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>:</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
