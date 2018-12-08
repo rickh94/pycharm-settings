@@ -4,17 +4,17 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" timestamp="1544248819684">
-        <mark key="'" line="67" column="44" />
+        <mark key="'" line="68" column="44" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544247587051">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="76" />
-        <mark key="^" line="9" column="76" />
-        <mark key="." line="9" column="76" />
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544251393311">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="/Python Console" timestamp="1544249067664">
         <mark key="[" line="0" column="0" />
@@ -25,6 +25,13 @@
         <mark key="]" line="12" column="71" />
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
+      </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" timestamp="1544251317319">
+        <mark key="'" line="29" column="7" />
+        <mark key="[" line="54" column="69" />
+        <mark key="]" line="55" column="51" />
+        <mark key="." line="55" column="51" />
+        <mark key="^" line="55" column="51" />
       </file>
       <file name="/views" timestamp="1544249045950">
         <mark key="[" line="0" column="0" />
@@ -43,28 +50,36 @@
       <jump line="2" column="32" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
       <jump line="8" column="14" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/urls.py" />
       <jump line="66" column="44" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" />
+      <jump line="29" column="7" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfcmVkaXJlY3RfdXJsKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcmV0dXJuIHJldmVyc2UoJ3NoaXBzOnNpbmdsZScsIGt3YXJncz17J3NsdWcnOiBzZWxmLmt3YXJncy5nZXQoJ3NsdWcnKX0pCg==</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gU2hpcAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>new</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>new</text>
       </register>
     </registers>
     <search>
