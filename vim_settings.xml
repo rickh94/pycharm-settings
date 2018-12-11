@@ -3,16 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1544430600133">
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="53" column="25" />
+        <mark key="^" line="53" column="25" />
+        <mark key="." line="53" column="25" />
+      </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" timestamp="1544389160428">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="25" column="22" />
         <mark key="." line="25" column="22" />
-      </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/views.py" timestamp="1544412704427">
         <mark key="[" line="3" column="11" />
@@ -27,12 +27,6 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
       </file>
-      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/urls.py" timestamp="1544412712333">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="59" />
-        <mark key="^" line="22" column="59" />
-        <mark key="." line="22" column="59" />
-      </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/.env" timestamp="1544412797121">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="44" />
@@ -45,6 +39,43 @@
         <mark key="^" line="126" column="15" />
         <mark key="." line="126" column="15" />
       </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/urls.py" timestamp="1544427781694">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/models.py" timestamp="1544429393717">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="3" column="42" />
+        <mark key="^" line="3" column="42" />
+        <mark key="." line="3" column="42" />
+      </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/urls.py" timestamp="1544412712333">
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="59" />
+        <mark key="^" line="22" column="59" />
+        <mark key="." line="22" column="59" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1544429363699">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="51" column="12" />
+        <mark key="." line="51" column="12" />
+        <mark key="^" line="51" column="12" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/.env" timestamp="1544427170669">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/settings.py" timestamp="1544413098764">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="23" />
@@ -55,29 +86,48 @@
     <jumps>
       <jump line="30" column="11" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" />
+      <jump line="70" column="4" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdhbW0yeTk0MW5jLmV4ZWN1dGUtYXBpLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tJywK</text>
-      </register>
-      <register name="1" type="4">
-        <text>[
-    'amm2y941nc.execute-api.us-east-1.amazonaws.com',
-]</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>[
-    'amm2y941nc.execute-api.us-east-1.amazonaws.com',
-]</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdhbW0yeTk0MW5jLmV4ZWN1dGUtYXBpLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tJywK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2xhc3MgVGFnKG1vZGVscy5Nb2RlbCk6CiAgICBuYW1lID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICdwb3N0cycsCiAgICAnbWlzYWthJwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
