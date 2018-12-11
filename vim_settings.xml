@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1544498287649">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="34" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="17" column="34" />
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1544508823056">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="12" />
+        <mark key="." line="58" column="12" />
+        <mark key="^" line="51" column="14" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" timestamp="1544389160428">
         <mark key="[" line="25" column="21" />
@@ -39,22 +39,24 @@
         <mark key="^" line="126" column="15" />
         <mark key="." line="126" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/views.py" timestamp="1544498712001">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="4" column="30" />
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/views.py" timestamp="1544506945079">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/urls.py" timestamp="1544498656544">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/urls.py" timestamp="1544506646555">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+        <mark key="^" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/models.py" timestamp="1544496491436">
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="38" />
+      <file name="$USER_HOME$/repositories/gist_clone/posts/models.py" timestamp="1544508286255">
+        <mark key="'" line="27" column="35" />
+        <mark key="[" line="27" column="44" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
         <mark key="[" line="11" column="10" />
@@ -81,10 +83,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1544497031456">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1544508556547">
+        <mark key="[" line="13" column="73" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="62" />
+        <mark key="^" line="14" column="62" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/settings.py" timestamp="1544413098764">
         <mark key="[" line="34" column="19" />
@@ -98,52 +101,53 @@
       <jump line="13" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" />
       <jump line="70" column="4" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
+      <jump line="28" column="35" filename="$USER_HOME$/repositories/gist_clone/posts/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJycsIHZpZXdzLkluZGV4Vmlldy5hc192aWV3KCksIG5hbWU9J2luZGV4JyksCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>jango-active-link</text>
+        <text>return Post.objects</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>slug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdhbW0yeTk0MW5jLmV4ZWN1dGUtYXBpLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tJywK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJycsIHZpZXdzLkluZGV4Vmlldy5hc192aWV3KCksIG5hbWU9J2luZGV4JyksCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnBvc3RfdXNlci5wb3N0cy5hbGwoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2xhc3MgRAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvcm1fY2xhc3MgPSAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZXpvbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNsdWcgPSBtb2RlbHMuU2x1Z0ZpZWxkKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgVGFnKG1vZGVscy5Nb2RlbCk6CiAgICBuYW1lID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NikK</text>
+        <text encoding="base64">ICAgIHBhdGgoJycsIHZpZXdzLkluZGV4Vmlldy5hc192aWV3KCksIG5hbWU9J2luZGV4JyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdwb3N0cycsCiAgICAnbWlzYWthJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search>slug</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>slug</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -151,8 +155,13 @@
       <history-search>
         <entry>slef</entry>
         <entry>group</entry>
+        <entry>slug</entry>
       </history-search>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
