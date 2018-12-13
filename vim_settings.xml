@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1544508823056">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="12" />
-        <mark key="." line="58" column="12" />
-        <mark key="^" line="51" column="14" />
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1544672367085">
+        <mark key="'" line="60" column="99" />
+        <mark key="[" line="87" column="27" />
+        <mark key="]" line="87" column="54" />
+        <mark key="." line="87" column="54" />
+        <mark key="^" line="87" column="54" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" timestamp="1544389160428">
         <mark key="[" line="25" column="21" />
@@ -64,6 +65,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/forms.py" timestamp="1544672255639">
+        <mark key="[" line="7" column="62" />
+        <mark key="]" line="8" column="50" />
+        <mark key="^" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+      </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/urls.py" timestamp="1544412712333">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="22" column="59" />
@@ -102,13 +109,14 @@
       <jump line="70" column="4" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
       <jump line="28" column="35" filename="$USER_HOME$/repositories/gist_clone/posts/models.py" />
+      <jump line="58" column="99" filename="$USER_HOME$/repositories/gist_clone/posts/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>return Post.objects</text>
+        <text>models</text>
       </register>
       <register name="/" type="4">
         <text>slug</text>
@@ -117,31 +125,31 @@
         <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnBvc3RfdXNlci5wb3N0cy5hbGwoKQo=</text>
+        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgRAo=</text>
+        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvcm1fY2xhc3MgPSAK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnBvc3RfdXNlci5wb3N0cy5hbGwoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZXpvbmUK</text>
+        <text encoding="base64">ICAgIGZvcm1fY2xhc3MgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNsdWcgPSBtb2RlbHMuU2x1Z0ZpZWxkKCkK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZXpvbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJycsIHZpZXdzLkluZGV4Vmlldy5hc192aWV3KCksIG5hbWU9J2luZGV4JyksCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNsdWcgPSBtb2RlbHMuU2x1Z0ZpZWxkKCkK</text>
       </register>
     </registers>
     <search>
@@ -157,6 +165,9 @@
         <entry>group</entry>
         <entry>slug</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
