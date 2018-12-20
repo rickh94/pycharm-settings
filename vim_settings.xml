@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545276477880">
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545278737213">
         <mark key="'" line="60" column="99" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="70" column="31" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="21" />
+        <mark key="^" line="50" column="30" />
+        <mark key="." line="50" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1545275839609">
         <mark key="[" line="0" column="0" />
@@ -117,11 +117,11 @@
       <jump line="58" column="99" filename="$USER_HOME$/repositories/gist_clone/posts/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>slug</text>
