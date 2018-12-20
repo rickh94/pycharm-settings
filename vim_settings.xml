@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545278737213">
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545280439251">
         <mark key="'" line="60" column="99" />
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="50" column="21" />
-        <mark key="^" line="50" column="30" />
-        <mark key="." line="50" column="21" />
+        <mark key="[" line="106" column="16" />
+        <mark key="]" line="107" column="24" />
+        <mark key="." line="107" column="24" />
+        <mark key="^" line="107" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1545275839609">
         <mark key="[" line="0" column="0" />
@@ -55,12 +55,12 @@
         <mark key="." line="24" column="14" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/models.py" timestamp="1545270416653">
-        <mark key="'" line="28" column="35" />
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="24" />
-        <mark key="^" line="32" column="28" />
-        <mark key="." line="32" column="24" />
+      <file name="$USER_HOME$/repositories/gist_clone/posts/models.py" timestamp="1545279583248">
+        <mark key="'" line="34" column="35" />
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="36" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="24" column="36" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
         <mark key="[" line="11" column="10" />
@@ -95,11 +95,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545270447484">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="68" />
+      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545280346240">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="11" column="44" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/settings.py" timestamp="1544413098764">
         <mark key="[" line="34" column="19" />
@@ -117,11 +117,11 @@
       <jump line="58" column="99" filename="$USER_HOME$/repositories/gist_clone/posts/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>DeletePost</text>
       </register>
       <register name="/" type="4">
         <text>slug</text>
@@ -130,31 +130,31 @@
         <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGdldF9xdWVyeXNldChzZWxmKToKICAgICMgICAgIHF1ZXJ5c2V0ID0gc3VwZXIoKS5nZXRfcXVlcnlzZXQoKQogICAgIyAgICAgcmV0dXJuIHF1ZXJ5c2V0LmZpbHRlcigKICAgICMgICAgICAgICB1c2VyX191c2VybmFtZV9faWV4YWN0PXNlbGYua3dhcmdzLmdldCgidXNlcm5hbWUiKQogICAgIyAgICAgKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sncHVibGlzaF9ub3cnXQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgZGVmIGdldF9xdWVyeXNldChzZWxmKToKICAgICMgICAgIHF1ZXJ5c2V0ID0gc3VwZXIoKS5nZXRfcXVlcnlzZXQoKQogICAgIyAgICAgcmV0dXJuIHF1ZXJ5c2V0LmZpbHRlcigKICAgICMgICAgICAgICB1c2VyX191c2VybmFtZV9faWV4YWN0PXNlbGYua3dhcmdzLmdldCgidXNlcm5hbWUiKQogICAgIyAgICAgKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sncHVibGlzaF9ub3cnXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnBvc3RfdXNlci5wb3N0cy5hbGwoKQo=</text>
+        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgRAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnBvc3RfdXNlci5wb3N0cy5hbGwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvcm1fY2xhc3MgPSAK</text>
+        <text encoding="base64">Y2xhc3MgRAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvcm1fY2xhc3MgPSAK</text>
       </register>
     </registers>
     <search>
