@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545506899724">
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545547154828">
         <mark key="'" line="60" column="99" />
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="34" />
-        <mark key="." line="58" column="34" />
-        <mark key="^" line="58" column="34" />
+        <mark key="[" line="112" column="24" />
+        <mark key="]" line="112" column="24" />
+        <mark key="." line="112" column="24" />
+        <mark key="^" line="112" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1545275839609">
         <mark key="[" line="0" column="0" />
@@ -49,11 +49,10 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/urls.py" timestamp="1545541789771">
-        <mark key="[" line="25" column="58" />
-        <mark key="]" line="25" column="76" />
-        <mark key="." line="25" column="76" />
-        <mark key="^" line="25" column="76" />
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/urls.py" timestamp="1545547093575">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/models.py" timestamp="1545279583248">
         <mark key="'" line="34" column="35" />
@@ -95,11 +94,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545507010463">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="27" />
+      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545547287670">
+        <mark key="[" line="15" column="69" />
+        <mark key="]" line="15" column="69" />
+        <mark key="." line="15" column="69" />
+        <mark key="^" line="15" column="69" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/settings.py" timestamp="1544413098764">
         <mark key="[" line="34" column="19" />
@@ -117,44 +116,44 @@
       <jump line="58" column="99" filename="$USER_HOME$/repositories/gist_clone/posts/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhdGgK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Detail</text>
       </register>
       <register name="/" type="4">
         <text>slug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgcmV0dXJuIFBvc3Qub2JqZWN0cy5maWx0ZXIocHVibGlzaGVkX2RhdGVfX2x0ZT10aW1lem9uZS5ub3coKSkub3JkZXJfYnkoJy1wdWJsaXNoZWRfZGF0ZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCgnYWNjb3VudHMvcHJvZmlsZS8nKSkK</text>
+        <text encoding="base64">ICAgIHBhdGgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcGF0aCgnYWNjb3VudHMvcHJvZmlsZS8nKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGdldF9xdWVyeXNldChzZWxmKToKICAgICMgICAgIHF1ZXJ5c2V0ID0gc3VwZXIoKS5nZXRfcXVlcnlzZXQoKQogICAgIyAgICAgcmV0dXJuIHF1ZXJ5c2V0LmZpbHRlcigKICAgICMgICAgICAgICB1c2VyX191c2VybmFtZV9faWV4YWN0PXNlbGYua3dhcmdzLmdldCgidXNlcm5hbWUiKQogICAgIyAgICAgKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sncHVibGlzaF9ub3cnXQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgZGVmIGdldF9xdWVyeXNldChzZWxmKToKICAgICMgICAgIHF1ZXJ5c2V0ID0gc3VwZXIoKS5nZXRfcXVlcnlzZXQoKQogICAgIyAgICAgcmV0dXJuIHF1ZXJ5c2V0LmZpbHRlcigKICAgICMgICAgICAgICB1c2VyX191c2VybmFtZV9faWV4YWN0PXNlbGYua3dhcmdzLmdldCgidXNlcm5hbWUiKQogICAgIyAgICAgKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sncHVibGlzaF9ub3cnXQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYucG9zdF91c2VyID0gVXNlci5vYmplY3RzLnByZWZldGNoX3JlbGF0ZWQoInBvc3RzIikuZ2V0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfX2lleGFjdD1zZWxmLmt3YXJncy5nZXQoInVzZXJuYW1lIikKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdCBVc2VyLkRvZXNOb3RFeGlzdDoKICAgICAgICAgICAgcmFpc2UgSHR0cDQwNAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnBvc3RfdXNlci5wb3N0cy5hbGwoKQo=</text>
+        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgRAo=</text>
+        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
       </register>
     </registers>
     <search>
