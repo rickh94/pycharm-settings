@@ -79,12 +79,12 @@
         <mark key="^" line="22" column="59" />
         <mark key="." line="22" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1545850641720">
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1545862882609">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="28" />
-        <mark key="]" line="53" column="19" />
-        <mark key="^" line="53" column="19" />
-        <mark key="." line="53" column="19" />
+        <mark key="[" line="87" column="60" />
+        <mark key="]" line="87" column="66" />
+        <mark key="^" line="87" column="66" />
+        <mark key="." line="87" column="66" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/admin.py" timestamp="1545270531363">
         <mark key="[" line="5" column="6" />
@@ -122,16 +122,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, flat=True</text>
+        <text>messages</text>
       </register>
       <register name="-" type="4">
-        <text>, flat=True</text>
+        <text>messages</text>
       </register>
       <register name="/" type="4">
         <text>slug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgcmV0dXJuIFBvc3Qub2JqZWN0cy5maWx0ZXIocHVibGlzaGVkX2RhdGVfX2x0ZT10aW1lem9uZS5ub3coKSkub3JkZXJfYnkoJy1wdWJsaXNoZWRfZGF0ZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkamFuZ28uY29udHJpYi5tZXNzYWdlcy5jb250ZXh0X3Byb2Nlc3NvcnMubWVzc2FnZXMnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRhZ3MgPSAK</text>
