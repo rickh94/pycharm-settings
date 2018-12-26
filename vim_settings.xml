@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545547154828">
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545851469246">
         <mark key="'" line="60" column="99" />
-        <mark key="[" line="112" column="24" />
-        <mark key="]" line="112" column="24" />
-        <mark key="." line="112" column="24" />
-        <mark key="^" line="112" column="24" />
+        <mark key="[" line="121" column="21" />
+        <mark key="]" line="121" column="26" />
+        <mark key="." line="121" column="26" />
+        <mark key="^" line="121" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1545275839609">
         <mark key="[" line="0" column="0" />
@@ -54,12 +54,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/models.py" timestamp="1545279583248">
+      <file name="$USER_HOME$/repositories/gist_clone/posts/models.py" timestamp="1545850350237">
         <mark key="'" line="34" column="35" />
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="36" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="24" column="36" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
         <mark key="[" line="11" column="10" />
@@ -67,11 +66,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/forms.py" timestamp="1545251763499">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="6" column="78" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/repositories/gist_clone/posts/forms.py" timestamp="1545850518736">
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="49" />
+        <mark key="^" line="16" column="49" />
+        <mark key="." line="16" column="49" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/urls.py" timestamp="1544412712333">
         <mark key="[" line="22" column="37" />
@@ -79,8 +79,12 @@
         <mark key="^" line="22" column="59" />
         <mark key="." line="22" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1544498035689">
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1545850641720">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="53" column="19" />
+        <mark key="." line="53" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/admin.py" timestamp="1545270531363">
         <mark key="[" line="5" column="6" />
@@ -94,11 +98,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545547287670">
-        <mark key="[" line="15" column="69" />
-        <mark key="]" line="15" column="69" />
-        <mark key="." line="15" column="69" />
-        <mark key="^" line="15" column="69" />
+      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545849897284">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+        <mark key="^" line="16" column="59" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/settings.py" timestamp="1544413098764">
         <mark key="[" line="34" column="19" />
@@ -114,13 +118,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
       <jump line="28" column="35" filename="$USER_HOME$/repositories/gist_clone/posts/models.py" />
       <jump line="58" column="99" filename="$USER_HOME$/repositories/gist_clone/posts/views.py" />
+      <jump line="14" column="11" filename="$USER_HOME$/repositories/gist_clone/posts/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhdGgK</text>
+        <text encoding="base64">ICAgIHRhZ3MgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>Detail</text>
+        <text>Post.objects.all().values_list('tag', flat=True)</text>
       </register>
       <register name="/" type="4">
         <text>slug</text>
@@ -129,31 +134,31 @@
         <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgcmV0dXJuIFBvc3Qub2JqZWN0cy5maWx0ZXIocHVibGlzaGVkX2RhdGVfX2x0ZT10aW1lem9uZS5ub3coKSkub3JkZXJfYnkoJy1wdWJsaXNoZWRfZGF0ZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGgK</text>
+        <text encoding="base64">ICAgIHRhZ3MgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZQo=</text>
+        <text encoding="base64">IyBmcm9tIHRhZ2dpdF9sYWJlbHMud2lkZ2V0IGltcG9ydCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCgnYWNjb3VudHMvcHJvZmlsZS8nKSkK</text>
+        <text encoding="base64">ICAgIHBhdGgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcGF0aCgnYWNjb3VudHMvcHJvZmlsZS8nKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGdldF9xdWVyeXNldChzZWxmKToKICAgICMgICAgIHF1ZXJ5c2V0ID0gc3VwZXIoKS5nZXRfcXVlcnlzZXQoKQogICAgIyAgICAgcmV0dXJuIHF1ZXJ5c2V0LmZpbHRlcigKICAgICMgICAgICAgICB1c2VyX191c2VybmFtZV9faWV4YWN0PXNlbGYua3dhcmdzLmdldCgidXNlcm5hbWUiKQogICAgIyAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sncHVibGlzaF9ub3cnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnKQo=</text>
+        <text encoding="base64">ICAgICMgZGVmIGdldF9xdWVyeXNldChzZWxmKToKICAgICMgICAgIHF1ZXJ5c2V0ID0gc3VwZXIoKS5nZXRfcXVlcnlzZXQoKQogICAgIyAgICAgcmV0dXJuIHF1ZXJ5c2V0LmZpbHRlcigKICAgICMgICAgICAgICB1c2VyX191c2VybmFtZV9faWV4YWN0PXNlbGYua3dhcmdzLmdldCgidXNlcm5hbWUiKQogICAgIyAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sncHVibGlzaF9ub3cnXQo=</text>
       </register>
     </registers>
     <search>
