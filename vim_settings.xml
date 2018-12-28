@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545968591142">
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545972691209">
         <mark key="'" line="61" column="99" />
-        <mark key="[" line="126" column="26" />
-        <mark key="]" line="126" column="42" />
-        <mark key="." line="126" column="42" />
-        <mark key="^" line="126" column="42" />
+        <mark key="[" line="115" column="4" />
+        <mark key="]" line="118" column="22" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="114" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1545275839609">
         <mark key="[" line="0" column="0" />
@@ -66,12 +66,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/forms.py" timestamp="1545850518736">
+      <file name="$USER_HOME$/repositories/gist_clone/posts/forms.py" timestamp="1545972562038">
         <mark key="'" line="15" column="11" />
-        <mark key="[" line="16" column="48" />
-        <mark key="]" line="16" column="49" />
-        <mark key="^" line="16" column="49" />
-        <mark key="." line="16" column="49" />
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="17" column="49" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="49" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/urls.py" timestamp="1544412712333">
         <mark key="[" line="22" column="37" />
@@ -121,8 +121,8 @@
       <jump line="14" column="11" filename="$USER_HOME$/repositories/gist_clone/posts/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Post.objects.all().values_list('tags')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dF9kYXRhKHNlbGYsICoqa3dhcmdzKToKICAgICAgICBjb250ZXh0ID0gc3VwZXIoKS5nZXRfY29udGV4dF9kYXRhKCoqa3dhcmdzKQogICAgICAgIGNvbnRleHRbJ3RhZ3MnXSA9IFRhZy5vYmplY3RzLmFsbCgpCiAgICAgICAgcmV0dXJuIGNvbnRleHQK</text>
       </register>
       <register name="-" type="4">
         <text>Post.objects.all().values_list('tags')</text>
@@ -131,7 +131,7 @@
         <text>slug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdkamFuZ28uY29udHJpYi5tZXNzYWdlcy5jb250ZXh0X3Byb2Nlc3NvcnMubWVzc2FnZXMnLAo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dF9kYXRhKHNlbGYsICoqa3dhcmdzKToKICAgICAgICBjb250ZXh0ID0gc3VwZXIoKS5nZXRfY29udGV4dF9kYXRhKCoqa3dhcmdzKQogICAgICAgIGNvbnRleHRbJ3RhZ3MnXSA9IFRhZy5vYmplY3RzLmFsbCgpCiAgICAgICAgcmV0dXJuIGNvbnRleHQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRhZ3MgPSAK</text>
