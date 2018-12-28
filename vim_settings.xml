@@ -66,12 +66,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/forms.py" timestamp="1545972562038">
+      <file name="$USER_HOME$/repositories/gist_clone/posts/forms.py" timestamp="1545975345198">
         <mark key="'" line="15" column="11" />
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="17" column="49" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="17" column="49" />
+        <mark key="[" line="16" column="58" />
+        <mark key="]" line="16" column="67" />
+        <mark key="^" line="16" column="67" />
+        <mark key="." line="16" column="67" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/urls.py" timestamp="1544412712333">
         <mark key="[" line="22" column="37" />
@@ -121,11 +121,11 @@
       <jump line="14" column="11" filename="$USER_HOME$/repositories/gist_clone/posts/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dF9kYXRhKHNlbGYsICoqa3dhcmdzKToKICAgICAgICBjb250ZXh0ID0gc3VwZXIoKS5nZXRfY29udGV4dF9kYXRhKCoqa3dhcmdzKQogICAgICAgIGNvbnRleHRbJ3RhZ3MnXSA9IFRhZy5vYmplY3RzLmFsbCgpCiAgICAgICAgcmV0dXJuIGNvbnRleHQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Post.objects.all().values_list('tags')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>slug</text>
