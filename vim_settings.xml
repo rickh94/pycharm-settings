@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1545972691209">
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1546040819571">
         <mark key="'" line="61" column="99" />
-        <mark key="[" line="115" column="4" />
-        <mark key="]" line="118" column="22" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="114" column="3" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="141" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1545275839609">
         <mark key="[" line="0" column="0" />
@@ -125,44 +125,44 @@
       <jump line="14" column="11" filename="$USER_HOME$/repositories/gist_clone/posts/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, null=True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiB0YWcubmFtZToK</text>
       </register>
       <register name="-" type="4">
-        <text>, null=True</text>
+        <text>published_date__lte=timezone.now()</text>
       </register>
       <register name="/" type="4">
         <text>slug</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dF9kYXRhKHNlbGYsICoqa3dhcmdzKToKICAgICAgICBjb250ZXh0ID0gc3VwZXIoKS5nZXRfY29udGV4dF9kYXRhKCoqa3dhcmdzKQogICAgICAgIGNvbnRleHRbJ3RhZ3MnXSA9IFRhZy5vYmplY3RzLmFsbCgpCiAgICAgICAgcmV0dXJuIGNvbnRleHQK</text>
+      <register name="0" type="4">
+        <text>published_date__lte=timezone.now()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhZ3MgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiB0YWcubmFtZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmcm9tIHRhZ2dpdF9sYWJlbHMud2lkZ2V0IGltcG9ydCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQodGFnLm5hbWUsIHRhZ19kaWN0W2Yne3RhZy5uYW1lfSddKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGgK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZQo=</text>
+        <text encoding="base64">ICAgIHRhZ3MgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCgnYWNjb3VudHMvcHJvZmlsZS8nKSkK</text>
+        <text encoding="base64">IyBmcm9tIHRhZ2dpdF9sYWJlbHMud2lkZ2V0IGltcG9ydCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
+        <text encoding="base64">ICAgIHBhdGgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGdldF9xdWVyeXNldChzZWxmKToKICAgICMgICAgIHF1ZXJ5c2V0ID0gc3VwZXIoKS5nZXRfcXVlcnlzZXQoKQogICAgIyAgICAgcmV0dXJuIHF1ZXJ5c2V0LmZpbHRlcigKICAgICMgICAgICAgICB1c2VyX191c2VybmFtZV9faWV4YWN0PXNlbGYua3dhcmdzLmdldCgidXNlcm5hbWUiKQogICAgIyAgICAgKQo=</text>
+        <text encoding="base64">ICAgICMgcGF0aCgnYWNjb3VudHMvcHJvZmlsZS8nKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sncHVibGlzaF9ub3cnXQo=</text>
+        <text encoding="base64">ICAgIGZpZWxkcyA9ICgndGl0bGUnLCAndGFncycsICdkZXNjcmlwdGlvbicsICd0ZXh0X21hcmtkb3duJykK</text>
       </register>
     </registers>
     <search>
