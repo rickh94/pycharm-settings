@@ -30,19 +30,19 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1546627477998">
-        <mark key="e" line="309" column="31" />
-        <mark key="'" line="63" column="14" />
-        <mark key="[" line="250" column="32" />
-        <mark key="]" line="251" column="45" />
-        <mark key="^" line="251" column="45" />
-        <mark key="." line="251" column="45" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1546643223371">
+        <mark key="e" line="311" column="31" />
+        <mark key="'" line="251" column="45" />
+        <mark key="[" line="246" column="102" />
+        <mark key="]" line="246" column="116" />
+        <mark key="^" line="246" column="116" />
+        <mark key="." line="246" column="116" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" timestamp="1546642417670">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="55" column="38" />
-        <mark key="^" line="55" column="38" />
-        <mark key="." line="55" column="38" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" timestamp="1546643314526">
+        <mark key="[" line="57" column="13" />
+        <mark key="]" line="57" column="15" />
+        <mark key="^" line="57" column="15" />
+        <mark key="." line="57" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/gist_clone/urls.py" timestamp="1545547093575">
         <mark key="[" line="26" column="0" />
@@ -56,12 +56,12 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546641489476">
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546642899652">
         <mark key="'" line="13" column="15" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="99" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/update_db_manually.py" timestamp="1546589315588">
         <mark key="'" line="184" column="21" />
@@ -114,12 +114,12 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1546642723420">
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1546643398531">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="4" />
-        <mark key="]" line="78" column="7" />
-        <mark key="." line="78" column="7" />
-        <mark key="^" line="78" column="7" />
+        <mark key="[" line="94" column="15" />
+        <mark key="]" line="94" column="15" />
+        <mark key="." line="94" column="15" />
+        <mark key="^" line="94" column="15" />
       </file>
       <file name="/" timestamp="1546588017139">
         <mark key="[" line="0" column="0" />
@@ -178,13 +178,14 @@
       <jump line="91" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" />
       <jump line="63" column="14" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="251" column="45" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>obj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnbm9uLWludGVyYWN0aXZlJykK</text>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text>click.get_current_context()</text>
       </register>
       <register name="/" type="4">
         <text>Piece</text>
@@ -193,31 +194,31 @@
         <text encoding="base64">QGNsaWNrLm9wdG9uKCItcyIsICItLXNhdmUiLCByZXF1aXJlZD1GYWxzZSwgaGVscD0iU2F2ZSBjaGFuZ2VkIG9wdGlvbiBpbW1lZGlhdGVseSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLXMiLCAiLS1zYXZlIiwgJ3NhdmVfJywgcmVxdWlyZWQ9RmFsc2UsIGhlbHA9IlNhdmUgY2hhbmdlZCBvcHRpb24gaW1tZWRpYXRlbHkiLCBpc19mbGFnPVRydWUpCkBjbGljay5vcHRpb24oIi1wIiwgIi0tcHJpbnQiLCByZXF1aXJlZD1GYWxzZSwgaGVscD0iUHJpbnQgY2hhbmdlZCBvcHRpb24gaW1tZWRpYXRlbHkiLCBpc19mbGFnPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnbm9uLWludGVyYWN0aXZlJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjdHgub2JqLmNvbmZpZ19maWxlX3BhdGgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHByaW50OgogICAgICAgIGN0eC5pbnZva2UocHJpbnRfKQogICAgaWYgc2F2ZV86CiAgICAgICAgY3R4Lmludm9rZShzYXZlKQo=</text>
+        <text encoding="base64">ICAgICAgICBjdHgub2JqLmlzX3JlcGwgPSBUcnVlCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgZGVmYXVsdD0nLic=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjdHguaW52b2tlKHNhdmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBmaWxlX3BhdGg6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHBpZWNlID0gY3R4Lm9iai5waWVjZSBvciBQaWVjZSgpCiAgICBjb25maWdfcGF0aCA9IGN0eC5vYmouY29uZmlnX2ZpbGVfcGF0aCBvciBQYXRoKCcuL3BpZWNlLnltbCcpCiAgICBtdXRvcGlhX2hlYWRlcnMgPSBjdHgub2JqLm11dG9waWFfaGVhZGVycwogICAgc2F2ZV9jb25maWcocGllY2UsIGNvbmZpZ19wYXRoLCBtdXRvcGlhX2hlYWRlcnMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwaWVjZQo=</text>
+        <text encoding="base64">ICAgICAgICBjdHguaW52b2tlKHByaW50XykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBpZWNlID0gUGllY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGNvbW1hbmQubG93ZXIoKVswXSA9PSAnbCc6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBjdHgub2JqLmNvbmZpZ19maWxlX3BhdGg6CiAgICAgICAgY3R4Lm9iai5jb25maWdfZmlsZV9wYXRoID0gUGF0aChmaWxlX3BhdGgpCg==</text>
+        <text encoding="base64">ZGVmIGFkZF9zYXZlCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/db/add/g</text>
