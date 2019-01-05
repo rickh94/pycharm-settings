@@ -71,9 +71,6 @@
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546656120596">
         <mark key="'" line="15" column="15" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/update_db_manually.py" timestamp="1546589315588">
         <mark key="'" line="184" column="21" />
@@ -88,19 +85,15 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/forms.py" timestamp="1545975345198">
+        <mark key="'" line="15" column="11" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" timestamp="1546658557019">
         <mark key="'" line="305" column="70" />
         <mark key="[" line="345" column="26" />
         <mark key="]" line="345" column="33" />
         <mark key="." line="345" column="33" />
         <mark key="^" line="345" column="33" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/headers.py" timestamp="1546656071130">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="39" column="58" />
-        <mark key="]" line="39" column="59" />
-        <mark key="." line="39" column="59" />
-        <mark key="^" line="39" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/gist_clone/.env" timestamp="1544427170669">
         <mark key="[" line="3" column="22" />
@@ -159,10 +152,6 @@
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1546648604964">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="30" />
-        <mark key="]" line="76" column="30" />
-        <mark key="^" line="76" column="31" />
-        <mark key="." line="76" column="30" />
       </file>
       <file name="/" timestamp="1546588017139">
         <mark key="[" line="0" column="0" />
