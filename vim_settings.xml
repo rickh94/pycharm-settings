@@ -61,13 +61,13 @@
         <mark key="^" line="126" column="15" />
         <mark key="." line="126" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1546720293358">
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1546722736821">
         <mark key="e" line="340" column="31" />
         <mark key="'" line="317" column="4" />
-        <mark key="[" line="242" column="11" />
-        <mark key="]" line="242" column="11" />
-        <mark key="^" line="243" column="89" />
-        <mark key="." line="242" column="11" />
+        <mark key="[" line="243" column="36" />
+        <mark key="]" line="243" column="49" />
+        <mark key="^" line="243" column="49" />
+        <mark key="." line="243" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" timestamp="1546658017319">
         <mark key="[" line="69" column="68" />
@@ -81,11 +81,11 @@
         <mark key="." line="28" column="69" />
         <mark key="^" line="28" column="69" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546718738402">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="29" column="6" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546723184356">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="28" column="6" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/update_db_manually.py" timestamp="1546589315588">
         <mark key="'" line="184" column="21" />
@@ -125,14 +125,11 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546711067670">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546722020564">
-        <mark key="[" line="269" column="19" />
-        <mark key="]" line="270" column="30" />
-        <mark key="." line="270" column="30" />
-        <mark key="^" line="270" column="30" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="^" line="183" column="46" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/yaml_interface.py" timestamp="1546658865648">
         <mark key="[" line="13" column="31" />
@@ -175,12 +172,12 @@
         <mark key="^" line="22" column="59" />
         <mark key="." line="22" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" timestamp="1546720970273">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" timestamp="1546722594003">
+        <mark key="'" line="52" column="5" />
+        <mark key="[" line="85" column="76" />
+        <mark key="]" line="85" column="76" />
+        <mark key="." line="85" column="76" />
+        <mark key="^" line="57" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/admin.py" timestamp="1545270531363">
         <mark key="[" line="5" column="6" />
@@ -241,19 +238,21 @@
       <jump line="202" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
       <jump line="17" column="89" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
+      <jump line="46" column="4" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
+      <jump line="52" column="5" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>style</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIm11dG9waWFfaGVhZGVycyI6IHBpZWNlLmhlYWRlcnMubXV0b3BpYWhlYWRlcnMsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>style</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>_ask_to_save</text>
+        <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHN0eWxlX3Byb21wdChjb21wbGV0ZXIpOgogICAgcmV0dXJuIHByb21wdCgnRW50ZXIgdGhlIHN0eWxlOiAnLCBjb21wbGV0ZXI9Y29tcGxldGVyLCB2YWxpZGF0b3I9U3R5bGVWYWxpZGF0b3IoKSkK</text>
+        <text encoding="base64">QG11dG9waWFfLmNvbW1hbmQoKQpAY2xpY2sucGFzc19jb250ZXh0CmRlZiBzdHlsZShjdHgpOgogICAgc3R5bGVfY29tcGxldGVyID0gY3R4Lm9iai5jb21wbGV0ZXJzLmdldCgnc3R5bGUnLCBnZW5lcmF0ZV9jb21wbGV0ZXIoJ3N0eWxlJywgY3R4Lm9iaiwgX2dldF9zdHlsZV9jb21wbGV0ZXIpKQogICAgY3R4Lm9iai5tdXRvcGlhaGVhZGVycy5zdHlsZSA9IHN0eWxlX3Byb21wdChzdHlsZV9jb21wbGV0ZXIsIGN0eC5vYmoubXV0b3BpYWhlYWRlcnMuc3R5bGUpCiAgICBzYXZlX25vbl9pbnRlcmFjdGl2ZShjdHgpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -271,42 +270,42 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm11dG9waWFfaGVhZGVycyI6IHBpZWNlLmhlYWRlcnMubXV0b3BpYWhlYWRlcnMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImxhbmd1YWdlIjogcGllY2UubGFuZ3VhZ2UK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfc3R5bGVfY29tcGxldGVyKCk6CiAgICByZXR1cm4gV29yZENvbXBsZXRlcihnZXRfc3R5bGVzKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGV4aXN0aW5nX2luc3RydW1lbnRzKGN1cnJfaW5zdHJ1bWVudHMsIGRiXywgcHJvbXB0X2Nob2ljZSk6CiAgICAiIiJEZWFscyB3aXRoIGV4aXN0aW5nIGluc3RydW1lbnRzL2Vuc2VtYmxlcyIiIgogICAgaWYgaXNpbnN0YW5jZShjdXJyX2luc3RydW1lbnRzLCBseW5hbWVzLkVuc2VtYmxlKToKICAgICAgICBwcmludCgnSW5zdHJ1bWVudHMgaGF2ZSBiZWVuIGVudGVyZWQgYXMgYW4gZW5zZW1ibGU6ICcpCiAgICAgICAgcHJpbnQoY3Vycl9pbnN0cnVtZW50cy5wcmV0dHlfbmFtZSgpKQogICAgICAgIGZvciBpbnMgaW4gY3Vycl9pbnN0cnVtZW50cy5pbnN0cnVtZW50czoKICAgICAgICAgICAgcHJpbnQoaW5zLnBhcnRfbmFtZSgpKQogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIHByaW50KGYiWW91IGNhbjpcbntCT0xEfWJyZWFre0VORH0gdGhlIGVuc2VtYmxlXG4iCiAgICAgICAgICAgICAgICAgIGYie0JPTER9Y3JlYXRle0VORH0gYSBuZXcgZW5zZW1ibGUgb3JcbiIKICAgICAgICAgICAgICAgICAgZiJ7Qk9MRH1lZGl0e0VORH0gdGhlIGVuc2VtYmxlIG9yXG4iCiAgICAgICAgICAgICAgICAgIGYiYmUge0JPTER9ZG9uZXtFTkR9IGFuZCBjaGFuZ2Ugbm90aGluZyIpCiAgICAgICAgICAgIGNob2ljZSA9IHByb21wdCgnPicpCiAgICAgICAgICAgIGlmIGNob2ljZS5sb3dlcigpWzBdID09ICdiJzoKICAgICAgICAgICAgICAgIHJldHVybiBpbnN0cnVtZW50X3Byb21wdChjdXJyX2luc3RydW1lbnRzLmluc3RydW1lbnRzLCBkYl8pCiAgICAgICAgICAgIGlmIGNob2ljZS5sb3dlcigpWzBdID09ICdjJzoKICAgICAgICAgICAgICAgIHJldHVybiBlbnNlbWJsZV9wcm9tcHQoW10sIGRiXykKICAgICAgICAgICAgaWYgY2hvaWNlLmxvd2VyKClbMF0gPT0gJ2UnOgogICAgICAgICAgICAgICAgcmV0dXJuIGVuc2VtYmxlX3Byb21wdChjdXJyX2luc3RydW1lbnRzLmluc3RydW1lbnRzLCBkYl8pCiAgICAgICAgICAgIGlmIGNob2ljZS5sb3dlcigpWzBdID09ICdkJzoKICAgICAgICAgICAgICAgIHJldHVybiBjdXJyX2luc3RydW1lbnRzCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwcmludChJTlZBTElEKQogICAgZWxpZiBjdXJyX2luc3RydW1lbnRzOgogICAgICAgIHByaW50KCJUaGVzZSBpbnN0cnVtZW50cyBhcmUgY3VycmVudGx5IGluIHRoZSBzY29yZTogIikKICAgICAgICBmb3IgaW5zIGluIGN1cnJfaW5zdHJ1bWVudHM6CiAgICAgICAgICAgIHByaW50KGlucy5wYXJ0X25hbWUoKSkKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoIk5vIGluc3RydW1lbnRzIGN1cnJlbnRseSBpbiBzY29yZS4iKQogICAgcmV0dXJuIHByb21wdF9jaG9pY2UoY3Vycl9pbnN0cnVtZW50cywgZGJfKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbGlmIGNvbW1hbmQubG93ZXIoKVswOjJdID09ICdtdSc6CiAgICAgICAgICAgIGlmICJtdXRvcGlhX2hlYWRlcnMiIG5vdCBpbiBpbmZvZGljdDoKICAgICAgICAgICAgICAgIGluZm9kaWN0WyJtdXRvcGlhX2hlYWRlcnMiXSA9IE5vbmUKICAgICAgICAgICAgaW5mb2RpY3RbJ211dG9waWFfaGVhZGVycyddID0gbXV0b3BpYV9wcm9tcHQoaW5mb2RpY3RbIm11dG9waWFfaGVhZGVycyJdKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIERFQlVHIExJTkUKICAgICAgICAjIHByaW50KGluZm9kaWN0KQogICAgICAgIHRyeToKICAgICAgICAgICAgcHMxID0gaW5mb2RpY3RbImhlYWRlcnMiXS50aXRsZQogICAgICAgIGV4Y2VwdCAoQXR0cmlidXRlRXJyb3IsIEtleUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgICAgICBwczEgPSAiVW50aXRsZWQiCiAgICAgICAgY29tbWFuZCA9IHByb21wdChmIntwczF9PiAiLCBjb21wbGV0ZXI9Y29tbWFuZF9jb21wbGV0ZXIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50X29iamVjdD1wYXJlbnRfb2JqZWN0X25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXV0b3BpYWhlYWRlcnMgPSBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvYmogPSByZ2V0YXR0cihjdHgub2JqLCBwYXJlbnRfb2JqZWN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/db/add/g</text>
+        <text encoding="base64">JzwsJz5zL3N0eWxlL3NvdXJjZS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>_ask_to_save</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>_ask_to_save</last-pattern>
-      <last-replace>add</last-replace>
-      <last-substitute>db</last-substitute>
+      <last-pattern>style</last-pattern>
+      <last-replace>source</last-replace>
+      <last-substitute>style</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -326,9 +325,13 @@
         <entry>Piece</entry>
         <entry>_ask</entry>
         <entry>_ask_to_save</entry>
+        <entry>license</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
+        <entry encoding="base64">JzwsJz5zL2xpY2Vuc2Uvc3R5bGUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3N0eWxlL3NvdXJjZS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
