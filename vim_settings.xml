@@ -3,88 +3,102 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" timestamp="1544248819684">
-        <mark key="'" line="68" column="44" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="/Python Console" timestamp="1544249067664">
+      <file name="/Dummy.txt" timestamp="1546660677438">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/urls.py" timestamp="1544248960868">
-        <mark key="'" line="9" column="14" />
-        <mark key="]" line="9" column="71" />
-        <mark key="^" line="9" column="71" />
-        <mark key="." line="9" column="71" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546661909866">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" timestamp="1544251317319">
-        <mark key="'" line="29" column="7" />
-        <mark key="[" line="54" column="69" />
-        <mark key="]" line="55" column="51" />
-        <mark key="." line="55" column="51" />
-        <mark key="^" line="55" column="51" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" timestamp="1546661838256">
+        <mark key="[" line="93" column="51" />
+        <mark key="]" line="93" column="58" />
+        <mark key="^" line="93" column="58" />
+        <mark key="." line="93" column="58" />
       </file>
-      <file name="/views" timestamp="1544249045950">
+      <file name="/a.dummy" timestamp="1546661092759">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/admin.py" timestamp="1544247663402">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1546661994255">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/headers.py" timestamp="1546661185901">
+        <mark key="[" line="92" column="72" />
+        <mark key="]" line="92" column="72" />
+        <mark key="." line="92" column="72" />
+        <mark key="^" line="92" column="72" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_command.py" timestamp="1546661041749">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1546661427806">
+        <mark key="'" line="13" column="44" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="67" column="42" />
+        <mark key="." line="84" column="27" />
+        <mark key="^" line="84" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1546662042833">
+        <mark key="[" line="167" column="22" />
+        <mark key="]" line="167" column="22" />
+        <mark key="^" line="170" column="3" />
+        <mark key="." line="167" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="57" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
-      <jump line="58" column="40" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
-      <jump line="2" column="32" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
-      <jump line="8" column="14" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/urls.py" />
-      <jump line="66" column="44" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/posts/views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" />
-      <jump line="29" column="7" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" />
+      <jump line="13" column="44" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcmVkaXJlY3RfdXJsKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcmV0dXJuIHJldmVyc2UoJ3NoaXBzOnNpbmdsZScsIGt3YXJncz17J3NsdWcnOiBzZWxmLmt3YXJncy5nZXQoJ3NsdWcnKX0pCg==</text>
+        <text encoding="base64">QGVkaXQuY29tbWFuZChuYW1lPSdwcmludCcpCkBjbGljay5wYXNzX29iagpkZWYgcHJpbnRfKG9iaik6CiAgICAiIiJQcmludCB0aGUgY3VycmVudCBQaWVjZSIiIgogICAgcHJpbnRfZm9ybWF0dGVkX3RleHQob2JqLnBpZWNlLmh0bWwoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gU2hpcAo=</text>
+        <text encoding="base64">ICAgICAgICBmIntCT0xEfWhlbHB7RU5EfSB0byB2aWV3IHRoaXMgbWVzc2FnZVxuIgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>new</text>
+        <text>instruments</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICBmIntCT0xEfWRvbmV7RU5EfSB0byBzYXZlIGFuZCByZXR1cm4gdG8gbWFpbiBwcm9tcHQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmIntCT0xEfXByaW50e0VORH0gaW5zdHJ1bWVudHNcbiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9mb3JtYXR0ZWRfdGV4dChIVE1MKGYnPGI+e2luc3RydW1lbnQucGFydF9uYW1lKCl9PC9iPicpKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnRfZm9ybWF0dGVkX3RleHQob2JqLnBpZWNlLmluc3RydW1lbnRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBAZWRpdC5jb21tYW5kKCkKIyBAY2xpY2sucGFzc19jb250ZXh0CiMgZGVmIHNhdmUoY3R4KToKIyAgICAgIiIiU2F2ZSBjdXJyZW50IG9wdGlvbnMgdG8gY29uZmlnIGZpbGUuIiIiCiMgICAgIHNhdmVfcGllY2UoY3R4Lm9iaikK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBpZWNlID0gY3R4Lm9iai5waWVjZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>instruments</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
