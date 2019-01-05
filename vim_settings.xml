@@ -14,6 +14,12 @@
         <mark key="]" line="25" column="22" />
         <mark key="." line="25" column="22" />
       </file>
+      <file name="/Python Console" timestamp="1546654761025">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="/a.dummy" timestamp="1546595256517">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,13 +30,19 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1546647450637">
-        <mark key="e" line="332" column="31" />
-        <mark key="'" line="315" column="4" />
-        <mark key="[" line="309" column="28" />
-        <mark key="]" line="309" column="28" />
-        <mark key="^" line="312" column="23" />
-        <mark key="." line="309" column="28" />
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/spacespace/settings.py" timestamp="1544394105886">
+        <mark key="[" line="126" column="15" />
+        <mark key="]" line="126" column="15" />
+        <mark key="^" line="126" column="15" />
+        <mark key="." line="126" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1546654551295">
+        <mark key="e" line="340" column="31" />
+        <mark key="'" line="317" column="4" />
+        <mark key="[" line="317" column="20" />
+        <mark key="]" line="317" column="28" />
+        <mark key="^" line="317" column="28" />
+        <mark key="." line="317" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" timestamp="1546648631640">
         <mark key="[" line="45" column="19" />
@@ -38,28 +50,21 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/create_commands.py" timestamp="1546649045475">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="12" />
-        <mark key="." line="26" column="12" />
-        <mark key="^" line="26" column="12" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/create_commands.py" timestamp="1546653780396">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="102" />
+        <mark key="." line="35" column="32" />
+        <mark key="^" line="35" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/gist_clone/urls.py" timestamp="1545547093575">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/posts/models.py" timestamp="1545976729469">
-        <mark key="'" line="34" column="35" />
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="47" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546644557678">
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546653527546">
         <mark key="'" line="13" column="15" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="197" column="19" />
         <mark key="^" line="97" column="0" />
         <mark key="." line="110" column="0" />
       </file>
@@ -70,18 +75,42 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="8" />
       </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" timestamp="1546629329396">
         <mark key="'" line="304" column="70" />
         <mark key="[" line="171" column="0" />
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/headers.py" timestamp="1546652093923">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/headers.py" timestamp="1546655133402">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/.env" timestamp="1544427170669">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545849897284">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+        <mark key="^" line="16" column="59" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/settings.py" timestamp="1544413098764">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="34" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1546645948135">
         <mark key="'" line="61" column="99" />
@@ -108,12 +137,17 @@
         <mark key="^" line="40" column="35" />
         <mark key="." line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" timestamp="1544389752712">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="48" column="16" />
-        <mark key="]" line="48" column="19" />
-        <mark key="." line="48" column="19" />
-        <mark key="^" line="48" column="19" />
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/views.py" timestamp="1544412704427">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/.env" timestamp="1544412797121">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1546648604964">
         <mark key="'" line="0" column="0" />
@@ -125,12 +159,17 @@
       <file name="/" timestamp="1546588017139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1545862882609">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="60" />
-        <mark key="]" line="87" column="66" />
-        <mark key="^" line="87" column="66" />
-        <mark key="." line="87" column="66" />
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/urls.py" timestamp="1544412712333">
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="59" />
+        <mark key="^" line="22" column="59" />
+        <mark key="." line="22" column="59" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/admin.py" timestamp="1545270531363">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/TODO" timestamp="1546584720753">
         <mark key="[" line="0" column="0" />
@@ -189,43 +228,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgaWYgY3Vycl9oZWFkZXJzIGlzIE5vbmU6CiAgICAjICAgICBjb21wb3NlciA9IGNvbXBvc2VyX3Byb21wdChkYikKICAgICMgICAgIHRpdGxlID0gcHJvbXB0KCJFbnRlciBUaXRsZTogIiwgY29tcGxldGVyPXRpdGxld29yZHMpCiAgICAjICAgICBjdXJyX2hlYWRlcnMgPSBpbmZvLkhlYWRlcnModGl0bGU9dGl0bGUsIGNvbXBvc2VyPWNvbXBvc2VyKQogICAgIyB3aGlsZSAxOgogICAgIyAgICAgIyBERUJVRyBMSU5FCiAgICAjICAgICAjIHByaW50KGN1cnJfaGVhZGVycykKICAgICMgICAgIGNvbW1hbmQgPSBwcm9tcHQoIkhlYWRlcnM+ICIsIGNvbXBsZXRlcj1maWVsZF9jb21wbGV0ZXIpCiAgICAjICAgICBpZiBsZW4oY29tbWFuZCkgPT0gMDoKICAgICMgICAgICAgICBjb250aW51ZQogICAgIyAgICAgZmllbGQgPSBjb21tYW5kLmxvd2VyKCkuc3RyaXAoKQogICAgIyAgICAgaWYgZmllbGQgPT0gInRpdGxlIjoKICAgICMgICAgICAgICB0aXRsZSA9IHByb21wdCgKICAgICMgICAgICAgICAgICAgIkN1cnJlbnQgdGl0bGUgaXMgXCJ7fVwiIGVudGVyIGEgbmV3IHRpdGxlIG9yIHByZXNzICIKICAgICMgICAgICAgICAgICAgImVudGVyIHRvIGtlZXAgdGhlIGN1cnJlbnQgb25lOiAiLmZvcm1hdCgKICAgICMgICAgICAgICAgICAgICAgIGN1cnJfaGVhZGVycy50aXRsZQogICAgIyAgICAgICAgICAgICApCiAgICAjICAgICAgICAgKQogICAgIyAgICAgICAgIGlmIGxlbih0aXRsZSkgIT0gMDoKICAgICMgICAgICAgICAgICAgY3Vycl9oZWFkZXJzLnRpdGxlID0gdGl0bGUKICAgICMgICAgIGVsaWYgImNvbXAiIGluIGZpZWxkOgogICAgIyAgICAgICAgIGNoYW5nZV9jb21wID0gcHJvbXB0KCJDdXJyZW50IGNvbXBvc2VyIGlzIHt9LiBXb3VsZCB5b3UgbGlrZSB0byBjaGFuZ2UgIgogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpdD8gIi5mb3JtYXQoY3Vycl9oZWFkZXJzLmNvbXBvc2VyLm5hbWUpLCBkZWZhdWx0PSdOJywKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWxpZGF0b3I9WU5WYWxpZGF0b3IoKSkKICAgICMgICAgICAgICBpZiBhbnN3ZXJlZF95ZXMoY2hhbmdlX2NvbXApOgogICAgIyAgICAgICAgICAgICBjdXJyX2hlYWRlcnMuY29tcG9zZXIgPSBjb21wb3Nlcl9wcm9tcHQoZGIpCiAgICAjICAgICBlbGlmIGZpZWxkIGluIFsiZGVkaWNhdGlvbiIsICJzdWJ0aXRsZSIsICJzdWJzdWJ0aXRsZSIsICJwb2V0IiwKICAgICMgICAgICAgICAgICAgICAgICAgICJtZXRlciIsICJhcnJhbmdlciIsICJ0YWdsaW5lIiwgImNvcHlyaWdodCJdOgogICAgIyAgICAgICAgIHByaW50KCJ7fSBpcyB7fSIuZm9ybWF0KGZpZWxkLCBnZXRhdHRyKGN1cnJfaGVhZGVycywgZmllbGQsICJibGFuayIpKSkKICAgICMgICAgICAgICBuZXcgPSBwcm9tcHQoZiJFbnRlciB2YWx1ZSBmb3Ige2ZpZWxkfSBvciBwcmVzcyBlbnRlciB0byBsZWF2ZSB1bmNoYW5nZWQ6ICIpCiAgICAjICAgICAgICAgaWYgbGVuKG5ldykgPiAwOgogICAgIyAgICAgICAgICAgICBzZXRhdHRyKGN1cnJfaGVhZGVycywgZmllbGQsIG5ldykKICAgICMgICAgICMgTG9naXN0aWNhbCBjb21tYW5kcwogICAgIyAgICAgZWxpZiBmaWVsZFswXSA9PSAnaCc6CiAgICAjICAgICAgICAgcHJpbnQocHJvbXB0X2hlbHApCiAgICAjICAgICBlbGlmIGZpZWxkWzBdID09ICdwJzoKICAgICMgICAgICAgICBwcmludChjdXJyX2hlYWRlcnMpCiAgICAjICAgICBlbGlmIGZpZWxkWzBdID09ICdkJyBvciBmaWVsZCA9PSAic2F2ZSI6CiAgICAjICAgICAgICAgcHJpbnQoIlNhdmluZyBoZWFkZXJzIikKICAgICMgICAgICAgICByZXR1cm4gY3Vycl9oZWFkZXJzCiAgICAjICAgICBlbHNlOgogICAgIyAgICAgICAgIHByaW50KElOVkFMSUQpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXdfY29tcAo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>_ask_to_save</text>
       </register>
       <register name="0" type="4">
-        <text>['Subtitle', 'Subsubtitle', 'Poet', 'Meter', 'Arranger', 'Tagline', 'Copyright']</text>
+        <text>&quot;Would you like to add this composer to the database for easy usage next time? &quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgaWYgY3Vycl9oZWFkZXJzIGlzIE5vbmU6CiAgICAjICAgICBjb21wb3NlciA9IGNvbXBvc2VyX3Byb21wdChkYikKICAgICMgICAgIHRpdGxlID0gcHJvbXB0KCJFbnRlciBUaXRsZTogIiwgY29tcGxldGVyPXRpdGxld29yZHMpCiAgICAjICAgICBjdXJyX2hlYWRlcnMgPSBpbmZvLkhlYWRlcnModGl0bGU9dGl0bGUsIGNvbXBvc2VyPWNvbXBvc2VyKQogICAgIyB3aGlsZSAxOgogICAgIyAgICAgIyBERUJVRyBMSU5FCiAgICAjICAgICAjIHByaW50KGN1cnJfaGVhZGVycykKICAgICMgICAgIGNvbW1hbmQgPSBwcm9tcHQoIkhlYWRlcnM+ICIsIGNvbXBsZXRlcj1maWVsZF9jb21wbGV0ZXIpCiAgICAjICAgICBpZiBsZW4oY29tbWFuZCkgPT0gMDoKICAgICMgICAgICAgICBjb250aW51ZQogICAgIyAgICAgZmllbGQgPSBjb21tYW5kLmxvd2VyKCkuc3RyaXAoKQogICAgIyAgICAgaWYgZmllbGQgPT0gInRpdGxlIjoKICAgICMgICAgICAgICB0aXRsZSA9IHByb21wdCgKICAgICMgICAgICAgICAgICAgIkN1cnJlbnQgdGl0bGUgaXMgXCJ7fVwiIGVudGVyIGEgbmV3IHRpdGxlIG9yIHByZXNzICIKICAgICMgICAgICAgICAgICAgImVudGVyIHRvIGtlZXAgdGhlIGN1cnJlbnQgb25lOiAiLmZvcm1hdCgKICAgICMgICAgICAgICAgICAgICAgIGN1cnJfaGVhZGVycy50aXRsZQogICAgIyAgICAgICAgICAgICApCiAgICAjICAgICAgICAgKQogICAgIyAgICAgICAgIGlmIGxlbih0aXRsZSkgIT0gMDoKICAgICMgICAgICAgICAgICAgY3Vycl9oZWFkZXJzLnRpdGxlID0gdGl0bGUKICAgICMgICAgIGVsaWYgImNvbXAiIGluIGZpZWxkOgogICAgIyAgICAgICAgIGNoYW5nZV9jb21wID0gcHJvbXB0KCJDdXJyZW50IGNvbXBvc2VyIGlzIHt9LiBXb3VsZCB5b3UgbGlrZSB0byBjaGFuZ2UgIgogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpdD8gIi5mb3JtYXQoY3Vycl9oZWFkZXJzLmNvbXBvc2VyLm5hbWUpLCBkZWZhdWx0PSdOJywKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWxpZGF0b3I9WU5WYWxpZGF0b3IoKSkKICAgICMgICAgICAgICBpZiBhbnN3ZXJlZF95ZXMoY2hhbmdlX2NvbXApOgogICAgIyAgICAgICAgICAgICBjdXJyX2hlYWRlcnMuY29tcG9zZXIgPSBjb21wb3Nlcl9wcm9tcHQoZGIpCiAgICAjICAgICBlbGlmIGZpZWxkIGluIFsiZGVkaWNhdGlvbiIsICJzdWJ0aXRsZSIsICJzdWJzdWJ0aXRsZSIsICJwb2V0IiwKICAgICMgICAgICAgICAgICAgICAgICAgICJtZXRlciIsICJhcnJhbmdlciIsICJ0YWdsaW5lIiwgImNvcHlyaWdodCJdOgogICAgIyAgICAgICAgIHByaW50KCJ7fSBpcyB7fSIuZm9ybWF0KGZpZWxkLCBnZXRhdHRyKGN1cnJfaGVhZGVycywgZmllbGQsICJibGFuayIpKSkKICAgICMgICAgICAgICBuZXcgPSBwcm9tcHQoZiJFbnRlciB2YWx1ZSBmb3Ige2ZpZWxkfSBvciBwcmVzcyBlbnRlciB0byBsZWF2ZSB1bmNoYW5nZWQ6ICIpCiAgICAjICAgICAgICAgaWYgbGVuKG5ldykgPiAwOgogICAgIyAgICAgICAgICAgICBzZXRhdHRyKGN1cnJfaGVhZGVycywgZmllbGQsIG5ldykKICAgICMgICAgICMgTG9naXN0aWNhbCBjb21tYW5kcwogICAgIyAgICAgZWxpZiBmaWVsZFswXSA9PSAnaCc6CiAgICAjICAgICAgICAgcHJpbnQocHJvbXB0X2hlbHApCiAgICAjICAgICBlbGlmIGZpZWxkWzBdID09ICdwJzoKICAgICMgICAgICAgICBwcmludChjdXJyX2hlYWRlcnMpCiAgICAjICAgICBlbGlmIGZpZWxkWzBdID09ICdkJyBvciBmaWVsZCA9PSAic2F2ZSI6CiAgICAjICAgICAgICAgcHJpbnQoIlNhdmluZyBoZWFkZXJzIikKICAgICMgICAgICAgICByZXR1cm4gY3Vycl9oZWFkZXJzCiAgICAjICAgICBlbHNlOgogICAgIyAgICAgICAgIHByaW50KElOVkFMSUQpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXdfY29tcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcHJvbXB0X2hlbHAgPSAoCiAgICAjICAgICAiWW91IG1heSBlZGl0IGFueSBvZiB0aGUgZm9sbG93aW5nIGhlYWRlcnM6XG4iCiAgICAjICAgICAidGl0bGVcdFx0Y29tcG9zZXJcbiIKICAgICMgICAgICJkZWRpY2F0aW9uXHRzdWJ0aXRsZVxuIgogICAgIyAgICAgInN1YnN1YnRpdGxlXHRwb2V0XG4iCiAgICAjICAgICAibWV0ZXJcdFx0YXJyYW5nZXJcbiIKICAgICMgICAgICJ0YWdsaW5lXHRcdGNvcHlyaWdodFxuIgogICAgIyAgICAgZiJFbnRlciB7Qk9MRH1wcmludHtFTkR9IHRvIHByaW50IHRoZSBjdXJyZW50IGhlYWRlcnMgYW5kIHtCT0xEfWRvbmV7RU5EfSB0byBmaW5pc2giCiAgICAjICAgICAiYW5kIHJldHVybiB0byB0aGUgbWFpbiBwcm9tcHQuIgogICAgIyApCiAgICAjIHByaW50KHByb21wdF9oZWxwKQogICAgIyB0aXRsZXdvcmRzID0gV29yZENvbXBsZXRlcihkYl9pbnRlcmZhY2UuZXhwbG9yZV90YWJsZSgKICAgICMgICAgIGRiLnRhYmxlKCJ0aXRsZXdvcmRzIiksIHNlYXJjaD0oIndvcmQiLCAiIikpKQogICAgIyBmaWVsZF9jb21wbGV0ZXIgPSBXb3JkQ29tcGxldGVyKFsidGl0bGUiLCAiY29tcG9zZXIiLCAic3VidGl0bGUiLCAic3Vic3VidGl0bGUiLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicG9ldCIsICJtZXRlciIsICJhcnJhbmdlciIsICJ0YWdsaW5lIiwgImNvcHlyaWdodCIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwcmludCIsICJkb25lIl0pCg==</text>
+        <text encoding="base64">ICAgIGFkZF90b19kYiA9IHByb21wdCgiV291bGQgeW91IGxpa2UgdG8gYWRkIHRoaXMgY29tcG9zZXIgdG8gdGhlIGRhdGFiYXNlIGZvciBlYXN5IHVzYWdlIG5leHQgdGltZT8gIiwKICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0PSdZJywgdmFsaWRhdG9yPVlOVmFsaWRhdG9yKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBmb3IgYXR0cmlidXRlX25hbWUgaW4gWydTdWJ0aXRsZScsICdTdWJzdWJ0aXRsZScsICdQb2V0JywgJ01ldGVyJywgJ0FyVnJhbmdlcicsICdUYWdsaW5lJywgJ0NvcHlyaWdodCddOgojICAgICBuZXdfY29tbWFuZCA9IGNyZWF0ZV9wcm9tcHRfY29tbWFuZCgKIyAgICAgICAgIG5hbWU9YXR0cmlidXRlX25hbWUsCiMgICAgICAgICBoZWxwX3RleHQ9ZidDaGFuZ2UgdGhlIHBpZWNlIHthdHRyaWJ1dGVfbmFtZS5sb3dlcigpfScsCiMgICAgICAgICBhdHRyaWJ1dGU9ZidoZWFkZXJzLnthdHRyaWJ1dGVfbmFtZS5sb3dlcigpfScKIyAgICAgKQojICAgICBoZWFkZXIuYWRkX2NvbW1hbmQobmV3X2NvbW1hbmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgbnVtLCBtYXRjaCBpbiBlbnVtZXJhdGUobWF0Y2hlcyk6CiAgICAgICAgICAgICMgICAgIHByaW50KGYie251bX0uIHttYXRjaH0iKQogICAgIyAgICAgICAgIGNob2ljZSA9IHByb21wdCgiUGxlYXNlIGVudGVyIHRoZSBudW1iZXIgb2YgdGhlICIKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIm1hdGNoaW5nIGNvbXBvc2VyIG9yIHByZXNzIFtlbnRlcl0gaWYgbm9uZSBtYXRjaDogIiwKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgdmFsaWRhdG9yPUluZGV4VmFsaWRhdG9yKGxlbihtYXRjaGVzKSAtIDEsIGFsbG93X2VtcHR5PVRydWUpKQogICAgIyAgICAgICAgIGlmIGNob2ljZToKICAgICMgICAgICAgICAgICAgZm91bmQgPSBtYXRjaGVzW2ludChjaG9pY2VbMF0pXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGlseXNrZWwuaW50ZXJmYWNlLmNvbW1vbi5zYXZlX3BpZWNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmVfZG9uZShjbGljay5nZXRfY3VycmVudF9jb250ZXh0KCkpCiAgICAgICAgcmFpc2UgRXhpdFJlcGxFeGNlcHRpb24K</text>
+        <text encoding="base64">QGhlYWRlci5jb21tYW5kKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyb3VwLmFkZF9jb21tYW5kKGRvbmVfY21kKQogICAgZ3JvdXAuYWRkX2NvbW1hbmQocXVpdF9jbWQpCg==</text>
+        <text encoding="base64">ZnJvbSBsaWx5c2tlbC5pbnRlcmZhY2UuZWRpdF9wcm9tcHRzIGltcG9ydCBjb21wb3Nlcl9wcm9tcHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHF1aXRfY21kID0gY2xpY2suQ29tbWFuZCgncXVpdCcsIGNhbGxiYWNrPV9yZXBsX2RvbmUsIGhpZGRlbj1UcnVlKQogICAgZXhpdF9jbWQgPSBjbGljay5Db21tYW5kKCdleGl0JywgY2FsbGJhY2s9X3JlcGxfZG9uZSwgaGlkZGVuPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBhbnN3ZXJlZF95ZXMobG9hZCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkID0gcHJvbXB0KGYiV291bGQgeW91IGxpa2UgdG8gbG9hZCB7Y29tcH0gZnJvbSB0aGUgZGF0YWJhc2U/ICIsCiAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0PSdZJywgdmFsaWRhdG9yPVlOVmFsaWRhdG9yKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/db/add/g</text>
@@ -278,6 +317,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
