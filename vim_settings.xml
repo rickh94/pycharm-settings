@@ -7,19 +7,20 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546660677438">
+      <file name="/Dummy.txt" timestamp="1546665553060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546662333296">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="153" column="48" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546665420184">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/custom_validators_completers.py" timestamp="1546663295482">
-        <mark key="[" line="95" column="19" />
-        <mark key="]" line="95" column="34" />
-        <mark key="^" line="95" column="34" />
-        <mark key="." line="95" column="34" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/custom_validators_completers.py" timestamp="1546665207222">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="109" column="29" />
+        <mark key="]" line="110" column="17" />
+        <mark key="." line="110" column="17" />
+        <mark key="^" line="110" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" timestamp="1546661838256">
         <mark key="[" line="93" column="51" />
@@ -30,17 +31,17 @@
       <file name="/a.dummy" timestamp="1546661092759">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1546663968595">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="33" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1546665550039">
+        <mark key="[" line="36" column="77" />
+        <mark key="]" line="36" column="124" />
+        <mark key="." line="36" column="124" />
+        <mark key="^" line="36" column="124" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/headers.py" timestamp="1546664447558">
-        <mark key="[" line="73" column="8" />
-        <mark key="]" line="73" column="11" />
-        <mark key="." line="73" column="11" />
-        <mark key="^" line="73" column="11" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/headers.py" timestamp="1546665513088">
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="57" />
+        <mark key="." line="45" column="57" />
+        <mark key="^" line="45" column="57" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_command.py" timestamp="1546661041749">
         <mark key="[" line="7" column="14" />
@@ -55,60 +56,77 @@
         <mark key="." line="84" column="27" />
         <mark key="^" line="84" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1546664357612">
-        <mark key="[" line="248" column="37" />
-        <mark key="]" line="248" column="37" />
-        <mark key="^" line="214" column="34" />
-        <mark key="." line="248" column="37" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1546665396134">
+        <mark key="'" line="16" column="29" />
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
       </file>
     </filemarks>
     <jumps>
       <jump line="61" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" />
       <jump line="13" column="44" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/custom_validators_completers.py" />
+      <jump line="31" column="3" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="48" column="56" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="49" column="19" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="16" column="29" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>f&quot;{ins_name_input} is in the database, would you like to load it? &quot;</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRiID0gb2JqLmRiCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>_</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvYmoucGllY2UuaW5zdHJ1bWVudHM6CiAgICAgICAgb2JqLgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb25maXJtKGYie2luc19uYW1lX2lucHV0fSBpcyBpbiB0aGUgZGF0YWJhc2UsIHdvdWxkIHlvdSBsaWtlIHRvIGxvYWQgaXQ/ICIpOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkID0gcHJvbXB0KGYie2luc19uYW1lX2lucHV0fSBpcyBpbiB0aGUgZGF0YWJhc2UsIHdvdWxkIHlvdSBsaWtlIHRvIGxvYWQgaXQ/ICIKICAgICAgICAgICAgICAgICAgICAgICJbWS9uXSAiLCBkZWZhdWx0PSdZJywgdmFsaWRhdG9yPVlOVmFsaWRhdG9yKCkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5vcm1hbGl6ZWRfaW5zdHJ1bWVudF9uYW1lcyA9IHJldHVybl9zdGF0ZV9kYXRhKCdub3JtYWxpemVkX2luc3RydW1lbnRfbmFtZXMnLCBvYmosIGdldF9ub3JtYWxpemVkX2luc3RydW1lbnRfbmFtZXMpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGluc3RydW1lbnRfbmFtZXNfc3RhbmRhcmRpemVkID0gcmV0dXJuX3N0YXRlX2RhdGEoJ25vcm1hbGl6ZWRfaW5zdHJ1bWVudF9uYW1lcycsIG9iaiwgZ2V0X25vcm1hbGl6ZWRfaW5zdHJ1bWVudF9uYW1lcykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBsZXRlciA9IG9iai5jb21wbGV0ZXJzLmdldCgnaW5zdHJ1bWVudHMnLCBnZW5lcmF0ZV9jb21wbGV0ZXIoJ2luc3RydW1lbnRzJywgb2JqLCBfbWFrZV9pbnN0cnVtZW50X2NvbXBsZXRlcikpCiAgICBpbnN0cnVtZW50X25hbWVzX3N0YW5kYXJkaXplZCA9IHJldHVybl9zdGF0ZV9kYXRhKCkKICAgIGluc19uYW1lX2lucHV0ID0gcHJvbXB0KCJFbnRlciB0aGUgZnVsbCBpbnN0cnVtZW50IG5hbWU6ICIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wbGV0ZXI9Y29tcGxldGVyKQogICAgbnVtYmVyID0gcHJvbXB0KCJJZiB0aGUgaW5zdHJ1bWVudCBoYXMgYSBudW1iZXIgYXNzb2NpYXRlZCAoZS5nLiBWaW9saW4gMiksICIKICAgICAgICAgICAgICAgICAgICAiZW50ZXIgaXQgb3IgcHJlc3MgW2VudGVyXSB0byBjb250aW51ZS4gIiwgdmFsaWRhdG9yPUlzTnVtYmVyVmFsaWRhdG9yKCkpCiAgICBudW1iZXIgPSBpbnQobnVtYmVyKSBpZiBudW1iZXIgb3IgTm9uZQogICAgaWYgJ18nLmpvaW4oaW5zX25hbWVfaW5wdXQubG93ZXIoKS5zcGxpdCgpKSBpbiBcCiAgICAgICAgICAgIGluc3RydW1lbnRfbmFtZXNfc3RhbmRhcmRpemVkOgogICAgICAgIGxvYWQgPSBwcm9tcHQoZiJ7aW5zX25hbWVfaW5wdXR9IGlzIGluIHRoZSBkYXRhYmFzZSwgd291bGQgeW91IGxpa2UgdG8gbG9hZCBpdD8gIgogICAgICAgICAgICAgICAgICAgICAgIltZL25dICIsIGRlZmF1bHQ9J1knLCB2YWxpZGF0b3I9WU5WYWxpZGF0b3IoKSkKICAgICAgICBpZiBhbnN3ZXJlZF95ZXMobG9hZCk6CiAgICAgICAgICAgIHJldHVybiBseW5hbWVzLkluc3RydW1lbnQubG9hZF9mcm9tX2RiKAogICAgICAgICAgICAgICAgbm9ybWFsaXplX25hbWUoaW5zX25hbWVfaW5wdXQpLCBkYiwgbnVtYmVyPW51bWJlcikKICAgIHJldHVybiBtYW51YWxfaW5zdHJ1bWVudChudW1iZXI9bnVtYmVyLCBkYj1kYiwgbmFtZT1pbnNfbmFtZV9pbnB1dCkK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIFRydWU6CiAgICAgICAgaWYgbnVtYmVyIGlzIE5vbmU6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgaWYgbnVtYmVyLmlzZGlnaXQoKToKICAgICAgICAgICAgbnVtYmVyID0gaW50KG51bWJlcikKICAgICAgICAgICAgYnJlYWsKICAgICAgICBwcmludCgiSW52YWxpZCBudW1iZXIiKQo=</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>value</text>
+      </register>
+      <register name="/" type="4">
+        <text>VALID_CLEFS</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Y2xhc3MgTm90ZVZhbGlkYXRvcihWYWxpZGF0b3IpOgogICAgZGVmIHZhbGlkYXRlKHNlbGYsIGRvY3VtZW50KToKICAgICAgICBpZiBub3QgZG9jdW1lbnQudGV4dDoKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKG1lc3NhZ2U9IlJlc3BvbnNlIFJlcXVpcmVkIiwgY3Vyc29yX3Bvc2l0aW9uPTApCiAgICAgICAgaWYgZG9jdW1lbnQudGV4dCBub3QgaW4gaW5mby5nZXRfYWxsb3dlZF9ub3RlcygpOgogICAgICAgICAgICByYWlzZSBWYWxpZGF0aW9uRXJyb3IobWVzc2FnZT0iSW52YWxpZCBub3RlIiwgY3Vyc29yX3Bvc2l0aW9uPTApCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmIntCT0xEfWNyZWF0ZXtFTkR9IGEgbmV3IGluc3RydW1lbnRcbiIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIG51bWJlcjoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZjoK</text>
+      </register>
+      <register name="4" type="4">
+        <text>confirm(&quot;Would you like to add this instrument to the database for &quot;
+                   &quot;easy use next time? &quot;)</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnNpbmZvWydrZXlib2FyZCddID0gVHJ1ZQogICAgZWxzZToKICAgICAgICBpbnNpbmZvWydrZXlib2FyZCddID0gRmFsc2UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIGdldF92YWxpZF9jbGVmcygpOgogICAgcmV0dXJuIFZBTElEX0NMRUZTCiAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZG9jdW1lbnQudGV4dDoKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKG1lc3NhZ2U9IlJlc3BvbnNlIFJlcXVpcmVkIiwgY3Vyc29yX3Bvc2l0aW9uPTApCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJQbGVhc2UgZW50ZXIgaW5zdHJ1bWVudCBpbmZvcm1hdGlvbiAocHJlc3MgZW50ZXIgZm9yIGRlZmF1bHQpLiIpCg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>VALID_CLEFS</last-search>
+      <last-offset />
+      <last-pattern>VALID_CLEFS</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>VALID_CLEFS</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
