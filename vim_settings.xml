@@ -125,6 +125,11 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1546729919158">
+        <mark key="[" line="96" column="47" />
+        <mark key="]" line="96" column="47" />
+        <mark key="." line="96" column="47" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
@@ -242,11 +247,11 @@
       <jump line="52" column="5" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm11dG9waWFfaGVhZGVycyI6IHBpZWNlLmhlYWRlcnMubXV0b3BpYWhlYWRlcnMsCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
