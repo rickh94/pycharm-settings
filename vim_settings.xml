@@ -27,6 +27,13 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/movement_commands.py" timestamp="1546707930576">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="57" column="47" />
+        <mark key="." line="57" column="47" />
+        <mark key="^" line="57" column="47" />
+      </file>
       <file name="/a.dummy" timestamp="1546656977203">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,8 +76,11 @@
         <mark key="." line="31" column="87" />
         <mark key="^" line="31" column="109" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546656120596">
-        <mark key="'" line="15" column="15" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546707487880">
+        <mark key="'" line="11" column="15" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="232" column="65" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/update_db_manually.py" timestamp="1546589315588">
         <mark key="'" line="184" column="21" />
@@ -119,11 +129,11 @@
         <mark key="]" line="151" column="34" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546657943308">
-        <mark key="[" line="434" column="55" />
-        <mark key="]" line="434" column="71" />
-        <mark key="." line="434" column="71" />
-        <mark key="^" line="434" column="71" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546707942507">
+        <mark key="[" line="309" column="22" />
+        <mark key="]" line="309" column="22" />
+        <mark key="." line="309" column="22" />
+        <mark key="^" line="309" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/yaml_interface.py" timestamp="1546658865648">
         <mark key="[" line="13" column="31" />
@@ -217,19 +227,20 @@
       <jump line="309" column="8" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
       <jump line="312" column="8" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
       <jump line="315" column="4" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/movement_commands.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Global</text>
+        <text>_db=None</text>
       </register>
       <register name="-" type="4">
-        <text>Global</text>
+        <text>_db=None</text>
       </register>
       <register name="/" type="4">
         <text>_ask_to_save</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Would you like to add this composer to the database for easy usage next time? &quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X21vdl9udW0gPSBsZW4oY3Vycl9tb3ZlbWVudHMpICsgMQogICAgICAgICAgICBuZXdfbW92X3RlbXBvID0gcHJvbXB0KCJFbnRlciB0ZW1wbyAob3B0aW9uYWwpOiAiLCBjb21wbGV0ZXI9dGVtcG9fY29tcGxldGVyKQogICAgICAgICAgICBuZXdfbW92X3RpbWUgPSBwcm9tcHQoIkVudGVyIHRpbWUgc2lnbmF0dXJlIChvcHRpb25hbCk6ICIpCiAgICAgICAgICAgIG5ld19tb3Zfa2V5X25vdGUgPSBwcm9tcHQoIkVudGVyIGtleSBub3RlOiAiLCB2YWxpZGF0b3I9Tm90ZVZhbGlkYXRvcigpKQogICAgICAgICAgICBuZXdfbW92X2tleV9tb2RlID0gcHJvbXB0KCJFbnRlciBrZXkgbW9kZTogIiwgY29tcGxldGVyPW1vZGVfY29tcGxldGVyLCB2YWxpZGF0b3I9TW9kZVZhbGlkYXRvcigpKQogICAgICAgICAgICBuZXdfbW92X2tleSA9IGluZm8uS2V5U2lnbmF0dXJlKG5vdGU9bmV3X21vdl9rZXlfbm90ZSwgbW9kZT1uZXdfbW92X2tleV9tb2RlKQogICAgICAgICAgICBjdXJyX21vdmVtZW50cy5hcHBlbmQoaW5mby5Nb3ZlbWVudChudW09bmV3X21vdl9udW0sIHRlbXBvPW5ld19tb3ZfdGVtcG8sIHRpbWU9bmV3X21vdl90aW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9bmV3X21vdl9rZXkpKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -247,33 +258,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIG1ha2VfZ2xvYmFsKGx5Z2xvYmFsOiBMeUdsb2JhbCwgcGllY2UsIGxvY2F0aW9uPVBhdGgoJy4nKSk6Cg==</text>
+        <text encoding="base64">ICAgIHBpZWNlLm1vdmVtZW50cyA9IFtdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIG1ha2VfZ2xvYmFsKGx5Z2xvYmFsOiBMeUdsb2JhbCwgcGllY2UsIGxvY2F0aW9uPVBhdGgoJy4nKSk6Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfbW92ZW1lbnRzIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">X21vdmVtZW50c19yZXBsID0gc3ViX3JlcGwuY3JlYXRlKG1vdmVtZW50cywgeydtZXNzYWdlJzogJ2xpbHlza2VsOmVkaXQ6bW92ZW1lbnRzPiAnfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJlZm9yZV9kb25lX2NhbGxiYWNrPWFza190b19zYXZlKQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXRhIG5vdCBpbiBnZXRfbGljZW5zZXMoKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>.format(data=data,
-                                                         field=field)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGN0eC5vYmoucGllY2UubW92ZW1lbnRzLmFwcGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaWNlbnNlcyA9IGdldF9saWNlbnNlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICBmIntCT0xEfWhlbHB7RU5EfSB0byB2aWV3IHRoaXMgbWVzc2FnZVxuIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFyZ3VtZW50czoK</text>
+        <text encoding="base64">ICAgICAgICBmIntCT0xEfWRvbmV7RU5EfSB0byBzYXZlIGFuZCByZXR1cm4gdG8gbWFpbiBwcm9tcHQiCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.format(name=name,
-                                                             table=table_name)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmIntCT0xEfXByaW50e0VORH0gbW92ZW1lbnRzXG4iCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/db/add/g</text>
