@@ -107,11 +107,17 @@
         <mark key="." line="345" column="33" />
         <mark key="^" line="345" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/.env" timestamp="1544427170669">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="22" />
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/celery.py" timestamp="1546742253096">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/.env" timestamp="1546742292689">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545849897284">
         <mark key="[" line="15" column="70" />
@@ -183,6 +189,9 @@
         <mark key="]" line="85" column="76" />
         <mark key="." line="85" column="76" />
         <mark key="^" line="57" column="54" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1546742126144">
+        <mark key="[" line="143" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/admin.py" timestamp="1545270531363">
         <mark key="[" line="5" column="6" />
