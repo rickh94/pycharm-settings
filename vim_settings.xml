@@ -21,7 +21,7 @@
         <mark key="^" line="130" column="46" />
         <mark key="." line="130" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1546656293397">
+      <file name="/Python Console" timestamp="1546808209612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -32,6 +32,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/test.sh" timestamp="1546806957224">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="/a.dummy" timestamp="1546719100563">
         <mark key="[" line="0" column="0" />
@@ -81,6 +87,12 @@
         <mark key="." line="28" column="69" />
         <mark key="^" line="28" column="69" />
       </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/app/urls.py" timestamp="1546810885199">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546723184356">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -100,6 +112,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/user/tests/test_user_api.py" timestamp="1546810389558">
+        <mark key="[" line="47" column="67" />
+        <mark key="]" line="47" column="67" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="47" column="67" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" timestamp="1546658557019">
         <mark key="'" line="305" column="70" />
         <mark key="[" line="345" column="26" />
@@ -113,6 +131,13 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/user/views.py" timestamp="1546811122759">
+        <mark key="'" line="5" column="18" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/gist_clone/gist_clone/.env" timestamp="1546751067179">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="35" />
@@ -125,6 +150,11 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/app/settings.py" timestamp="1546810935396">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/settings.py" timestamp="1544413098764">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="23" />
@@ -135,6 +165,9 @@
         <mark key="[" line="96" column="47" />
         <mark key="]" line="96" column="47" />
         <mark key="." line="96" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546806613780">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
         <mark key="[" line="186" column="0" />
@@ -155,11 +188,22 @@
         <mark key="^" line="40" column="35" />
         <mark key="." line="40" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/requirements.txt" timestamp="1546810593409">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/views.py" timestamp="1544412704427">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="14" />
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" timestamp="1546811125720">
+        <mark key="'" line="2" column="5" />
+        <mark key="[" line="11" column="71" />
+        <mark key="]" line="11" column="72" />
+        <mark key="." line="11" column="72" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/.env" timestamp="1544412797121">
         <mark key="[" line="3" column="26" />
@@ -198,6 +242,12 @@
         <mark key="]" line="5" column="10" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/user/urls.py" timestamp="1546811158452">
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="7" column="66" />
+        <mark key="." line="7" column="66" />
+        <mark key="^" line="7" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -254,13 +304,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
       <jump line="46" column="4" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
       <jump line="52" column="5" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
+      <jump line="4" column="18" filename="$USER_HOME$/repositories/recipe-app-api/app/user/views.py" />
+      <jump line="2" column="5" filename="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
@@ -284,31 +336,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm11dG9waWFfaGVhZGVycyI6IHBpZWNlLmhlYWRlcnMubXV0b3BpYWhlYWRlcnMsCg==</text>
+        <text encoding="base64">ICAgICd1c2VyJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxhbmd1YWdlIjogcGllY2UubGFuZ3VhZ2UK</text>
+        <text encoding="base64">aW1wb3J0IHVzZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGgoImNyZWF0ZS8iLCB2aWV3cy5DcmVhdGVVc2VyVmlldy5hc192aWV3KCksIG5hbWU9ImNyZWF0ZSIpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICd1c2VyJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGV4aXN0aW5nX2luc3RydW1lbnRzKGN1cnJfaW5zdHJ1bWVudHMsIGRiXywgcHJvbXB0X2Nob2ljZSk6CiAgICAiIiJEZWFscyB3aXRoIGV4aXN0aW5nIGluc3RydW1lbnRzL2Vuc2VtYmxlcyIiIgogICAgaWYgaXNpbnN0YW5jZShjdXJyX2luc3RydW1lbnRzLCBseW5hbWVzLkVuc2VtYmxlKToKICAgICAgICBwcmludCgnSW5zdHJ1bWVudHMgaGF2ZSBiZWVuIGVudGVyZWQgYXMgYW4gZW5zZW1ibGU6ICcpCiAgICAgICAgcHJpbnQoY3Vycl9pbnN0cnVtZW50cy5wcmV0dHlfbmFtZSgpKQogICAgICAgIGZvciBpbnMgaW4gY3Vycl9pbnN0cnVtZW50cy5pbnN0cnVtZW50czoKICAgICAgICAgICAgcHJpbnQoaW5zLnBhcnRfbmFtZSgpKQogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIHByaW50KGYiWW91IGNhbjpcbntCT0xEfWJyZWFre0VORH0gdGhlIGVuc2VtYmxlXG4iCiAgICAgICAgICAgICAgICAgIGYie0JPTER9Y3JlYXRle0VORH0gYSBuZXcgZW5zZW1ibGUgb3JcbiIKICAgICAgICAgICAgICAgICAgZiJ7Qk9MRH1lZGl0e0VORH0gdGhlIGVuc2VtYmxlIG9yXG4iCiAgICAgICAgICAgICAgICAgIGYiYmUge0JPTER9ZG9uZXtFTkR9IGFuZCBjaGFuZ2Ugbm90aGluZyIpCiAgICAgICAgICAgIGNob2ljZSA9IHByb21wdCgnPicpCiAgICAgICAgICAgIGlmIGNob2ljZS5sb3dlcigpWzBdID09ICdiJzoKICAgICAgICAgICAgICAgIHJldHVybiBpbnN0cnVtZW50X3Byb21wdChjdXJyX2luc3RydW1lbnRzLmluc3RydW1lbnRzLCBkYl8pCiAgICAgICAgICAgIGlmIGNob2ljZS5sb3dlcigpWzBdID09ICdjJzoKICAgICAgICAgICAgICAgIHJldHVybiBlbnNlbWJsZV9wcm9tcHQoW10sIGRiXykKICAgICAgICAgICAgaWYgY2hvaWNlLmxvd2VyKClbMF0gPT0gJ2UnOgogICAgICAgICAgICAgICAgcmV0dXJuIGVuc2VtYmxlX3Byb21wdChjdXJyX2luc3RydW1lbnRzLmluc3RydW1lbnRzLCBkYl8pCiAgICAgICAgICAgIGlmIGNob2ljZS5sb3dlcigpWzBdID09ICdkJzoKICAgICAgICAgICAgICAgIHJldHVybiBjdXJyX2luc3RydW1lbnRzCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwcmludChJTlZBTElEKQogICAgZWxpZiBjdXJyX2luc3RydW1lbnRzOgogICAgICAgIHByaW50KCJUaGVzZSBpbnN0cnVtZW50cyBhcmUgY3VycmVudGx5IGluIHRoZSBzY29yZTogIikKICAgICAgICBmb3IgaW5zIGluIGN1cnJfaW5zdHJ1bWVudHM6CiAgICAgICAgICAgIHByaW50KGlucy5wYXJ0X25hbWUoKSkKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoIk5vIGluc3RydW1lbnRzIGN1cnJlbnRseSBpbiBzY29yZS4iKQogICAgcmV0dXJuIHByb21wdF9jaG9pY2UoY3Vycl9pbnN0cnVtZW50cywgZGJfKQo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfdmlldygpOgogICAgcmV0dXJuICdIZWxsbycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGNvbW1hbmQubG93ZXIoKVswOjJdID09ICdtdSc6CiAgICAgICAgICAgIGlmICJtdXRvcGlhX2hlYWRlcnMiIG5vdCBpbiBpbmZvZGljdDoKICAgICAgICAgICAgICAgIGluZm9kaWN0WyJtdXRvcGlhX2hlYWRlcnMiXSA9IE5vbmUKICAgICAgICAgICAgaW5mb2RpY3RbJ211dG9waWFfaGVhZGVycyddID0gbXV0b3BpYV9wcm9tcHQoaW5mb2RpY3RbIm11dG9waWFfaGVhZGVycyJdKQo=</text>
+        <text encoding="base64">ICAgIHBhdGgoJ3Rlc3QvJywgdmlld3MudGVzdF92aWV3LCBuYW1lPSd0ZXN0JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIERFQlVHIExJTkUKICAgICAgICAjIHByaW50KGluZm9kaWN0KQogICAgICAgIHRyeToKICAgICAgICAgICAgcHMxID0gaW5mb2RpY3RbImhlYWRlcnMiXS50aXRsZQogICAgICAgIGV4Y2VwdCAoQXR0cmlidXRlRXJyb3IsIEtleUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgICAgICBwczEgPSAiVW50aXRsZWQiCiAgICAgICAgY29tbWFuZCA9IHByb21wdChmIntwczF9PiAiLCBjb21wbGV0ZXI9Y29tbWFuZF9jb21wbGV0ZXIpCg==</text>
+        <text encoding="base64">ZnJvbSAudmlld3MgaW1wb3J0IENyZWF0ZVVzZXJWaWV3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXV0b3BpYWhlYWRlcnMgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHZpZXdzCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N0eWxlL3NvdXJjZS9n</text>
