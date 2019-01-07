@@ -27,7 +27,7 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1546719100563">
+      <file name="/a.dummy" timestamp="1546824026317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1546708985107">
@@ -35,6 +35,12 @@
         <mark key="]" line="18" column="35" />
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_down.py" timestamp="1546824143868">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_tags_api.py" timestamp="1546821163460">
         <mark key="'" line="9" column="3" />
@@ -137,6 +143,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_test.py" timestamp="1546824224304">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="77" />
+        <mark key="." line="13" column="77" />
+        <mark key="^" line="13" column="77" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" timestamp="1546722594003">
         <mark key="'" line="52" column="5" />
         <mark key="[" line="85" column="76" />
@@ -165,10 +177,6 @@
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/core/models.py" timestamp="1546823401165">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="22" />
-        <mark key="]" line="59" column="23" />
-        <mark key="." line="59" column="23" />
-        <mark key="^" line="59" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" timestamp="1546630102295">
         <mark key="'" line="0" column="0" />
@@ -176,6 +184,12 @@
         <mark key="]" line="19" column="15" />
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/setup.py" timestamp="1546823945839">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/spacespace/settings.py" timestamp="1544394105886">
         <mark key="[" line="126" column="15" />
@@ -203,10 +217,11 @@
         <mark key="." line="30" column="31" />
         <mark key="^" line="30" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/core/admin.py" timestamp="1546818002632">
-        <mark key="]" line="22" column="29" />
-        <mark key="^" line="22" column="29" />
-        <mark key="." line="22" column="29" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/core/admin.py" timestamp="1546824602336">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/gist_clone/.env" timestamp="1546751067179">
         <mark key="[" line="4" column="35" />
@@ -237,10 +252,6 @@
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/core/tests/test_models.py" timestamp="1546823310791">
         <mark key="'" line="3" column="22" />
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="49" column="56" />
-        <mark key="^" line="49" column="56" />
-        <mark key="." line="49" column="56" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db.py" timestamp="1546595200580">
         <mark key="'" line="197" column="0" />
@@ -248,6 +259,12 @@
         <mark key="]" line="40" column="35" />
         <mark key="^" line="40" column="35" />
         <mark key="." line="40" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_makemigrations.py" timestamp="1546824354803">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/views.py" timestamp="1544412704427">
         <mark key="[" line="3" column="11" />
@@ -266,6 +283,12 @@
         <mark key="]" line="7" column="15" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_up.py" timestamp="1546824073360">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1546719732140">
         <mark key="'" line="0" column="0" />
@@ -366,11 +389,11 @@
       <jump line="9" column="3" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_tags_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBtb2RlbHMuRm9yZWlnbktleShzZXR0aW5ncy5BVVRIX1VTRVJfTU9ERUwsIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkK</text>
+      <register name="&quot;" type="4">
+        <text>core</text>
       </register>
       <register name="-" type="4">
-        <text>ate</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
@@ -394,34 +417,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBtb2RlbHMuRm9yZWlnbktleQo=</text>
+        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdwYXRoJywgZGVmYXVsdD0nc25ha2VleWVzJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXJscGF0dGVybnMgPSBbCiAgICAKXQo=</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBtb2RlbHMuRm9yZWlnbktleQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">dXJscGF0dGVybnMgPSBbCiAgICAKXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3N0eWxlL3NvdXJjZS9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -456,6 +479,7 @@
         <entry>s/db/add/g</entry>
         <entry encoding="base64">JzwsJz5zL2xpY2Vuc2Uvc3R5bGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3N0eWxlL3NvdXJjZS9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
