@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".pretty.json.swp" type="PLAIN_TEXT" />
       <mapping ext="ily" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

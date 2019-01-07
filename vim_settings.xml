@@ -3,129 +3,457 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/create_commands.py" timestamp="1546663005801">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="102" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/db_interface.py" timestamp="1546658055880">
+        <mark key="[" line="82" column="85" />
+        <mark key="]" line="82" column="92" />
+        <mark key="^" line="82" column="92" />
+        <mark key="." line="82" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546667112077">
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1546658855050">
+        <mark key="[" line="130" column="46" />
+        <mark key="]" line="130" column="46" />
+        <mark key="^" line="130" column="46" />
+        <mark key="." line="130" column="46" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/movement_commands.py" timestamp="1546718443366">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/test.sh" timestamp="1546806957224">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+      </file>
+      <file name="/a.dummy" timestamp="1546826684286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546667094494">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1546708985107">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+        <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/custom_validators_completers.py" timestamp="1546665207222">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="109" column="29" />
-        <mark key="]" line="110" column="17" />
-        <mark key="." line="110" column="17" />
-        <mark key="^" line="110" column="17" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_down.py" timestamp="1546825785538">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" timestamp="1546661838256">
-        <mark key="[" line="93" column="51" />
-        <mark key="]" line="93" column="58" />
-        <mark key="^" line="93" column="58" />
-        <mark key="." line="93" column="58" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_tags_api.py" timestamp="1546821163460">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="28" />
+        <mark key="^" line="75" column="69" />
+        <mark key="." line="75" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1546661092759">
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/mutopia.py" timestamp="1546658703911">
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="45" />
+        <mark key="." line="44" column="45" />
+        <mark key="^" line="44" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" timestamp="1546658017319">
+        <mark key="[" line="69" column="68" />
+        <mark key="]" line="69" column="84" />
+        <mark key="^" line="69" column="84" />
+        <mark key="." line="69" column="84" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/create_commands.py" timestamp="1546720162504">
+        <mark key="[" line="28" column="62" />
+        <mark key="]" line="28" column="69" />
+        <mark key="." line="28" column="69" />
+        <mark key="^" line="28" column="69" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/app/urls.py" timestamp="1546819396344">
+        <mark key="[" line="18" column="127" />
+        <mark key="]" line="18" column="128" />
+        <mark key="^" line="18" column="127" />
+        <mark key="." line="18" column="127" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1546723184356">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="28" column="6" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545849897284">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+        <mark key="^" line="16" column="59" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/app/settings.py" timestamp="1546817519548">
+        <mark key="[" line="42" column="11" />
+        <mark key="]" line="43" column="10" />
+        <mark key="." line="43" column="10" />
+        <mark key="^" line="43" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/yaml_interface.py" timestamp="1546658865648">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/requirements.txt" timestamp="1546825577430">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/views.py" timestamp="1546827219448">
+        <mark key="[" line="33" column="55" />
+        <mark key="]" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+      </file>
+      <file name="/" timestamp="1546588017139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1546667097526">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="52" column="27" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_ingredients_api.py" timestamp="1546827270521">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/headers.py" timestamp="1546665936081">
-        <mark key="[" line="92" column="78" />
-        <mark key="]" line="92" column="111" />
-        <mark key="." line="92" column="111" />
-        <mark key="^" line="92" column="111" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_test.py" timestamp="1546825728319">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_command.py" timestamp="1546661041749">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" timestamp="1546708173712">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="1" />
+        <mark key="." line="93" column="1" />
+        <mark key="^" line="134" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1546665896497">
-        <mark key="'" line="13" column="44" />
-        <mark key="[" line="81" column="67" />
-        <mark key="]" line="81" column="99" />
-        <mark key="." line="84" column="27" />
-        <mark key="^" line="84" column="27" />
+      <file name="/Python Console" timestamp="1546808209612">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1546667049941">
-        <mark key="'" line="16" column="29" />
-        <mark key="[" line="86" column="60" />
-        <mark key="]" line="86" column="61" />
-        <mark key="." line="86" column="61" />
-        <mark key="^" line="86" column="61" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/core/models.py" timestamp="1546823401165">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/setup.py" timestamp="1546823945839">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/spacespace/settings.py" timestamp="1544394105886">
+        <mark key="[" line="126" column="15" />
+        <mark key="]" line="126" column="15" />
+        <mark key="^" line="126" column="15" />
+        <mark key="." line="126" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/pytest.ini" timestamp="1546826176851">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/celery.py" timestamp="1546742253096">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/core/admin.py" timestamp="1546824602336">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/.env" timestamp="1546751067179">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/urls.py" timestamp="1546827211611">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="53" />
+        <mark key="^" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/settings.py" timestamp="1544413098764">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="34" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1546729919158">
+        <mark key="[" line="96" column="47" />
+        <mark key="]" line="96" column="47" />
+        <mark key="." line="96" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546820529382">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="^" line="183" column="46" />
+        <mark key="." line="186" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/core/tests/test_models.py" timestamp="1546823310791">
+        <mark key="'" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_makemigrations.py" timestamp="1546825779687">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/views.py" timestamp="1544412704427">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/.env" timestamp="1544412797121">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/.flake8" timestamp="1546814633156">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_up.py" timestamp="1546825732535">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="53" />
+        <mark key="." line="12" column="53" />
+        <mark key="^" line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/pytest.ini" timestamp="1546826091993">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/urls.py" timestamp="1544412712333">
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="59" />
+        <mark key="^" line="22" column="59" />
+        <mark key="." line="22" column="59" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1546742126144">
+        <mark key="[" line="143" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/admin.py" timestamp="1545270531363">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" />
-      <jump line="13" column="44" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/custom_validators_completers.py" />
-      <jump line="31" column="3" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
-      <jump line="48" column="56" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
-      <jump line="49" column="19" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
-      <jump line="16" column="29" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="30" column="11" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/views.py" />
+      <jump line="70" column="4" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
+      <jump line="28" column="35" filename="$USER_HOME$/repositories/gist_clone/posts/models.py" />
+      <jump line="58" column="99" filename="$USER_HOME$/repositories/gist_clone/posts/views.py" />
+      <jump line="14" column="11" filename="$USER_HOME$/repositories/gist_clone/posts/forms.py" />
+      <jump line="4" column="21" filename="$USER_HOME$/repositories/gist_clone/gist_clone/views.py" />
+      <jump line="23" column="25" filename="$USER_HOME$/repositories/gist_clone/gist_clone/views.py" />
+      <jump line="220" column="25" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="223" column="42" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="225" column="14" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="228" column="45" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="229" column="73" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="241" column="32" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="249" column="32" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="253" column="4" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="231" column="31" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="185" column="21" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/update_db_manually.py" />
+      <jump line="13" column="15" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="108" column="15" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db.py" />
+      <jump line="227" column="15" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db.py" />
+      <jump line="38" column="9" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" />
+      <jump line="226" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db.py" />
+      <jump line="248" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="142" column="6" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
+      <jump line="153" column="32" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
+      <jump line="162" column="4" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
+      <jump line="188" column="58" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
+      <jump line="201" column="27" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
+      <jump line="284" column="54" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
+      <jump line="301" column="68" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
+      <jump line="304" column="70" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" />
+      <jump line="63" column="14" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="251" column="45" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="12" column="18" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/headers.py" />
+      <jump line="70" column="4" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/headers.py" />
+      <jump line="310" column="7" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="309" column="8" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="312" column="8" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="315" column="4" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/movement_commands.py" />
+      <jump line="202" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" />
+      <jump line="17" column="89" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
+      <jump line="46" column="4" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
+      <jump line="52" column="5" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
+      <jump line="4" column="18" filename="$USER_HOME$/repositories/recipe-app-api/app/user/views.py" />
+      <jump line="2" column="5" filename="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/user/urls.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/user/urls.py" />
+      <jump line="8" column="17" filename="$USER_HOME$/repositories/recipe-app-api/app/user/tests/test_user_api.py" />
+      <jump line="80" column="72" filename="$USER_HOME$/repositories/recipe-app-api/app/user/tests/test_user_api.py" />
+      <jump line="20" column="3" filename="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" />
+      <jump line="1" column="54" filename="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" />
+      <jump line="14" column="36" filename="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/user/views.py" />
+      <jump line="5" column="63" filename="$USER_HOME$/repositories/recipe-app-api/app/user/views.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/user/tests/test_user_api.py" />
+      <jump line="9" column="24" filename="$USER_HOME$/repositories/recipe-app-api/app/user/tests/test_user_api.py" />
+      <jump line="34" column="19" filename="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" />
+      <jump line="18" column="59" filename="$USER_HOME$/repositories/recipe-app-api/app/user/views.py" />
+      <jump line="3" column="22" filename="$USER_HOME$/repositories/recipe-app-api/app/core/tests/test_models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/core/models.py" />
+      <jump line="57" column="28" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_tags_api.py" />
+      <jump line="9" column="3" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_tags_api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_ingredients_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgIiIiUmV0dXJuIG9iamVjdHMgZm9yIHRoZSBjdXJyZW50IGF1dGhlbnRpY2F0ZWQgdXNlciBvbmx5IiIiCiAgICAgICAgcmV0dXJuIHNlbGYucXVlcnlzZXQuZmlsdGVyKHVzZXI9c2VsZi5yZXF1ZXN0LnVzZXIpLm9yZGVyX2J5KCItbmFtZSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>END</text>
+        <text>Tag</text>
       </register>
       <register name="/" type="4">
-        <text>VALID_CLEFS</text>
+        <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZV9pbmRleCA9IHJhZGlvbGlzdF9kaWFsb2codGl0bGU9IlJlb3JkZXIgSW5zdHJ1bWVudHMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0PSJTZWxlY3QgaW5zdHJ1bWVudCB0byBtb3ZlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVzPVsoaW5kZXgsIGluc3RydW1lbnQucGFydF9uYW1lKSBmb3IgaW5kZXgsIGluc3RydW1lbnQgaW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnVtZXJhdGUoY3Vycl9pbnN0cnVtZW50cyldKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgIiIiUmV0dXJuIG9iamVjdHMgZm9yIHRoZSBjdXJyZW50IGF1dGhlbnRpY2F0ZWQgdXNlciBvbmx5IiIiCiAgICAgICAgcmV0dXJuIHNlbGYucXVlcnlzZXQuZmlsdGVyKHVzZXI9c2VsZi5yZXF1ZXN0LnVzZXIpLm9yZGVyX2J5KCItbmFtZSIpCg==</text>
+      </register>
+      <register name="p" type="4">
+        <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGluc3RydW1lbnRfcHJvbXB0KGN1cnJfaW5zdHJ1bWVudHMsIGRiXyk6CiAgICAiIiIKICAgIFByb21wdCBmb3IgY3JlYXRpbmcgaW5zdHJ1bWVudHMgaW4gdGhlIHNjb3JlLgogICAgOnBhcmFtIGN1cnJfaW5zdHJ1bWVudHM6IGxpc3Qgb2YgZXhpc3RpbmcgaW5zdHJ1bWVudHMKICAgIDpwYXJhbSBkYl86IGRhdGFiYXNlIHRvIGxhb2QgdG8vZnJvbQogICAgOnJldHVybjoKICAgICIiIgogICAgcHJvbXB0X2hlbHAgPSAoCiAgICBjb21tYW5kX2NvbXBsZXRlciA9IFdvcmRDb21wbGV0ZXIoWydjcmVhdGUnLCAnZGVsZXRlJywgJ3Jlb3JkZXInLCAnaGVscCcsICdkb25lJywgJ3ByaW50J10pCiAgICBpbnN0cnVtZW50X25hbWVzID0gZGJfaW50ZXJmYWNlLmV4cGxvcmVfdGFibGUoZGJfLnRhYmxlKCJpbnN0cnVtZW50cyIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlYXJjaD0oIm5hbWUiLCAiIikpCiAgICBpbnN0cnVtZW50cyA9IFt0aXRsZWNhc2UoJyAnLmpvaW4obmFtZS5zcGxpdCgnXycpKSkKICAgICAgICAgICAgICAgICAgIGZvciBuYW1lIGluIGluc3RydW1lbnRfbmFtZXNdCiAgICBwcmludChwcm9tcHRfaGVscCkKICAgIHdoaWxlIFRydWU6CiAgICAgICAgIyBERUJVRyBMSU5FCiAgICAgICAgIyBwcmludChjdXJyX2luc3RydW1lbnRzKQogICAgICAgIGNvbW1hbmQgPSBwcm9tcHQoIkluc3RydW1lbnRzPiAiLCBjb21wbGV0ZXI9Y29tbWFuZF9jb21wbGV0ZXIpCiAgICAgICAgaWYgbGVuKGNvbW1hbmQpID09IDA6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZWxpZiBjb21tYW5kLmxvd2VyKClbMF0gPT0gJ3InOgogICAgICAgICAgICBjdXJyX2luc3RydW1lbnRzID0gcmVvcmRlcl9pbnN0cnVtZW50cyhjdXJyX2luc3RydW1lbnRzKQoK</text>
+        <text encoding="base64">ICAgIFJ1biBhIHRlc3QgY292ZXJhZ2UgcmVwb3J0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiT3B0aW9uczpcbiIKICAgICkK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBwYXRoOiBUZXN0IGNvdmVyYWdlIHBhdGgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmIntCT0xEfXJlb3JkZXJ7fSBpbnN0cnVtZW50c1xuIgo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBwYXRoOiBUZXN0IGNvdmVyYWdlIHBhdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JyZWN0ID0gcHJvbXB0KCJJcyB0aGlzIGNvcnJlY3Q/IFtZL25dICIsIGRlZmF1bHQ9J1knLCB2YWxpZGF0b3I9WU5WYWxpZGF0b3IoKSkK</text>
+        <text encoding="base64">ICAgIFJ1biBhIHRlc3QgY292ZXJhZ2UgcmVwb3J0Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldAo=</text>
+        <text encoding="base64">ICAgIFJ1biBhIHRlc3QgY292ZXJhZ2UgcmVwb3J0Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vycl9pbnN0cnVtZW50cyA9IFtpbnN0cnVtZW50IGZvciBpbnN0cnVtZW50IGluIHRtcF9pbnN0cnVtZW50c10K</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBwYXRoOiBUZXN0IGNvdmVyYWdlIHBhdGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JyZWN0ID0gcHJvbXB0KCJJcyB0aGlzIGNvcnJlY3Q/IFtZL25dICIsIGRlZmF1bHQ9J1knLCB2YWxpZGF0b3I9WU5WYWxpZGF0b3IoKSkK</text>
+        <text encoding="base64">ICAgIFJ1biBhIHRlc3QgY292ZXJhZ2UgcmVwb3J0Lgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>VALID_CLEFS</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>VALID_CLEFS</last-pattern>
+      <last-pattern>style</last-pattern>
+      <last-replace>source</last-replace>
+      <last-substitute>style</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>VALID_CLEFS</entry>
+        <entry>slef</entry>
+        <entry>group</entry>
+        <entry>slug</entry>
+        <entry>mutopia</entry>
+        <entry>instrument_prompt</entry>
+        <entry>yes</entry>
+        <entry>done</entry>
+        <entry>db</entry>
+        <entry>clef</entry>
+        <entry>midi</entry>
+        <entry>edit</entry>
+        <entry>Piece</entry>
+        <entry>_ask</entry>
+        <entry>_ask_to_save</entry>
+        <entry>license</entry>
+        <entry>style</entry>
       </history-search>
+      <history-cmd>
+        <entry>s/db/add/g</entry>
+        <entry encoding="base64">JzwsJz5zL2xpY2Vuc2Uvc3R5bGUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3N0eWxlL3NvdXJjZS9n</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

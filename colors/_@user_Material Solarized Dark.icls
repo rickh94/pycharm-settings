@@ -4,19 +4,21 @@
     <property name="created">2018-12-03T22:33:36</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-12-04T00:03:38</property>
+    <property name="modified">2019-01-06T18:29:44</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Droid Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="10483e" />
@@ -27255,6 +27257,11 @@
     <option name="RHTML_SCRIPTLET_START_ID">
       <value>
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="2b36" />
       </value>
     </option>
     <option name="RUBY_BAD_CHARACTER">
