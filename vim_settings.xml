@@ -103,10 +103,11 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/requirements.txt" timestamp="1546825577430">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/requirements.txt" timestamp="1546836910976">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/views.py" timestamp="1546835888742">
         <mark key="^" line="8" column="16" />
@@ -165,7 +166,12 @@
         <mark key="^" line="126" column="15" />
         <mark key="." line="126" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1546835747195" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1546836672088">
+        <mark key="[" line="212" column="32" />
+        <mark key="]" line="212" column="13" />
+        <mark key="." line="212" column="13" />
+        <mark key="^" line="212" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/pytest.ini" timestamp="1546826176851">
         <mark key="[" line="1" column="37" />
         <mark key="]" line="1" column="37" />
@@ -251,6 +257,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/Dockerfile" timestamp="1546836933113">
+        <mark key="[" line="6" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
         <mark key="[" line="12" column="26" />
@@ -370,17 +379,17 @@
       <jump line="82" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBwZXJmb3JtX2NyZWF0ZShzZWxmLCBzZXJpYWxpemVyKToKICAgICAgICAiIiJDcmVhdGUgYSBuZXcgb2JqZWN0IiIiCiAgICAgICAgc2VyaWFsaXplci5zYXZlKHVzZXI9c2VsZi5yZXF1ZXN0LnVzZXIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>tags =</text>
       </register>
       <register name="-" type="4">
-        <text>AuthenticatedViewSetWithUserCreate</text>
+        <text>tags =</text>
       </register>
       <register name="/" type="4">
         <text>HELPER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGFnMSBpbiB0YWdzCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkID0geyJ0aXRsZSI6ICJDaGlja2VuIFRpa2thIiwgInRhZ3MiOiBbbmV3X3RhZy5pZF19Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -398,31 +407,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBwZXJmb3JtX2NyZWF0ZShzZWxmLCBzZXJpYWxpemVyKToKICAgICAgICAiIiJDcmVhdGUgYSBuZXcgb2JqZWN0IiIiCiAgICAgICAgc2VyaWFsaXplci5zYXZlKHVzZXI9c2VsZi5yZXF1ZXN0LnVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVjaXBlLnRhZ3MuYWxsKCkuZXhpc3RzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHl0ZXN0bWFyayA9IHB5dGVzdC5tYXJrLmRqYW5nb19kYgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBrCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICB1cmwgPSBkZXRhaWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXMuZGF0YSkK</text>
+        <text encoding="base64">ICAgIGRlZiBwZXJmb3JtX2NyZWF0ZShzZWxmLCBzZXJpYWxpemVyKToKICAgICAgICAiIiJDcmVhdGUgYSBuZXcgb2JqZWN0IiIiCiAgICAgICAgc2VyaWFsaXplci5zYXZlKHVzZXI9c2VsZi5yZXF1ZXN0LnVzZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXJpYWxpemVyLmRhdGEpCg==</text>
+        <text encoding="base64">cHl0ZXN0bWFyayA9IHB5dGVzdC5tYXJrLmRqYW5nb19kYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydCByZXMuZGF0YSA9PSBzZXJpYWxpemVyLmRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBweXRlc3QuZmFpbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXMuZGF0YSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
