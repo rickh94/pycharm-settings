@@ -94,19 +94,18 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/docker-compose.yml" timestamp="1546932981941">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="48" column="5" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/docker-compose.yml" timestamp="1546934099160">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="86" />
+        <mark key="." line="3" column="86" />
+        <mark key="^" line="3" column="86" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/app/settings.py" timestamp="1546932220416">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="134" column="29" />
-        <mark key="]" line="136" column="26" />
-        <mark key="." line="136" column="26" />
-        <mark key="^" line="136" column="26" />
+        <mark key="[" line="132" column="29" />
+        <mark key="]" line="134" column="26" />
+        <mark key="." line="134" column="26" />
+        <mark key="^" line="134" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/yaml_interface.py" timestamp="1546658865648">
         <mark key="[" line="13" column="31" />
@@ -119,6 +118,11 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/.env.example" timestamp="1546934073825">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx/django.conf" timestamp="1546932547649">
         <mark key="[" line="18" column="14" />
@@ -199,11 +203,16 @@
         <mark key="^" line="41" column="71" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/.env" timestamp="1546932666233">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="10" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/pytest.ini" timestamp="1546826176851">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/.env" timestamp="1546934056354">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/gist_clone/celery.py" timestamp="1546742253096">
         <mark key="[" line="7" column="24" />
@@ -235,8 +244,13 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546820529382">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/gist_clone/posts/views.py" timestamp="1546729919158">
+        <mark key="[" line="96" column="47" />
+        <mark key="]" line="96" column="47" />
+        <mark key="." line="96" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546934271298">
+        <mark key="[" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
         <mark key="[" line="186" column="0" />
@@ -424,11 +438,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/repositories/recipe-app-api/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHB5dGhvbiBtYW5hZ2UucHkgbWlncmF0ZSAmJgogICAgICAgICAgICAgcHl0aG9uIG1hbmFnZS5weSBjb2xsZWN0c3RhdGljIC1jIC0tbm9pbnB1dCAmJgo=</text>
+      <register name="&quot;" type="4">
+        <text>app</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>ingredients_url</text>
@@ -452,31 +466,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHB5dGhvbiBtYW5hZ2UucHkgbWlncmF0ZSAmJgogICAgICAgICAgICAgcHl0aG9uIG1hbmFnZS5weSBjb2xsZWN0c3RhdGljIC1jIC0tbm9pbnB1dCAmJgo=</text>
+        <text encoding="base64">UE9TVEdSRVNfUEFTU1dPUkQ9TTIwZHVMTmVNTG42OHV3dk9lc0xNaVdYalRiaVhrago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHB5dGhvbiBtYW5hZ2UucHkgbWlncmF0ZSAmJgogICAgICAgICAgICAgcHl0aG9uIG1hbmFnZS5weSBjb2xsZWN0c3RhdGljIC1jIC0tbm9pbnB1dCAmJgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REFUQUJBU0VfVVJMPXBzcWw6Ly9wb3N0Z3JlczpNMjBkdUxOZU1MbjY4dXd2T2VzTE1pV1hqVGJpWGtqQGRiOjU0MzIvYXBwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REJfUEFTUwo=</text>
+        <text encoding="base64">REFUQUJBU0VfVVJMPXBzcWw6Ly9wb3N0Z3JlczpNMjBkdUxOZU1MbjY4dXd2T2VzTE1pV1hqVGJpWGtqQGRiOjU0MzIvYXBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBQT1NUR1JFU18K</text>
+        <text encoding="base64">REJfUEFTUwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBEQl9IT1NUPWRiCiAgICAgIC0gREJfTkFNRT1hcHAKICAgICAgLSBEQl9VU0VSPXBvc3RncmVzCiAgICAgIC0gREJfUEFTUz1zdXBlcnNlY3JldHBhc3N3b3JkCg==</text>
+        <text encoding="base64">ICAgICAgLSBQT1NUR1JFU18K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN1cnJfZGlyID0gb3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKQo=</text>
+        <text encoding="base64">ICAgICAgLSBEQl9IT1NUPWRiCiAgICAgIC0gREJfTkFNRT1hcHAKICAgICAgLSBEQl9VU0VSPXBvc3RncmVzCiAgICAgIC0gREJfUEFTUz1zdXBlcnNlY3JldHBhc3N3b3JkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGN1cnJfZGlyID0gb3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/self\.client/authenticated_client/g</text>
