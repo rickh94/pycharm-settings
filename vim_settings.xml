@@ -117,8 +117,12 @@
       <file name="/" timestamp="1546588017139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_ingredients_api.py" timestamp="1546827270521">
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_ingredients_api.py" timestamp="1546829498657">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="53" />
+        <mark key="]" line="47" column="41" />
+        <mark key="^" line="47" column="41" />
+        <mark key="." line="47" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_test.py" timestamp="1546825728319">
         <mark key="[" line="7" column="7" />
