@@ -108,22 +108,10 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/views.py" timestamp="1546827219448">
-        <mark key="[" line="33" column="55" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-        <mark key="^" line="34" column="3" />
-      </file>
       <file name="/" timestamp="1546588017139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_ingredients_api.py" timestamp="1546829498657">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="53" />
-        <mark key="]" line="47" column="41" />
-        <mark key="^" line="47" column="41" />
-        <mark key="." line="47" column="41" />
-      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_ingredients_api.py" timestamp="1546829498657" />
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_test.py" timestamp="1546825728319">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="8" column="12" />
@@ -141,9 +129,6 @@
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/core/models.py" timestamp="1546823401165">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/setup.py" timestamp="1546823945839">
         <mark key="[" line="12" column="8" />
