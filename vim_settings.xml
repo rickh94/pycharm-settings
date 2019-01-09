@@ -84,12 +84,7 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/docker-compose.yml" timestamp="1547057131339">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/docker-compose.yml" timestamp="1547057131339" />
       <file name="$USER_HOME$/repositories/recipe-app-api/app/app/settings.py" timestamp="1546817519548">
         <mark key="[" line="42" column="11" />
         <mark key="]" line="43" column="10" />
@@ -107,12 +102,7 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx/django.conf" timestamp="1547057323929">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="32" />
-      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx/django.conf" timestamp="1547057323929" />
       <file name="/" timestamp="1546588017139">
         <mark key="[" line="0" column="0" />
       </file>
