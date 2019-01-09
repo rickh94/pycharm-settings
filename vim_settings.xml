@@ -156,6 +156,12 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/contactmanager_context_with_backend/cli/commands/cmd_manage.py" timestamp="1547071839286">
+        <mark key="[" line="13" column="64" />
+        <mark key="]" line="13" column="71" />
+        <mark key="^" line="13" column="71" />
+        <mark key="." line="13" column="71" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/core/admin.py" timestamp="1546824602336">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="23" column="36" />
@@ -231,6 +237,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/repositories/contactmanager_context_with_backend/setup.py" timestamp="1547071763119">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/Dockerfile" timestamp="1547010581681">
         <mark key="[" line="16" column="0" />
@@ -345,11 +357,11 @@
       <jump line="72" column="9" filename="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiA4NDQzIHNzbDsKICAgIHNlcnZlcl9uYW1lIGxvY2FsaG9zdDsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>migrate</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>migrate</text>
       </register>
       <register name="/" type="4">
         <text>monkeypatch</text>
