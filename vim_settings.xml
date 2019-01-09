@@ -27,9 +27,6 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1546826684286">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1546708985107">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="35" />
@@ -85,11 +82,23 @@
         <mark key="^" line="16" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/docker-compose.yml" timestamp="1547057131339" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" timestamp="1547075642482">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="21" column="71" />
+        <mark key="^" line="21" column="71" />
+        <mark key="." line="21" column="71" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/app/settings.py" timestamp="1546817519548">
         <mark key="[" line="42" column="11" />
         <mark key="]" line="43" column="10" />
         <mark key="." line="43" column="10" />
         <mark key="^" line="43" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/core/tests/test_models.py" timestamp="1547075431000">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/yaml_interface.py" timestamp="1546658865648">
         <mark key="[" line="13" column="31" />
@@ -102,20 +111,55 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx/django.conf" timestamp="1547057323929" />
-      <file name="/" timestamp="1546588017139">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_makemigrations.py" timestamp="1547072137304">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+        <mark key="^" line="14" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_ingredients_api.py" timestamp="1546829498657" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/core/tests/test_commands.py" timestamp="1547074251158">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/Pipfile" timestamp="1547075608353">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx/django.conf" timestamp="1547057323929" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_manage.py" timestamp="1547072429080">
+        <mark key="[" line="14" column="86" />
+        <mark key="]" line="14" column="90" />
+        <mark key="." line="14" column="90" />
+        <mark key="^" line="14" column="90" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/Dockerfile" timestamp="1547076673175">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/pytest.ini" timestamp="1547074176842">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_test.py" timestamp="1546825728319">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="8" column="12" />
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" timestamp="1547008611234">
-        <mark key="'" line="72" column="9" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_migrate.py" timestamp="1547072270647">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="12" column="51" />
       </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/manage.py" timestamp="1547073738380" />
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" timestamp="1546708173712">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="1" />
@@ -128,6 +172,18 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_rebuild.py" timestamp="1547076773738">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/core/models.py" timestamp="1547075303911">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/setup.py" timestamp="1546823945839">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="13" />
@@ -139,11 +195,6 @@
         <mark key="]" line="126" column="15" />
         <mark key="^" line="126" column="15" />
         <mark key="." line="126" column="15" />
-      </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1547011353881">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/pytest.ini" timestamp="1546826176851">
         <mark key="[" line="1" column="37" />
@@ -179,12 +230,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/urls.py" timestamp="1546827211611">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="53" />
-        <mark key="^" line="7" column="53" />
-        <mark key="." line="7" column="53" />
-      </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/settings.py" timestamp="1544413098764">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="23" />
@@ -196,17 +241,11 @@
         <mark key="]" line="96" column="47" />
         <mark key="." line="96" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546820529382">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
         <mark key="^" line="183" column="46" />
         <mark key="." line="186" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/core/tests/test_models.py" timestamp="1546823310791">
-        <mark key="'" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_makemigrations.py" timestamp="1546825779687">
         <mark key="[" line="9" column="32" />
@@ -225,6 +264,12 @@
         <mark key="]" line="3" column="44" />
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_test.py" timestamp="1547072286201">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="48" />
+        <mark key="^" line="15" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/.flake8" timestamp="1546814633156">
         <mark key="[" line="7" column="15" />
@@ -249,11 +294,22 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/core/management/commands/wait_for_db.py" timestamp="1547073877904">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="7" column="67" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="53" />
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbok/tests/test_addressbook_api.py" timestamp="1547076401482">
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/pytest.ini" timestamp="1546826091993">
         <mark key="[" line="1" column="38" />
@@ -267,14 +323,17 @@
         <mark key="^" line="22" column="59" />
         <mark key="." line="22" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1546742126144">
-        <mark key="[" line="143" column="11" />
-      </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/admin.py" timestamp="1545270531363">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="10" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547075871458">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="48" column="15" />
+        <mark key="^" line="48" column="15" />
+        <mark key="." line="48" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -358,10 +417,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>migrate</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>migrate</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>monkeypatch</text>
@@ -385,31 +444,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiA4NDQzIHNzbDsKICAgIHNlcnZlcl9uYW1lIGxvY2FsaG9zdDsKCg==</text>
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJvb3QgPSBvcy5wYXRoLmpvaW4oY3Vycl9kaXIsICcnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJld3JpdGUgdwo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiA4MDAwOwo=</text>
+        <text encoding="base64">Y2xhc3MgVGVzdFByaXZhdGVBZGRyZXNzQm9va0FQSShvYmplY3QpOgogICAgZGVmIHRlc3RfCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQgbW9jawo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb25rZXlwYXRjaCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2kuYXNzZXJ0X2NhbGxlZE9uY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtZWRpYS1maWxlczpkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Vk9MVU1FIC92b2wK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
