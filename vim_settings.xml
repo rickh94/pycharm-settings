@@ -42,13 +42,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_tags_api.py" timestamp="1546821163460">
-        <mark key="'" line="9" column="3" />
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="75" column="28" />
-        <mark key="^" line="75" column="69" />
-        <mark key="." line="75" column="28" />
-      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/mutopia.py" timestamp="1546658703911">
         <mark key="[" line="44" column="44" />
         <mark key="]" line="44" column="45" />
@@ -125,6 +118,9 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" timestamp="1547008611234">
+        <mark key="'" line="72" column="9" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" timestamp="1546708173712">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="1" />
@@ -149,12 +145,12 @@
         <mark key="^" line="126" column="15" />
         <mark key="." line="126" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1547006462050">
-        <mark key="'" line="212" column="16" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="8" />
-        <mark key="^" line="212" column="11" />
-        <mark key="." line="210" column="8" />
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1547008716754">
+        <mark key="'" line="217" column="16" />
+        <mark key="[" line="212" column="36" />
+        <mark key="]" line="213" column="52" />
+        <mark key="." line="213" column="52" />
+        <mark key="^" line="213" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/pytest.ini" timestamp="1546826176851">
         <mark key="[" line="1" column="37" />
@@ -349,16 +345,18 @@
       <jump line="9" column="3" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_tags_api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_ingredients_api.py" />
       <jump line="198" column="16" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" />
+      <jump line="45" column="22" filename="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" />
+      <jump line="72" column="9" filename="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9ua2V5cGF0Y2guc2V0YXR0cigiY29yZS5tb2RlbHMucmVjaXBlX2ltYWdlX2ZpbGVfcGF0aCIsIGZha2VfaW1hZ2VfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbS5zZXRhdHRyKCJjb3JlLm1vZGVscy5yZWNpcGVfaW1hZ2VfZmlsZV9wYXRoIiwgZmFrZV9wYXRoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2l0aCA=</text>
+        <text>core.models.recipe_image_file_path</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text>monkeypatch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgIiIiUmV0dXJuIG9iamVjdHMgZm9yIHRoZSBjdXJyZW50IGF1dGhlbnRpY2F0ZWQgdXNlciBvbmx5IiIiCiAgICAgICAgcmV0dXJuIHNlbGYucXVlcnlzZXQuZmlsdGVyKHVzZXI9c2VsZi5yZXF1ZXN0LnVzZXIpLm9yZGVyX2J5KCItbmFtZSIpCg==</text>
@@ -379,40 +377,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9ua2V5cGF0Y2guc2V0YXR0cigiY29yZS5tb2RlbHMucmVjaXBlX2ltYWdlX2ZpbGVfcGF0aCIsIGZha2VfaW1hZ2VfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbS5zZXRhdHRyKCJjb3JlLm1vZGVscy5yZWNpcGVfaW1hZ2VfZmlsZV9wYXRoIiwgZmFrZV9wYXRoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGZha2VfaW1hZ2VfcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG1wX3BhdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9ua2V5cGF0Y2guc2V0YXR0cigiY29yZS5tb2RlbHMucmVjaXBlX2ltYWdlX2ZpbGVfcGF0aCIsIGZha2VfaW1hZ2VfcGF0aCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjaXBlX2ltYWdlX2ZpbGVfcGF0aAo=</text>
+        <text encoding="base64">ZGVmIGZha2VfaW1hZ2VfcGF0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlLm1vZGVscyBpbXBvcnQgUmVjaXBlLCByZWNpcGVfaW1hZ2VfZmlsZV9wYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG1wX3BhdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjaXBlX2ltYWdlX2ZpbGVfcGF0aAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
+        <text encoding="base64">ZnJvbSBjb3JlLm1vZGVscyBpbXBvcnQgUmVjaXBlLCByZWNpcGVfaW1hZ2VfZmlsZV9wYXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJ1biBhIHRlc3QgY292ZXJhZ2UgcmVwb3J0Lgo=</text>
+        <text encoding="base64">ICAgIGF1dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBwYXRoOiBUZXN0IGNvdmVyYWdlIHBhdGgK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search>monkeypatch</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern>monkeypatch</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>style</last-substitute>
       <last-dir>1</last-dir>
@@ -436,6 +434,7 @@
         <entry>_ask_to_save</entry>
         <entry>license</entry>
         <entry>style</entry>
+        <entry>monkeypatch</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
