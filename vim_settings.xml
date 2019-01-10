@@ -51,11 +51,11 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" timestamp="1547097398845">
-        <mark key="[" line="30" column="1" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" timestamp="1547099372744">
+        <mark key="[" line="31" column="65" />
+        <mark key="]" line="31" column="74" />
+        <mark key="." line="31" column="74" />
+        <mark key="^" line="31" column="74" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/app/settings.py" timestamp="1546817519548">
         <mark key="[" line="42" column="11" />
@@ -68,6 +68,12 @@
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/templates/account/email_confirm.html" timestamp="1547099144911">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/yaml_interface.py" timestamp="1546658865648">
         <mark key="[" line="13" column="31" />
@@ -498,11 +504,11 @@
       <jump line="23" column="63" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhdGgoImFwaS92MS9hdXRoL3Bhc3N3b3JkL3Jlc2V0Lzx1aWRiNjQ+Lzx0b2tlbj4vIiwgZW1wdHlfdmlldywgbmFtZT0icGFzc3dvcmRfcmVzZXRfY29uZmlybSIpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>confirm_email</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>confirm_email</text>
       </register>
       <register name="/" type="4">
         <text>monkeypatch</text>
