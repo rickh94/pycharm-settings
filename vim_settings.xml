@@ -27,9 +27,13 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1546826684286">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/apps.py" timestamp="1547079160463">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/views.py" timestamp="1547079186456" />
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1546708985107">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="35" />
@@ -71,6 +75,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="^" line="28" column="6" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/core/admin.py" timestamp="1547078898498">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
         <mark key="[" line="11" column="10" />
@@ -132,9 +142,6 @@
         <mark key="." line="18" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx/django.conf" timestamp="1547057323929" />
-      <file name="/" timestamp="1546588017139">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_manage.py" timestamp="1547072429080">
         <mark key="[" line="14" column="86" />
         <mark key="]" line="14" column="90" />
@@ -157,6 +164,12 @@
         <mark key="]" line="5" column="16" />
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/tests/conftest.py" timestamp="1547079577074">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="37" column="21" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="37" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_test.py" timestamp="1546825728319">
         <mark key="[" line="7" column="7" />
@@ -183,8 +196,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbok/urls.py" timestamp="1547078344867">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbok/urls.py" timestamp="1547078715248">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="10" column="42" />
+        <mark key="." line="10" column="42" />
+        <mark key="^" line="10" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbok/views.py" timestamp="1547078133872">
         <mark key="[" line="12" column="41" />
@@ -192,16 +208,22 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="41" />
       </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/tests/test_addressbook_api.py" timestamp="1547079563329">
+        <mark key="'" line="35" column="41" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_rebuild.py" timestamp="1547076814489">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/core/models.py" timestamp="1547075303911">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/core/models.py" timestamp="1547079636506">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+        <mark key="^" line="8" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/setup.py" timestamp="1546823945839">
         <mark key="[" line="12" column="8" />
@@ -264,9 +286,6 @@
         <mark key="[" line="96" column="47" />
         <mark key="]" line="96" column="47" />
         <mark key="." line="96" column="47" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1546820529382">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
         <mark key="[" line="186" column="0" />
@@ -333,6 +352,7 @@
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/serializers.py" timestamp="1547079178309" />
       <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbok/tests/test_addressbook_api.py" timestamp="1547076401482">
         <mark key="]" line="6" column="33" />
         <mark key="^" line="6" column="33" />
@@ -350,20 +370,17 @@
         <mark key="^" line="22" column="59" />
         <mark key="." line="22" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1546742126144">
-        <mark key="[" line="143" column="11" />
-      </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/admin.py" timestamp="1545270531363">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="10" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547075871458">
-        <mark key="[" line="48" column="15" />
-        <mark key="]" line="48" column="15" />
-        <mark key="^" line="48" column="15" />
-        <mark key="." line="48" column="15" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547079148791">
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="42" column="26" />
+        <mark key="^" line="42" column="26" />
+        <mark key="." line="42" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -444,13 +461,17 @@
       <jump line="198" column="16" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" />
       <jump line="45" column="22" filename="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" />
       <jump line="72" column="9" filename="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" />
+      <jump line="39" column="37" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/tests/test_addressbook_api.py" />
+      <jump line="50" column="20" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/tests/test_addressbook_api.py" />
+      <jump line="54" column="41" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/tests/test_addressbook_api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/tests/test_addressbook_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ted</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBjb250YWN0MSgpOgogICAgcmV0dXJuCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>ted</text>
+        <text>INGREDIENTS</text>
       </register>
       <register name="/" type="4">
         <text>monkeypatch</text>
@@ -474,31 +495,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBjb250YWN0MSgpOgogICAgcmV0dXJuCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBwdWJsaWNfY2xpZW50KCk6CiAgICByZXR1cm4gQVBJQ2xpZW50KCkKCgpAcHl0ZXN0LmZpeHR1cmUKZGVmIGF1dGhlbnRpY2F0ZWRfY2xpZW50KHRlc3RfdXNlcik6CiAgICBjbGllbnQgPSBBUElDbGllbnQoKQogICAgY2xpZW50LmZvcmNlX2F1dGhlbnRpY2F0ZSh0ZXN0X3VzZXIpCiAgICByZXR1cm4gY2xpZW50CgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I0NPUFkgLi9yZXF1aXJlbWVudHMudHh0IC9yZXF1aXJlbWVudHMudHh0Cg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiB0ZXN0X3VzZXIoKToKICAgIHJldHVybiBnZXRfdXNlcl9tb2RlbCgpLm9iamVjdHMuY3JlYXRlKAogICAgICAgIHVzZXJuYW1lPSJiYXJhY2siLCBlbWFpbD0iYmFyYWNrQHdoaXRlaG91c2UuZ292IiwgcGFzc3dvcmQ9IlRoZSA0NHRoIFByZXNpZGVudCIKICAgICkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbChmInBpcGVudiBsb2NrIC1yIHtyb290fS9yZXF1aXJlbWVudHMudHh0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1cnJfZGlyID0gUGF0aChfX2ZpbGVfXykKICAgIGNsaSA9IFBhdGgoY3Vycl9kaXIsICcuLicpCiAgICByb290ID0gUGF0aChjbGksICcuLicpCg==</text>
+        <text encoding="base64">Y2xhc3MgQ29udGFjdFNlcmlhbGl6ZXIob2JqZWN0KTogcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbAo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcGF0aAoKZnJvbSBhZGRyZXNzYm9rIGltcG9ydCB2aWV3cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvb3QgPSBvcy5wYXRoLmpvaW4oY3Vycl9kaXIsICcnKQo=</text>
+        <text encoding="base64">dXJscGF0dGVybnMgPSBbCiAgICBwYXRoKCdjb250YWN0cy8nLCB2aWV3cy5DKQpdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -560,6 +581,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
