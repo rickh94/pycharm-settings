@@ -58,11 +58,11 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" timestamp="1547103270648">
-        <mark key="[" line="37" column="65" />
-        <mark key="]" line="37" column="90" />
-        <mark key="." line="37" column="90" />
-        <mark key="^" line="37" column="90" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" timestamp="1547109626766">
+        <mark key="[" line="37" column="61" />
+        <mark key="]" line="38" column="34" />
+        <mark key="." line="38" column="34" />
+        <mark key="^" line="38" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/app/settings.py" timestamp="1546817519548">
         <mark key="[" line="42" column="11" />
@@ -233,12 +233,12 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547105777647">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="156" column="4" />
-        <mark key="]" line="156" column="5" />
-        <mark key="^" line="155" column="59" />
-        <mark key="." line="156" column="5" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547109173079">
+        <mark key="'" line="148" column="52" />
+        <mark key="[" line="165" column="57" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1546658855050">
         <mark key="[" line="130" column="46" />
@@ -518,16 +518,17 @@
       <jump line="142" column="30" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
       <jump line="23" column="63" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" />
       <jump line="146" column="0" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
+      <jump line="148" column="52" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QUNDT1VOVF9DT05GSVJNX0VNQUlMX09OX0dFVCA9IFRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>empty_view</text>
       </register>
       <register name="-" type="4">
         <text>empty_view</text>
       </register>
       <register name="/" type="4">
-        <text>monkeypatch</text>
+        <text>AUTHENTICATION_BACKENDS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0VDUkVUX0tFWT1kZXZzZWNyZXRrZXkKREVCVUc9VHJ1ZQpBTExPV0VEX0hPU1RTPWxvY2FsaG9zdCxjb250YWN0cyxiYWNrZW5kLWNvbnRhY3RzCkRCX0hPU1Q9YmFja2VuZC1kYgpQT1NUR1JFU19EQj1jb250YWN0cwpQT1NUR1JFU19VU0VSPWNvbnRhY3RzX3VzZXIKUE9TVEdSRVNfUEFTU1dPUkQ9Zmpkc2thc3BvaWVydW9pd3F5dGV3dXRlbmdtCg==</text>
@@ -579,9 +580,9 @@
       </register>
     </registers>
     <search>
-      <last-search>monkeypatch</last-search>
+      <last-search>AUTHENTICATION_BACKENDS</last-search>
       <last-offset />
-      <last-pattern>monkeypatch</last-pattern>
+      <last-pattern>AUTHENTICATION_BACKENDS</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>style</last-substitute>
       <last-dir>1</last-dir>
@@ -606,6 +607,7 @@
         <entry>license</entry>
         <entry>style</entry>
         <entry>monkeypatch</entry>
+        <entry>AUTHENTICATION_BACKENDS</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
