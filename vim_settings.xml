@@ -27,6 +27,9 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="/a.dummy" timestamp="1546826684286">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1546708985107">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="35" />
@@ -129,23 +132,31 @@
         <mark key="." line="18" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx/django.conf" timestamp="1547057323929" />
+      <file name="/" timestamp="1546588017139">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_manage.py" timestamp="1547072429080">
         <mark key="[" line="14" column="86" />
         <mark key="]" line="14" column="90" />
         <mark key="." line="14" column="90" />
         <mark key="^" line="14" column="90" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/Dockerfile" timestamp="1547076673175">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="8" column="40" />
-        <mark key="." line="8" column="40" />
-        <mark key="^" line="8" column="40" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/Dockerfile" timestamp="1547077837028">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/pytest.ini" timestamp="1547074176842">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="32" />
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbok/serializers.py" timestamp="1547078064938">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_test.py" timestamp="1546825728319">
         <mark key="[" line="7" column="7" />
@@ -172,11 +183,19 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_rebuild.py" timestamp="1547076773738">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="29" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbok/urls.py" timestamp="1547078344867">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbok/views.py" timestamp="1547078133872">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_rebuild.py" timestamp="1547076814489">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/core/models.py" timestamp="1547075303911">
         <mark key="[" line="11" column="61" />
@@ -195,6 +214,11 @@
         <mark key="]" line="126" column="15" />
         <mark key="^" line="126" column="15" />
         <mark key="." line="126" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1547011353881">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/pytest.ini" timestamp="1546826176851">
         <mark key="[" line="1" column="37" />
@@ -240,6 +264,9 @@
         <mark key="[" line="96" column="47" />
         <mark key="]" line="96" column="47" />
         <mark key="." line="96" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546820529382">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
         <mark key="[" line="186" column="0" />
@@ -322,6 +349,9 @@
         <mark key="]" line="22" column="59" />
         <mark key="^" line="22" column="59" />
         <mark key="." line="22" column="59" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" timestamp="1546742126144">
+        <mark key="[" line="143" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/admin.py" timestamp="1545270531363">
         <mark key="[" line="5" column="6" />
@@ -417,10 +447,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>ted</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>ted</text>
       </register>
       <register name="/" type="4">
         <text>monkeypatch</text>
@@ -444,31 +474,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbAo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvb3QgPSBvcy5wYXRoLmpvaW4oY3Vycl9kaXIsICcnKQo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">I0NPUFkgLi9yZXF1aXJlbWVudHMudHh0IC9yZXF1aXJlbWVudHMudHh0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbChmInBpcGVudiBsb2NrIC1yIHtyb290fS9yZXF1aXJlbWVudHMudHh0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdFByaXZhdGVBZGRyZXNzQm9va0FQSShvYmplY3QpOgogICAgZGVmIHRlc3RfCg==</text>
+        <text encoding="base64">ICAgIGN1cnJfZGlyID0gUGF0aChfX2ZpbGVfXykKICAgIGNsaSA9IFBhdGgoY3Vycl9kaXIsICcuLicpCiAgICByb290ID0gUGF0aChjbGksICcuLicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2kuYXNzZXJ0X2NhbGxlZE9uY2UoKQo=</text>
+        <text encoding="base64">ICAgIHJvb3QgPSBvcy5wYXRoLmpvaW4oY3Vycl9kaXIsICcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
