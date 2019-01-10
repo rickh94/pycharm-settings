@@ -51,11 +51,11 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" timestamp="1547084941688">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="21" column="17" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" timestamp="1547097398845">
+        <mark key="[" line="30" column="1" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/app/settings.py" timestamp="1546817519548">
         <mark key="[" line="42" column="11" />
@@ -213,11 +213,11 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547093684528">
-        <mark key="[" line="147" column="52" />
-        <mark key="]" line="147" column="102" />
-        <mark key="^" line="147" column="102" />
-        <mark key="." line="147" column="102" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547097473359">
+        <mark key="[" line="150" column="49" />
+        <mark key="]" line="150" column="72" />
+        <mark key="^" line="150" column="72" />
+        <mark key="." line="150" column="72" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1546658855050">
         <mark key="[" line="130" column="46" />
@@ -495,13 +495,14 @@
       <jump line="63" column="41" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/tests/test_addressbook_api.py" />
       <jump line="42" column="26" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
       <jump line="142" column="30" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
+      <jump line="23" column="63" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGgoImFwaS92MS9hdXRoL3Bhc3N3b3JkL3Jlc2V0Lzx1aWRiNjQ+Lzx0b2tlbj4vIiwgZW1wdHlfdmlldywgbmFtZT0icGFzc3dvcmRfcmVzZXRfY29uZmlybSIpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>monkeypatch</text>
@@ -525,31 +526,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGgoImFwaS92MS9hdXRoL3Bhc3N3b3JkL3Jlc2V0Lzx1aWRiNjQ+Lzx0b2tlbj4vIiwgZW1wdHlfdmlldywgbmFtZT0icGFzc3dvcmRfcmVzZXRfY29uZmlybSIpLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcj1nZXRfdXNlcl9tb2RlbC5vYmplY3RzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcj1nZXRfdXNlcl9tb2RlbC5vYmplY3RzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgY29udGFjdC51c2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NyZWF0ZV9jb250YWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgY29udGFjdC51c2VyLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWNpcGUgPSByZWNpcGVfd2l0aF90YWdfaW5ncmVkaWVudDEK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NyZWF0ZV9jb250YWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YQo=</text>
+        <text encoding="base64">ICAgICAgICByZWNpcGUgPSByZWNpcGVfd2l0aF90YWdfaW5ncmVkaWVudDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250YQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
