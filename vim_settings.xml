@@ -45,6 +45,13 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/user/tests/test_user_api.py" timestamp="1546816227025">
+        <mark key="'" line="9" column="24" />
+        <mark key="[" line="123" column="70" />
+        <mark key="]" line="124" column="59" />
+        <mark key="." line="124" column="59" />
+        <mark key="^" line="124" column="59" />
+      </file>
       <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545849897284">
         <mark key="[" line="15" column="70" />
         <mark key="]" line="16" column="59" />
@@ -109,25 +116,11 @@
         <mark key="^" line="52" column="22" />
         <mark key="." line="52" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" timestamp="1546722594003">
-        <mark key="'" line="52" column="5" />
-        <mark key="[" line="85" column="76" />
-        <mark key="]" line="85" column="76" />
-        <mark key="." line="85" column="76" />
-        <mark key="^" line="57" column="54" />
-      </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_migrate.py" timestamp="1547072270647">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="51" />
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="51" />
-      </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/user/urls.py" timestamp="1546816626606">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="9" column="55" />
-        <mark key="^" line="9" column="55" />
-        <mark key="." line="9" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" timestamp="1546708173712">
         <mark key="[" line="93" column="0" />
@@ -159,6 +152,13 @@
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/user/views.py" timestamp="1546816440842">
+        <mark key="'" line="18" column="59" />
+        <mark key="[" line="29" column="52" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="30" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/core/admin.py" timestamp="1546824602336">
         <mark key="[" line="22" column="31" />
@@ -233,12 +233,12 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547103413697">
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547105777647">
         <mark key="'" line="146" column="0" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="^" line="152" column="34" />
-        <mark key="." line="152" column="0" />
+        <mark key="[" line="156" column="4" />
+        <mark key="]" line="156" column="5" />
+        <mark key="^" line="155" column="59" />
+        <mark key="." line="156" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1546658855050">
         <mark key="[" line="130" column="46" />
@@ -287,13 +287,6 @@
         <mark key="^" line="28" column="6" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/update_db_manually.py" timestamp="1546589315588">
-        <mark key="'" line="184" column="21" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="18" column="8" />
-      </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="14" />
@@ -304,13 +297,6 @@
         <mark key="[" line="3" column="22" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" timestamp="1546816609650">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="22" column="7" />
-        <mark key="^" line="22" column="7" />
-        <mark key="." line="22" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_makemigrations.py" timestamp="1547072137304">
         <mark key="[" line="14" column="36" />
@@ -362,13 +348,6 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" timestamp="1546630102295">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="19" column="15" />
-      </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/core/models.py" timestamp="1547084593655">
         <mark key="[" line="8" column="59" />
         <mark key="]" line="8" column="59" />
@@ -391,13 +370,6 @@
         <mark key="[" line="1" column="37" />
         <mark key="]" line="1" column="37" />
         <mark key="." line="1" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" timestamp="1546658557019">
-        <mark key="'" line="305" column="70" />
-        <mark key="[" line="345" column="26" />
-        <mark key="]" line="345" column="33" />
-        <mark key="." line="345" column="33" />
-        <mark key="^" line="345" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/gist_clone/celery.py" timestamp="1546742253096">
         <mark key="[" line="7" column="24" />
@@ -428,13 +400,6 @@
         <mark key="^" line="183" column="46" />
         <mark key="." line="186" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db.py" timestamp="1546595200580">
-        <mark key="'" line="197" column="0" />
-        <mark key="[" line="40" column="34" />
-        <mark key="]" line="40" column="35" />
-        <mark key="^" line="40" column="35" />
-        <mark key="." line="40" column="35" />
-      </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/views.py" timestamp="1544412704427">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="14" />
@@ -452,13 +417,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="30" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1546719732140">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="51" />
-        <mark key="]" line="33" column="58" />
-        <mark key="." line="33" column="58" />
-        <mark key="^" line="33" column="58" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
         <mark key="[" line="12" column="26" />
