@@ -33,6 +33,12 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/pdf_from_site/.env" timestamp="1547238975028">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="61" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" timestamp="1546658017319">
         <mark key="[" line="69" column="68" />
         <mark key="]" line="69" column="84" />
@@ -400,6 +406,14 @@
         <mark key="]" line="96" column="47" />
         <mark key="." line="96" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" timestamp="1547238833802">
+        <mark key="'" line="48" column="34" />
+        <mark key="k" line="36" column="0" />
+        <mark key="[" line="59" column="77" />
+        <mark key="]" line="59" column="136" />
+        <mark key="." line="59" column="136" />
+        <mark key="^" line="59" column="136" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
@@ -411,6 +425,12 @@
         <mark key="]" line="3" column="14" />
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/pdf_from_site/s3interface.py" timestamp="1547238794314">
+        <mark key="[" line="13" column="77" />
+        <mark key="]" line="13" column="91" />
+        <mark key="^" line="13" column="91" />
+        <mark key="." line="13" column="91" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/.flake8" timestamp="1546814633156">
         <mark key="[" line="7" column="15" />
@@ -526,19 +546,21 @@
       <jump line="146" column="0" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
       <jump line="148" column="52" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
       <jump line="19" column="0" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
+      <jump line="49" column="8" filename="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" />
+      <jump line="46" column="34" filename="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TSvF7lBZ1bo6u5zkko1u3ya/zNRnj8SuUYrF8m2c</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>TSvF7lBZ1bo6u5zkko1u3ya/zNRnj8SuUYrF8m2c</text>
       </register>
       <register name="/" type="4">
-        <text>AUTHENTICATION_BACKENDS</text>
+        <text>plan_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VDUkVUX0tFWT1kZXZzZWNyZXRrZXkKREVCVUc9VHJ1ZQpBTExPV0VEX0hPU1RTPWxvY2FsaG9zdCxjb250YWN0cyxiYWNrZW5kLWNvbnRhY3RzCkRCX0hPU1Q9YmFja2VuZC1kYgpQT1NUR1JFU19EQj1jb250YWN0cwpQT1NUR1JFU19VU0VSPWNvbnRhY3RzX3VzZXIKUE9TVEdSRVNfUEFTU1dPUkQ9Zmpkc2thc3BvaWVydW9pd3F5dGV3dXRlbmdtCg==</text>
+        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQgPSBvcy5lbnZpcm9uLmdldCgnQVdTX0FDQ0VTU19LRVlfSUQnLCBOb25lKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -559,39 +581,39 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QUNDT1VOVF9DT05GSVJNX0VNQUlMX09OX0dFVCA9IFRydWUK</text>
+        <text encoding="base64">ZGVmIGNvbmZpZ3VyZV9hd3MoKToKICAgIGhvbWUgPSBvcy5wYXRoLmV4cGFuZHVzZXIoJ34nKQogICAgY3JlZGVudGlhbHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGgoImFwaS92MS9hdXRoL3Bhc3N3b3JkL3Jlc2V0Lzx1aWRiNjQ+Lzx0b2tlbj4vIiwgZW1wdHlfdmlldywgbmFtZT0icGFzc3dvcmRfcmVzZXRfY29uZmlybSIpLAo=</text>
+        <text encoding="base64">ICAgIHdpdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcj1nZXRfdXNlcl9tb2RlbC5vYmplY3RzLgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwbGFuX2lkID0gTm9uZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgY29udGFjdC51c2VyLgo=</text>
+        <text encoding="base64">CmRlZiBzYWZlX2xpc3RfZ2V0KGxpc3RfLCBpZHgsIGRlZmF1bHQpOgogICAgdHJ5OgogICAgICAgIHJldHVybiBsaXN0X1tpZHhdCiAgICBleGNlcHQgSW5kZXhFcnJvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NyZWF0ZV9jb250YWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW1nX3VybCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/plan_id/map_url/g</text>
       </register>
     </registers>
     <search>
-      <last-search>AUTHENTICATION_BACKENDS</last-search>
+      <last-search>plan_id</last-search>
       <last-offset />
-      <last-pattern>AUTHENTICATION_BACKENDS</last-pattern>
-      <last-replace>source</last-replace>
-      <last-substitute>style</last-substitute>
+      <last-pattern>plan_id</last-pattern>
+      <last-replace>map_url</last-replace>
+      <last-substitute>plan_id</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -615,12 +637,14 @@
         <entry>style</entry>
         <entry>monkeypatch</entry>
         <entry>AUTHENTICATION_BACKENDS</entry>
+        <entry>plan_id</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
         <entry encoding="base64">JzwsJz5zL2xpY2Vuc2Uvc3R5bGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3N0eWxlL3NvdXJjZS9n</entry>
         <entry>w</entry>
+        <entry>s/plan_id/map_url/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
