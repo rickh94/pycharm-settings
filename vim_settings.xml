@@ -153,6 +153,12 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/templates/account/base.html" timestamp="1547184030144">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/user/views.py" timestamp="1546816440842">
         <mark key="'" line="18" column="59" />
         <mark key="[" line="29" column="52" />
@@ -233,12 +239,12 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547109173079">
-        <mark key="'" line="148" column="52" />
-        <mark key="[" line="165" column="57" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547184230103">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="72" column="29" />
+        <mark key="." line="72" column="29" />
+        <mark key="^" line="72" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1546658855050">
         <mark key="[" line="130" column="46" />
@@ -519,13 +525,14 @@
       <jump line="23" column="63" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" />
       <jump line="146" column="0" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
       <jump line="148" column="52" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>empty_view</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>empty_view</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text>AUTHENTICATION_BACKENDS</text>
@@ -549,31 +556,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QUNDT1VOVF9DT05GSVJNX0VNQUlMX09OX0dFVCA9IFRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhdGgoImFwaS92MS9hdXRoL3Bhc3N3b3JkL3Jlc2V0Lzx1aWRiNjQ+Lzx0b2tlbj4vIiwgZW1wdHlfdmlldywgbmFtZT0icGFzc3dvcmRfcmVzZXRfY29uZmlybSIpLAo=</text>
+        <text encoding="base64">QUNDT1VOVF9DT05GSVJNX0VNQUlMX09OX0dFVCA9IFRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGgoImFwaS92MS9hdXRoL3Bhc3N3b3JkL3Jlc2V0Lzx1aWRiNjQ+Lzx0b2tlbj4vIiwgZW1wdHlfdmlldywgbmFtZT0icGFzc3dvcmRfcmVzZXRfY29uZmlybSIpLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcj1nZXRfdXNlcl9tb2RlbC5vYmplY3RzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcj1nZXRfdXNlcl9tb2RlbC5vYmplY3RzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgY29udGFjdC51c2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NyZWF0ZV9jb250YWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgY29udGFjdC51c2VyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWNpcGUgPSByZWNpcGVfd2l0aF90YWdfaW5ncmVkaWVudDEK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NyZWF0ZV9jb250YWN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
