@@ -180,18 +180,18 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/.env.example" timestamp="1547093578206">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/.env.example" timestamp="1547280224231">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_npm_build.py" timestamp="1547251334940" />
-      <file name="$USER_HOME$/repositories/cm_w_backend/.env" timestamp="1547250428418">
-        <mark key="[" line="7" column="66" />
-        <mark key="]" line="8" column="50" />
-        <mark key="." line="8" column="50" />
-        <mark key="^" line="8" column="50" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/.env" timestamp="1547280197617">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/addressbook/tests/conftest.py" timestamp="1547084892211">
         <mark key="[" line="51" column="72" />
@@ -399,11 +399,11 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547257460168">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="44" />
-        <mark key="^" line="174" column="27" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" timestamp="1547280183876">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="54" />
+        <mark key="^" line="175" column="54" />
+        <mark key="." line="175" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_up.py" timestamp="1547251318696">
         <mark key="[" line="0" column="0" />
@@ -506,11 +506,11 @@
       <jump line="66" column="43" filename="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjb3JzaGVhZGVycy5taWRkbGV3YXJlLkNvcnNNaWRkbGV3YXJlIiwK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>os.</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>plan_id</text>
