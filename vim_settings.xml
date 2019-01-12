@@ -72,8 +72,8 @@
         <mark key="." line="44" column="45" />
         <mark key="^" line="44" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/pdf_from_site/.env" timestamp="1547238975028">
-        <mark key="[" line="4" column="22" />
+      <file name="$USER_HOME$/repositories/pdf_from_site/.env" timestamp="1547281406642">
+        <mark key="[" line="3" column="18" />
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="61" />
@@ -241,6 +241,12 @@
         <mark key="." line="16" column="77" />
         <mark key="^" line="16" column="77" />
       </file>
+      <file name="$USER_HOME$/repositories/pdf_from_site/.gitignore" timestamp="1547281511601">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/core/models.py" timestamp="1547084593655">
         <mark key="[" line="8" column="59" />
         <mark key="]" line="8" column="59" />
@@ -295,13 +301,13 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" timestamp="1547238833802">
+      <file name="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" timestamp="1547281359969">
         <mark key="'" line="48" column="34" />
         <mark key="k" line="36" column="0" />
-        <mark key="[" line="59" column="77" />
-        <mark key="]" line="59" column="136" />
-        <mark key="." line="59" column="136" />
-        <mark key="^" line="59" column="136" />
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="56" column="53" />
+        <mark key="." line="56" column="53" />
+        <mark key="^" line="56" column="56" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
         <mark key="[" line="186" column="0" />
@@ -507,10 +513,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>plan_id</text>
