@@ -222,7 +222,12 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1547445766836" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1547447262123">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="30" />
+        <mark key="^" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+      </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_migrate.py" timestamp="1547072270647">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="51" />
@@ -325,11 +330,11 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" timestamp="1547446180390">
-        <mark key="[" line="13" column="70" />
-        <mark key="]" line="13" column="70" />
-        <mark key="^" line="13" column="69" />
-        <mark key="." line="13" column="70" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" timestamp="1547447241587">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" timestamp="1547281359969">
         <mark key="'" line="48" column="34" />
@@ -551,10 +556,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>contacts</text>
@@ -578,31 +583,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5kaWVkIGFuZCBub3Qgc2VsZi5pc19hbGl2ZToKICAgICAgICAgICAgZGllZCA9ICc/Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZXpvbmUKCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGhvbmVudW1iZXJzID0gIioiCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWVkID0gc2VsZi5kaWVkLnllYXIgaWYgc2VsZi5kaWVkIGVsc2UgJz8nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGphbmdvLXBob25lbnVtYmVyLWZpZWxkID0gIioiCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWVkID0gc2VsZi5kaWVkLnllYXIgaWYgc2VsZi5kaWVkIGVsc2UgJycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhZGRyZXNzYm9vayIsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmJvcm46CiAgICAgICAgICAgIGJvcm4gPSBzZWxmLmJvcm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwaG9uZW51bWJlcl9maWVsZCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWVkID0gc2VsZi5ib3JuLnllYXIgaWYgcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjb3JzaGVhZGVycy5taWRkbGV3YXJlLkNvcnNNaWRkbGV3YXJlIiwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfc2hvcnRfbmFtZShzZWxmKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBjbWQgPSAiZG9ja2VyLWNvbXBvc2UgdXAgLWQiCiAgICByZXR1cm4gc3VicHJvY2Vzcy5jYWxsKGNtZCwgc2hlbGw9VHJ1ZSkK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name=":" type="4">
         <text>s/plan_id/map_url/g</text>
