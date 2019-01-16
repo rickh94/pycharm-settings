@@ -403,6 +403,14 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" timestamp="1547671381882">
+        <mark key="'" line="56" column="34" />
+        <mark key="k" line="44" column="0" />
+        <mark key="[" line="81" column="16" />
+        <mark key="]" line="81" column="30" />
+        <mark key="^" line="81" column="30" />
+        <mark key="." line="81" column="30" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
@@ -649,16 +657,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q09SU19VUkxfUkVHRVggPSByIl4vYXBpLy4qJCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWQsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>image_file</text>
       </register>
       <register name="/" type="4">
         <text>contacts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGgoImF1dGgvIiwgaW5jbHVkZSgicmVzdF9hdXRoLnVybHMiKSksCiAgICBwYXRoKCJhdXRoL3JlZ2lzdHJhdGlvbi8iLCBpbmNsdWRlKCJyZXN0X2F1dGgucmVnaXN0cmF0aW9uLnVybHMiKSksCiAgICBwYXRoKCJtdXNpYy8iLCBpbmNsdWRlKCJtdXNpYy51cmxzIikpCg==</text>
+        <text encoding="base64">ICAgIGF0ID0gQWlydGFibGUoYmFzZV9rZXk9QkFTRV9LRVksIGFwaV9rZXk9QVBJX0tFWSwgdGFibGVfbmFtZT1UQUJMRV9OQU1FKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -676,31 +684,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09SU19VUkxfUkVHRVggPSByIl4vYXBpLy4qJCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBXRUJQQUNLIExPQURFUlMKV0VCUEFDS19MT0FERVIgPSB7CiAgICAnREVGQVVMVCc6IHsKICAgICAgICAnQlVORExFX0RJUl9OQU1FJzogJ2J1bmRsZXMvJywKICAgICAgICAnU1RBVFNfRklMRSc6IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3dlYnBhY2stc3RhdHMuZGV2Lmpzb24nKQogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbVsiaWQiXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJycsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9ImluZGV4Lmh0bWwiKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXgK</text>
+        <text encoding="base64">ICAgICMgYnJlYWsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5ydW5fdW50aWxfY29tcGxldGUoZ2V0X2ltYWdlcygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNob3J0X25hbWU6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnNob3J0X25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MuYXBwZW5kKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Q09SU19VUkxfUkVHRVggPSByIl4vYXBpLy4qJCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoIGltcG9ydCBnZXRfdXNlcl9tb2RlbAo=</text>
+        <text encoding="base64">IyBXRUJQQUNLIExPQURFUlMKV0VCUEFDS19MT0FERVIgPSB7CiAgICAnREVGQVVMVCc6IHsKICAgICAgICAnQlVORExFX0RJUl9OQU1FJzogJ2J1bmRsZXMvJywKICAgICAgICAnU1RBVFNfRklMRSc6IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3dlYnBhY2stc3RhdHMuZGV2Lmpzb24nKQogICAgfQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/plan_id/map_url/g</text>
