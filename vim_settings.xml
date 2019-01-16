@@ -82,11 +82,11 @@
         <mark key="." line="44" column="45" />
         <mark key="^" line="44" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/pdf_from_site/.env" timestamp="1547281406642">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="61" />
+      <file name="$USER_HOME$/repositories/pdf_from_site/.env" timestamp="1547675181169">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/conftest.py" timestamp="1547661355472">
         <mark key="[" line="3" column="0" />
@@ -403,13 +403,13 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" timestamp="1547671381882">
-        <mark key="'" line="56" column="34" />
-        <mark key="k" line="44" column="0" />
-        <mark key="[" line="81" column="16" />
-        <mark key="]" line="81" column="30" />
-        <mark key="^" line="81" column="30" />
-        <mark key="." line="81" column="30" />
+      <file name="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" timestamp="1547675188643">
+        <mark key="'" line="23" column="0" />
+        <mark key="k" line="50" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="54" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="87" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1546723042301">
         <mark key="[" line="186" column="0" />
@@ -434,10 +434,6 @@
         <mark key="]" line="13" column="91" />
         <mark key="^" line="13" column="91" />
         <mark key="." line="13" column="91" />
-      </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/conftest.py" timestamp="1547527786341">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/.env" timestamp="1544412797121">
         <mark key="[" line="3" column="26" />
@@ -554,9 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="4" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/gist_clone/gist_clone/settings.py" />
-      <jump line="28" column="35" filename="$USER_HOME$/repositories/gist_clone/posts/models.py" />
       <jump line="58" column="99" filename="$USER_HOME$/repositories/gist_clone/posts/views.py" />
       <jump line="14" column="11" filename="$USER_HOME$/repositories/gist_clone/posts/forms.py" />
       <jump line="4" column="21" filename="$USER_HOME$/repositories/gist_clone/gist_clone/views.py" />
@@ -654,19 +647,22 @@
       <jump line="36" column="0" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" />
       <jump line="69" column="12" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" />
       <jump line="107" column="35" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" />
+      <jump line="82" column="22" filename="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" />
+      <jump line="15" column="8" filename="$USER_HOME$/repositories/tutorials/ponynote/Pipfile.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQsCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>image_file</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>contacts</text>
+        <text>psycopg2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF0ID0gQWlydGFibGUoYmFzZV9rZXk9QkFTRV9LRVksIGFwaV9rZXk9QVBJX0tFWSwgdGFibGVfbmFtZT1UQUJMRV9OQU1FKQo=</text>
+        <text encoding="base64">T1ZFUldSSVRFID0gZXZhbChvcy5lbnZpcm9uLmdldCgiT1ZFUldSSVRFIiwgJ0ZhbHNlJykpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -684,50 +680,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXRleGl0LnJlZ2lzdChvcy5yZW1vdmUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbVsiaWQiXSwK</text>
+        <text encoding="base64">ICAgICMgbG9vcDEuY2xvc2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG9zLnJtZGlyKHRtcGRpcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lCg==</text>
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgYnJlYWsK</text>
+        <text encoding="base64">ICAgIHNodXRpbC5yZW1vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5ydW5fdW50aWxfY29tcGxldGUoZ2V0X2ltYWdlcygpKQo=</text>
+        <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKFBhdGgoIi4iKSAvICJpbWFnZXMiLCBleGlzdF9vaz1UcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MuYXBwZW5kKAo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHBsYW5faWQ6CiAgICAgICAgICAgIHByaW50KCd3b3VsZCBub3QgZ2V0IGltYWdlIGZvcicsIHBsYW5faWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q09SU19VUkxfUkVHRVggPSByIl4vYXBpLy4qJCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3dvdWxkIGdldCBpbWFnZSBmb3InLCBwbGFuX2lkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBXRUJQQUNLIExPQURFUlMKV0VCUEFDS19MT0FERVIgPSB7CiAgICAnREVGQVVMVCc6IHsKICAgICAgICAnQlVORExFX0RJUl9OQU1FJzogJ2J1bmRsZXMvJywKICAgICAgICAnU1RBVFNfRklMRSc6IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3dlYnBhY2stc3RhdHMuZGV2Lmpzb24nKQogICAgfQp9Cg==</text>
+        <text encoding="base64">T1ZFUldSSVRFPUZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/plan_id/map_url/g</text>
+        <text>s/OVERWRITE/DELETE/g</text>
       </register>
     </registers>
     <search>
-      <last-search>contacts</last-search>
+      <last-search>psycopg2</last-search>
       <last-offset />
-      <last-pattern>contacts</last-pattern>
-      <last-replace>map_url</last-replace>
-      <last-substitute>plan_id</last-substitute>
+      <last-pattern>psycopg2</last-pattern>
+      <last-replace>DELETE</last-replace>
+      <last-substitute>OVERWRITE</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>slef</entry>
-        <entry>group</entry>
-        <entry>slug</entry>
         <entry>mutopia</entry>
         <entry>instrument_prompt</entry>
         <entry>yes</entry>
@@ -745,6 +738,9 @@
         <entry>AUTHENTICATION_BACKENDS</entry>
         <entry>plan_id</entry>
         <entry>contacts</entry>
+        <entry>OVERWRITE</entry>
+        <entry>django</entry>
+        <entry>psycopg2</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -752,6 +748,7 @@
         <entry encoding="base64">JzwsJz5zL3N0eWxlL3NvdXJjZS9n</entry>
         <entry>w</entry>
         <entry>s/plan_id/map_url/g</entry>
+        <entry>s/OVERWRITE/DELETE/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
