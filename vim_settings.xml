@@ -136,6 +136,11 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/Pipfile" timestamp="1547444384070">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/contacts/urls.py" timestamp="1547109626766">
         <mark key="[" line="37" column="61" />
         <mark key="]" line="38" column="34" />
@@ -274,6 +279,12 @@
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/templates/index.html" timestamp="1547666071967">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/.env" timestamp="1547444222393">
         <mark key="[" line="8" column="37" />
@@ -462,6 +473,11 @@
         <mark key="^" line="7" column="67" />
         <mark key="." line="7" column="67" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/ponynote/urls.py" timestamp="1547666467803">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="53" />
@@ -473,6 +489,12 @@
         <mark key="]" line="10" column="25" />
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/ponynote/settings.py" timestamp="1547666474483">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="56" column="49" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/pytest.ini" timestamp="1546826091993">
         <mark key="[" line="1" column="38" />
@@ -626,11 +648,11 @@
       <jump line="107" column="35" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>home/rick/repositories/sheet_music_database</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBXRUJQQUNLIExPQURFUlMKV0VCUEFDS19MT0FERVIgPSB7CiAgICAnREVGQVVMVCc6IHsKICAgICAgICAnQlVORExFX0RJUl9OQU1FJzogJ2J1bmRsZXMvJywKICAgICAgICAnU1RBVFNfRklMRSc6IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3dlYnBhY2stc3RhdHMuZGV2Lmpzb24nKQogICAgfQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>home/rick/repositories/sheet_music_database</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text>contacts</text>
@@ -654,31 +676,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBXRUJQQUNLIExPQURFUlMKV0VCUEFDS19MT0FERVIgPSB7CiAgICAnREVGQVVMVCc6IHsKICAgICAgICAnQlVORExFX0RJUl9OQU1FJzogJ2J1bmRsZXMvJywKICAgICAgICAnU1RBVFNfRklMRSc6IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3dlYnBhY2stc3RhdHMuZGV2Lmpzb24nKQogICAgfQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXgK</text>
+        <text encoding="base64">ICAgIHBhdGgoJycsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9ImluZGV4Lmh0bWwiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNob3J0X25hbWU6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnNob3J0X25hbWUK</text>
+        <text encoding="base64">QHB5dGVzdC5maXgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoIGltcG9ydCBnZXRfdXNlcl9tb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNob3J0X25hbWU6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnNob3J0X25hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoIGltcG9ydCBnZXRfdXNlcl9tb2RlbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3JuPWRhdGV0aW1lLmRhdGUoMTY3OCwgMywpLAo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name=":" type="4">
         <text>s/plan_id/map_url/g</text>
