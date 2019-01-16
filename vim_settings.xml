@@ -63,12 +63,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/settings.py" timestamp="1547527639512">
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/settings.py" timestamp="1547667147972">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="177" column="14" />
-        <mark key="." line="177" column="14" />
-        <mark key="^" line="177" column="14" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+        <mark key="^" line="181" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_build.py" timestamp="1547251234001">
         <mark key="[" line="13" column="7" />
@@ -649,7 +649,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBXRUJQQUNLIExPQURFUlMKV0VCUEFDS19MT0FERVIgPSB7CiAgICAnREVGQVVMVCc6IHsKICAgICAgICAnQlVORExFX0RJUl9OQU1FJzogJ2J1bmRsZXMvJywKICAgICAgICAnU1RBVFNfRklMRSc6IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3dlYnBhY2stc3RhdHMuZGV2Lmpzb24nKQogICAgfQp9Cg==</text>
+        <text encoding="base64">Q09SU19VUkxfUkVHRVggPSByIl4vYXBpLy4qJCIK</text>
       </register>
       <register name="-" type="4">
         <text>Title</text>
@@ -676,31 +676,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBXRUJQQUNLIExPQURFUlMKV0VCUEFDS19MT0FERVIgPSB7CiAgICAnREVGQVVMVCc6IHsKICAgICAgICAnQlVORExFX0RJUl9OQU1FJzogJ2J1bmRsZXMvJywKICAgICAgICAnU1RBVFNfRklMRSc6IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3dlYnBhY2stc3RhdHMuZGV2Lmpzb24nKQogICAgfQp9Cg==</text>
+        <text encoding="base64">Q09SU19VUkxfUkVHRVggPSByIl4vYXBpLy4qJCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJycsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9ImluZGV4Lmh0bWwiKSkK</text>
+        <text encoding="base64">IyBXRUJQQUNLIExPQURFUlMKV0VCUEFDS19MT0FERVIgPSB7CiAgICAnREVGQVVMVCc6IHsKICAgICAgICAnQlVORExFX0RJUl9OQU1FJzogJ2J1bmRsZXMvJywKICAgICAgICAnU1RBVFNfRklMRSc6IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3dlYnBhY2stc3RhdHMuZGV2Lmpzb24nKQogICAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGgoJycsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9ImluZGV4Lmh0bWwiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">QHB5dGVzdC5maXgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNob3J0X25hbWU6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnNob3J0X25hbWUK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNob3J0X25hbWU6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnNob3J0X25hbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoIGltcG9ydCBnZXRfdXNlcl9tb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoIGltcG9ydCBnZXRfdXNlcl9tb2RlbAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/plan_id/map_url/g</text>
