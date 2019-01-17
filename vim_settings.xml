@@ -374,6 +374,18 @@
         <mark key="." line="14" column="51" />
         <mark key="^" line="14" column="51" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/tests/test_models.py" timestamp="1547700159839">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/app/settings.py" timestamp="1547700567015">
+        <mark key="[" line="52" column="14" />
+        <mark key="]" line="53" column="9" />
+        <mark key="^" line="53" column="9" />
+        <mark key="." line="53" column="9" />
+      </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/cli/commands/cmd_manage.py" timestamp="1547072429080">
         <mark key="[" line="14" column="86" />
         <mark key="]" line="14" column="90" />
@@ -423,6 +435,12 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/models.py" timestamp="1547700602755">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/app/urls.py" timestamp="1547676496620">
         <mark key="[" line="21" column="61" />
         <mark key="]" line="21" column="60" />
@@ -434,6 +452,12 @@
         <mark key="]" line="10" column="42" />
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/pytest.ini" timestamp="1547700220752">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/pdf_from_site/.gitignore" timestamp="1547281511601">
         <mark key="[" line="0" column="8" />
@@ -662,10 +686,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgVGVtcGxhdGVWaWV3KG9iamVjdCk6CiAgICBwYXNzCgoK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>contacts</text>
       </register>
       <register name="/" type="4">
         <text>psycopg2</text>
@@ -689,31 +713,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgVGVtcGxhdGVWaWV3KG9iamVjdCk6CiAgICBwYXNzCgoK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXRleGl0LnJlZ2lzdChvcy5yZW1vdmUpCg==</text>
+        <text encoding="base64">Y2xhc3MgVGVtcGxhdGVWaWV3KG9iamVjdCk6CiAgICBwYXNzCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgbG9vcDEuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXRleGl0LnJlZ2lzdChvcy5yZW1vdmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9zLnJtZGlyKHRtcGRpcikK</text>
+        <text encoding="base64">ICAgICMgbG9vcDEuY2xvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
+        <text encoding="base64">ICAgIG9zLnJtZGlyKHRtcGRpcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5yZW1vCg==</text>
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKFBhdGgoIi4iKSAvICJpbWFnZXMiLCBleGlzdF9vaz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIHNodXRpbC5yZW1vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHBsYW5faWQ6CiAgICAgICAgICAgIHByaW50KCd3b3VsZCBub3QgZ2V0IGltYWdlIGZvcicsIHBsYW5faWQpCg==</text>
+        <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKFBhdGgoIi4iKSAvICJpbWFnZXMiLCBleGlzdF9vaz1UcnVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3dvdWxkIGdldCBpbWFnZSBmb3InLCBwbGFuX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHBsYW5faWQ6CiAgICAgICAgICAgIHByaW50KCd3b3VsZCBub3QgZ2V0IGltYWdlIGZvcicsIHBsYW5faWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/OVERWRITE/DELETE/g</text>
