@@ -390,6 +390,11 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/screenshot_site/.env" timestamp="1547743126703">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/serializers.py" timestamp="1547529044409">
         <mark key="[" line="10" column="53" />
         <mark key="]" line="10" column="65" />
@@ -425,6 +430,12 @@
         <mark key="]" line="14" column="90" />
         <mark key="." line="14" column="90" />
         <mark key="^" line="14" column="90" />
+      </file>
+      <file name="$USER_HOME$/repositories/screenshot_site/dtl_pdf.py" timestamp="1547743187073">
+        <mark key="[" line="65" column="8" />
+        <mark key="]" line="65" column="13" />
+        <mark key="." line="65" column="13" />
+        <mark key="^" line="65" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/cm_w_backend/backend/contacts/pytest.ini" timestamp="1547074176842">
         <mark key="[" line="1" column="32" />
@@ -715,10 +726,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.order_by('id')</text>
+        <text>ELETE</text>
       </register>
       <register name="-" type="4">
-        <text>.order_by('id')</text>
+        <text>ELETE</text>
       </register>
       <register name="/" type="4">
         <text>psycopg2</text>
@@ -742,31 +753,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">T1ZFUldSSVRFPVRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
+        <text encoding="base64">T1ZFUldSSVRFID0gZXZhbChvcy5lbnZpcm9uLmdldCgiT1ZFUldSSVRFIiwgIkZhbHNlIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGgoIiIsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9ImluZGV4Lmh0bWwiKSkK</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICItZSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAoKcHl0ZXN0bWFyawo=</text>
+        <text encoding="base64">ICAgIGdldF9pbWFnZXMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgVGVtcGxhdGVWaWV3KG9iamVjdCk6CiAgICBwYXNzCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXRleGl0LnJlZ2lzdChvcy5yZW1vdmUpCg==</text>
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgbG9vcDEuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgIHBhdGgoIiIsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9ImluZGV4Lmh0bWwiKSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/OVERWRITE/DELETE/g</text>
