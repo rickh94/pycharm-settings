@@ -9,10 +9,10 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/conftest.py" timestamp="1547871466420">
-        <mark key="[" line="79" column="30" />
-        <mark key="]" line="79" column="30" />
-        <mark key="." line="79" column="30" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/conftest.py" timestamp="1547889808107">
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="14" />
+        <mark key="." line="32" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/serializers.py" timestamp="1547847335447">
         <mark key="[" line="4" column="44" />
@@ -44,11 +44,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/views.py" timestamp="1547888780836">
-        <mark key="[" line="59" column="65" />
-        <mark key="]" line="59" column="65" />
-        <mark key="^" line="59" column="65" />
-        <mark key="." line="59" column="65" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/views.py" timestamp="1547889421615">
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="18" column="71" />
+        <mark key="^" line="18" column="71" />
+        <mark key="." line="18" column="71" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/build_requirements.py" timestamp="1547886674926">
         <mark key="[" line="23" column="13" />
@@ -96,17 +96,24 @@
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_composer_api.py" timestamp="1547863872071">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="38" column="34" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_composer_api.py" timestamp="1547890071802">
+        <mark key="[" line="73" column="19" />
+        <mark key="]" line="73" column="19" />
+        <mark key="." line="73" column="19" />
+        <mark key="^" line="73" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/conftest.py" timestamp="1547888876852">
-        <mark key="[" line="28" column="85" />
-        <mark key="]" line="28" column="85" />
-        <mark key="." line="28" column="85" />
-        <mark key="^" line="28" column="85" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/conftest.py" timestamp="1547889652368">
+        <mark key="[" line="78" column="8" />
+        <mark key="]" line="78" column="12" />
+        <mark key="." line="78" column="12" />
+        <mark key="^" line="78" column="12" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/settings.py" timestamp="1547845189797">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="163" column="25" />
+        <mark key="]" line="163" column="28" />
+        <mark key="." line="163" column="28" />
+        <mark key="^" line="163" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/tests/test_knox_views.py" timestamp="1547847793303">
         <mark key="[" line="64" column="45" />
@@ -114,7 +121,12 @@
         <mark key="^" line="61" column="66" />
         <mark key="." line="64" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_sheet_api.py" timestamp="1547873617976" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_sheet_api.py" timestamp="1547889693557">
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="28" column="54" />
+        <mark key="^" line="28" column="54" />
+        <mark key="." line="28" column="54" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_up.py" timestamp="1547786616814">
         <mark key="[" line="26" column="11" />
         <mark key="]" line="27" column="30" />
@@ -132,11 +144,11 @@
         <mark key="^" line="131" column="22" />
         <mark key="." line="131" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/serializers.py" timestamp="1547872162594">
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="14" />
-        <mark key="." line="32" column="14" />
-        <mark key="^" line="32" column="14" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/serializers.py" timestamp="1547889764004">
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="10" column="62" />
+        <mark key="." line="10" column="62" />
+        <mark key="^" line="28" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/urls.py" timestamp="1547847900133">
         <mark key="'" line="13" column="0" />
@@ -174,9 +186,12 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1547870659418">
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1547890091618">
         <mark key="'" line="102" column="35" />
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="11" />
         <mark key="^" line="78" column="47" />
+        <mark key="." line="29" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/utils.py" timestamp="1547847345844">
         <mark key="'" line="0" column="17" />
@@ -197,11 +212,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" timestamp="1547873379243">
-        <mark key="[" line="59" column="53" />
-        <mark key="]" line="59" column="52" />
-        <mark key="^" line="59" column="52" />
-        <mark key="." line="59" column="52" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" timestamp="1547889796308">
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="57" column="8" />
+        <mark key="." line="30" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -308,7 +323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -334,7 +349,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>psycopg2</text>
