@@ -102,11 +102,11 @@
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/urls.py" timestamp="1547701403200">
         <mark key="[" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" timestamp="1548014664310">
-        <mark key="[" line="23" column="37" />
-        <mark key="]" line="23" column="37" />
-        <mark key="." line="23" column="37" />
-        <mark key="^" line="23" column="40" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" timestamp="1548017424965">
+        <mark key="[" line="75" column="24" />
+        <mark key="]" line="75" column="23" />
+        <mark key="." line="75" column="23" />
+        <mark key="^" line="75" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1547951275165" />
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/templates/index.html" timestamp="1547666071967">
@@ -133,8 +133,11 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1548013795140">
-        <mark key="[" line="16" column="36" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1548016060249">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1547962463091">
         <mark key="[" line="9" column="32" />
@@ -210,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db.py" />
       <jump line="38" column="9" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db.py" />
       <jump line="5" column="4" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" />
       <jump line="226" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db.py" />
@@ -310,10 +312,11 @@
       <jump line="189" column="13" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_piece_api.py" />
       <jump line="63" column="4" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_piece_api.py" />
       <jump line="76" column="0" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_piece_api.py" />
+      <jump line="26" column="11" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>urls</text>
+        <text>, defauls=[None, None, False]</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -339,13 +342,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>urls</text>
+        <text>, defauls=[None, None, False]</text>
       </register>
       <register name="/" type="4">
-        <text>3</text>
+        <text encoding="base64">XDxmbHVlbnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBwaWVjZTNfc2VyaWFsaXplcihwaWVjZTMpOgogICAgcmV0dXJuIFBpZWNlU2VyaWFsaXplcihwaWVjZTMpCgoK</text>
+      <register name="0" type="4">
+        <text>&quot;import Axios from 'axios'&quot;</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -363,40 +366,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGRhdGE6CiAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQuc2VlaygwKQo=</text>
+        <text encoding="base64">Y2xhc3MgTWV0aG9kOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KG91dC4pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmV2X2l0ZW0gPSAnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG91dC5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG91dC5vcGVuKCkgYXMgZGF0YToKICAgICAgICAgICAgc2VsZi5zdGRvdXQud3JpdGUob3V0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KG91dCkK</text>
+        <text encoding="base64">CgpjbGFzcyBNZXRob2RzOgogICAgZGVmIF9faW5pdF9fCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzMvNC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>3</last-search>
+      <last-search encoding="base64">XDxmbHVlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>3</last-pattern>
+      <last-pattern encoding="base64">XDxmbHVlbnRcPg==</last-pattern>
       <last-replace>4</last-replace>
       <last-substitute>3</last-substitute>
       <last-dir>1</last-dir>
@@ -404,7 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>midi</entry>
         <entry>edit</entry>
         <entry>Piece</entry>
         <entry>_ask</entry>
@@ -424,6 +426,7 @@
         <entry>1</entry>
         <entry>2</entry>
         <entry>3</entry>
+        <entry encoding="base64">XDxmbHVlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
