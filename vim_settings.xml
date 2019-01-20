@@ -59,10 +59,11 @@
         <mark key="^" line="131" column="22" />
         <mark key="." line="131" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/views.py" timestamp="1547964159400">
-        <mark key="[" line="101" column="68" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/views.py" timestamp="1548022983587">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_tags_api.py" timestamp="1547863853939">
         <mark key="[" line="37" column="27" />
@@ -102,14 +103,18 @@
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/urls.py" timestamp="1547701403200">
         <mark key="[" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" timestamp="1548020843225">
-        <mark key="i" line="104" column="37" />
-        <mark key="[" line="104" column="52" />
-        <mark key="]" line="60" column="44" />
-        <mark key="." line="60" column="44" />
-        <mark key="^" line="60" column="44" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" timestamp="1548024120811">
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="51" />
+        <mark key="." line="18" column="51" />
+        <mark key="^" line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1547951275165" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1548023549696">
+        <mark key="[" line="73" column="67" />
+        <mark key="]" line="73" column="78" />
+        <mark key="^" line="73" column="78" />
+        <mark key="." line="73" column="78" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/templates/index.html" timestamp="1547666071967">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="10" column="25" />
@@ -134,11 +139,11 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1548016060249">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1548023296410">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1547962463091">
         <mark key="[" line="9" column="32" />
@@ -164,12 +169,12 @@
         <mark key="^" line="9" column="43" />
         <mark key="." line="9" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" timestamp="1547953690721">
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" timestamp="1548023613988">
         <mark key="'" line="50" column="23" />
-        <mark key="[" line="73" column="4" />
-        <mark key="]" line="73" column="9" />
-        <mark key="^" line="73" column="9" />
-        <mark key="." line="73" column="9" />
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="39" />
+        <mark key="^" line="19" column="39" />
+        <mark key="." line="19" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/.pre-commit-config.yaml" timestamp="1547947844890">
         <mark key="[" line="6" column="0" />
@@ -317,7 +322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>item</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -343,13 +348,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbHVlbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;import Axios from 'axios'&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB1cmxfcGFydHMgPSB1cmwuc3BsaXQoIi8iKQogICAgICAgIGVuZCA9IHVybF9wYXJ0cy5wb3AoKQogICAgICAgIGFyZ3MgPSBOb25lCiAgICAgICAgaWYgIjwiIGluIGVuZDoKICAgICAgICAgICAgYXJncyA9IGVuZAogICAgICAgICAgICBlbmQgPSB1cmxfcGFydHMucG9wKCkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -367,31 +372,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVwbGFjZToKICAgICAgICAgICAgICAgIHNlbGYubWV0aG9kcy5yZXBsYWNlKHNlbGYuX2NyZWF0ZV9tZXRob2Rfd2l0aF9hcmdzKGl0ZW0sIGFyZ3MpKQogICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fX21ldGhvZHNbaV0ubmFtZSA9PSBuYW1lOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fbWV0aG9kcy4K</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfdW5pcXVlX2VuZHBvaW50cyhzZWxmKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fbWV0aG9kcy5wb3AoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyZWF0ZV9wYXJlbnRzKHVybF9wYXJ0cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVwbGFjZToKICAgICAgICAgICAgICAgIHNlbGYubWV0aG9kcy5yZXBsYWNlKHNlbGYuX2NyZWF0ZV9tZXRob2Rfd2l0aF9hcmdzKGl0ZW0sIGFyZ3MpKQogICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhcmdzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fX21ldGhvZHNbaV0ubmFtZSA9PSBuYW1lOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiICB2YWxpZGF0ZUNoaWxkKGNoaWxkKSB7IiwKICAgICAgICAiICAgIGlmICghdGhpcy5wYXRoLmluY2x1ZGVzKGNoaWxkKSkgeyIsCiAgICAgICAgIiAgICAgIHRocm93ICdVUkwgQ29uZmlndXJhdGlvbiBFcnJvciciLAogICAgICAgICIgICAgfSIsCiAgICAgICAgIiAgfSIsCiAgICAgICAgIiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fbWV0aG9kcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fbWV0aG9kcy5wb3AoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGVfcGFyZW50cyhzZWxmLCB1cmxfcGFydHMpOgogICAgICAgICIiIkNyZWF0ZSB0aGUgcGFyZW50cyBmb3IgYSB1cmwgaWYgbmVlZGVkIiIiCiAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNyZWF0ZV9wYXJlbnRzKHVybF9wYXJ0cykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzMvNC9n</text>
