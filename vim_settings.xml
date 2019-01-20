@@ -27,7 +27,7 @@
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/conftest.py" timestamp="1547891587776">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
-        <mark key="^" line="3" column="12" />
+        <mark key="^" line="1" column="12" />
         <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/pytest.ini" timestamp="1547700220752">
@@ -35,6 +35,11 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_requirements.py" timestamp="1547945066848">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/tests/test_knox_views.py" timestamp="1547847793303">
         <mark key="[" line="64" column="45" />
@@ -75,16 +80,21 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_test.py" timestamp="1547892310107">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="20" />
-        <mark key="." line="31" column="20" />
-        <mark key="^" line="31" column="20" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_test.py" timestamp="1547947316889">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/screenshot_site/.env" timestamp="1547743126703">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_rebuild.py" timestamp="1547947106246">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/views.py" timestamp="1547847367589">
         <mark key="'" line="0" column="0" />
@@ -141,6 +151,11 @@
         <mark key="]" line="49" column="23" />
         <mark key="^" line="49" column="23" />
         <mark key="." line="49" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/.pre-commit-config.yaml" timestamp="1547947844890">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/code.py" timestamp="1547940265044">
         <mark key="[" line="0" column="0" />
@@ -336,8 +351,8 @@
       <jump line="50" column="23" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgLSByZXBvOiBodHRwczovL2dpdGh1Yi5jb20vcHJlLWNvbW1pdC9taXJyb3JzLWlzb3J0CiMgICAgcmV2OiB2NC4zLjQKIyAgICBob29rczoKIyAgICAgIC0gaWQ6IGlzb3J0Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -363,7 +378,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>rev</text>
       </register>
       <register name="/" type="4">
         <text>shortName</text>
@@ -387,31 +402,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGRhdGE6CiAgICAgICAgcHJpbnQoaXRlbSkK</text>
+        <text encoding="base64">IyAgLSByZXBvOiBodHRwczovL2dpdGh1Yi5jb20vcHJlLWNvbW1pdC9taXJyb3JzLWlzb3J0CiMgICAgcmV2OiB2NC4zLjQKIyAgICBob29rczoKIyAgICAgIC0gaWQ6IGlzb3J0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHJlcG86IGdpdDovL2dpdGh1Yi5jb20vRmFsY29uU29jaWFsL3ByZS1jb21taXQtcHl0aG9uLXNvcnRlcgogICAgc2hhOiAxLjAuNAogICAgaG9va3M6CiAgICAgIC0gaWQ6IHB5dGhvbi1pbXBvcnQtc29ydGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKGdldF9wcm9zcGVjdHVzX2RhdGEoKSkK</text>
+        <text encoding="base64">ICAgICAgLSBpZDogZmxha2U4CiAgICAgICAgYXJnczogWyctLWFwcGVuZC1jb25maWc9Li9iYWNrZW5kL2FwcC8uZmxha2U4J10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcGFnZSA9IHJlcXVlc3RzLmdldChCQVNFVVJMICsgImluZGV4LnBocD9jaWQ9Mjc2MzE3NCIpCg==</text>
+        <text encoding="base64">ICAtIHJlcG86IGh0dHBzOi8vZ2l0aHViLmNvbS9hc290dGlsZS9weXVwZ3JhZGUKICAgIHJldjogdjEuMTEuMAogICAgaG9va3M6CiAgICAgIC0gaWQ6IHB5dXBncmFkZQogICAgICAgIGFyZ3M6IFsnLS1weTM2LXBsdXMnXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoc291cCkKICAgICMgaWYgYic8dGQ+MS48L3RkPicgbm90IGluIG5ld19jb250ZW50OgogICAgIyAgICAgbmV3X3NvdXAgPSBCZWF1dGlmdWxTb3VwKG5ld19jb250ZW50LCAnaHRtbC5wYXJzZXInKQogICAgIyAgICAgc291cHMuYXBwZW5kKG5ld19zb3VwKQogICAgIyAgICAgY3VycmVudF9zb3VwID0gbmV3X3NvdXAKICAgICMgICAgIGNvbnRpbnVlCiAgICAjIGVsc2U6CiAgICAjICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAtIHJlcG86IGh0dHBzOi8vZ2l0aHViLmNvbS9wcmUtY29tbWl0L21pcnJvcnMtaXNvcnQKICAgIHJldjogdjQuMy40CiAgICBob29rczoKICAgICAgLSBpZDogaXNvcnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQocmVjb3JkcykK</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHMgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgd2l0aCBvcGVuKCd0ZXN0MS5jc3YnLCAndycpIGFzIGZpbGU6CiAgICAjICAgICB0ZXN0d3JpdGVyID0gY3N2LndyaXRlcihmaWxlLCBkZWxpbWl0ZXI9JywnKQogICAgIyAgICAgZm9yIHJlYyBpbiByZWNvcmRzOgogICAgIyAgICAgICAgIHRlc3R3cml0ZXIud3JpdGVyb3cocmVjKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name=":" type="4">
         <text>%s/shortName/short_name/g</text>
