@@ -135,12 +135,12 @@
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/urls.py" timestamp="1547701403200">
         <mark key="[" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1548036982451">
-        <mark key="'" line="217" column="0" />
-        <mark key="[" line="141" column="16" />
-        <mark key="]" line="141" column="17" />
-        <mark key="." line="141" column="17" />
-        <mark key="^" line="141" column="17" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1548101455940">
+        <mark key="'" line="219" column="0" />
+        <mark key="[" line="143" column="13" />
+        <mark key="]" line="143" column="18" />
+        <mark key="." line="143" column="18" />
+        <mark key="^" line="143" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" timestamp="1548046181227">
         <mark key="'" line="23" column="4" />
@@ -159,6 +159,9 @@
         <mark key="]" line="73" column="78" />
         <mark key="^" line="73" column="78" />
         <mark key="." line="73" column="78" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/mypy.ini" timestamp="1548101027921">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/utils.py" timestamp="1547847345844">
         <mark key="'" line="0" column="17" />
@@ -213,12 +216,12 @@
         <mark key="^" line="19" column="147" />
         <mark key="." line="19" column="147" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/.travis.yml" timestamp="1548039630104">
+      <file name="$USER_HOME$/repositories/sheet_music_database/.travis.yml" timestamp="1548100561870">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="80" />
-        <mark key="]" line="4" column="79" />
-        <mark key="." line="4" column="79" />
-        <mark key="^" line="4" column="79" />
+        <mark key="[" line="2" column="77" />
+        <mark key="]" line="2" column="86" />
+        <mark key="." line="2" column="86" />
+        <mark key="^" line="2" column="86" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
         <mark key="[" line="4" column="0" />
@@ -391,7 +394,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>, replace: bool = False</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -417,7 +420,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>, replace: bool = False</text>
       </register>
       <register name="/" type="4">
         <text>list()</text>
