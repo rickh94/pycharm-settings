@@ -90,12 +90,12 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/urls.py" timestamp="1547847900133">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="16" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/urls.py" timestamp="1548046010825">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="12" column="63" />
+        <mark key="]" line="12" column="63" />
         <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+        <mark key="." line="12" column="63" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_tags_api.py" timestamp="1547863853939">
         <mark key="[" line="37" column="27" />
@@ -386,8 +386,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/sheet_music_database/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W3JlcXVpcmVzXQo=</text>
+      <register name="&quot;" type="4">
+        <text>im</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -413,7 +413,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>im</text>
       </register>
       <register name="/" type="4">
         <text>list()</text>
