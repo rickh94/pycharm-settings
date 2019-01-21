@@ -103,11 +103,11 @@
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/urls.py" timestamp="1547701403200">
         <mark key="[" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" timestamp="1548029542243">
-        <mark key="[" line="209" column="37" />
-        <mark key="]" line="209" column="41" />
-        <mark key="^" line="209" column="41" />
-        <mark key="." line="209" column="41" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" timestamp="1548032258487">
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="54" column="26" />
+        <mark key="." line="54" column="26" />
+        <mark key="^" line="54" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1548023549696">
         <mark key="[" line="73" column="67" />
@@ -322,7 +322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>_lines</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -348,7 +348,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>_lines</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbHVlbnRcPg==</text>
@@ -372,31 +372,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICpbZiIgKiB7dXJsfSIgZm9yIHVybCBpbiB1cmxzXQo=</text>
+        <text encoding="base64">ICAgICAgICAqdG9rZW5fbGluZXMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5LmFkZF9tZXRob2RzX2Zyb21fZW5kcG9pbnRzKCkKICAgICAgICBwcmludChmYWN0b3J5Lm1ldGhvZHMpCiAgICAgICAgZmFjdG9yeS5hZGRfcGFyZW50X21ldGhvZHMoKQo=</text>
+        <text encoding="base64">ICAgIGAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqW2YiICoge3VybH0iIGZvciB1cmwgaW4gdXJsc10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGFkZF9tZXRob2RzX2Zyb21fZmFjdG9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAiICAgIGlmICh0aGlzLnRva2VuKSB7IiwKICAgICAgICAiICAgICAgICBpZiAoIWNvbmZpZy5oZWFkZXJzKSB7IiwKICAgICAgICAiICAgICAgICAgIGNvbmZpZy5oZWFkZXJzID0ge30iLAogICAgICAgICIgICAgICAgIH0iLAogICAgICAgICIgICAgICAgIGNvbmZpZy5oZWFkZXJzLkF1dGhvcml6YXRpb24gPSBgVG9rZW4gJHt0aGlzLnRva2VufWAiLAogICAgICAgICIgICAgfSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbWV0aG9kIGluIGZhY3RvcnkubWV0aG9kczoKICAgICAgICAgICAgcHJpbnQobWV0aG9kLm5hbWUpCiAgICAgICAgICAgIHByaW50KG1ldGhvZC5qYXZhc2NyaXB0KQo=</text>
+        <text encoding="base64">ICAgICAgICAiICAgIGlmICh0aGlzLnRva2VuKSB7IiwKICAgICAgICAiICAgICAgICBpZiAoIWNvbmZpZy5oZWFkZXJzKSB7IiwKICAgICAgICAiICAgICAgICAgIGNvbmZpZy5oZWFkZXJzID0ge30iLAogICAgICAgICIgICAgICAgIH0iLAogICAgICAgICIgICAgICAgIGNvbmZpZy5oZWFkZXJzLkF1dGhvcml6YXRpb24gPSBgVG9rZW4gJHt0aGlzLnRva2VufWAiLAogICAgICAgICIgICAgfSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1ldGhvZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnLicgaW4gaXRlbToK</text>
+        <text encoding="base64">ICAgICAgICAiICAgICAgcmV0dXJuIEF4aW9zLmdldCh1cmwsICIKICAgICAgICAieyBoZWFkZXJzOiB7IEF1dGhvcml6YXRpb246IGBUb2tlbiAke3RoaXMudG9rZW59YH19KSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzMvNC9n</text>
