@@ -90,12 +90,12 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/urls.py" timestamp="1548046010825">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="12" column="63" />
-        <mark key="]" line="12" column="63" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="12" column="63" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/urls.py" timestamp="1548046141526">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_tags_api.py" timestamp="1547863853939">
         <mark key="[" line="37" column="27" />
@@ -142,9 +142,12 @@
         <mark key="." line="141" column="17" />
         <mark key="^" line="141" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" timestamp="1548036692592">
-        <mark key="'" line="22" column="4" />
-        <mark key="^" line="30" column="51" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" timestamp="1548046181227">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/views.py" timestamp="1547701151013">
         <mark key="[" line="2" column="0" />
@@ -386,8 +389,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/sheet_music_database/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>im</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -413,7 +416,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>im</text>
+        <text>ri</text>
       </register>
       <register name="/" type="4">
         <text>list()</text>
@@ -437,31 +440,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W3JlcXVpcmVzXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHl0aG9uX3ZlcnNpb24gPSAiMy42Igo=</text>
+        <text encoding="base64">W3JlcXVpcmVzXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKGdldF9pbWFnZXMob3V0cHV0LCBhaXJ0YWJsZSwgZXhpc3RpbmcsIGNsZWFudXApKQo=</text>
+        <text encoding="base64">cHl0aG9uX3ZlcnNpb24gPSAiMy42Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkK</text>
+        <text encoding="base64">ICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKGdldF9pbWFnZXMob3V0cHV0LCBhaXJ0YWJsZSwgZXhpc3RpbmcsIGNsZWFudXApKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldF9mdW5jdGlvbgo=</text>
+        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldF9mdW5jdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmcm9tIGRqYW5nby50ZXN0IGltcG9ydCBUZXN0Q2FzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYXRyaXg6Cg==</text>
+        <text encoding="base64">IyBmcm9tIGRqYW5nby50ZXN0IGltcG9ydCBUZXN0Q2FzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5hdXRoZW50aWNhdGlvbiBpbXBvcnQgVG9rZW5BdXRoZW50aWNhdGlvbgo=</text>
+        <text encoding="base64">ICBtYXRyaXg6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/list()/[]/g</text>
