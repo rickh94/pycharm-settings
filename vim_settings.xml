@@ -196,10 +196,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1548036892258">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1548099159817">
+        <mark key="[" line="35" column="72" />
+        <mark key="]" line="35" column="72" />
+        <mark key="^" line="35" column="72" />
+        <mark key="." line="35" column="72" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1548038400944">
         <mark key="[" line="10" column="0" />
@@ -272,11 +273,11 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="16" column="81" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548010688936">
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="21" column="24" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548099094394">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="^" line="20" column="12" />
+        <mark key="." line="20" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_composer_api.py" timestamp="1547891905675">
         <mark key="'" line="70" column="27" />
@@ -389,8 +390,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/sheet_music_database/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -416,7 +417,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ri</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>list()</text>
@@ -440,31 +441,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QG1vY2sucGF0Y2goImRqYW5nby5kYi5Db25uZWN0aW9uSGFuZGxlci5fX2dldGl0ZW1fXyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W3JlcXVpcmVzXQo=</text>
+        <text encoding="base64">QG1vY2sucGF0Y2goImRqYW5nby5kYi5Db25uZWN0aW9uSGFuZGxlci5fX2dldGl0ZW1fXyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHl0aG9uX3ZlcnNpb24gPSAiMy42Igo=</text>
+        <text encoding="base64">QG1vY2sucGF0Y2goInRpbWUuc2xlZXAiLCByZXR1cm5fdmFsdWU9VHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKGdldF9pbWFnZXMob3V0cHV0LCBhaXJ0YWJsZSwgZXhpc3RpbmcsIGNsZWFudXApKQo=</text>
+        <text encoding="base64">QG1vY2sucGF0Y2goInRpbWUuc2xlZXAiLCByZXR1cm5fdmFsdWU9VHJ1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkK</text>
+        <text encoding="base64">ICAgIHdpdGggbW9jay5wYXRjaCgiZGphbmdvLmRiLnV0aWxzLkNvbm5lY3Rpb25IYW5kbGVyLl9fZ2V0aXRlbV9fIikgYXMgZ2k6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldF9mdW5jdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2lfCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBmcm9tIGRqYW5nby50ZXN0IGltcG9ydCBUZXN0Q2FzZQo=</text>
+        <text encoding="base64">W3JlcXVpcmVzXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXRyaXg6Cg==</text>
+        <text encoding="base64">cHl0aG9uX3ZlcnNpb24gPSAiMy42Igo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/list()/[]/g</text>
