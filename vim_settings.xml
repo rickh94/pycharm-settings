@@ -11,6 +11,12 @@
       <file name="/a.dummy" timestamp="1548220451212">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/conftest.py" timestamp="1548223369372">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/settings.py" timestamp="1548011009179">
         <mark key="[" line="51" column="16" />
         <mark key="]" line="52" column="23" />
@@ -371,11 +377,12 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/tests/test_cli.py" timestamp="1548222247120">
-        <mark key="[" line="63" column="38" />
-        <mark key="]" line="67" column="29" />
-        <mark key="." line="67" column="29" />
-        <mark key="^" line="67" column="29" />
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_cli.py" timestamp="1548223040658">
+        <mark key="'" line="20" column="18" />
+        <mark key="[" line="83" column="33" />
+        <mark key="]" line="76" column="72" />
+        <mark key="." line="76" column="72" />
+        <mark key="^" line="76" column="72" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_composer_api.py" timestamp="1547891905675">
         <mark key="'" line="70" column="27" />
@@ -386,7 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" />
       <jump line="91" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" />
@@ -486,10 +492,11 @@
       <jump line="19" column="10" filename="$USER_HOME$/repositories/lilyskel/tests/test_templates.py" />
       <jump line="65" column="0" filename="$USER_HOME$/repositories/lilyskel/tests/test_info.py" />
       <jump line="168" column="27" filename="$USER_HOME$/repositories/lilyskel/tests/test_templates.py" />
+      <jump line="19" column="18" filename="$USER_HOME$/repositories/lilyskel/tests/test_cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdC5zdGRvdXQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Path(tmpdir_, &quot;test_db.json&quot;)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -515,7 +522,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>beethoven_dir</text>
+        <text>Path(tmpdir_, &quot;test_db.json&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>list()</text>
@@ -539,31 +546,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdC5zdGRvdXQpCg==</text>
+        <text encoding="base64">ICAgIHNodXRpbC5jb3B5MihQYXRoKGJhc2VkaXIsICJ0ZXN0cyIsICJ0ZXN0X2RiLmpzb24iKSwgUGF0aCh0bXBkaXJfKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJlZXRob3Zlbl9kaXIgPSB0bXBfcGF0aCAvICJiZWV0aG92ZW5kaXIiCg==</text>
+        <text encoding="base64">ICAgIHRtcGRpcl8gPSB0bXBkaXJfZmFjdG9yeS5ta3RlbXAoImxpdmVkYiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcnVubmVyID0gQ2xpUnVubmVyKCkKICAgICMgcmVzdWx0ID0gcnVubmVyLmludm9rZShjbGksIFsiaW5pdCIsIHRlc3RfbmFtZTEsICItcCIsIHN0cihmb2xkZXIpXSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBydW4oKQo=</text>
+        <text encoding="base64">ICAgIHRtcGRpcl8gPSB0bXBkaXJfZmFjdG9yeS5ta3RlbXAoImxpdmVkYiIpCiAgICBzaHV0aWwuY29weTIoUGF0aChiYXNlZGlyLCAidGVzdHMiLCAidGVzdF9kYi5qc29uIiksIFBhdGgodG1wZGlyXykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJ1bm5lciA9IENsaVJ1bm5lcigpCg==</text>
+        <text encoding="base64">ICAgIGxpdmVkYiA9IHRtcF9wYXRoIC8gImxpdmVkYi5qc29uIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcGllY2UgPSBpbmZvLlBpZWNlLmxvYWQoY29uZmlnX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlID0gcHJvbXB0KCJVc2UgdGhpcyBjb25maWc/ICIsIGRlZmF1bHQ9IlkiLCB2YWxpZGF0b3I9WU5WYWxpZGF0b3IoKSkK</text>
+        <text encoding="base64">ICAgIHdpdGggdG1wX3BhdGgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zmxha2U4LWJsaW5rLWV4Y2VwdCA9ICIqIgpmbGFrZTgtYnVpbHRpbnMgPSAiKiIKZmxha2U4LWNvbXByZWhlbnNpb25zID0gIioiCmZsYWtlOC1lcmFkaWNhdGUgPSAiKiIKZmxha2U4LWJyb2tlbi1saW5lID0gIioiCmZsYWtlOC10aWR5LWltcG9ydHMgPSAiKiIKZmxha2U4LWFzc2VydGl2ZSA9ICIqIgpmbGFrZTgtbW9jayA9ICIqIgpmbGFrZTgtcHl0ZXN0ID0gIioiCmZsYWtlOC1iYW5kaXQgPSAiKiIKcHl0ZXN0LXBpY2tlZCA9ICIqIgpweXRlc3Qtc3VnYXIgPSAiKiIKcHl0ZXN0LXhkaXN0ID0gIioiCg==</text>
+        <text encoding="base64">ICAgIG9zLnJlbW92ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">ICAgIGVkaXRfcmVwbC5yZXR1cm5fdmFsdWUgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/list()/[]/g</text>
