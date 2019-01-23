@@ -46,6 +46,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_yaml.py" timestamp="1548220556302">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1548220330191">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="6" column="48" />
@@ -187,17 +192,18 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/tests/test_info.py" timestamp="1548219837255">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_info.py" timestamp="1548220572588">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" timestamp="1548220198813">
-        <mark key="'" line="127" column="20" />
-        <mark key="[" line="164" column="37" />
-        <mark key="]" line="165" column="13" />
-        <mark key="." line="165" column="13" />
-        <mark key="^" line="165" column="13" />
+        <mark key="'" line="126" column="20" />
+        <mark key="[" line="163" column="37" />
+        <mark key="]" line="164" column="13" />
+        <mark key="." line="164" column="13" />
+        <mark key="^" line="164" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/templates/index.html" timestamp="1547666071967">
         <mark key="[" line="9" column="6" />
@@ -223,11 +229,11 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" timestamp="1548220301403">
-        <mark key="[" line="97" column="61" />
-        <mark key="]" line="98" column="20" />
-        <mark key="^" line="98" column="20" />
-        <mark key="." line="98" column="20" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" timestamp="1548221420964">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="93" column="39" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_requirements.py" timestamp="1547945066848">
         <mark key="[" line="0" column="0" />
@@ -240,17 +246,17 @@
         <mark key="^" line="35" column="72" />
         <mark key="." line="35" column="72" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/tests/test_integration.py" timestamp="1548219407357">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_integration.py" timestamp="1548220549636">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1548220435161">
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
-        <mark key="^" line="258" column="41" />
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1548220851817">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="256" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1548038400944">
         <mark key="[" line="10" column="0" />
@@ -281,6 +287,18 @@
         <mark key="]" line="2" column="86" />
         <mark key="." line="2" column="86" />
         <mark key="^" line="2" column="86" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_templates.py" timestamp="1548220867644">
+        <mark key="'" line="168" column="27" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/Pipfile" timestamp="1548221089224">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+        <mark key="^" line="26" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
         <mark key="[" line="4" column="0" />
@@ -319,9 +337,9 @@
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1548220047079">
         <mark key="[" line="360" column="73" />
-        <mark key="]" line="361" column="17" />
-        <mark key="^" line="361" column="17" />
-        <mark key="." line="361" column="17" />
+        <mark key="]" line="360" column="17" />
+        <mark key="^" line="360" column="17" />
+        <mark key="." line="360" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/baseball/pitcher_scraper_2017-09/prospectus.py" timestamp="1547939113174">
         <mark key="[" line="60" column="36" />
@@ -334,11 +352,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1548220280800">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1548220280800" />
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/ponynote/settings.py" timestamp="1547666474483">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
@@ -357,6 +371,12 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_cli.py" timestamp="1548222247120">
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="67" column="29" />
+        <mark key="." line="67" column="29" />
+        <mark key="^" line="67" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_composer_api.py" timestamp="1547891905675">
         <mark key="'" line="70" column="27" />
         <mark key="[" line="73" column="18" />
@@ -366,9 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="54" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
-      <jump line="301" column="68" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
-      <jump line="304" column="70" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
       <jump line="43" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" />
       <jump line="91" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" />
@@ -466,10 +483,13 @@
       <jump line="195" column="43" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
       <jump line="2" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
       <jump line="127" column="20" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" />
+      <jump line="19" column="10" filename="$USER_HOME$/repositories/lilyskel/tests/test_templates.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/repositories/lilyskel/tests/test_info.py" />
+      <jump line="168" column="27" filename="$USER_HOME$/repositories/lilyskel/tests/test_templates.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiBkaWN0ID0gTm9uZSwK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdC5zdGRvdXQpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -495,7 +515,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>beethoven_dir</text>
       </register>
       <register name="/" type="4">
         <text>list()</text>
@@ -519,31 +539,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiBkaWN0ID0gTm9uZSwK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdC5zdGRvdXQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEluZGV4VmFsaWRhdG9yLAo=</text>
+        <text encoding="base64">ICAgIGJlZXRob3Zlbl9kaXIgPSB0bXBfcGF0aCAvICJiZWV0aG92ZW5kaXIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBsaWx5c2tlbC5pbnRlcmZhY2UgaW1wb3J0IGNvbW1vbgo=</text>
+        <text encoding="base64">ICAgICMgcnVubmVyID0gQ2xpUnVubmVyKCkKICAgICMgcmVzdWx0ID0gcnVubmVyLmludm9rZShjbGksIFsiaW5pdCIsIHRlc3RfbmFtZTEsICItcCIsIHN0cihmb2xkZXIpXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEluZGV4VmFsaWRhdG9yLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBydW4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpY2Vuc2VWYWxpZGF0b3IsCiAgICBNb2RlVmFsaWRhdG9yLAogICAgTm90ZVZhbGlkYXRvciwKICAgIFN0eWxlVmFsaWRhdG9yLAo=</text>
+        <text encoding="base64">ICAgIHJ1bm5lciA9IENsaVJ1bm5lcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBsaWx5c2tlbC5pbnRlcmZhY2UubW92ZW1lbnRfY29tbWFuZHMgaW1wb3J0IGdldF90ZW1wb193b3Jkcwo=</text>
+        <text encoding="base64">ICAgICMgcGllY2UgPSBpbmZvLlBpZWNlLmxvYWQoY29uZmlnX2RhdGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNhdmVfcGllY2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlID0gcHJvbXB0KCJVc2UgdGhpcyBjb25maWc/ICIsIGRlZmF1bHQ9IlkiLCB2YWxpZGF0b3I9WU5WYWxpZGF0b3IoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNhdmVfbm9uX2ludGVyYWN0aXZlLAo=</text>
+        <text encoding="base64">Zmxha2U4LWJsaW5rLWV4Y2VwdCA9ICIqIgpmbGFrZTgtYnVpbHRpbnMgPSAiKiIKZmxha2U4LWNvbXByZWhlbnNpb25zID0gIioiCmZsYWtlOC1lcmFkaWNhdGUgPSAiKiIKZmxha2U4LWJyb2tlbi1saW5lID0gIioiCmZsYWtlOC10aWR5LWltcG9ydHMgPSAiKiIKZmxha2U4LWFzc2VydGl2ZSA9ICIqIgpmbGFrZTgtbW9jayA9ICIqIgpmbGFrZTgtcHl0ZXN0ID0gIioiCmZsYWtlOC1iYW5kaXQgPSAiKiIKcHl0ZXN0LXBpY2tlZCA9ICIqIgpweXRlc3Qtc3VnYXIgPSAiKiIKcHl0ZXN0LXhkaXN0ID0gIioiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBsaWx5c2tlbC5pbnRlcmZhY2UuY29tbW9uIGltcG9ydCAqCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/list()/[]/g</text>
