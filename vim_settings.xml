@@ -346,11 +346,11 @@
         <mark key="^" line="87" column="21" />
         <mark key="." line="87" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548301236888">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="28" />
-        <mark key="^" line="27" column="21" />
-        <mark key="." line="14" column="28" />
+      <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="19" column="63" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/ponynote/settings.py" timestamp="1547666474483">
         <mark key="[" line="122" column="0" />
@@ -487,8 +487,8 @@
       <jump line="30" column="3" filename="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHBkZmtpdAo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -514,7 +514,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>AppState</text>
@@ -538,31 +538,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAiY2xpcCI6IHsieCI6IDUwMCwgInkiOiAwLCAid2lkdGgiOiAxMDAwfSwK</text>
+        <text encoding="base64">aW1wb3J0IHBkZmtpdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAic2NhbGUiOiAyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNjYWxlIjogNSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNjYWxlIjogMiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAiY2xpcCI6IHsieCI6IDUwMCwgInkiOiAwLCAid2lkdGgiOiAxMDAwfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAiY2xpcCI6IHsieCI6IDUwMCwgInkiOiAwfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAic2NhbGUiOiAyLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBhZ2UucGRmKHsic2NhbGUiOiAyLCAicGF0aCI6IHN0cihpbWFnZV9wYXRoKX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNjYWxlIjogMiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAiY2xpcCI6IHsieCI6IDUwMCwgInkiOiAwfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBkZmtpdC5mcm9tX3VybCgiaHR0cHM6Ly9kcmF3dGhlbGluZXNwYS5vcmciLCBmIi90bXAvdGVzdF97bm93fS5wZGYiLCBvcHRpb25zPXsKICAgICAgICAiIgogICAgfSkK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHBhZ2UucGRmKHsic2NhbGUiOiAyLCAicGF0aCI6IHN0cihpbWFnZV9wYXRoKX0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5vdykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5vdykK</text>
+        <text encoding="base64">ICAgIHBkZmtpdC5mcm9tX3VybCgiaHR0cHM6Ly9kcmF3dGhlbGluZXNwYS5vcmciLCBmIi90bXAvdGVzdF97bm93fS5wZGYiLCBvcHRpb25zPXsKICAgICAgICAiIgogICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/list()/[]/g</text>
