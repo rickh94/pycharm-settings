@@ -389,10 +389,11 @@
         <mark key="^" line="47" column="21" />
         <mark key="." line="47" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/blog/models.py" timestamp="1548452016383">
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/blog/models.py" timestamp="1548452765466">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="28" column="41" />
+        <mark key="^" line="28" column="41" />
+        <mark key="." line="28" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548099094394">
         <mark key="[" line="20" column="12" />
@@ -511,8 +512,8 @@
       <jump line="307" column="24" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YmxhY2sgPSAiKiIK</text>
+      <register name="&quot;" type="4">
+        <text>page</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -538,7 +539,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dict(name=self.name)</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text>convert</text>
