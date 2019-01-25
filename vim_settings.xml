@@ -366,6 +366,11 @@
         <mark key="^" line="19" column="63" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/Pipfile" timestamp="1548452133747">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/ponynote/settings.py" timestamp="1547666474483">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
@@ -384,11 +389,10 @@
         <mark key="^" line="47" column="21" />
         <mark key="." line="47" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/blog/models.py" timestamp="1548451706690">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/blog/models.py" timestamp="1548452016383">
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548099094394">
         <mark key="[" line="20" column="12" />
@@ -507,8 +511,8 @@
       <jump line="307" column="24" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dict(name=self.name)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YmxhY2sgPSAiKiIK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -558,31 +562,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqLAo=</text>
+        <text encoding="base64">YmxhY2sgPSAiKiIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAqLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBmbGFnczoK</text>
+        <text encoding="base64">ICAgICAgICAqLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBkZmtpdAo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBmbGFnczoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNjYWxlIjogNSwK</text>
+        <text encoding="base64">aW1wb3J0IHBkZmtpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAiY2xpcCI6IHsieCI6IDUwMCwgInkiOiAwLCAid2lkdGgiOiAxMDAwfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNjYWxlIjogNSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAic2NhbGUiOiAyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAiY2xpcCI6IHsieCI6IDUwMCwgInkiOiAwLCAid2lkdGgiOiAxMDAwfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNjYWxlIjogMiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAic2NhbGUiOiAyLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAiY2xpcCI6IHsieCI6IDUwMCwgInkiOiAwfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNjYWxlIjogMiwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/list()/[]/g</text>
