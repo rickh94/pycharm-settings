@@ -153,6 +153,12 @@
         <mark key="." line="23" column="13" />
         <mark key="^" line="25" column="29" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/.env" timestamp="1548454388011">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/views.py" timestamp="1548013483933">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -297,6 +303,12 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/docker-compose.yml" timestamp="1548454443172">
+        <mark key="'" line="19" column="6" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/Pipfile" timestamp="1548221089224">
         <mark key="[" line="27" column="11" />
         <mark key="]" line="27" column="12" />
@@ -389,11 +401,8 @@
         <mark key="^" line="47" column="21" />
         <mark key="." line="47" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/blog/models.py" timestamp="1548452765466">
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="28" column="41" />
-        <mark key="^" line="28" column="41" />
-        <mark key="." line="28" column="41" />
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/blog/models.py" timestamp="1548453954867">
+        <mark key="[" line="54" column="58" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548099094394">
         <mark key="[" line="20" column="12" />
@@ -408,9 +417,14 @@
         <mark key="." line="138" column="36" />
         <mark key="^" line="138" column="36" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/thing/settings/base.py" timestamp="1548454373534">
+        <mark key="[" line="146" column="13" />
+        <mark key="]" line="146" column="27" />
+        <mark key="." line="146" column="27" />
+        <mark key="^" line="146" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="5" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" />
       <jump line="4" column="18" filename="$USER_HOME$/repositories/recipe-app-api/app/user/views.py" />
       <jump line="2" column="5" filename="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/user/urls.py" />
@@ -510,10 +524,11 @@
       <jump line="339" column="18" filename="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" />
       <jump line="455" column="23" filename="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" />
       <jump line="307" column="24" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
+      <jump line="19" column="6" filename="$USER_HOME$/repositories/scratch/wagtail-play/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>page</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSBTVEFUSUNfUk9PVAo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -539,13 +554,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
-        <text>convert</text>
+        <text>STATIC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBhZ2UuZW11bGF0ZSgKICAgICAgICB2aWV3cG9ydD17IndpZHRoIjogMzg0MCwgImhlaWdodCI6IDIxNjB9LAogICAgICAgIHVzZXJBZ2VudD0oCiAgICAgICAgICAgICJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAiCiAgICAgICAgICAgICIoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS81MS4wLjI3MDQuMTAzIFNhZmFyaS81MzcuMzYiCiAgICAgICAgKSwKICAgICkK</text>
+        <text encoding="base64">ICAgICAgLSBTVEFUSUNfUk9PVAo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -563,48 +578,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmxhY2sgPSAiKiIK</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAqLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0WydibG9ncGFnZXMnXSA9IGJsb2dwYWdlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqLAo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dChzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBmbGFnczoK</text>
+        <text encoding="base64">YmxhY2sgPSAiKiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBkZmtpdAo=</text>
+        <text encoding="base64">ICAgICAgICAqLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNjYWxlIjogNSwK</text>
+        <text encoding="base64">ICAgICAgICAqLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAiY2xpcCI6IHsieCI6IDUwMCwgInkiOiAwLCAid2lkdGgiOiAxMDAwfSwK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBmbGFnczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAic2NhbGUiOiAyLAo=</text>
+        <text encoding="base64">aW1wb3J0IHBkZmtpdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNjYWxlIjogMiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNjYWxlIjogNSwK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/list()/[]/g</text>
+        <text>s/STATIC/MEDIA/</text>
       </register>
     </registers>
     <search>
-      <last-search>convert</last-search>
+      <last-search>STATIC</last-search>
       <last-offset />
-      <last-pattern>convert</last-pattern>
-      <last-replace>[]</last-replace>
-      <last-substitute>list()</last-substitute>
+      <last-pattern>STATIC</last-pattern>
+      <last-replace>MEDIA</last-replace>
+      <last-substitute>STATIC</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>style</entry>
         <entry>monkeypatch</entry>
         <entry>AUTHENTICATION_BACKENDS</entry>
         <entry>plan_id</entry>
@@ -624,6 +638,7 @@
         <entry>livetable</entry>
         <entry>AppState</entry>
         <entry>convert</entry>
+        <entry>STATIC</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -643,6 +658,7 @@
         <entry encoding="base64">JzwsJz5zLzMvNC9n</entry>
         <entry encoding="base64">JzwsJz5zL291dC91cmxzL2c=</entry>
         <entry>%s/list()/[]/g</entry>
+        <entry>s/STATIC/MEDIA/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
