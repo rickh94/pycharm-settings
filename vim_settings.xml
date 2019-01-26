@@ -401,6 +401,12 @@
         <mark key="^" line="47" column="21" />
         <mark key="." line="47" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/blog/models.py" timestamp="1548475447129">
+        <mark key="[" line="49" column="64" />
+        <mark key="]" line="49" column="90" />
+        <mark key="." line="49" column="90" />
+        <mark key="^" line="49" column="90" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548099094394">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="20" column="12" />
@@ -524,8 +530,8 @@
       <jump line="19" column="6" filename="$USER_HOME$/repositories/scratch/wagtail-play/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dChzZWxmLCByZXF1ZXN0KToKICAgICAgICAiIiJGaWx0ZXIgYnkgdGFnLCB1cGRhdGUgY29udGV4dCIiIgogICAgICAgIHRhZyA9IHJlcXVlc3QuR0VULmdldCgndGFnJykKICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>FieldPanel(&quot;intro&quot;)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -551,7 +557,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gallery_item =</text>
+        <text>FieldPanel(&quot;intro&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>STATIC</text>
