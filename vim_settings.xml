@@ -9,6 +9,12 @@
         <mark key="^" line="166" column="87" />
         <mark key="." line="166" column="87" />
       </file>
+      <file name="$USER_HOME$/repositories/random_composer/random_composer.py" timestamp="1548478579761">
+        <mark key="[" line="20" column="61" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+      </file>
       <file name="$USER_HOME$/repositories/screenshot_site/Pipfile" timestamp="1548041284910">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="21" />
@@ -366,6 +372,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/random_composer/setup.py" timestamp="1548478509408">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1548224747438">
         <mark key="[" line="87" column="16" />
         <mark key="]" line="87" column="21" />
@@ -401,11 +412,11 @@
         <mark key="^" line="47" column="21" />
         <mark key="." line="47" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/blog/models.py" timestamp="1548476863388">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-        <mark key="^" line="44" column="112" />
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/blog/models.py" timestamp="1548478095486">
+        <mark key="[" line="47" column="46" />
+        <mark key="]" line="47" column="47" />
+        <mark key="." line="47" column="47" />
+        <mark key="^" line="47" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548099094394">
         <mark key="[" line="20" column="12" />
@@ -581,31 +592,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dChzZWxmLCByZXF1ZXN0KToKICAgICAgICAiIiJGaWx0ZXIgYnkgdGFnLCB1cGRhdGUgY29udGV4dCIiIgogICAgICAgIHRhZyA9IHJlcXVlc3QuR0VULmdldCgndGFnJykKICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZvciBjb21wIGluIGNvbXBvc2VyX2VsZW1lbnRzOgogICAgICAgIGNvbXBvc2Vycy5hcHBlbmQoY29tcFsidGl0bGUiXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaWVsZFBhbmVsKCJkYXRlIiksCiAgICAgICAgRmllbGRQYW5lbCgiaW50cm8iKSwK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dChzZWxmLCByZXF1ZXN0KToKICAgICAgICAiIiJGaWx0ZXIgYnkgdGFnLCB1cGRhdGUgY29udGV4dCIiIgogICAgICAgIHRhZyA9IHJlcXVlc3QuR0VULmdldCgndGFnJykKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQmxvZ1BhZ2VUYWcoVGFnZ2VkSXRlbUJhc2UpOgogICAgIiIiVGFnIG9uIGEgYmxvZyBwYWdlIiIiCiAgICBjb250ZW50X29iamVjdCA9IFBhcmVudGFsS2V5KAogICAgICAgICdCbG9nUGFnZScsCiAgICAgICAgcmVsYXRlZF9uYW1lPSd0YWdnZWRfaXRlbXMnLAogICAgICAgIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERQogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZFBhbmVsKCJkYXRlIiksCiAgICAgICAgRmllbGRQYW5lbCgiaW50cm8iKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQmxvZ1BhZ2VUYWcoVGFnZ2VkSXRlbUJhc2UpOgogICAgIiIiVGFnIG9uIGEgYmxvZyBwYWdlIiIiCg==</text>
+        <text encoding="base64">Y2xhc3MgQmxvZ1BhZ2VUYWcoVGFnZ2VkSXRlbUJhc2UpOgogICAgIiIiVGFnIG9uIGEgYmxvZyBwYWdlIiIiCiAgICBjb250ZW50X29iamVjdCA9IFBhcmVudGFsS2V5KAogICAgICAgICdCbG9nUGFnZScsCiAgICAgICAgcmVsYXRlZF9uYW1lPSd0YWdnZWRfaXRlbXMnLAogICAgICAgIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERQogICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nYWxsZXJ5X2ltYWdlcy5maXJzdCgpIG9yIE5vbmUK</text>
+        <text encoding="base64">Y2xhc3MgQmxvZ1BhZ2VUYWcoVGFnZ2VkSXRlbUJhc2UpOgogICAgIiIiVGFnIG9uIGEgYmxvZyBwYWdlIiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2FsbGVyeV9pdGVtIG9yIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nYWxsZXJ5X2ltYWdlcy5maXJzdCgpIG9yIE5vbmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnYWxsZXJ5X2l0ZW06CiAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2FsbGVyeV9pdGVtIG9yIE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBnYWxsZXJ5X2l0ZW06CiAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0WydibG9ncGFnZXMnXSA9IGJsb2dwYWdlcwo=</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/STATIC/MEDIA/</text>
