@@ -29,11 +29,8 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/settings.py" timestamp="1548011009179">
-        <mark key="[" line="51" column="16" />
-        <mark key="]" line="52" column="23" />
-        <mark key="^" line="52" column="23" />
-        <mark key="." line="52" column="23" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/settings.py" timestamp="1548629716060">
+        <mark key="[" line="202" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/tests/test_knox_views.py" timestamp="1547847793303">
         <mark key="[" line="64" column="45" />
@@ -418,11 +415,11 @@
         <mark key="." line="47" column="47" />
         <mark key="^" line="47" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548099094394">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="12" />
-        <mark key="^" line="20" column="12" />
-        <mark key="." line="20" column="12" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548629805521">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="2" />
+        <mark key="^" line="69" column="8" />
+        <mark key="." line="69" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_cli.py" timestamp="1548226745034">
         <mark key="'" line="23" column="18" />
@@ -542,7 +539,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>api</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -568,7 +565,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
         <text>STATIC</text>
