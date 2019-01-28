@@ -173,12 +173,12 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1548101455940">
-        <mark key="'" line="219" column="0" />
-        <mark key="[" line="143" column="13" />
-        <mark key="]" line="143" column="18" />
-        <mark key="." line="143" column="18" />
-        <mark key="^" line="143" column="18" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1548639496867">
+        <mark key="'" line="234" column="0" />
+        <mark key="[" line="72" column="84" />
+        <mark key="]" line="72" column="84" />
+        <mark key="^" line="72" column="84" />
+        <mark key="." line="72" column="84" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/views.py" timestamp="1547701151013">
         <mark key="[" line="2" column="0" />
@@ -561,8 +561,8 @@
       <jump line="33" column="34" filename="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBFU19KQVZBX09QVFM9Ii1YbXMyZyAtWG14MmciCg==</text>
+      <register name="&quot;" type="4">
+        <text>addP</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -588,7 +588,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>addP</text>
       </register>
       <register name="/" type="4">
         <text>documents</text>
