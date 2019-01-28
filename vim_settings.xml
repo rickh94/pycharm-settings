@@ -20,17 +20,11 @@
         <mark key="]" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1548305582130">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/conftest.py" timestamp="1548223419759">
         <mark key="[" line="18" column="16" />
         <mark key="]" line="18" column="16" />
         <mark key="^" line="23" column="15" />
         <mark key="." line="18" column="16" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/settings.py" timestamp="1548629716060">
-        <mark key="[" line="202" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/tests/test_knox_views.py" timestamp="1547847793303">
         <mark key="[" line="64" column="45" />
@@ -93,6 +87,12 @@
         <mark key="[" line="86" column="15" />
         <mark key="]" line="86" column="15" />
         <mark key="." line="86" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/views.py" timestamp="1548636563551">
+        <mark key="[" line="58" column="5" />
+        <mark key="]" line="60" column="29" />
+        <mark key="^" line="60" column="29" />
+        <mark key="." line="60" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_test.py" timestamp="1547965245742">
         <mark key="[" line="15" column="0" />
@@ -173,9 +173,6 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/urls.py" timestamp="1547701403200">
-        <mark key="[" line="6" column="37" />
-      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1548101455940">
         <mark key="'" line="219" column="0" />
         <mark key="[" line="143" column="13" />
@@ -199,9 +196,6 @@
         <mark key="]" line="8" column="29" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/mypy.ini" timestamp="1548101027921">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_info.py" timestamp="1548220572588">
         <mark key="'" line="63" column="0" />
@@ -275,6 +269,24 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/docker-compose.yml" timestamp="1548638140568">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/serializers.py" timestamp="1548636153256">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="6" column="82" />
+        <mark key="^" line="6" column="82" />
+        <mark key="." line="6" column="82" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/documents.py" timestamp="1548636056425">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="32" column="38" />
+        <mark key="^" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_lyname.py" timestamp="1548219775959">
         <mark key="[" line="429" column="0" />
         <mark key="]" line="429" column="0" />
@@ -312,6 +324,12 @@
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/django_elastic_drf_example/settings.py" timestamp="1548636851080">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/Pipfile" timestamp="1548221089224">
         <mark key="[" line="27" column="11" />
         <mark key="]" line="27" column="12" />
@@ -324,6 +342,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/Dockerfile" timestamp="1548637659435">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/urls.py" timestamp="1547953626209">
         <mark key="[" line="8" column="45" />
         <mark key="]" line="9" column="43" />
@@ -334,12 +357,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/.env.example" timestamp="1548010662302">
-        <mark key="[" line="9" column="51" />
-      </file>
-      <file name="/code.py" timestamp="1547940265044">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/custom_validators_completers.py" timestamp="1548220342723">
         <mark key="[" line="4" column="0" />
@@ -358,6 +375,12 @@
         <mark key="]" line="60" column="36" />
         <mark key="." line="60" column="36" />
         <mark key="^" line="60" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/django_elastic_drf_example/urls.py" timestamp="1548636692310">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/Pipfile" timestamp="1548291407888">
         <mark key="[" line="13" column="20" />
@@ -415,12 +438,6 @@
         <mark key="." line="47" column="47" />
         <mark key="^" line="47" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548635007718">
-        <mark key="[" line="63" column="24" />
-        <mark key="]" line="63" column="29" />
-        <mark key="^" line="63" column="29" />
-        <mark key="." line="63" column="29" />
-      </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_cli.py" timestamp="1548226745034">
         <mark key="'" line="23" column="18" />
         <mark key="[" line="137" column="38" />
@@ -434,11 +451,14 @@
         <mark key="." line="146" column="27" />
         <mark key="^" line="146" column="27" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/urls.py" timestamp="1548636792251">
+        <mark key="[" line="7" column="77" />
+        <mark key="]" line="7" column="77" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="77" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="18" filename="$USER_HOME$/repositories/recipe-app-api/app/user/views.py" />
-      <jump line="2" column="5" filename="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/user/urls.py" />
       <jump line="8" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/user/urls.py" />
       <jump line="8" column="17" filename="$USER_HOME$/repositories/recipe-app-api/app/user/tests/test_user_api.py" />
       <jump line="80" column="72" filename="$USER_HOME$/repositories/recipe-app-api/app/user/tests/test_user_api.py" />
@@ -536,10 +556,13 @@
       <jump line="455" column="23" filename="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" />
       <jump line="307" column="24" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
       <jump line="19" column="6" filename="$USER_HOME$/repositories/scratch/wagtail-play/docker-compose.yml" />
+      <jump line="2" column="40" filename="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/views.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/views.py" />
+      <jump line="33" column="34" filename="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>api</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSBFU19KQVZBX09QVFM9Ii1YbXMyZyAtWG14MmciCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -565,13 +588,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>STATIC</text>
+        <text>documents</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dChzZWxmLCByZXF1ZXN0KToKICAgICAgICAiIiJVcGRhdGUgY29udGV4dCB0byBpbmNsdWRlIG9uIHB1Ymxpc2hlZCBwb3N0cywgcmV2ZXJzIGNocm9ub2xvZ2ljYWwiIiIKICAgICAgICBjb250ZXh0ID0gc3VwZXIoKS5nZXRfY29udGV4dChyZXF1ZXN0KQogICAgICAgIGNvbnRleHRbImJsb2dwYWdlcyJdID0gKAogICAgICAgICAgICBzZWxmLmdldF9jaGlsZHJlbigpLmxpdmUoKS5vcmRlcl9ieSgiLWZpcnN0X3B1Ymxpc2hlZF9hdCIpCiAgICAgICAgKQogICAgICAgIHJldHVybiBjb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgIExPT0tVUF9RVUVSWV9MVEUsCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -589,48 +612,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBjb21wIGluIGNvbXBvc2VyX2VsZW1lbnRzOgogICAgICAgIGNvbXBvc2Vycy5hcHBlbmQoY29tcFsidGl0bGUiXSkK</text>
+        <text encoding="base64">ICAgICAgLSBFU19KQVZBX09QVFM9Ii1YbXMyZyAtWG14MmciCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dChzZWxmLCByZXF1ZXN0KToKICAgICAgICAiIiJGaWx0ZXIgYnkgdGFnLCB1cGRhdGUgY29udGV4dCIiIgogICAgICAgIHRhZyA9IHJlcXVlc3QuR0VULmdldCgndGFnJykKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLSBFU19KQVZBX09QVFM9Ii1YbXMxZyAtWG14MmciCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWVsZFBhbmVsKCJkYXRlIiksCiAgICAgICAgRmllbGRQYW5lbCgiaW50cm8iKSwK</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQmxvZ1BhZ2VUYWcoVGFnZ2VkSXRlbUJhc2UpOgogICAgIiIiVGFnIG9uIGEgYmxvZyBwYWdlIiIiCiAgICBjb250ZW50X29iamVjdCA9IFBhcmVudGFsS2V5KAogICAgICAgICdCbG9nUGFnZScsCiAgICAgICAgcmVsYXRlZF9uYW1lPSd0YWdnZWRfaXRlbXMnLAogICAgICAgIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERQogICAgKQo=</text>
+        <text encoding="base64">ICAgIGRlcGxveToKICAgICAgcmVzb3VyY2VzOgogICAgICAgIGxpbWl0czoKICAgICAgICAgIGNwdXM6ICcxJwogICAgICAgICAgbWVtb3J5OiAyRwogICAgICAgIHJlc2VydmF0aW9uczoKICAgICAgICAgIGNwdXM6ICcwLjUwJwogICAgICAgICAgbWVtb3J5OiA1MTJNCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQmxvZ1BhZ2VUYWcoVGFnZ2VkSXRlbUJhc2UpOgogICAgIiIiVGFnIG9uIGEgYmxvZyBwYWdlIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nYWxsZXJ5X2ltYWdlcy5maXJzdCgpIG9yIE5vbmUK</text>
+        <text encoding="base64">ICAgICMgSGVyZSBhZGQgeW91ciBVUkwncwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2FsbGVyeV9pdGVtIG9yIE5vbmUK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ29fZWxhc3RpY3NlYXJjaF9kc2xfZHJmLmNvbnN0YW50cyBpbXBvcnQgZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnYWxsZXJ5X2l0ZW06CiAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIGZvciBjb21wIGluIGNvbXBvc2VyX2VsZW1lbnRzOgogICAgICAgIGNvbXBvc2Vycy5hcHBlbmQoY29tcFsidGl0bGUiXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dChzZWxmLCByZXF1ZXN0KToKICAgICAgICAiIiJGaWx0ZXIgYnkgdGFnLCB1cGRhdGUgY29udGV4dCIiIgogICAgICAgIHRhZyA9IHJlcXVlc3QuR0VULmdldCgndGFnJykKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>s/STATIC/MEDIA/</text>
+        <text>s/documents/serializers/g</text>
       </register>
     </registers>
     <search>
-      <last-search>STATIC</last-search>
+      <last-search>documents</last-search>
       <last-offset />
-      <last-pattern>STATIC</last-pattern>
-      <last-replace>MEDIA</last-replace>
-      <last-substitute>STATIC</last-substitute>
+      <last-pattern>documents</last-pattern>
+      <last-replace>serializers</last-replace>
+      <last-substitute>documents</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>monkeypatch</entry>
         <entry>AUTHENTICATION_BACKENDS</entry>
         <entry>plan_id</entry>
         <entry>contacts</entry>
@@ -650,6 +672,7 @@
         <entry>AppState</entry>
         <entry>convert</entry>
         <entry>STATIC</entry>
+        <entry>documents</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -670,6 +693,7 @@
         <entry encoding="base64">JzwsJz5zL291dC91cmxzL2c=</entry>
         <entry>%s/list()/[]/g</entry>
         <entry>s/STATIC/MEDIA/</entry>
+        <entry>s/documents/serializers/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
