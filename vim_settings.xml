@@ -415,11 +415,11 @@
         <mark key="." line="47" column="47" />
         <mark key="^" line="47" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548629805521">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="2" />
-        <mark key="^" line="69" column="8" />
-        <mark key="." line="69" column="2" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/docker-compose.yml" timestamp="1548635007718">
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="29" />
+        <mark key="^" line="63" column="29" />
+        <mark key="." line="63" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_cli.py" timestamp="1548226745034">
         <mark key="'" line="23" column="18" />
