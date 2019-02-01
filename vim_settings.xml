@@ -3,46 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1548305622844">
-        <mark key="[" line="166" column="87" />
-        <mark key="]" line="166" column="87" />
-        <mark key="^" line="166" column="87" />
-        <mark key="." line="166" column="87" />
-      </file>
       <file name="$USER_HOME$/repositories/random_composer/random_composer.py" timestamp="1548478579761">
         <mark key="[" line="20" column="61" />
         <mark key="]" line="21" column="3" />
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
-      </file>
-      <file name="$USER_HOME$/repositories/screenshot_site/Pipfile" timestamp="1548041284910">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/tests/conftest.py" timestamp="1548223419759">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="16" />
-        <mark key="^" line="23" column="15" />
-        <mark key="." line="18" column="16" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/tests/test_interface_common.py" timestamp="1548965331242">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/tests/test_knox_views.py" timestamp="1547847793303">
-        <mark key="[" line="64" column="45" />
-        <mark key="]" line="64" column="45" />
-        <mark key="^" line="61" column="66" />
-        <mark key="." line="64" column="45" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/__init__.py" timestamp="1548962139706">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/pdf_from_site/.env" timestamp="1547675181169">
         <mark key="[" line="6" column="7" />
@@ -61,12 +26,6 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/create_commands.py" timestamp="1548225010863">
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="51" column="23" />
-        <mark key="." line="51" column="23" />
-        <mark key="^" line="51" column="23" />
-      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/serializers.py" timestamp="1547847335447">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="10" column="3" />
@@ -78,28 +37,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1548220330191">
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="6" column="48" />
-        <mark key="." line="6" column="48" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/models.py" timestamp="1548962456759">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="13" column="38" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="13" column="38" />
-      </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/api.py" timestamp="1547707402958">
         <mark key="[" line="8" column="40" />
         <mark key="]" line="8" column="40" />
         <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="40" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_up.py" timestamp="1547786616814">
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_db_interface.py" timestamp="1548223455092">
         <mark key="[" line="86" column="15" />
@@ -118,21 +60,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/screenshot_site/.env" timestamp="1547743126703">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_rebuild.py" timestamp="1547947106246">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/screenshot_site/download_images.py" timestamp="1548040764049">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/Pipfile" timestamp="1547888817444">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -147,24 +74,6 @@
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="21" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_tags_api.py" timestamp="1547863853939">
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="37" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/pytest.ini" timestamp="1547445432498">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/Dockerfile" timestamp="1547843708354">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="41" />
-        <mark key="^" line="8" column="102" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/build_requirements.py" timestamp="1547886674926">
         <mark key="[" line="23" column="13" />
@@ -183,24 +92,6 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/views.py" timestamp="1548013483933">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/screenshot_site/dtl_pdf.py" timestamp="1547743187073">
-        <mark key="[" line="65" column="8" />
-        <mark key="]" line="65" column="13" />
-        <mark key="." line="65" column="13" />
-        <mark key="^" line="65" column="13" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1548639496867">
-        <mark key="'" line="234" column="0" />
-        <mark key="[" line="72" column="84" />
-        <mark key="]" line="72" column="84" />
-        <mark key="^" line="72" column="84" />
-        <mark key="." line="72" column="84" />
-      </file>
       <file name="$USER_HOME$/repositories/tutorials/flask/microblog/microblog.py" timestamp="1548954537020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -211,24 +102,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1548023549696">
-        <mark key="[" line="73" column="67" />
-        <mark key="]" line="73" column="78" />
-        <mark key="^" line="73" column="78" />
-        <mark key="." line="73" column="78" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" timestamp="1548219442432">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/config.py" timestamp="1548962053612">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-        <mark key="^" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/templates/index.html" timestamp="1547666071967">
         <mark key="[" line="9" column="6" />
@@ -248,41 +121,17 @@
         <mark key="^" line="60" column="9" />
         <mark key="." line="60" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/pytest.ini" timestamp="1547700220752">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" timestamp="1548223920585">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="10" column="56" />
-        <mark key="^" line="93" column="39" />
-        <mark key="." line="10" column="56" />
-      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_requirements.py" timestamp="1547945066848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1548099159817">
-        <mark key="[" line="35" column="72" />
-        <mark key="]" line="35" column="72" />
-        <mark key="^" line="35" column="72" />
-        <mark key="." line="35" column="72" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/tests/test_integration.py" timestamp="1548220549636">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1548965237609">
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" timestamp="1548966565309">
         <mark key="'" line="225" column="30" />
-        <mark key="[" line="48" column="81" />
-        <mark key="]" line="49" column="48" />
-        <mark key="^" line="49" column="48" />
-        <mark key="." line="49" column="48" />
+        <mark key="[" line="63" column="10" />
+        <mark key="]" line="63" column="21" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" timestamp="1548038400944">
         <mark key="[" line="10" column="0" />
@@ -301,23 +150,6 @@
         <mark key="^" line="6" column="82" />
         <mark key="." line="6" column="82" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/documents.py" timestamp="1548636056425">
-        <mark key="[" line="29" column="33" />
-        <mark key="]" line="32" column="38" />
-        <mark key="^" line="32" column="38" />
-        <mark key="." line="32" column="38" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/tests/test_lyname.py" timestamp="1548219775959">
-        <mark key="[" line="429" column="0" />
-        <mark key="]" line="429" column="0" />
-        <mark key="." line="429" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/.flaskenv" timestamp="1548962765968">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/urls.py" timestamp="1547965314189">
         <mark key="[" line="19" column="87" />
         <mark key="]" line="19" column="147" />
@@ -330,61 +162,17 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/Pipfile" timestamp="1548221089224">
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="12" />
-        <mark key="^" line="26" column="9" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/routes.py" timestamp="1548961547216">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="37" />
-        <mark key="." line="24" column="37" />
-        <mark key="^" line="24" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="44" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/Dockerfile" timestamp="1548637659435">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/urls.py" timestamp="1547953626209">
         <mark key="[" line="8" column="45" />
         <mark key="]" line="9" column="43" />
         <mark key="^" line="9" column="43" />
         <mark key="." line="9" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/.pre-commit-config.yaml" timestamp="1547947844890">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/custom_validators_completers.py" timestamp="1548220342723">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/baseball/pitcher_scraper_2017-09/prospectus.py" timestamp="1547939113174">
-        <mark key="[" line="60" column="36" />
-        <mark key="]" line="60" column="36" />
-        <mark key="." line="60" column="36" />
-        <mark key="^" line="60" column="15" />
-      </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/django_elastic_drf_example/urls.py" timestamp="1548636692310">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="6" column="43" />
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
-      </file>
-      <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/Pipfile" timestamp="1548291407888">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/ponynote/urls.py" timestamp="1547666467803">
         <mark key="[" line="21" column="0" />
@@ -396,18 +184,6 @@
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1548224747438">
-        <mark key="[" line="87" column="16" />
-        <mark key="]" line="87" column="21" />
-        <mark key="^" line="87" column="21" />
-        <mark key="." line="87" column="21" />
-      </file>
-      <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="19" column="63" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/scratch/wagtail-play/Pipfile" timestamp="1548452133747">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -418,12 +194,6 @@
         <mark key="]" line="122" column="0" />
         <mark key="^" line="56" column="49" />
         <mark key="." line="122" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_manage.py" timestamp="1548013380715">
-        <mark key="[" line="16" column="81" />
-        <mark key="]" line="16" column="81" />
-        <mark key="^" line="14" column="21" />
-        <mark key="." line="16" column="81" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_site/download_images.py" timestamp="1548301650696">
         <mark key="[" line="47" column="72" />
@@ -449,9 +219,225 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="77" />
       </file>
+      <file name="$USER_HOME$/repositories/screenshot_site/Pipfile" timestamp="1548041284910">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_interface_common.py" timestamp="1548966510581">
+        <mark key="[" line="105" column="37" />
+        <mark key="]" line="105" column="42" />
+        <mark key="^" line="105" column="42" />
+        <mark key="." line="105" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/tests/test_knox_views.py" timestamp="1547847793303">
+        <mark key="[" line="64" column="45" />
+        <mark key="]" line="64" column="45" />
+        <mark key="^" line="61" column="66" />
+        <mark key="." line="64" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/__init__.py" timestamp="1548962139706">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/create_commands.py" timestamp="1548225010863">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="51" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1548220330191">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/models.py" timestamp="1548962456759">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_up.py" timestamp="1547786616814">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/repositories/screenshot_site/.env" timestamp="1547743126703">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_rebuild.py" timestamp="1547947106246">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/cli.py" timestamp="1548966925356">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/screenshot_site/download_images.py" timestamp="1548040764049">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_tags_api.py" timestamp="1547863853939">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="37" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/pytest.ini" timestamp="1547445432498">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/Dockerfile" timestamp="1547843708354">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="8" column="102" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/views.py" timestamp="1548013483933">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/screenshot_site/dtl_pdf.py" timestamp="1547743187073">
+        <mark key="[" line="65" column="8" />
+        <mark key="]" line="65" column="13" />
+        <mark key="." line="65" column="13" />
+        <mark key="^" line="65" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1548639496867">
+        <mark key="'" line="234" column="0" />
+        <mark key="[" line="72" column="84" />
+        <mark key="]" line="72" column="84" />
+        <mark key="^" line="72" column="84" />
+        <mark key="." line="72" column="84" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1548023549696">
+        <mark key="[" line="73" column="67" />
+        <mark key="]" line="73" column="78" />
+        <mark key="^" line="73" column="78" />
+        <mark key="." line="73" column="78" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" timestamp="1548219442432">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/config.py" timestamp="1548962053612">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="10" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/pytest.ini" timestamp="1547700220752">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" timestamp="1548223920585">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="93" column="39" />
+        <mark key="." line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1548099159817">
+        <mark key="[" line="35" column="72" />
+        <mark key="]" line="35" column="72" />
+        <mark key="^" line="35" column="72" />
+        <mark key="." line="35" column="72" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_integration.py" timestamp="1548220549636">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/documents.py" timestamp="1548636056425">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="32" column="38" />
+        <mark key="^" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_lyname.py" timestamp="1548219775959">
+        <mark key="[" line="429" column="0" />
+        <mark key="]" line="429" column="0" />
+        <mark key="." line="429" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/.flaskenv" timestamp="1548962765968">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/routes.py" timestamp="1548961547216">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="37" />
+        <mark key="." line="24" column="37" />
+        <mark key="^" line="24" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/Dockerfile" timestamp="1548637659435">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/.pre-commit-config.yaml" timestamp="1547947844890">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/custom_validators_completers.py" timestamp="1548220342723">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/baseball/pitcher_scraper_2017-09/prospectus.py" timestamp="1547939113174">
+        <mark key="[" line="60" column="36" />
+        <mark key="]" line="60" column="36" />
+        <mark key="." line="60" column="36" />
+        <mark key="^" line="60" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/Pipfile" timestamp="1548291407888">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1548224747438">
+        <mark key="[" line="87" column="16" />
+        <mark key="]" line="87" column="21" />
+        <mark key="^" line="87" column="21" />
+        <mark key="." line="87" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="19" column="63" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_manage.py" timestamp="1548013380715">
+        <mark key="[" line="16" column="81" />
+        <mark key="]" line="16" column="81" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="16" column="81" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/repositories/recipe-app-api/app/user/urls.py" />
       <jump line="8" column="17" filename="$USER_HOME$/repositories/recipe-app-api/app/user/tests/test_user_api.py" />
       <jump line="80" column="72" filename="$USER_HOME$/repositories/recipe-app-api/app/user/tests/test_user_api.py" />
       <jump line="20" column="3" filename="$USER_HOME$/repositories/recipe-app-api/app/user/serializers.py" />
@@ -551,10 +537,11 @@
       <jump line="2" column="40" filename="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/views.py" />
       <jump line="3" column="0" filename="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/views.py" />
       <jump line="33" column="34" filename="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/views.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/repositories/lilyskel/tests/test_interface_common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -580,13 +567,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>treble</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>documents</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPT0tVUF9RVUVSWV9MVEUsCg==</text>
+        <text encoding="base64">ICAgIG1vY2tfcHJvbXB0ID0gTWFnaWNNb2NrKCkKICAgIG1vY2tfcHJvbXB0LnNpZGVfZWZmZWN0ID0gWyJ0LiIsICIiLCAiIiwgIiIsICIiXQogICAgbW9ja19jb25maXJtID0gTWFnaWNNb2NrKCkKICAgIG1vY2tfY29uZmlybS5zaWRlX2VmZmVjdCA9IFtGYWxzZSwgRmFsc2VdCgogICAgd2l0aCBtb25rZXlwYXRjaC5jb250ZXh0KCkgYXMgbToKICAgICAgICBtLnNldGF0dHIoImxpbHlza2VsLmludGVyZmFjZS5jb21tb24ucHJvbXB0IiwgbW9ja19wcm9tcHQpCiAgICAgICAgbS5zZXRhdHRyKCJsaWx5c2tlbC5pbnRlcmZhY2UuY29tbW9uLmNvbmZpcm0iLCBtb2NrX2NvbmZpcm0pCiAgICAgICAgbS5zZXRhdHRyKCJsaWx5c2tlbC5pbnRlcmZhY2UuY29tbW9uLmx5bmFtZXMuSW5zdHJ1bWVudCIsIG1vY2tfaW5zdHJ1bWVudF9jbGFzcykKICAgICAgICBuZXdfaW5zID0gbWFudWFsX2luc3RydW1lbnQoIlRlc3QiLCBOb25lKQoKICAgICAgICBhc3NlcnQgbmV3X2lucyA9PSBtb2NrX2lucwoKICAgICAgICBtb2NrX2FkZF90b19kYi5hc3NlcnRfbm90X2NhbGxlZCgpCiAgICAgICAgbW9ja19pbnN0cnVtZW50X2xvYWQuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgoCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJjbGVmIjogInRyZWJsZSIsCiAgICAgICAgICAgICAgICAibmFtZSI6ICJUZXN0IiwKICAgICAgICAgICAgICAgICJhYmJyIjogInQuIiwKICAgICAgICAgICAgICAgICJudW1iZXIiOiBOb25lLAogICAgICAgICAgICAgICAgInRyYW5zcG9zaXRpb24iOiBOb25lLAogICAgICAgICAgICAgICAgIm1pZGkiOiBOb25lLAogICAgICAgICAgICAgICAgImZhbWlseSI6IE5vbmUsCiAgICAgICAgICAgICAgICAia2V5Ym9hcmQiOiBGYWxzZSwKICAgICAgICAgICAgfQogICAgICAgICkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -604,31 +591,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIGNvbmZpcm0oCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2luc3RydW1lbnRfbG9hZC5hc3NlcnRfY2FsbGVkX29uY2Vfd2l0aChkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImNsZWYiOiAidHJlYmxlIiwKICAgICAgICAgICAgICAgICJuYW1lIjogIlRlc3QiLAogICAgICAgICAgICAgICAgImFiYnIiOiAidC4iLAogICAgICAgICAgICAgICAgIm51bWJlciI6IE5vbmUsCiAgICAgICAgICAgICAgICAidHJhbnNwb3NpdGlvbiI6IE5vbmUsCiAgICAgICAgICAgICAgICAibWlkaSI6IE5vbmUsCiAgICAgICAgICAgICAgICAiZmFtaWx5IjogTm9uZSwKICAgICAgICAgICAgICAgICJrZXlib2FyZCI6IEZhbHNlLAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjbGVmIGluIFZBTElEX0NMRUZTIG9yIGNsZWYgaXMgTm9uZToKICAgICAgICAgICAgYnJlYWsKICAgICAgICBwcmludCgiaW52YWxpZCBjbGVmIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjbGVmIGluIFZBTElEX0NMRUZTIG9yIGNsZWYgaXMgTm9uZToKICAgICAgICAgICAgYnJlYWsKICAgICAgICBwcmludCgiaW52YWxpZCBjbGVmIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
+        <text encoding="base64">ICAgIG1vY2tkYiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnbicK</text>
+        <text encoding="base64">CgogICAgbW9ja19pbnN0cnVtZW50X2NsYXNzID0gbW9jay5NYWdpY01vY2soKQogICAgbW9ja19pbnN0cnVtZW50X2NsYXNzLmxvYWQgPSBtb2NrX2xvYWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnbicsCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vY2tfaW5zID0gbW9jay5NYWdpY01vY2soKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/documents/serializers/g</text>
