@@ -9,16 +9,12 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1549086664247" />
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/conftest.py" timestamp="1549007404658">
         <mark key="[" line="99" column="27" />
         <mark key="]" line="99" column="36" />
         <mark key="." line="99" column="36" />
         <mark key="^" line="99" column="36" />
-      </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" timestamp="1549045638534">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_yaml.py" timestamp="1548220556302">
         <mark key="[" line="5" column="0" />
@@ -31,12 +27,6 @@
         <mark key="]" line="127" column="66" />
         <mark key="." line="127" column="66" />
         <mark key="^" line="55" column="22" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/views.py" timestamp="1548636563551">
-        <mark key="[" line="58" column="5" />
-        <mark key="]" line="60" column="29" />
-        <mark key="^" line="60" column="29" />
-        <mark key="." line="60" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/download_images/.env" timestamp="1549060084309">
         <mark key="[" line="2" column="17" />
@@ -71,12 +61,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" timestamp="1549045118081">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="9" column="13" />
-      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/mutopia_commands.py" timestamp="1549086679265" />
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_requirements.py" timestamp="1547945066848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -99,12 +84,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/docker-compose.yml" timestamp="1548638140568">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/urls.py" timestamp="1549083234419">
         <mark key="[" line="23" column="4" />
@@ -154,6 +133,7 @@
         <mark key="]" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/movement_commands.py" timestamp="1549086673583" />
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/conftest.py" timestamp="1549009702397">
         <mark key="'" line="4" column="45" />
         <mark key="[" line="107" column="66" />
@@ -200,6 +180,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/header_commands.py" timestamp="1549086658970" />
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/serializers.py" timestamp="1549009830961">
         <mark key="[" line="62" column="88" />
         <mark key="]" line="63" column="96" />
@@ -303,6 +284,7 @@
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_commands.py" timestamp="1549086603617" />
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_cli.py" timestamp="1549045308943">
         <mark key="'" line="23" column="18" />
         <mark key="[" line="35" column="33" />
@@ -415,7 +397,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgInBhc3N3b3JkL3Jlc2V0Lzx1aWRiNjQ+Lzx0b2tlbj4vIiwKICAgICAgICBQYXNzd29yZFJlc2V0Q29uZmlybVZpZXcuYXNfdmlldywKICAgICAgICBuYW1lPSJwYXNzd29yZF9yZXNldF9jb25maXJtIiwKICAgICksCiAgICBwYXRoKAogICAgICAgICJyZWdpc3RyYXRpb24vYWNjb3VudC1jb25maXJtLWVtYWlsLzxrZXk+IiwKICAgICAgICBDb25maXJtRW1haWxWaWV3LmFzX3ZpZXcoKSwKICAgICAgICBuYW1lPSJhY2NvdW50X2NvbmZpcm1fZW1haWwiLAogICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXAuaW52b2tlKGN0eCwgKmFyZ3MsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -441,7 +423,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3Bob3RvX3BhdGh9IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>init_db</text>
@@ -465,32 +447,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgInBhc3N3b3JkL3Jlc2V0Lzx1aWRiNjQ+Lzx0b2tlbj4vIiwKICAgICAgICBQYXNzd29yZFJlc2V0Q29uZmlybVZpZXcuYXNfdmlldywKICAgICAgICBuYW1lPSJwYXNzd29yZF9yZXNldF9jb25maXJtIiwKICAgICksCiAgICBwYXRoKAogICAgICAgICJyZWdpc3RyYXRpb24vYWNjb3VudC1jb25maXJtLWVtYWlsLzxrZXk+IiwKICAgICAgICBDb25maXJtRW1haWxWaWV3LmFzX3ZpZXcoKSwKICAgICAgICBuYW1lPSJhY2NvdW50X2NvbmZpcm1fZW1haWwiLAogICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXAuaW52b2tlKGN0eCwgKmFyZ3MsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgIGdyb3VwOiBjbGljay5Hcm91cCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBmcm9tIGRvdGVudiBpbXBvcnQgbG9hZF9kb3RlbnYK</text>
+        <text encoding="base64">ICAgIGdyb3VwLmhlbHAgKz0gIiBSdW4gd2l0aCBubyBjb21tYW5kcyBmb3IgaW50ZXJhY3RpdmUgY29uc29sZS4iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBlbnZfcGF0aCA9IFBhdGgoIi4iKSAvICIuZW52IgojIGxvYWRfZG90ZW52KGRvdGVudl9wYXRoPWVudl9wYXRoKQoK</text>
+        <text encoding="base64">ICAgIF9yZXBsX2Z1bmN0aW9uID0gX2FkZF9yZXBsX2Z1bmN0aW9uKGdyb3VwLCBwcm9tcHRfa3dhcmdzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwaG90b1sndXJsJ10pCg==</text>
+        <text encoding="base64">ICAgIF9hZGRfZG9uZShncm91cCwgYmVmb3JlX2RvbmVfY2FsbGJhY2spCiAgICBfYWRkX2hlbHBfZnVuY3Rpb24oZ3JvdXApCiAgICBfYWRkX3NhdmUoZ3JvdXApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoanNvbi5kdW1wcyhpdGVtc1swXVsnZmllbGRzJ11bJ1lvdXIgUGhvdG9zJ11bMF1bJ3VybCddLCBpbmRlbnQ9NCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>AIRTABLE_API_KEY=key9Sri7mP9SfUtOE
-BASE_ID=appn10sRomXy1Ze7y</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgInBhc3N3b3JkL3Jlc2V0Lzx1aWRiNjQ+Lzx0b2tlbj4vIiwKICAgICAgICBQYXNzd29yZFJlc2V0Q29uZmlybVZpZXcuYXNfdmlldywKICAgICAgICBuYW1lPSJwYXNzd29yZF9yZXNldF9jb25maXJtIiwKICAgICksCiAgICBwYXRoKAogICAgICAgICJyZWdpc3RyYXRpb24vYWNjb3VudC1jb25maXJtLWVtYWlsLzxrZXk+IiwKICAgICAgICBDb25maXJtRW1haWxWaWV3LmFzX3ZpZXcoKSwKICAgICAgICBuYW1lPSJhY2NvdW50X2NvbmZpcm1fZW1haWwiLAogICAgKSwK</text>
       </register>
       <register name=":" type="4">
         <text>s/tag/instrument/g</text>
