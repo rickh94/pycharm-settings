@@ -354,12 +354,12 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1549149719964">
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1549152132796">
         <mark key="'" line="234" column="0" />
-        <mark key="[" line="76" column="38" />
-        <mark key="]" line="76" column="45" />
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="30" />
         <mark key="^" line="76" column="45" />
-        <mark key="." line="76" column="45" />
+        <mark key="." line="22" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1549005962771">
         <mark key="[" line="114" column="15" />
@@ -593,8 +593,8 @@
       <jump line="48" column="4" filename="$USER_HOME$/repositories/tutorials/flask/microblog/app/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBDT1JTX1VSTF9SRUdFWCA9IHIiXi9hcGkvLiokIgo=</text>
+      <register name="&quot;" type="4">
+        <text>https://</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -620,7 +620,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tem, key</text>
+        <text>https://</text>
       </register>
       <register name="/" type="4">
         <text>init_db</text>
