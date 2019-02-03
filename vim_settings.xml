@@ -354,12 +354,11 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1549152132796">
-        <mark key="'" line="234" column="0" />
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="30" />
-        <mark key="^" line="76" column="45" />
-        <mark key="." line="22" column="30" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" timestamp="1549169867526">
+        <mark key="'" line="245" column="0" />
+        <mark key="[" line="100" column="82" />
+        <mark key="]" line="100" column="82" />
+        <mark key="." line="100" column="82" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" timestamp="1549005962771">
         <mark key="[" line="114" column="15" />
@@ -396,11 +395,11 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1549168645858">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="46" />
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1549169483824">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_integration.py" timestamp="1548220549636">
         <mark key="[" line="3" column="0" />
@@ -594,7 +593,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -620,7 +619,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>init_db</text>
@@ -644,31 +643,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDT1JTX1VSTF9SRUdFWCA9IHIiXi9hcGkvLiokIgo=</text>
+        <text encoding="base64">ICAgICAgICAiXG4iLmpvaW4oCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICJcbiAgZ2V0IHVybCgpIHsiLAogICAgICAgICAgICAgICAgIiAgICAvLyB1dGlsaXR5IGZ1bmN0aW9uIiwKICAgICAgICAgICAgICAgICIgICAgcmV0dXJuIGAke3RoaXMuYmFzZXVybH0ke3RoaXMucGF0aH1gIiwKICAgICAgICAgICAgICAgICIgIH0iLAogICAgICAgICAgICBdCiAgICAgICAgKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGFkbWluLnJlZ2lzdGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0X3BhZ2UgPSByZXF1ZXN0LmFyZ3MuZ2V0KCJuZXh0IikKICAgICAgICBpZiBub3QgbmV4dF9wYWdlIG9yIHVybF9wYXJzZShuZXh0X3BhZ2UpLm5ldGxvYyAhPSAiIjoKICAgICAgICAgICAgbmV4dF9wYWdlID0gdXJsX2ZvcigiaW5kZXgiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpbl91c2VyKHVzZXIsIHJlbWVtYmVyPWZvcm0ucmVtZW1iZXJfbWUuZGF0YSkK</text>
+        <text encoding="base64">IyBDT1JTX1VSTF9SRUdFWCA9IHIiXi9hcGkvLiokIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGFkbWluLnJlZ2lzdGVyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1c2VyIGlzIE5vbmUgb3Igbm90IHVzZXIuY2hlY2tfcGFzc3dvcmQoZm9ybS5wYXNzd29yZC5kYXRhKToKICAgICAgICAgICAgZmxhc2goIkludmFsaWQgdXNlcm5hbWUgb3IgcGFzc3dvcmQiKQogICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QodXJsX2ZvcigibG9naW4iKSkK</text>
+        <text encoding="base64">ICAgICAgICBuZXh0X3BhZ2UgPSByZXF1ZXN0LmFyZ3MuZ2V0KCJuZXh0IikKICAgICAgICBpZiBub3QgbmV4dF9wYWdlIG9yIHVybF9wYXJzZShuZXh0X3BhZ2UpLm5ldGxvYyAhPSAiIjoKICAgICAgICAgICAgbmV4dF9wYWdlID0gdXJsX2ZvcigiaW5kZXgiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXAuaW52b2tlKGN0eCwgKmFyZ3MsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dpbl91c2VyKHVzZXIsIHJlbWVtYmVyPWZvcm0ucmVtZW1iZXJfbWUuZGF0YSkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB1c2VyIGlzIE5vbmUgb3Igbm90IHVzZXIuY2hlY2tfcGFzc3dvcmQoZm9ybS5wYXNzd29yZC5kYXRhKToKICAgICAgICAgICAgZmxhc2goIkludmFsaWQgdXNlcm5hbWUgb3IgcGFzc3dvcmQiKQogICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QodXJsX2ZvcigibG9naW4iKSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/tag/instrument/g</text>
