@@ -354,6 +354,12 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/Justfile" timestamp="1549477718684">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+      </file>
       <file name="$USER_HOME$/repositories/screenshot_site/dtl_pdf.py" timestamp="1547743187073">
         <mark key="[" line="65" column="8" />
         <mark key="]" line="65" column="13" />
