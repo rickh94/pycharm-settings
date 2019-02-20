@@ -446,11 +446,11 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/repositories/discogs_to_airtable/discogs_to_airtable.py" timestamp="1550701689945">
-        <mark key="[" line="61" column="49" />
-        <mark key="]" line="62" column="30" />
-        <mark key="." line="62" column="30" />
-        <mark key="^" line="62" column="30" />
+      <file name="$USER_HOME$/repositories/discogs_to_airtable/discogs_to_airtable.py" timestamp="1550703345144">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="80" column="30" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
         <mark key="[" line="4" column="0" />
@@ -623,7 +623,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncnVuIGNvbXBsZXRlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VucmVzID0gJywgJy5qb2luKGdlbnJlcykKICAgICAgICB0YWJsZS5pbnNlcnQoCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -649,7 +649,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogNjA=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>init_db</text>
@@ -673,31 +673,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncnVuIGNvbXBsZXRlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VucmVzID0gJywgJy5qb2luKGdlbnJlcykKICAgICAgICB0YWJsZS5pbnNlcnQoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZF9pZCAhPSAyNDEzMTQxCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncnVuIGNvbXBsZXRlJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgZF9pZCAhPSAyNDEzMTQxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkX2lkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZXMgPSAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdHlsZXMgPSAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0F0dGFjaG1lbnRzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbcmVjWyJmaWVsZHMiXS5nZXQoIkRpc2NvZ19pZCIsIE5vbmUpIGZvciByZWMgaW4gdGFibGUuZ2V0X2FsbCgpIGlmIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0F0dGFjaG1lbnRzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZWMpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBbcmVjWyJmaWVsZHMiXS5nZXQoIkRpc2NvZ19pZCIsIE5vbmUpIGZvciByZWMgaW4gdGFibGUuZ2V0X2FsbCgpIGlmIF0K</text>
       </register>
       <register name=":" type="4">
         <text>s/tag/instrument/g</text>
