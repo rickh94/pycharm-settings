@@ -387,11 +387,11 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/discogs_to_airtable/config.yml" timestamp="1550696351782">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
+      <file name="$USER_HOME$/repositories/discogs_to_airtable/config.yml" timestamp="1550697120853">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="2" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/.pre-commit-config.yaml" timestamp="1547947844890">
         <mark key="[" line="6" column="0" />
@@ -446,11 +446,11 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/repositories/discogs_to_airtable/discogs_to_airtable.py" timestamp="1550696446211">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+      <file name="$USER_HOME$/repositories/discogs_to_airtable/discogs_to_airtable.py" timestamp="1550697434978">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
         <mark key="[" line="4" column="0" />
@@ -649,7 +649,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>init_db</text>
@@ -676,28 +676,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NyZWF0ZV9jb21wb3Nlcl9zdGlsbF9hbGl2ZShzZWxmKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09SU19BTExPV19NRVRIT0RTID0gCg==</text>
+        <text encoding="base64">Q2xpZW50cyA9IGNvbGxlY3Rpb25zLk5hbWVkVHVwbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJjb3JzaGVhZGVycy5taWRkbGV3YXJlLkNvcnNNaWRkbGV3YXJlIiwKICAgICJkamFuZ28ubWlkZGxld2FyZS5jb21tb24uQ29tbW9uTWlkZGxld2FyZSIsCg==</text>
+        <text encoding="base64">ZnJvbSBhaXJ0YWJsZSBpbXBvcnQgQWlydGFibGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJjb3JzaGVhZGVycyIsCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhdC50YWJsZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiXG4iLmpvaW4oCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICJcbiAgZ2V0IHVybCgpIHsiLAogICAgICAgICAgICAgICAgIiAgICAvLyB1dGlsaXR5IGZ1bmN0aW9uIiwKICAgICAgICAgICAgICAgICIgICAgcmV0dXJuIGAke3RoaXMuYmFzZXVybH0ke3RoaXMucGF0aH1gIiwKICAgICAgICAgICAgICAgICIgIH0iLAogICAgICAgICAgICBdCiAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgIHRhYmxlID0gQWlydGFibGUoYmFzZV9rZXk9Y29uZmlnW10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/tag/instrument/g</text>
