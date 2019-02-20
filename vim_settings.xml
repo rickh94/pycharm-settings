@@ -387,6 +387,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/repositories/discogs_to_airtable/config.yml" timestamp="1550696351782">
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/.pre-commit-config.yaml" timestamp="1547947844890">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -434,6 +440,17 @@
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/discogs_to_airtable/schema.yml" timestamp="1550696259600">
+        <mark key="]" line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="58" />
+      </file>
+      <file name="$USER_HOME$/repositories/discogs_to_airtable/discogs_to_airtable.py" timestamp="1550696446211">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
         <mark key="[" line="4" column="0" />
