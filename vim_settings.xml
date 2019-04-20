@@ -344,12 +344,12 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/serverless.yml" timestamp="1555741330779">
-        <mark key="'" line="22" column="10" />
-        <mark key="[" line="80" column="29" />
-        <mark key="]" line="88" column="28" />
-        <mark key="." line="88" column="28" />
-        <mark key="^" line="88" column="28" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/serverless.yml" timestamp="1555779660040">
+        <mark key="'" line="28" column="10" />
+        <mark key="[" line="15" column="75" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/screenshot_site/.env" timestamp="1547743126703">
         <mark key="[" line="5" column="0" />
