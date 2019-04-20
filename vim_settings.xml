@@ -344,12 +344,12 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/serverless.yml" timestamp="1555779660040">
-        <mark key="'" line="28" column="10" />
-        <mark key="[" line="15" column="75" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="29" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/serverless.yml" timestamp="1555780759923">
+        <mark key="'" line="31" column="10" />
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="20" column="66" />
+        <mark key="." line="20" column="66" />
+        <mark key="^" line="20" column="66" />
       </file>
       <file name="$USER_HOME$/repositories/screenshot_site/.env" timestamp="1547743126703">
         <mark key="[" line="5" column="0" />
@@ -672,8 +672,8 @@
       <jump line="13" column="10" filename="$USER_HOME$/repositories/tutorials/serverless-python/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJhdGUgPSA0IGlmIHN0b3JhZ2UgPD0gMTAgZWxzZQo=</text>
+      <register name="&quot;" type="4">
+        <text>notes-api.temptestsites.online</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -699,7 +699,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>notes-api.temptestsites.online</text>
       </register>
       <register name="/" type="4">
         <text>init_db</text>
