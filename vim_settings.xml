@@ -47,11 +47,10 @@
         <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/get.py" timestamp="1555705021903">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="38" />
-        <mark key="^" line="15" column="38" />
-        <mark key="." line="15" column="38" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/get.py" timestamp="1555740028056">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/download_images/.env" timestamp="1549060084309">
         <mark key="[" line="2" column="17" />
@@ -110,6 +109,12 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/billing.py" timestamp="1555741208607">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="6" column="30" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/flask/microblog/microblog.py" timestamp="1548991897483">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="47" />
@@ -138,6 +143,12 @@
         <mark key="]" line="60" column="9" />
         <mark key="^" line="60" column="9" />
         <mark key="." line="60" column="9" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/helpers.py" timestamp="1555740517808">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_requirements.py" timestamp="1547945066848">
         <mark key="[" line="0" column="0" />
@@ -185,11 +196,11 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/create.py" timestamp="1555704793515">
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="7" column="37" />
-        <mark key="^" line="7" column="37" />
-        <mark key="." line="7" column="37" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/create.py" timestamp="1555740317734">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="16" column="49" />
+        <mark key="^" line="16" column="49" />
+        <mark key="." line="16" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/responses.py" timestamp="1555704452696">
         <mark key="[" line="18" column="31" />
@@ -197,11 +208,11 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/list.py" timestamp="1555705489607">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="37" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/list.py" timestamp="1555739874742">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/django_elastic_drf_example/urls.py" timestamp="1548636692310">
         <mark key="[" line="5" column="36" />
@@ -235,6 +246,11 @@
         <mark key="]" line="122" column="0" />
         <mark key="^" line="56" column="49" />
         <mark key="." line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/create-event2.json" timestamp="1555740297411">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_site/download_images.py" timestamp="1549059572018">
         <mark key="[" line="14" column="0" />
@@ -328,12 +344,12 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/serverless.yml" timestamp="1555706211279">
-        <mark key="'" line="20" column="10" />
-        <mark key="[" line="69" column="29" />
-        <mark key="]" line="77" column="28" />
-        <mark key="." line="77" column="28" />
-        <mark key="^" line="77" column="28" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/serverless.yml" timestamp="1555741330779">
+        <mark key="'" line="22" column="10" />
+        <mark key="[" line="80" column="29" />
+        <mark key="]" line="88" column="28" />
+        <mark key="." line="88" column="28" />
+        <mark key="^" line="88" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/screenshot_site/.env" timestamp="1547743126703">
         <mark key="[" line="5" column="0" />
@@ -354,6 +370,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/billing.py" timestamp="1555741278063">
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/serializers.py" timestamp="1549009830961">
         <mark key="[" line="62" column="88" />
@@ -655,8 +676,8 @@
       <jump line="13" column="10" filename="$USER_HOME$/repositories/tutorials/serverless-python/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>db7eb680-5d67-11e9-adef-315c5e396543</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJhdGUgPSA0IGlmIHN0b3JhZ2UgPD0gMTAgZWxzZQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -682,13 +703,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>db7eb680-5d67-11e9-adef-315c5e396543</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>init_db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAidXNlcklkIjogeyJTIjogZXZlbnRbInJlcXVlc3RDb250ZXh0Il1bImlkZW50aXR5Il1bImNvZ25pdG9JZGVudGl0eUlkIl19LAogICAgICAgICJub3RlSWQiOiB7IlMiOiBzdHIodXVpZC51dWlkMSgpKX0sCiAgICAgICAgImNvbnRlbnQiOiB7IlMiOiBkYXRhWyJjb250ZW50Il19LAogICAgICAgICJhdHRhY2htZW50IjogeyJTIjogZGF0YVsiYXR0YWNobWVudCJdfSwKICAgICAgICAiY3JlYXRlZEF0IjogeyJTIjogZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCl9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge2tleTogdmFsdWVbIlMiXSBmb3Iga2V5LCB2YWx1ZSBpbiBpdGVtLml0ZW1zKCl9IGZvciBpdGVtIGluIHJlc3VsdFsiSXRlbXMiXQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -706,34 +727,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlcnIpCg==</text>
+        <text encoding="base64">ICAgIHJhdGUgPSA0IGlmIHN0b3JhZ2UgPD0gMTAgZWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzKQo=</text>
+        <text encoding="base64">ICAgIG5ld19pdGVtID0ge30K</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-                ':attachment': data.get('attachment', None),
-                ':content': data.get('content', None)
-            }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciBrZXksIHZhbHVlIGluIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzdWx0WyJJdGVtIl0pCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpdGVtcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGJvdG8zCmltcG9ydCBvcwo=</text>
+        <text encoding="base64">ICAgIG5ld19pdGVtID0ge30KICAgIGZvciBrZXksIHZhbHVlIGluIGl0ZW0uaXRlbXMoKToKICAgICAgICBuZXdfaXRlbVtrZXldID0geyJTIjogdmFsdWV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGFibGVfbmFtZSA9IG9zLmVudmlyb24uZ2V0KCJ0YWJsZV9uYW1lIikKZHluYW1vID0gYm90bzMuY2xpZW50KCJkeW5hbW9kYiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiByZXN1bHRbIkl0ZW1zIl06CiAgICAgICAgICAgIGl0ZW1zLmFwcGVuZCh7a2V5OiB2YWx1ZVsiUyJdIGZvciBrZXksIHZhbHVlIGluIGl0ZW0uaXRlbXMoKX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/tag/instrument/g</text>
