@@ -144,11 +144,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" timestamp="1555885383762">
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" timestamp="1555888842754">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="5" column="107" />
+        <mark key="^" line="5" column="107" />
+        <mark key="." line="5" column="107" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/templates/index.html" timestamp="1547666071967">
         <mark key="[" line="9" column="6" />
@@ -404,11 +404,11 @@
         <mark key="." line="20" column="66" />
         <mark key="^" line="20" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/conftest.py" timestamp="1555883562898">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="8" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/conftest.py" timestamp="1555888300565">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="47" column="14" />
+        <mark key="." line="47" column="14" />
+        <mark key="^" line="47" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/screenshot_site/.env" timestamp="1547743126703">
         <mark key="[" line="5" column="0" />
@@ -772,8 +772,8 @@
       <jump line="0" column="5" filename="$USER_HOME$/repositories/sheet_music_database/.pre-commit-config.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzOiBbJy4nLCAnLS1leGNsdWRlIC5zZXJ2ZXJsZXNzJywgJy0tZXhjbHVkZSAibm9kZV9tb2R1bGVzIiddCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -799,7 +799,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>monkeypatch</text>
@@ -822,32 +822,32 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzOiBbJy4nLCAnLS1leGNsdWRlIC5zZXJ2ZXJsZXNzJywgJy0tZXhjbHVkZSAibm9kZV9tb2R1bGVzIiddCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">ICAgIHdpdGggUGF0aChNT0NLUyAvICJiaWxsaW5nLWV2ZW50Lmpzb24iKS5vcGVuKCdyJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGdsb2JhbHMK</text>
+        <text encoding="base64">ICAgIHdpdGggUGF0aChNT0NLUyAvICJjcmVhdGUtZXZlbnQyLmpzb24iKS5vcGVuKCJyIikgYXMgZXZlbnRfZmlsZToKICAgICAgICByZXR1cm4ganNvbi5sb2FkKGV2ZW50X2ZpbGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgIHdpdGggUGF0aChNT0NLUyAvICJjcmVhdGUtZXZlbnQuanNvbiIpLm9wZW4oInIiKSBhcyBldmVudF9maWxlOgogICAgICAgIHJldHVybiBqc29uLmxvYWQoZXZlbnRfZmlsZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">ICAgIHdpdGggUGF0aChNT0NLUyAvICJjcmVhdGUtZXZlbnQuanNvbiIpLm9wZW4oInIiKSBhcyBldmVudF9maWxlOgogICAgICAgIHJldHVybiBqc29uLmxvYWQoZXZlbnRfZmlsZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZVsnYm9keSddID09IGpzb24uZHVtcHMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBjcmVhdGUgaW1wb3J0IG1haW4K</text>
+        <text encoding="base64">IyBAcHl0ZXN0LmZpeHR1cmUKIyBkZWYgZHluYW1vX3JldHVybl9pdGVtKCk6CiMgICAgIGdldF9pdGVtID0gbW9jay5NYWdpY01vY2soKQojICAgICAjIGdldF9pdGVtLnJldHVybl92YWx1ZSA9IHsiSXRlbSI6fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzZXJ2ZXJsZXNzX3B5dGhvbiBpbXBvcnQgY3JlYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzOiBbJy4nLCAnLS1leGNsdWRlIC5zZXJ2ZXJsZXNzJywgJy0tZXhjbHVkZSAibm9kZV9tb2R1bGVzIiddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGR5bmFtbyA9IG1vY2suTWFnaWNNb2NrKCkKICAgIGR5bmFtby5nZXRfaXRlbSA9IG1vY2suTWFnaWNNb2NrKCkKICAgIGR5bmFtby4K</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/tag/instrument/g</text>
