@@ -144,6 +144,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" timestamp="1555885383762">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/templates/index.html" timestamp="1547666071967">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="10" column="25" />
@@ -284,11 +290,6 @@
         <mark key="]" line="290" column="36" />
         <mark key="^" line="279" column="62" />
         <mark key="." line="290" column="36" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/create-event2.json" timestamp="1555740297411">
-        <mark key="[" line="1" column="39" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_site/download_images.py" timestamp="1549059572018">
         <mark key="[" line="14" column="0" />
