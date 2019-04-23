@@ -126,11 +126,12 @@
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_delete.py" timestamp="1555964382034">
         <mark key="^" line="5" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" timestamp="1555979974654">
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" timestamp="1555980729012">
         <mark key="'" line="42" column="21" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="74" column="79" />
+        <mark key="]" line="74" column="77" />
+        <mark key="." line="74" column="77" />
+        <mark key="^" line="74" column="77" />
         <mark key="o" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
@@ -175,11 +176,11 @@
         <mark key="." line="3" column="46" />
         <mark key="^" line="3" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_update.py" timestamp="1555916387024">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="29" column="38" />
-        <mark key="^" line="27" column="67" />
-        <mark key="." line="29" column="38" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_update.py" timestamp="1555980904081">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/serializers.py" timestamp="1548636153256">
         <mark key="[" line="5" column="54" />
@@ -346,11 +347,11 @@
         <mark key="." line="50" column="39" />
         <mark key="^" line="50" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/conftest.py" timestamp="1555980005419">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="120" column="0" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/conftest.py" timestamp="1555980815857">
+        <mark key="[" line="113" column="32" />
+        <mark key="]" line="114" column="26" />
+        <mark key="." line="114" column="26" />
+        <mark key="^" line="114" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/header_commands.py" timestamp="1555786737719">
         <mark key="[" line="126" column="16" />
@@ -626,7 +627,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stripe_customer</text>
+        <text>setenv</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -652,7 +653,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stripe_customer</text>
+        <text>setenv</text>
       </register>
       <register name="/" type="4">
         <text>monkeypatch</text>
@@ -676,31 +677,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZV9tb2NrID0gbW9jay5NYWdpY01vY2soKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0cmlwZV9jdXN0b21lcl9tb2NrID0gbW9jay5NYWdpY01vY2soKQogICAgc3RyaXBlX2N1c3RvbWVyX21vY2sucmV0dXJuX3ZhbHVlID0geyJpZCI6ICJjdXNfdGVzdF9pZCJ9Cg==</text>
+        <text encoding="base64">ICAgIHN0cmlwZWRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0cmlwZV9zdWJzY3JpcHRpb25fbW9jayA9IG1vY2suTWFnaWNNb2NrKCkK</text>
+        <text encoding="base64">ICAgIG1vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0cmlwZV9jdXN0b21lcl9tb2NrCg==</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudignJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0cmlwZV9zdWJzY3JpcHRpb25fbW9jayAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0cmlwZV9zdWJzY3JpcHRpb25fbW9jayA9IG1vY2suTWFnaWNNb2NrKCkKICAgIHN0cmlwZV9zdWJzY3JpcHRpb25fbW9jay5yZXR1cm5fdmFsdWUgPSB7ImlkIjogInN1Yl90ZXN0X2lkIn0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudigidXNlcnNfdGFibGVfbmFtZSIsICJ0ZXN0X3VzZXJzX3RhYmxlIikKICAgIG1vbmtleXBhdGNoLnNldGVudigicGxhbl9pZCIsICJ0ZXN0X3BsYW5faWQiKQo=</text>
+        <text encoding="base64">ICAgIHN0cmlwZV9jdXN0b21lcl9tb2NrID0gbW9jay5NYWdpY01vY2soKQogICAgc3RyaXBlX2N1c3RvbWVyX21vY2sucmV0dXJuX3ZhbHVlID0geyJpZCI6ICJjdXNfdGVzdF9pZCJ9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
+        <text encoding="base64">ICAgIHN0cmlwZV9zdWJzY3JpcHRpb25fbW9jayA9IG1vY2suTWFnaWNNb2NrKCkK</text>
       </register>
       <register name=":" type="4">
         <text>s/tag/instrument/g</text>
