@@ -126,12 +126,12 @@
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_delete.py" timestamp="1555964382034">
         <mark key="^" line="5" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" timestamp="1555985614312">
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" timestamp="1555987375193">
         <mark key="'" line="42" column="21" />
-        <mark key="[" line="76" column="34" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="0" />
+        <mark key="[" line="86" column="44" />
+        <mark key="]" line="81" column="47" />
+        <mark key="." line="81" column="47" />
+        <mark key="^" line="81" column="47" />
         <mark key="o" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
@@ -626,8 +626,8 @@
       <jump line="40" column="21" filename="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5X21vY2suYXNzZXJ0X2NhbGxlZF93aXRoKAogICAgICAgIFRhYmxlTmFtZT0idGVzdF91c2Vyc190YWJsZSIsCiAgICAgICAgS2V5Q29uZGl0aW9uRXhwcmVzc2lvbj0idXNlcklkID0gOnVzZXJJZCIsCiAgICAgICAgRXhwcmVzc2lvbkF0dHJpYnV0ZVZhbHVlcz17Ijp1c2VySWQiOiB7IlMiOiAidGVzdC11c2VyLWlkIn19LAogICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>users_</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -653,13 +653,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZHluYW1vX2RlbGV0ZV9pdGVtX3N1Y2Nlc3MsIA==</text>
+        <text>users_</text>
       </register>
       <register name="/" type="4">
         <text>monkeypatch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIoJ2NyZWF0ZS50YWJsZV9uYW1lJywgJ3Rlc3RfdGFibGVfbmFtZScpCg==</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudigidXNlcnNfdGFibGVfbmFtZSIsICJ0ZXN0X3VzZXJzX3RhYmxlIikK</text>
       </register>
       <register name="p" type="4">
         <keys>
