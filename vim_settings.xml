@@ -114,11 +114,11 @@
         <mark key="." line="50" column="39" />
         <mark key="^" line="50" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/conftest.py" timestamp="1556074054472">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="33" column="34" />
-        <mark key="." line="33" column="34" />
-        <mark key="^" line="33" column="34" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/conftest.py" timestamp="1556147606936">
+        <mark key="[" line="68" column="20" />
+        <mark key="]" line="68" column="24" />
+        <mark key="." line="68" column="24" />
+        <mark key="^" line="68" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/get.py" timestamp="1555905109687">
         <mark key="[" line="6" column="36" />
@@ -233,10 +233,10 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/new-customer-event.json" timestamp="1556074827016">
-        <mark key="[" line="1" column="54" />
-        <mark key="]" line="1" column="55" />
-        <mark key="." line="1" column="55" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/new-customer-event.json" timestamp="1556147518922">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/screenshot_site/dtl_pdf.py" timestamp="1547743187073">
@@ -277,11 +277,11 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" timestamp="1556146366015">
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="240" column="37" />
-        <mark key="." line="240" column="37" />
-        <mark key="^" line="240" column="37" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" timestamp="1556147568302">
+        <mark key="[" line="300" column="42" />
+        <mark key="]" line="299" column="53" />
+        <mark key="." line="299" column="53" />
+        <mark key="^" line="299" column="53" />
         <mark key="o" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
@@ -319,6 +319,12 @@
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan.json" timestamp="1556147128664">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="56" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/pytest.ini" timestamp="1547700220752">
         <mark key="[" line="1" column="25" />
@@ -362,6 +368,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/update-customer-plan.json" timestamp="1556147529074">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/serializers.py" timestamp="1548636153256">
         <mark key="[" line="5" column="54" />
         <mark key="]" line="6" column="82" />
@@ -379,6 +391,12 @@
         <mark key="]" line="46" column="64" />
         <mark key="." line="46" column="64" />
         <mark key="^" line="46" column="64" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+        <mark key="^" line="1" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/documents.py" timestamp="1548636056425">
         <mark key="[" line="29" column="33" />
@@ -637,8 +655,8 @@
       <jump line="235" column="4" filename="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQgbW9jawo=</text>
+      <register name="&quot;" type="4">
+        <text>plan</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -664,13 +682,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>21</text>
+        <text>plan</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIoJ2JpbGxpbmcuZGVsZXRlX3VzZXJfcGxhbicsIGRlbGV0ZV9tb2NrKQo=</text>
+        <text encoding="base64">ewogICJib2R5IjogIntcInNvdXJjZVwiOlwidG9rX3Zpc2FcIixcInBsYW5DYXBhY2l0eVwiOjI1fSIsCiAgInJlcXVlc3RDb250ZXh0IjogewogICAgImlkZW50aXR5IjogewogICAgICAiY29nbml0b0lkZW50aXR5SWQiOiAiVVNFUi1TVUItMTIzNCIKICAgIH0KICB9Cn0K</text>
       </register>
       <register name="p" type="4">
         <keys>
