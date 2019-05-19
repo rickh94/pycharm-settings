@@ -543,10 +543,10 @@
         <mark key="." line="60" column="36" />
         <mark key="^" line="60" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1558201305828">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="32" />
-        <mark key="." line="36" column="32" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1558298247000">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
         <mark key="^" line="36" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
