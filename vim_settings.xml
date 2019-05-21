@@ -86,17 +86,16 @@
         <mark key="^" line="15" column="43" />
         <mark key="." line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1558204784700">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1558411085905">
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1558205755516">
-        <mark key="[" line="363" column="10" />
-        <mark key="]" line="364" column="8" />
-        <mark key="." line="364" column="8" />
-        <mark key="^" line="364" column="8" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1558412833146">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="114" column="40" />
+        <mark key="^" line="111" column="3" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/build_requirements.py" timestamp="1547886674926">
         <mark key="[" line="23" column="13" />
@@ -228,6 +227,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1558411866018">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/discogs_to_airtable/config.yml" timestamp="1550699499464">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="9" />
@@ -239,6 +243,18 @@
         <mark key="]" line="19" column="44" />
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/sign_out.py" timestamp="1558411881829">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1558411556873">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/responses.py" timestamp="1555900407181">
         <mark key="[" line="8" column="26" />
@@ -258,11 +274,11 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/sign-out-event.json" timestamp="1558406660198">
-        <mark key="[" line="1" column="77" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="1" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/sign-out-event.json" timestamp="1558412781596">
+        <mark key="[" line="1" column="80" />
+        <mark key="]" line="1" column="85" />
+        <mark key="^" line="1" column="85" />
+        <mark key="." line="1" column="85" />
       </file>
       <file name="$USER_HOME$/repositories/discogs_to_airtable/discogs_to_airtable.py" timestamp="1550703345144">
         <mark key="[" line="74" column="0" />
@@ -383,6 +399,13 @@
         <mark key="." line="68" column="24" />
         <mark key="^" line="68" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" timestamp="1558412855657">
+        <mark key="'" line="27" column="59" />
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="27" />
+        <mark key="." line="34" column="27" />
+        <mark key="^" line="34" column="27" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/header_commands.py" timestamp="1555786737719">
         <mark key="[" line="126" column="16" />
         <mark key="]" line="126" column="21" />
@@ -480,10 +503,10 @@
         <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/retrieve.py" timestamp="1558205639836">
-        <mark key="[" line="49" column="19" />
-        <mark key="]" line="49" column="19" />
-        <mark key="." line="49" column="19" />
-        <mark key="^" line="49" column="42" />
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="42" column="19" />
+        <mark key="." line="42" column="19" />
+        <mark key="^" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" timestamp="1549045097632">
         <mark key="[" line="11" column="0" />
@@ -593,8 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/app/settings.py" />
-      <jump line="10" column="57" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" />
       <jump line="35" column="17" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" />
       <jump line="63" column="14" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" />
       <jump line="40" column="52" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" />
@@ -693,10 +714,12 @@
       <jump line="181" column="30" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" />
       <jump line="182" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" />
       <jump line="279" column="49" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/repositories/instrument-inventory/sign_out.py" />
+      <jump line="27" column="59" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>single</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -722,13 +745,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>single</text>
       </register>
       <register name="/" type="4">
-        <text>eve.main</text>
+        <text>retrieve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBhdCA9IF9zZXR1cF9haXJ0YWJsZSgpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGVycjoKICAgICAgICByZXR1cm4gZmFpbHVyZShmIkNvdWxkIG5vdCBjb25uZWN0IHRvIGFpcnRhYmxlOiB7ZXJyfSIpCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfYWlydGFibGVfcmFpc2VzX2Vycm9yKG1vbmtleXBhdGNoLCByZXRyaWV2ZV9ldmVudCk6CiAgICAiIiJUZXN0IGFpcnRhYmxlIHJhaXNpbmcgYW4gZXJyb3IiIiIKICAgIGRlZiBhdF9tb2NrKCphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcmFpc2UgRXhjZXB0aW9uCgogICAgbW9ua2V5cGF0Y2guc2V0YXR0cigicmV0cmlldmUuc2V0dXBfYWlydGFibGUiLCBhdF9tb2NrKQoKICAgIHJlc3BvbnNlID0gcmV0cmlldmUuc2luZ2xlKHJldHJpZXZlX2V2ZW50LCB7fSkKCiAgICBhc3NlcnQgcmVzcG9uc2VbInN0YXR1c0NvZGUiXSA9PSA1MDAK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -746,48 +769,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3NfbGlzdCA9IFtdCiAgICBmYWlsdXJlX2xpc3QgPSBbXQo=</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudigiVEFCTEVfTkFNRSIsICJ0ZXN0X3RhYmxlX25hbWUiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9BUElfS0VZIiwgInRlc3RrZXkiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9CQVNFX0tFWSIsICJhcHB0ZXN0IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFpbHVyZV9saXN0Cg==</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudigiVEFCTEVfTkFNRSIsICJ0ZXN0X3RhYmxlX25hbWUiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9BUElfS0VZIiwgInRlc3RrZXkiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9CQVNFX0tFWSIsICJhcHB0ZXN0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudigiVEFCTEVfTkFNRSIsICJ0ZXN0X3RhYmxlX25hbWUiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9BUElfS0VZIiwgInRlc3RrZXkiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9CQVNFX0tFWSIsICJhcHB0ZXN0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShlcnIsIEluZGV4RXJyb3IpCg==</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudigiVEFCTEVfTkFNRSIsICJ0ZXN0X3RhYmxlX25hbWUiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9BUElfS0VZIiwgInRlc3RrZXkiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9CQVNFX0tFWSIsICJhcHB0ZXN0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudigiVEFCTEVfTkFNRSIsICJ0ZXN0X3RhYmxlX25hbWUiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9BUElfS0VZIiwgInRlc3RrZXkiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9CQVNFX0tFWSIsICJhcHB0ZXN0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBhdCA9IF9zZXR1cF9haXJ0YWJsZSgpCiAgICBleGNlcHQK</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudigiVEFCTEVfTkFNRSIsICJ0ZXN0X3RhYmxlX25hbWUiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9BUElfS0VZIiwgInRlc3RrZXkiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9CQVNFX0tFWSIsICJhcHB0ZXN0IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhc2Vfa2V5ID0gb3MuZW52aXJvbi5nZXQoIkFJUlRBQkxFIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBqc29uLmxvYWRzKGV2ZW50WyJib2R5Il0pCiAgICBiYXNlX2tleSA9IG9zLmVudmlyb24uZ2V0KCJBSVJUQUJMRSIpCg==</text>
+        <text encoding="base64">ICAgIGF0X29iamVjdF9tb2NrCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/eve.main/eve.single/g</text>
+        <text encoding="base64">JzwsJz5zL3JldHJpZXZlL3NpZ25fb3V0L2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>eve.main</last-search>
+      <last-search>retrieve</last-search>
       <last-offset />
-      <last-pattern>eve.main</last-pattern>
-      <last-replace>eve.single</last-replace>
-      <last-substitute>eve.main</last-substitute>
+      <last-pattern>retrieve</last-pattern>
+      <last-replace>sign_out</last-replace>
+      <last-substitute>retrieve</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>shortName</entry>
         <entry>1</entry>
         <entry>2</entry>
         <entry>3</entry>
@@ -807,9 +829,9 @@
         <entry>h.env</entry>
         <entry>tch.env</entry>
         <entry>eve.main</entry>
+        <entry>retrieve</entry>
       </history-search>
       <history-cmd>
-        <entry>s/OVERWRITE/DELETE/g</entry>
         <entry>s/shortName/short_name/g</entry>
         <entry>s/isAlive/is_alive/g</entry>
         <entry>5s/isAlive/is_alive/g</entry>
@@ -829,6 +851,7 @@
         <entry>s/h.env/h.setenv/g</entry>
         <entry>%s/tch.env/tch.setenv/g</entry>
         <entry>%s/eve.main/eve.single/g</entry>
+        <entry encoding="base64">JzwsJz5zL3JldHJpZXZlL3NpZ25fb3V0L2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
