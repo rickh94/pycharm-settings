@@ -450,12 +450,11 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="109" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-barcode-generator/generate.py" timestamp="1558544385991">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
+      <file name="$USER_HOME$/repositories/instrument-barcode-generator/generate.py" timestamp="1558549548562">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="35" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-multiple-event.json" timestamp="1558201585542">
         <mark key="[" line="1" column="73" />
@@ -552,6 +551,12 @@
         <mark key="]" line="60" column="36" />
         <mark key="." line="60" column="36" />
         <mark key="^" line="60" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-barcode-generator/codes/C4-204.svg" timestamp="1558546641345">
+        <mark key="[" line="63" column="83" />
+        <mark key="]" line="63" column="83" />
+        <mark key="." line="63" column="83" />
+        <mark key="^" line="63" column="83" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1558416252443">
         <mark key="[" line="39" column="29" />
@@ -700,7 +705,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>39</text>
+        <text>8</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -726,13 +731,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>39</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>39</text>
       </register>
-      <register name="0" type="4">
-        <text>a86f3e6a-6332-11e9-9bc1-645d864f92b4</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvZGUgPSBDT0RFMTI4KGRhdGEsIHdyaXRlcj1JbWFnZVdyaXRlcigpKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -750,34 +755,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGdlbmVyYXRlX3NpbmdsZV9iYXJjb2RlKCIxLTAwMSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICMgd2l0aCBQYXRoKCJjb2RlcyIsIGYie2RhdGF9LnN2ZyIucmVwbGFjZSgiLyIsICItIikpLm9wZW4oIndiIikgYXMgZjoKICAgICMgICAgIGNvZGUud3JpdGUoZikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRleHRmb250IjogIlRpbWVzLVJvbWFuIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVjb3JkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImJvcmRlcmNvbG9yIjogImZmZmZmZiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGdlbmVyYXRlX3NpbmdsZV9iYXJjb2RlKCIxLTAwMSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImJvcmRlcndpZHRoIjogIjIiLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-                models.NoteModel.attachment.set(data.get(&quot;attachment&quot;, None)),
-                models.NoteModel.content.set(data.get(&quot;content&quot;, None)),
-            ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImJvcmRlcnRvcCI6ICI4Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25zLmFwcGVuZAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvZGUgPSBDT0RFMTI4KGRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzM5LzEyOC9n</text>
