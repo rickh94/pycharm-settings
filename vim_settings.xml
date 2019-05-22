@@ -244,12 +244,12 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/sign_out.py" timestamp="1558416173872">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="25" column="62" />
-        <mark key="]" line="25" column="71" />
-        <mark key="." line="25" column="71" />
-        <mark key="^" line="25" column="71" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/sign_out.py" timestamp="1558461469442">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="21" column="94" />
+        <mark key="]" line="21" column="95" />
+        <mark key="." line="21" column="95" />
+        <mark key="^" line="21" column="95" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1558417021803">
         <mark key="[" line="3" column="15" />
@@ -720,7 +720,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>&quot;</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -746,7 +746,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>retrieve</text>
