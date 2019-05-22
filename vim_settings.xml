@@ -50,11 +50,11 @@
         <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/get.py" timestamp="1555905109687">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="36" />
-        <mark key="." line="6" column="36" />
-        <mark key="^" line="6" column="31" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/get.py" timestamp="1558502560434">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/download_images/.env" timestamp="1549060084309">
         <mark key="[" line="2" column="17" />
@@ -80,16 +80,11 @@
         <mark key="^" line="30" column="57" />
         <mark key="." line="30" column="57" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/delete.py" timestamp="1555900504648">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="43" />
-        <mark key="^" line="15" column="43" />
-        <mark key="." line="15" column="43" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1558411085905">
-        <mark key="]" line="26" column="36" />
-        <mark key="^" line="26" column="36" />
-        <mark key="." line="26" column="36" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/delete.py" timestamp="1558502368102">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1558413658948">
         <mark key="[" line="120" column="0" />
@@ -102,6 +97,12 @@
         <mark key="]" line="23" column="13" />
         <mark key="." line="23" column="13" />
         <mark key="^" line="25" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/env.yml" timestamp="1558500227430">
+        <mark key="[" line="5" column="63" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/forms.py" timestamp="1549476392606">
         <mark key="[" line="26" column="0" />
@@ -132,22 +133,16 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/models.py" timestamp="1558500695997">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/resources/api-gateway-errors.yml" timestamp="1558148736233">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="18" column="32" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/resources/api-gateway-errors.yml" timestamp="1558148718477">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_billing.py" timestamp="1556147568302">
-        <mark key="[" line="300" column="42" />
-        <mark key="]" line="299" column="53" />
-        <mark key="." line="299" column="53" />
-        <mark key="^" line="299" column="53" />
-        <mark key="o" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
         <mark key="[" line="0" column="0" />
@@ -185,11 +180,11 @@
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/update-event.json" timestamp="1555915161507">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="46" />
-        <mark key="." line="3" column="46" />
-        <mark key="^" line="3" column="46" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/update-event.json" timestamp="1558503250574">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_update.py" timestamp="1556077847936">
         <mark key="[" line="1" column="0" />
@@ -209,11 +204,11 @@
         <mark key="^" line="6" column="82" />
         <mark key="." line="6" column="82" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/update.py" timestamp="1555914728048">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="8" />
-        <mark key="^" line="30" column="10" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/update.py" timestamp="1558503283805">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_create.py" timestamp="1555964091873">
         <mark key="[" line="45" column="41" />
@@ -238,11 +233,12 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/create.py" timestamp="1555963955959">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="19" column="45" />
-        <mark key="." line="19" column="44" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/create.py" timestamp="1558502224154">
+        <mark key="'" line="13" column="83" />
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/sign_out.py" timestamp="1558461469442">
         <mark key="'" line="32" column="0" />
@@ -394,12 +390,6 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/conftest.py" timestamp="1558195192734">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="36" />
-        <mark key="." line="68" column="24" />
-        <mark key="^" line="68" column="24" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" timestamp="1558415471795">
         <mark key="'" line="48" column="39" />
         <mark key="[" line="7" column="0" />
@@ -473,11 +463,11 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/get-event.json" timestamp="1555904253080">
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/get-event.json" timestamp="1558503236718">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/config.py" timestamp="1548990696307">
         <mark key="[" line="9" column="6" />
@@ -490,6 +480,12 @@
         <mark key="]" line="1" column="74" />
         <mark key="." line="1" column="74" />
         <mark key="^" line="1" column="74" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/update-content-event.json" timestamp="1558503326779">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="1" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan.json" timestamp="1556147128664">
         <mark key="[" line="0" column="0" />
@@ -527,10 +523,6 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/resources/cognito-identity-pool.yml" timestamp="1558197527391">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="71" column="28" />
-      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="54" />
@@ -548,6 +540,12 @@
         <mark key="]" line="3" column="23" />
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/list_notes.py" timestamp="1558502799818">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="127" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
         <mark key="[" line="4" column="0" />
@@ -591,10 +589,10 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-event.json" timestamp="1555900132465">
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-event.json" timestamp="1558502486295">
         <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="46" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_manage.py" timestamp="1548013380715">
@@ -617,7 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="52" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" />
       <jump line="45" column="0" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" />
       <jump line="88" column="40" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" />
@@ -717,10 +714,11 @@
       <jump line="27" column="59" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
       <jump line="51" column="39" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
       <jump line="45" column="27" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
+      <jump line="13" column="83" filename="$USER_HOME$/repositories/tutorials/serverless-python/create.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>,\&quot;attachment\&quot;:\&quot;new.jpg\&quot;</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -746,13 +744,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>,\&quot;attachment\&quot;:\&quot;new.jpg\&quot;</text>
       </register>
       <register name="/" type="4">
         <text>retrieve</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRlc3Rfbm9fcmVjb3Jkc19mb3VuZChtb25rZXlwYXRjaCwgcmV0cmlldmVfZXZlbnQpOgogICAgIiIiVGVzdCBlcnJvciBpcyByZXR1cm5lZCB3aGVuIG5vIHJlY29yZHMgYXJlIGZvdW5kIiIiCiAgICBhdF9vYmplY3RfbW9jayA9IG1vY2suTWFnaWNNb2NrKCkKICAgIGF0X29iamVjdF9tb2NrLnVwZGF0ZV9ieV9maWVsZCA9IG1vY2suTWFnaWNNb2NrKCkKICAgIGF0X29iamVjdF9tb2NrLnNlYXJjaCA9IG1vY2suTWFnaWNNb2NrKCkKICAgIGF0X29iamVjdF9tb2NrLnNlYXJjaC5yZXR1cm5fdmFsdWUgPSBbXQoKICAgIGRlZiBhdF9tb2NrKCphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcmV0dXJuIGF0X29iamVjdF9tb2NrCgogICAgbW9ua2V5cGF0Y2guc2V0YXR0cigicmV0cmlldmUuc2V0dXBfYWlydGFibGUiLCBhdF9tb2NrKQoKICAgIHJlc3BvbnNlID0gcmV0cmlldmUuc2luZ2xlKHJldHJpZXZlX2V2ZW50LCB7fSkKCiAgICBhc3NlcnQgcmVzcG9uc2VbInN0YXR1c0NvZGUiXSA9PSA1MDAK</text>
+      <register name="0" type="4">
+        <text>a86f3e6a-6332-11e9-9bc1-645d864f92b4</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -769,14 +767,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdWNjZXNzKAogICAgICAgIGYiSW5zdHJ1bWVudDoge2RhdGFbJ2luc3RydW1lbnROdW1iZXInXX0gc2lnbmVkIG91dCB0byAiCiAgICAgICAgZiJ7ZGF0YVsnc3R1ZGVudE5hbWUnXX0gYXQge2RhdGFbJ3NjaG9vbCddfS4iCiAgICApCg==</text>
+      <register name="1" type="4">
+        <text>[
+                models.NoteModel.attachment.set(data.get(&quot;attachment&quot;, None)),
+                models.NoteModel.content.set(data.get(&quot;content&quot;, None)),
+            ]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0K</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25zLmFwcGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -785,16 +786,16 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAjIHJlc3VsdCA9IGR5bmFtby5xdWVyeSgKICAgICAgICAjICAgICBUYWJsZU5hbWU9dGFibGVfbmFtZSwKICAgICAgICAjICAgICBLZXlDb25kaXRpb25FeHByZXNzaW9uPSJ1c2VySWQgPSA6dXNlcklkIiwKICAgICAgICAjICAgICBFeHByZXNzaW9uQXR0cmlidXRlVmFsdWVzPXsKICAgICAgICAjICAgICAgICAgIjp1c2VySWQiOiB7CiAgICAgICAgIyAgICAgICAgICAgICAiUyI6IGV2ZW50WyJyZXF1ZXN0Q29udGV4dCJdWyJpZGVudGl0eSJdWyJjb2duaXRvSWRlbnRpdHlJZCJdCiAgICAgICAgIyAgICAgICAgIH0KICAgICAgICAjICAgICB9LAogICAgICAgICMgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VfYm9keVsiaW5zdHJ1bWVudHNGYWlsZWQiXS5hcHBlbmQobWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gZmFpbHVyZSh7InN0YXR1cyI6IEZhbHNlfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudigiVEFCTEVfTkFNRSIsICJ0ZXN0X3RhYmxlX25hbWUiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9BUElfS0VZIiwgInRlc3RrZXkiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9CQVNFX0tFWSIsICJhcHB0ZXN0IikK</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXN1bHRbIkl0ZW0iXToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0X29iamVjdF9tb2NrLnVwZGF0ZV9ieV9maWVsZCA9IG1vY2suTWFnaWNNb2NrKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBkeW5hbW8uZ2V0X2l0ZW0oVGFibGVOYW1lPXRhYmxlX25hbWUsIEtleT1rZXkpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3JldHJpZXZlL3NpZ25fb3V0L2c=</text>
