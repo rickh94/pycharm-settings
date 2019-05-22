@@ -45,6 +45,12 @@
         <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="40" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-barcode-generator/combine.py" timestamp="1558553248470">
+        <mark key="[" line="72" column="27" />
+        <mark key="]" line="73" column="29" />
+        <mark key="." line="73" column="29" />
+        <mark key="^" line="73" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/get.py" timestamp="1558502560434">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="44" />
@@ -602,7 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" />
       <jump line="69" column="12" filename="$USER_HOME$/repositories/recipe-app-api/app/recipe/tests/test_recipe_api.py" />
       <jump line="107" column="35" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" />
       <jump line="82" column="22" filename="$USER_HOME$/repositories/pdf_from_site/dtl_pdf.py" />
@@ -702,10 +707,11 @@
       <jump line="11" column="7" filename="$USER_HOME$/repositories/instrument-barcode-generator/generate.py" />
       <jump line="15" column="32" filename="$USER_HOME$/repositories/instrument-barcode-generator/generate.py" />
       <jump line="26" column="0" filename="$USER_HOME$/repositories/instrument-barcode-generator/generate.py" />
+      <jump line="19" column="15" filename="$USER_HOME$/repositories/instrument-barcode-generator/combine.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>64</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -731,13 +737,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>64</text>
       </register>
       <register name="/" type="4">
-        <text>39</text>
+        <text>line</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvZGUgPSBDT0RFMTI4KGRhdGEsIHdyaXRlcj1JbWFnZVdyaXRlcigpKQo=</text>
+        <text encoding="base64">ICAgIG5ld19pbSA9IEltYWdlLm5ldygiMSIsICgyNDAwLCA2NCksIGNvbG9yPTEpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -755,48 +761,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlX3NpbmdsZV9iYXJjb2RlKCIxLTAwMSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgd2l0aCBQYXRoKCJjb2RlcyIsIGYie2RhdGF9LnN2ZyIucmVwbGFjZSgiLyIsICItIikpLm9wZW4oIndiIikgYXMgZjoKICAgICMgICAgIGNvZGUud3JpdGUoZikK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRleHRmb250IjogIlRpbWVzLVJvbWFuIiwK</text>
+        <text encoding="base64">ZGVmIG1ha2VfYmxhbmtfcGFnZSgpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImJvcmRlcmNvbG9yIjogImZmZmZmZiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X3BhZ2UgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImJvcmRlcndpZHRoIjogIjIiLAo=</text>
+        <text encoding="base64">ICAgIG5ld19wYWdlID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImJvcmRlcnRvcCI6ICI4Igo=</text>
+        <text encoding="base64">ICAgIHJvd3NfcGVyX3BhZ2UgPSAyMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIHRocmVzaG9sZCA9IFBBR0VfV0lEVEgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvZGUgPSBDT0RFMTI4KGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICA9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzM5LzEyOC9n</text>
+        <text encoding="base64">JzwsJz5zL2xpbmUvcm93L2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>39</last-search>
+      <last-search>line</last-search>
       <last-offset />
-      <last-pattern>39</last-pattern>
-      <last-replace>128</last-replace>
-      <last-substitute>39</last-substitute>
+      <last-pattern>line</last-pattern>
+      <last-replace>row</last-replace>
+      <last-substitute>line</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>2</entry>
         <entry>3</entry>
         <entry encoding="base64">XDxmbHVlbnRcPg==</entry>
         <entry>out</entry>
@@ -816,9 +821,9 @@
         <entry>eve.main</entry>
         <entry>retrieve</entry>
         <entry>39</entry>
+        <entry>line</entry>
       </history-search>
       <history-cmd>
-        <entry>s/isAlive/is_alive/g</entry>
         <entry>5s/isAlive/is_alive/g</entry>
         <entry>%s/isAlive/is_alive/g</entry>
         <entry>%s/shortName/short_name/g</entry>
@@ -838,6 +843,7 @@
         <entry>%s/eve.main/eve.single/g</entry>
         <entry encoding="base64">JzwsJz5zL3JldHJpZXZlL3NpZ25fb3V0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzM5LzEyOC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2xpbmUvcm93L2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
