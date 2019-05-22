@@ -456,11 +456,10 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="109" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-barcode-generator/generate.py" timestamp="1558549548562">
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="15" />
-        <mark key="." line="35" column="15" />
-        <mark key="^" line="35" column="15" />
+      <file name="$USER_HOME$/repositories/instrument-barcode-generator/generate.py" timestamp="1558554418339">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-multiple-event.json" timestamp="1558201585542">
         <mark key="[" line="1" column="73" />
@@ -710,8 +709,8 @@
       <jump line="19" column="15" filename="$USER_HOME$/repositories/instrument-barcode-generator/combine.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>64</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgZm9yIHBhZ2UgaW4gYXQuZ2V0X2l0ZXIoKToKICAgICMgICAgIGZvciByZWNvcmQgaW4gcGFnZToKICAgICMgICAgICAgICBpZiBub3QgcmVjb3JkWyJmaWVsZHMiXS5nZXQoIk51bWJlciIsIEZhbHNlKToKICAgICMgICAgICAgICAgICAgY29udGludWUKICAgICMgICAgICAgICBnZW5lcmF0ZV9zaW5nbGVfYmFyY29kZShyZWNvcmRbImZpZWxkcyJdWyJOdW1iZXIiXS5zdHJpcCgpKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -761,31 +760,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZm9yIHBhZ2UgaW4gYXQuZ2V0X2l0ZXIoKToKICAgICMgICAgIGZvciByZWNvcmQgaW4gcGFnZToKICAgICMgICAgICAgICBpZiBub3QgcmVjb3JkWyJmaWVsZHMiXS5nZXQoIk51bWJlciIsIEZhbHNlKToKICAgICMgICAgICAgICAgICAgY29udGludWUKICAgICMgICAgICAgICBnZW5lcmF0ZV9zaW5nbGVfYmFyY29kZShyZWNvcmRbImZpZWxkcyJdWyJOdW1iZXIiXS5zdHJpcCgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRvdHR5IjogVHJ1ZSxkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIG1ha2VfYmxhbmtfcGFnZSgpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X3BhZ2UgPSAK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ld19wYWdlID0gCg==</text>
+        <text encoding="base64">ZGVmIG1ha2VfYmxhbmtfcGFnZSgpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvd3NfcGVyX3BhZ2UgPSAyMgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X3BhZ2UgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRocmVzaG9sZCA9IFBBR0VfV0lEVEgK</text>
+        <text encoding="base64">ICAgIG5ld19wYWdlID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICA9Cg==</text>
+        <text encoding="base64">ICAgIHJvd3NfcGVyX3BhZ2UgPSAyMgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xpbmUvcm93L2c=</text>
