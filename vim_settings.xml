@@ -45,7 +45,12 @@
         <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-barcode-generator/combine.py" timestamp="1558553248470" />
+      <file name="$USER_HOME$/repositories/instrument-barcode-generator/combine.py" timestamp="1558562064462">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/get.py" timestamp="1558502560434">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="44" />
@@ -451,7 +456,6 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="109" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-barcode-generator/generate.py" timestamp="1558561676155" />
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-multiple-event.json" timestamp="1558201585542">
         <mark key="[" line="1" column="73" />
         <mark key="]" line="1" column="74" />
