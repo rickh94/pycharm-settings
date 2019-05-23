@@ -506,11 +506,6 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/create.py" timestamp="1558585702649">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="54" />
@@ -571,11 +566,11 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1558585109118">
-        <mark key="[" line="47" column="29" />
-        <mark key="]" line="55" column="28" />
-        <mark key="." line="55" column="28" />
-        <mark key="^" line="55" column="28" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1558627898809">
+        <mark key="[" line="52" column="9" />
+        <mark key="]" line="52" column="9" />
+        <mark key="." line="52" column="9" />
+        <mark key="^" line="52" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
         <mark key="[" line="4" column="0" />
@@ -717,8 +712,8 @@
       <jump line="19" column="15" filename="$USER_HOME$/repositories/instrument-barcode-generator/combine.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWVsZHMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -744,7 +739,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>line</text>
