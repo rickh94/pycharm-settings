@@ -93,16 +93,15 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1558582072769">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="33" column="34" />
-        <mark key="^" line="33" column="34" />
-        <mark key="." line="33" column="34" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1558584680030">
+        <mark key="]" line="31" column="39" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="31" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1558582089796">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
-        <mark key="^" line="108" column="3" />
+        <mark key="^" line="109" column="3" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/build_requirements.py" timestamp="1547886674926">
@@ -147,11 +146,11 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_create.py" timestamp="1558582652117">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="37" column="22" />
-        <mark key="^" line="37" column="22" />
-        <mark key="." line="37" column="22" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_create.py" timestamp="1558585665402">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
         <mark key="[" line="0" column="0" />
@@ -236,20 +235,6 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/create.py" timestamp="1558502224154">
-        <mark key="'" line="13" column="83" />
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="7" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/sign_out.py" timestamp="1558461469442">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="21" column="94" />
-        <mark key="]" line="21" column="95" />
-        <mark key="." line="21" column="95" />
-        <mark key="^" line="21" column="95" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1558496097156">
         <mark key="[" line="11" column="14" />
@@ -389,13 +374,6 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" timestamp="1558415471795">
-        <mark key="'" line="48" column="39" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="46" column="27" />
-      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/header_commands.py" timestamp="1555786737719">
         <mark key="[" line="126" column="16" />
         <mark key="]" line="126" column="21" />
@@ -468,6 +446,12 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/pyproject.toml" timestamp="1558586223499">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/config.py" timestamp="1548990696307">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
@@ -522,11 +506,11 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/create.py" timestamp="1558582149217">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/create.py" timestamp="1558585702649">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
         <mark key="[" line="1" column="51" />
@@ -558,11 +542,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event-full.json" timestamp="1558581791196">
-        <mark key="[" line="1" column="116" />
-        <mark key="]" line="1" column="389" />
-        <mark key="." line="1" column="389" />
-        <mark key="^" line="1" column="389" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event-full.json" timestamp="1558585064631">
+        <mark key="[" line="1" column="150" />
+        <mark key="]" line="1" column="150" />
+        <mark key="." line="1" column="150" />
+        <mark key="^" line="1" column="70" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1549046541683">
         <mark key="[" line="516" column="81" />
@@ -588,11 +572,11 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1558416252443">
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="47" column="28" />
-        <mark key="." line="47" column="28" />
-        <mark key="^" line="47" column="28" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1558585109118">
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="55" column="28" />
+        <mark key="." line="55" column="28" />
+        <mark key="^" line="55" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
         <mark key="[" line="4" column="0" />
@@ -734,8 +718,8 @@
       <jump line="19" column="15" filename="$USER_HOME$/repositories/instrument-barcode-generator/combine.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sign_out</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmaWVsZHMpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -761,13 +745,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sign_out</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>line</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG51bWJlcnMuZXh0ZW5kKGdlbmVyYXRlX3R3ZW50eV9tb3JlKCdWMTUnLCA0MDApKQo=</text>
+        <text encoding="base64">ICAgIGF0X29iamVjdF9tb2NrLmluc2VydC5yZXR1cm5fdmFsdWUgPSB7ImZpZWxkcyI6IHsidGVzdCI6ICJ0ZXN0In19Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -785,31 +769,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWVsZHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGVudigiVEFCTEVfTkFNRSIsICJ0ZXN0X3RhYmxlX25hbWUiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9BUElfS0VZIiwgInRlc3RrZXkiKQogICAgbW9ua2V5cGF0Y2guc2V0ZW52KCJBSVJUQUJMRV9CQVNFX0tFWSIsICJhcHB0ZXN0IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KG51bWJlcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIk51bWJlciI6IGRhdGFbImluc3RydW1lbnROdW1iZXIiXSwKICAgICAgICAgICAgICAgICJJbnN0cnVtZW50IFR5cGUiOiBkYXRhWyJpbnN0cnVtZW50VHlwZSJdLAogICAgICAgICAgICAgICAgIlNpemUiOiBkYXRhWyJzaXplIl0sCiAgICAgICAgICAgICAgICAiTG9jYXRpb24iOiBkYXRhWyJsb2NhdGlvbiJdLAogICAgICAgICAgICAgICAgIk1haW50ZW5hbmNlIE5vdGVzIjogZGF0YS5nZXQoIm1haW50ZW5hbmNlTm90ZXMiLCAiIiksCiAgICAgICAgICAgICAgICAiQXNzaWduZWQgVG8iOiBkYXRhLmdldCgic3R1ZGVudE5hbWUiLCAiIiksCiAgICAgICAgICAgICAgICAiQ29uZGl0aW9uIE5vdGVzIjogZGF0YS5nZXQoImNvbmRpdGlvbk5vdGVzIiwgIiIpLAogICAgICAgICAgICAgICAgIlJlYWR5IFRvIEdvIjogZGF0YS5nZXQoInJlYWR5VG9HbyIsIEZhbHNlKSwKICAgICAgICAgICAgICAgICJDb25kaXRpb24iOiBkYXRhLmdldCgiY29uZGl0aW9uIiwgMCksCiAgICAgICAgICAgICAgICAiUXVhbGl0eSI6IGRhdGEuZ2V0KCJxdWFsaXR5IiwgMCksCiAgICAgICAgICAgICAgICAiUm9zaW4iOiBkYXRhLmdldCgicm9zaW4iLCBGYWxzZSksCiAgICAgICAgICAgICAgICAiQm93IjogZGF0YS5nZXQoImJvdyIsIEZhbHNlKSwKICAgICAgICAgICAgICAgICJTaG91bGRlciBSZXN0L0VuZHBpbiBSZXN0IjogZGF0YS5nZXQoInNob3VsZGVyUmVzdFJvY2tTdG9wIiwgRmFsc2UpLAogICAgICAgICAgICAgICAgIkdpZnRlZCB0byBzdHVkZW50IjogZGF0YS5nZXQoImdpZnRlZCIsIEZhbHNlKSwKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IG51bWJlcnMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bWJlcnMuZXh0ZW5kKGdlbmVyYXRlX3R3ZW50eV9tb3JlKDEsIDQxMykpCiAgICBudW1iZXJzLmV4dGVuZChnZW5lcmF0ZV90d2VudHlfbW9yZSgyLCA0MDUpKQogICAgbnVtYmVycy5leHRlbmQoZ2VuZXJhdGVfdHdlbnR5X21vcmUoMywgNDA4KSkKICAgIG51bWJlcnMuZXh0ZW5kKGdlbmVyYXRlX3R3ZW50eV9tb3JlKDQsIDQxMSkpCiAgICBudW1iZXJzLmV4dGVuZChnZW5lcmF0ZV90d2VudHlfbW9yZSg4LCA0MDApKQogICAgbnVtYmVycy5leHRlbmQoZ2VuZXJhdGVfdHdlbnR5X21vcmUoJ0MxJywgNDAwKSkKICAgIG51bWJlcnMuZXh0ZW5kKGdlbmVyYXRlX3R3ZW50eV9tb3JlKCdDMicsIDQwMCkpCiAgICBudW1iZXJzLmV4dGVuZChnZW5lcmF0ZV90d2VudHlfbW9yZSgnQzMnLCA0MDApKQogICAgbnVtYmVycy5leHRlbmQoZ2VuZXJhdGVfdHdlbnR5X21vcmUoJ0M0JywgNDA2KSkKICAgIG51bWJlcnMuZXh0ZW5kKGdlbmVyYXRlX3R3ZW50eV9tb3JlKCdWMTMnLCA0MDApKQogICAgbnVtYmVycy5leHRlbmQoZ2VuZXJhdGVfdHdlbnR5X21vcmUoJ1YxNCcsIDQwMSkpCiAgICBudW1iZXJzLmV4dGVuZChnZW5lcmF0ZV90d2VudHlfbW9yZSgnVjE1JywgNDAwKSkKICAgIG51bWJlcnMuZXh0ZW5kKGdlbmVyYXRlX3R3ZW50eV9tb3JlKCdWMTUnLCA0MDApKQo=</text>
+        <text encoding="base64">ICAgIGF0ID0gTm9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNlbGxvczEgPSBbZicnXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlcnIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZpb2xpbnM4ID0gW2YnOC17aX0nIGZvciBpIGluIGdlbmVyYXRlX3R3ZW50eV9tb3JlKDQwMCldCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdWNjZXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZpb2xpbnM0ID0gW2YnNC17aX0nIGZvciBpIGluIGdlbmVyYXRlX3R3ZW50eV9tb3JlKDQxMSldCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZpb2xpbnMzID0gW2YnMy17aX0nIGZvciBpIGluIGdlbmVyYXRlX3R3ZW50eV9tb3JlKDQwOCldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xpbmUvcm93L2c=</text>
