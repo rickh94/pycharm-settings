@@ -15,6 +15,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event.json" timestamp="1558580609631">
+        <mark key="[" line="1" column="93" />
+        <mark key="]" line="1" column="93" />
+        <mark key="." line="1" column="93" />
+        <mark key="^" line="1" column="86" />
+      </file>
       <file name="$USER_HOME$/repositories/pdf_from_site/.env" timestamp="1547675181169">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="11" />
@@ -134,6 +140,12 @@
         <mark key="]" line="17" column="42" />
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_create.py" timestamp="1558580430610">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
         <mark key="[" line="0" column="0" />
@@ -504,6 +516,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/create.py" timestamp="1558580344569">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="54" />
@@ -704,8 +722,8 @@
       <jump line="19" column="15" filename="$USER_HOME$/repositories/instrument-barcode-generator/combine.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KG51bWJlcnMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -731,7 +749,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start_number + 22</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>line</text>
