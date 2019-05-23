@@ -510,7 +510,6 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
-        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
         <mark key="[" line="1" column="51" />
