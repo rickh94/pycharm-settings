@@ -18,11 +18,9 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="56" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1558735073475">
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="54" column="31" />
-        <mark key="^" line="54" column="31" />
-        <mark key="." line="54" column="31" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1558885867982">
+        <mark key="]" line="154" column="0" />
+        <mark key="^" line="153" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1558724361565">
         <mark key="'" line="292" column="51" />
@@ -37,21 +35,20 @@
         <mark key="." line="47" column="103" />
         <mark key="^" line="47" column="103" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1558726157115">
-        <mark key="'" line="107" column="4" />
-        <mark key="[" line="29" column="40" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="29" column="40" />
-        <mark key="^" line="29" column="52" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1558885864129">
+        <mark key="'" line="72" column="4" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1558723899713">
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/get.py" timestamp="1558737177784">
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="19" column="50" />
-        <mark key="^" line="19" column="50" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/get.py" timestamp="1558884721932">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="17" column="50" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/create.py" timestamp="1558502224154">
         <mark key="'" line="13" column="83" />
@@ -243,8 +240,8 @@
       <jump line="106" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBwYWdlcyhyZWNvcmRzKToKICAgIHJldHVybiBbcmVjb3Jkc1swOjRdLCByZWNvcmRzWzQ6OF0sIHJlY29yZHNbODoxMF1dCgoKQHB5dGVzdC5maXh0dXJlCmRlZiBmYWtlX2FpcnRhYmxlKHBhZ2VzKToKICAgIGNsYXNzIEZha2VBaXJ0YWJsZToKICAgICAgICBAc3RhdGljbWV0aG9kCiAgICAgICAgZGVmIGdldF9pdGVyKCk6CiAgICAgICAgICAgIGZvciBwYWdlIGluIHBhZ2VzOgogICAgICAgICAgICAgICAgeWllbGQgcGFnZQoKICAgIHJldHVybiBGYWtlQWlydGFibGUoKQoKCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -270,7 +267,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
@@ -294,28 +291,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBwYWdlcyhyZWNvcmRzKToKICAgIHJldHVybiBbcmVjb3Jkc1swOjRdLCByZWNvcmRzWzQ6OF0sIHJlY29yZHNbODoxMF1dCgoKQHB5dGVzdC5maXh0dXJlCmRlZiBmYWtlX2FpcnRhYmxlKHBhZ2VzKToKICAgIGNsYXNzIEZha2VBaXJ0YWJsZToKICAgICAgICBAc3RhdGljbWV0aG9kCiAgICAgICAgZGVmIGdldF9pdGVyKCk6CiAgICAgICAgICAgIGZvciBwYWdlIGluIHBhZ2VzOgogICAgICAgICAgICAgICAgeWllbGQgcGFnZQoKICAgIHJldHVybiBGYWtlQWlydGFibGUoKQoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiByZWNvcmRzKCk6CiAgICByZXR1cm4gWwogICAgICAgIHsiaWQiOiAicmVjMCIsICJmaWVsZHMiOiB7Ik51bWJlciI6ICIxLTYwNSIsICJBc3NpZ25lZCBUbyI6ICJTb21lIE5hbWUifX0sCiAgICAgICAgeyJpZCI6ICJyZWMxIiwgImZpZWxkcyI6IHsiTnVtYmVyIjogIjEtNjAxIiwgIkFzc2lnbmVkIFRvIjogIlRlc3QgTmFtZSJ9fSwKICAgICAgICB7ImlkIjogInJlYzIiLCAiZmllbGRzIjogeyJOdW1iZXIiOiAiMS02MDIiLCAiQXNzaWduZWQgVG8iOiAiVGVzdCBOYW1lMiJ9fSwKICAgICAgICB7ImlkIjogInJlYzMiLCAiZmllbGRzIjogeyJOdW1iZXIiOiAiMS02MDMiLCAiQXNzaWduZWQgVG8iOiAiUmFuZG9tIFBlcnNvbiJ9fSwKICAgICAgICB7ImlkIjogInJlYzQiLCAiZmllbGRzIjogeyJOdW1iZXIiOiAiQzEtNTA1IiwgIkFzc2lnbmVkIFRvIjogIkEgY2VsbGlzdCJ9fSwKICAgICAgICB7ImlkIjogInJlYzUiLCAiZmllbGRzIjogeyJOdW1iZXIiOiAiVjE1LTUwMiIsICJBc3NpZ25lZCBUbyI6ICJBIHZpb2xpc3QifX0sCiAgICAgICAgewogICAgICAgICAgICAiaWQiOiAicmVjNiIsCiAgICAgICAgICAgICJmaWVsZHMiOiB7Ik51bWJlciI6ICJWMTUtNTAzIiwgIkFzc2lnbmVkIFRvIjogIkFub3RoZXIgdmlvbGlzdCJ9LAogICAgICAgIH0sCiAgICAgICAgeyJpZCI6ICJyZWM3IiwgImZpZWxkcyI6IHsiTnVtYmVyIjogIkIxLTUwMiIsICJBc3NpZ25lZCBUbyI6ICJCYXNzIFBsYXllciJ9fSwKICAgICAgICB7ImlkIjogInJlYzgiLCAiZmllbGRzIjogeyJOdW1iZXIiOiAiQzItNTA4IiwgIkFzc2lnbmVkIFRvIjogIlRlc3QgTmFtZSJ9fSwKICAgICAgICB7ImlkIjogInJlYzkiLCAiZmllbGRzIjogeyJOdW1iZXIiOiAiMS02MDYifX0sCiAgICBdCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlY19pZCA9IGV2ZW50Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGVycl9yZXNwb25zZToKICAgICAgICByZXR1cm4gZXJyX3Jlc3BvbnNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBqc29uLmxvYWRzKGV2ZW50WyJib2R5Il0pCiAgICBlcnJfcmVzcG9uc2UgPSB2YWxpZGF0ZV9yZXF1ZXN0KAogICAgICAgIGJvZHk9ZGF0YSwgcmVxdWlyZWRfZmllbGRzPXsicmVjb3JkSWQiOiAiUmVjb3JkIElEIn0KICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJlY19pZCA9IGV2ZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIGVycl9yZXNwb25zZToKICAgICAgICByZXR1cm4gZXJyX3Jlc3BvbnNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBqc29uLmxvYWRzKGV2ZW50WyJib2R5Il0pCiAgICBlcnJfcmVzcG9uc2UgPSB2YWxpZGF0ZV9yZXF1ZXN0KAogICAgICAgIGJvZHk9ZGF0YSwgcmVxdWlyZWRfZmllbGRzPXsicmVjb3JkSWQiOiAiUmVjb3JkIElEIn0KICAgICkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
