@@ -193,11 +193,12 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1558888089402">
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1558892483902">
         <mark key="'" line="71" column="4" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="83" column="41" />
+        <mark key="]" line="83" column="41" />
+        <mark key="." line="83" column="41" />
+        <mark key="^" line="83" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/download_images/download_people.py" timestamp="1549070678222">
         <mark key="[" line="24" column="34" />
@@ -247,8 +248,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1558723899713">
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1558892162829">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="23" column="77" />
+        <mark key="^" line="23" column="77" />
+        <mark key="." line="23" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/discogs_to_airtable/config.yml" timestamp="1550699499464">
         <mark key="[" line="5" column="4" />
@@ -318,7 +322,7 @@
         <mark key="^" line="56" column="49" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/env.yml" timestamp="1558735145640">
+      <file name="$USER_HOME$/repositories/instrument-inventory/env.yml" timestamp="1558891689523">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="28" />
         <mark key="^" line="2" column="28" />
@@ -578,10 +582,11 @@
         <mark key="^" line="38" column="10" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/search.py" timestamp="1558734778368">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/search.py" timestamp="1558892396417">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="17" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1549169483824">
         <mark key="[" line="19" column="30" />
@@ -814,7 +819,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
+        <text encoding="base64">ICAgIHNlYXJjaF9oZWxwZXJfbW9jay5hc3NlcnRfY2FsbGVkX3dpdGgoIk51bWJlciIsICIxLTIwMSIsIG11bHRpcGxlPUZhbHNlLCBleGFjdD1UcnVlKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -840,7 +845,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[&quot;id&quot;]</text>
+        <text>search_helper_mock)</text>
       </register>
       <register name="/" type="4">
         <text>results</text>
@@ -864,35 +869,35 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
+        <text encoding="base64">ICAgIHNlYXJjaF9oZWxwZXJfbW9jay5hc3NlcnRfY2FsbGVkX3dpdGgoIk51bWJlciIsICIxLTIwMSIsIG11bHRpcGxlPUZhbHNlLCBleGFjdD1UcnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsbF9yZWNvcmRzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtdWxhID0gCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>at.get_all(
-        fields=[&quot;Number&quot;, &quot;Instrument Type&quot;, &quot;Size&quot;, &quot;Location&quot;, &quot;Assigned To&quot;]
-    )</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmb3JtdWxhKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>at.get_all(
-        fields=[&quot;Number&quot;, &quot;Instrument Type&quot;, &quot;Size&quot;, &quot;Location&quot;, &quot;Assigned To&quot;]
-    )</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJlc3VsdCA9IHNlYXJjaF9oZWxwZXIoCiAgICAgICAgIyAgICAgIk51bWJlciIsIGRhdGFbImluc3RydW1lbnROdW1iZXIiXSwgbXVsdGlwbGU9RmFsc2UsIGV4YWN0PVRydWUKICAgICAgICAjICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsbF9yZWNvcmRzID0gCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsZW4ocmVzdWx0cykgPT0gMAo=</text>
+      <register name="7" type="4">
+        <text>at.get_all(
+        fields=[&quot;Number&quot;, &quot;Instrument Type&quot;, &quot;Size&quot;, &quot;Location&quot;, &quot;Assigned To&quot;]
+    )</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="8" type="4">
+        <text>at.get_all(
+        fields=[&quot;Number&quot;, &quot;Instrument Type&quot;, &quot;Size&quot;, &quot;Location&quot;, &quot;Assigned To&quot;]
+    )</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmdXp6eXd1enp5IGltcG9ydCBmdXp6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/results/records/g</text>
