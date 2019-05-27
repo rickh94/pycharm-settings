@@ -72,12 +72,6 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="99" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/filter.py" timestamp="1558909553970">
-        <mark key="[" line="23" column="37" />
-        <mark key="]" line="29" column="62" />
-        <mark key="." line="29" column="62" />
-        <mark key="^" line="29" column="62" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" timestamp="1558908804329">
         <mark key="[" line="75" column="61" />
         <mark key="]" line="75" column="61" />
