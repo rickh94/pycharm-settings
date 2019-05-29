@@ -15,9 +15,6 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1558737040819">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event.json" timestamp="1558580609631">
         <mark key="[" line="1" column="93" />
         <mark key="]" line="1" column="93" />
@@ -90,11 +87,11 @@
         <mark key="." line="98" column="57" />
         <mark key="^" line="98" column="57" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/resources/dynamodb-table.yml" timestamp="1555958007476">
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="30" column="57" />
-        <mark key="^" line="30" column="57" />
-        <mark key="." line="30" column="57" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/resources/dynamodb-table.yml" timestamp="1559102459203">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+        <mark key="." line="21" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/delete.py" timestamp="1558502368102">
         <mark key="[" line="11" column="31" />
@@ -246,10 +243,10 @@
         <mark key="." line="27" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1559063065238">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="3" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/discogs_to_airtable/config.yml" timestamp="1550699499464">
         <mark key="[" line="5" column="4" />
@@ -491,23 +488,35 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/models.py" timestamp="1559103730404">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/exceptions.py" timestamp="1556043021962">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/resources/s3-bucket.yml" timestamp="1558633118283">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="33" />
-        <mark key="^" line="20" column="33" />
-        <mark key="." line="20" column="33" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/resources/s3-bucket.yml" timestamp="1559103618125">
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="38" />
+        <mark key="^" line="26" column="38" />
+        <mark key="." line="26" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" timestamp="1548219442432">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="8" column="29" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/resources/dynamodb-table.yml" timestamp="1559103713384">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/get-event.json" timestamp="1558503236718">
         <mark key="[" line="2" column="11" />
@@ -593,6 +602,12 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/resources/cognito-identity-pool.yml" timestamp="1559102626661">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="54" />
@@ -659,11 +674,11 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1559099305688">
-        <mark key="[" line="102" column="29" />
-        <mark key="]" line="116" column="28" />
-        <mark key="." line="116" column="28" />
-        <mark key="^" line="116" column="28" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1559103722223">
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="26" column="50" />
+        <mark key="." line="26" column="50" />
+        <mark key="^" line="26" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
         <mark key="[" line="4" column="0" />
@@ -671,11 +686,11 @@
         <mark key="^" line="19" column="63" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/resources/cognito-identity-pool.yml" timestamp="1558633545391">
-        <mark key="[" line="76" column="35" />
-        <mark key="]" line="76" column="35" />
-        <mark key="^" line="76" column="66" />
-        <mark key="." line="76" column="35" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/resources/cognito-identity-pool.yml" timestamp="1559103541771">
+        <mark key="[" line="10" column="59" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-event.json" timestamp="1558502486295">
         <mark key="[" line="2" column="11" />
@@ -812,7 +827,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://unsplash.com/photos/wPaBwop_rSo/download?force=true</text>
+        <text>&quot;</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -838,7 +853,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://unsplash.com/photos/wPaBwop_rSo/download?force=true</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
