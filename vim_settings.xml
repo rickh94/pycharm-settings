@@ -488,11 +488,11 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/models.py" timestamp="1559103730404">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/models.py" timestamp="1559104540831">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="50" />
+        <mark key="^" line="19" column="50" />
+        <mark key="." line="19" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/exceptions.py" timestamp="1556043021962">
         <mark key="[" line="0" column="0" />
@@ -827,7 +827,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>Todo in the todo list</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -853,7 +853,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Todo in the todo list</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
