@@ -341,6 +341,11 @@
         <mark key="." line="47" column="47" />
         <mark key="^" line="47" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/read-todos-event.json" timestamp="1559171434533">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-event.json" timestamp="1558198770235">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="29" />
@@ -510,11 +515,11 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/models.py" timestamp="1559106655885">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="45" />
-        <mark key="." line="19" column="45" />
-        <mark key="^" line="19" column="45" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/models.py" timestamp="1559172691260">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="64" />
+        <mark key="." line="6" column="64" />
+        <mark key="^" line="6" column="64" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/exceptions.py" timestamp="1556043021962">
         <mark key="[" line="0" column="0" />
@@ -528,11 +533,11 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/todos.py" timestamp="1559165315882">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="6" column="14" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/todos.py" timestamp="1559172897059">
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="23" />
+        <mark key="." line="69" column="23" />
+        <mark key="^" line="69" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" timestamp="1548219442432">
         <mark key="[" line="6" column="15" />
@@ -654,11 +659,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="59" column="56" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/serverless-python/list_notes.py" timestamp="1558502799818">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="127" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/list_notes.py" timestamp="1559169674555">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="127" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
         <mark key="[" line="4" column="0" />
@@ -696,17 +701,23 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" timestamp="1559165335716">
-        <mark key="[" line="81" column="72" />
-        <mark key="]" line="81" column="76" />
-        <mark key="." line="81" column="76" />
-        <mark key="^" line="81" column="76" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" timestamp="1559173018982">
+        <mark key="[" line="183" column="56" />
+        <mark key="]" line="183" column="66" />
+        <mark key="." line="183" column="66" />
+        <mark key="^" line="183" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1559109373226">
-        <mark key="[" line="134" column="29" />
-        <mark key="]" line="143" column="28" />
-        <mark key="." line="143" column="28" />
-        <mark key="^" line="143" column="28" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-todo-event.json" timestamp="1559169387670">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1559170679089">
+        <mark key="[" line="161" column="29" />
+        <mark key="]" line="170" column="28" />
+        <mark key="." line="170" column="28" />
+        <mark key="^" line="170" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
         <mark key="[" line="4" column="0" />
@@ -855,7 +866,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>lambda: True</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -881,13 +892,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>lambda: True</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRvZG9fbW9jayA9IG1vY2suTWFnaWNNb2NrKCkKICAgIGNyZWF0ZWRfaXRlbSA9IG1vY2suTWFnaWNNb2NrKCkKICAgIHRvZG9fbW9jay5yZXR1cm5fdmFsdWUgPSBjcmVhdGVkX2l0ZW0KCiAgICBtb25rZXlwYXRjaC5zZXRhdHRyKCJ0b2Rvcy5Ub2RvTW9kZWwiLCB0b2RvX21vY2spCiAgICBtb25rZXlwYXRjaC5zZXRhdHRyKCJ1dWlkLnV1aWQxIiwgZmFrZV91dWlkKQoKICAgIHJlc3BvbnNlID0gdG9kb3MuY3JlYXRlKAogICAgICAgIHsKICAgICAgICAgICAgImJvZHkiOiBqc29uLmR1bXBzKAogICAgICAgICAgICAgICAgeyJjb250ZW50IjogInRlc3QgY29udGVudCIsICJyZWxhdmFudEluc3RydW1lbnQiOiAiMS02MTAifQogICAgICAgICAgICApLAogICAgICAgICAgICAicmVxdWVzdENvbnRleHQiOiB7ImlkZW50aXR5IjogeyJjb2duaXRvSWRlbnRpdHlJZCI6ICJVU0VSLVNVQi0xMjM0In19LAogICAgICAgIH0KICAgICkKCiAgICB0b2RvX21vY2suYXNzZXJ0X2NhbGxlZF93aXRoKAogICAgICAgICJVU0VSLVNVQi0xMjM0IiwgImZha2V1dWlkIiwgY29udGVudD0idGVzdCBjb250ZW50IiwgcmVsZXZhbnRJbnN0cnVtZW50PSIxLTYxMCIKICAgICkKICAgIAogICAgY3JlYXRlZF9pdGVtLnNhdmUuYXNzZXJ0X2NhbGxlZCgpCiAgICAKICAgIGFzc2VydCByZXNwb25zZVsnc3RhdHVzQ29kZSddID09IDIwMQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWx0ZXJfY29uZGl0aW9uLm9wZXJhdG9yKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -905,31 +916,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIoInB5bmFtb2RiLnBhZ2luYXRpb24uUmVzdWx0SXRlcmF0b3IiLCBmYWtlX3RvZG8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyOgogICAgICAgIHJldHVybiBmYWlsdXJlKGYiU29tZXRoaW5nIGhhcyBnb25lIHdyb25nOiB7ZXJyfSIpCg==</text>
+        <text encoding="base64">ICAgIGZha2VfbW9kZWwgPSBtb2NrLk1hZ2ljTW9jaygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGZha2VfbW9kZWwuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYWtlX2Zha2VfdG9kbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFrZVRvZG8K</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYXR0cmlidXRlX3ZhbHVlcyhzZWxmKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyBGYWtlVG9kbzoKICAgICAgICAgICAgQHN0YXRpY21ldGhvZAogICAgICAgICAgICBkZWYgZ2V0KCk6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfc29tZV9yZWNvcmRzKHVzZXJfaWQsIGZpbHRlcl9jb25kaXRpb24pOgogICAgICAgICMgaWYgdXNlcl9pZCA9PSAiVVNFUi1TVUItMTIzNCI6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWx0ZXJfY29uZGl0aW9uLm9wZXJhdG9yKQogICAgICAgIHByaW50KHR5cGUoZmlsdGVyX2NvbmRpdGlvbi52YWx1ZXNbMF0pKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLykvLw==</text>
