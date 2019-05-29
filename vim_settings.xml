@@ -528,11 +528,11 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/todos.py" timestamp="1559109460502">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="32" column="7" />
-        <mark key="^" line="32" column="7" />
-        <mark key="." line="32" column="7" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/todos.py" timestamp="1559165315882">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" timestamp="1548219442432">
         <mark key="[" line="6" column="15" />
@@ -696,11 +696,11 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" timestamp="1559162349385">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="78" column="38" />
-        <mark key="." line="78" column="38" />
-        <mark key="^" line="78" column="38" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" timestamp="1559165335716">
+        <mark key="[" line="81" column="72" />
+        <mark key="]" line="81" column="76" />
+        <mark key="." line="81" column="76" />
+        <mark key="^" line="81" column="76" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1559109373226">
         <mark key="[" line="134" column="29" />
@@ -855,7 +855,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>read</text>
+        <text>None</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -881,7 +881,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>read</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -905,31 +905,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgbmFtZWR0dXBsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RmllbGROYW1lID0gbmFtZWR0dXBsZSgiRmllbGROYW1lIiwgWyJmcm9udGVuZCIsICJhaXJ0YWJsZSJdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyOgogICAgICAgIHJldHVybiBmYWlsdXJlKGYiU29tZXRoaW5nIGhhcyBnb25lIHdyb25nOiB7ZXJyfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBsaWIuaGVscGVycyBpbXBvcnQgZHluYW1vX3N0cmluZ19pdGVtCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnbG9iYWxzIGltcG9ydCBkeW5hbW8sIHRhYmxlX25hbWUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBmYWtlX3V1aWQoKToKICAgICAgICByZXR1cm4gImZha2V1dWlkIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBtYWtlX2Zha2VfdG9kbwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFrZVRvZG8K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRBdCA9IFVuaWNvZGVBdHRyaWJ1dGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcyBGYWtlVG9kbzoKICAgICAgICAgICAgQHN0YXRpY21ldGhvZAogICAgICAgICAgICBkZWYgZ2V0KCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlbGV2YW50SW5zdHJ1bWVudCA9IFVuaWNvZGVBdHRyaWJ1dGUobnVsbD1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLykvLw==</text>
