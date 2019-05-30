@@ -111,6 +111,13 @@
         <mark key="^" line="4" column="91" />
         <mark key="." line="4" column="91" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1558724361565">
+        <mark key="'" line="292" column="51" />
+        <mark key="[" line="329" column="33" />
+        <mark key="]" line="329" column="39" />
+        <mark key="^" line="329" column="39" />
+        <mark key="." line="329" column="39" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-todo-event.json" timestamp="1559109326319">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="54" />
@@ -533,10 +540,10 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/todos.py" timestamp="1559172897059">
-        <mark key="[" line="69" column="23" />
-        <mark key="]" line="69" column="23" />
-        <mark key="." line="69" column="23" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/todos.py" timestamp="1559174450068">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="4" />
+        <mark key="." line="67" column="4" />
         <mark key="^" line="69" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" timestamp="1548219442432">
@@ -701,11 +708,12 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" timestamp="1559173018982">
-        <mark key="[" line="183" column="56" />
-        <mark key="]" line="183" column="66" />
-        <mark key="." line="183" column="66" />
-        <mark key="^" line="183" column="66" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" timestamp="1559175057542">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="184" column="68" />
+        <mark key="]" line="185" column="84" />
+        <mark key="." line="185" column="84" />
+        <mark key="^" line="185" column="84" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-todo-event.json" timestamp="1559169387670">
         <mark key="[" line="2" column="10" />
@@ -763,7 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="4" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_sheet_api.py" />
       <jump line="70" column="27" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_composer_api.py" />
       <jump line="43" column="0" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_models.py" />
       <jump line="50" column="23" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/models.py" />
@@ -863,10 +870,11 @@
       <jump line="9" column="4" filename="$USER_HOME$/repositories/instrument-inventory/update.py" />
       <jump line="22" column="53" filename="$USER_HOME$/repositories/instrument-inventory/update.py" />
       <jump line="10" column="4" filename="$USER_HOME$/repositories/instrument-inventory/update.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lambda: True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIoInB5bmFtb2RiLm1vZGVscy5Nb2RlbC5leGlzdHMiLCBmYWtlX2V4aXN0cykK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -895,10 +903,10 @@
         <text>lambda: True</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>explode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWx0ZXJfY29uZGl0aW9uLm9wZXJhdG9yKQo=</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIoInB5bmFtb2RiLm1vZGVscy5Nb2RlbC5leGlzdHMiLCBmYWtlX2V4aXN0cykK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -916,40 +924,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QHB5dGVzdC54ZmFpbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIoInB5bmFtb2RiLnBhZ2luYXRpb24uUmVzdWx0SXRlcmF0b3IiLCBmYWtlX3RvZG8pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZha2VfbW9kZWwgPSBtb2NrLk1hZ2ljTW9jaygpCg==</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIoInB5bmFtb2RiLnBhZ2luYXRpb24uUmVzdWx0SXRlcmF0b3IiLCBmYWtlX3RvZG8pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZha2VfbW9kZWwgPSBtb2NrLk1hZ2ljTW9jaygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZha2VfbW9kZWwuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGZha2VfbW9kZWwuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgYXR0cmlidXRlX3ZhbHVlcyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc29tZV9yZWNvcmRzKHVzZXJfaWQsIGZpbHRlcl9jb25kaXRpb24pOgogICAgICAgICMgaWYgdXNlcl9pZCA9PSAiVVNFUi1TVUItMTIzNCI6Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYXR0cmlidXRlX3ZhbHVlcyhzZWxmKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWx0ZXJfY29uZGl0aW9uLm9wZXJhdG9yKQogICAgICAgIHByaW50KHR5cGUoZmlsdGVyX2NvbmRpdGlvbi52YWx1ZXNbMF0pKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfc29tZV9yZWNvcmRzKHVzZXJfaWQsIGZpbHRlcl9jb25kaXRpb24pOgogICAgICAgICMgaWYgdXNlcl9pZCA9PSAiVVNFUi1TVUItMTIzNCI6Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLykvLw==</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>explode</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>explode</last-pattern>
       <last-replace />
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -957,7 +965,6 @@
     </search>
     <history>
       <history-search>
-        <entry>convert</entry>
         <entry>STATIC</entry>
         <entry>documents</entry>
         <entry>^_tag</entry>
@@ -977,6 +984,7 @@
         <entry>FieldName(</entry>
         <entry>,</entry>
         <entry>)</entry>
+        <entry>explode</entry>
       </history-search>
       <history-cmd>
         <entry>s/documents/serializers/g</entry>
