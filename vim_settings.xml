@@ -709,11 +709,7 @@
         <mark key="^" line="63" column="83" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" timestamp="1559192221716">
-        <mark key="'" line="384" column="0" />
-        <mark key="[" line="338" column="64" />
-        <mark key="]" line="338" column="67" />
-        <mark key="." line="338" column="67" />
-        <mark key="^" line="338" column="67" />
+        <mark key="'" line="534" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-todo-event.json" timestamp="1559169387670">
         <mark key="[" line="2" column="10" />
@@ -721,23 +717,17 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1559192568285">
-        <mark key="[" line="181" column="13" />
-        <mark key="]" line="181" column="14" />
-        <mark key="." line="181" column="13" />
-        <mark key="^" line="188" column="28" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1559332654589">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="80" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="19" column="63" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/resources/cognito-identity-pool.yml" timestamp="1559276423782">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="9" />
-        <mark key="^" line="26" column="9" />
-        <mark key="." line="26" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-event.json" timestamp="1558502486295">
         <mark key="[" line="2" column="11" />
@@ -873,8 +863,8 @@
       <jump line="384" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBsaWIuaGVscGVycyBpbXBvcnQgZHluYW1vX3N0cmluZ19pdGVtCg==</text>
+      <register name="&quot;" type="4">
+        <text>create</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -900,7 +890,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text>mark</text>
