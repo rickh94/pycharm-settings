@@ -111,6 +111,13 @@
         <mark key="^" line="4" column="91" />
         <mark key="." line="4" column="91" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1559752264719">
+        <mark key="'" line="314" column="51" />
+        <mark key="[" line="98" column="4" />
+        <mark key="]" line="103" column="5" />
+        <mark key="^" line="97" column="3" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-todo-event.json" timestamp="1559109326319">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="54" />
@@ -589,6 +596,12 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/retrieve.py" timestamp="1559752220898">
+        <mark key="[" line="20" column="74" />
+        <mark key="]" line="20" column="74" />
+        <mark key="^" line="20" column="74" />
+        <mark key="." line="20" column="74" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" timestamp="1549045097632">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -846,8 +859,8 @@
       <jump line="384" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGF0X29iamVjdF9tb2NrLnVwZGF0ZS5yZXR1cm5fdmFsdWUgPSB7CiAgICAgICAgImlkIjogInJlY2lkIiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAiTnVtYmVyIjogIjEtMjAxIgogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -879,7 +892,7 @@
         <text>mark</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICB1c2VyX2lkID0gZXZlbnRbJ3JlcXVlc3RDb250ZXh0J11bJ2lkZW50aXR5J11bJ2NvZ25pdG9JZGVudGl0eUlkJ10KICAgICAgICB0b2RvX2lkID0gZXZlbnRbJ3BhdGhQYXJhbWV0ZXJzJ11bJ2lkJ10KICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICByZXR1cm4gZmFpbHVyZSgiVXNlciBhbmQgdG9kbyBpZCBhcmUgcmVxdWlyZWQiLCA0MDApCiAgICB0cnk6CiAgICAgICAgaXRlbSA9IFRvZG9Nb2RlbC5nZXQodXNlcl9pZCwgdG9kb19pZCkKICAgIGV4Y2VwdCBweW5hbW9kYi5leGNlcHRpb25zLkRvZXNOb3RFeGlzdDoKICAgICAgICByZXR1cm4gZmFpbHVyZSgiQ291bGQgbm90IGZpbmQgbWF0Y2hpbmcgaXRlbSIsIDQwNCkKICAgIHRyeToKICAgICAgICBpdGVtLnVwZGF0ZShhY3Rpb25zPVtUb2RvTW9kZWwuY29tcGxldGVkLnNldChUcnVlKV0pCiAgICAgICAgaXRlbS5zYXZlKCkKICAgICAgICBpdGVtLnJlZnJlc2goKQogICAgICAgIHJldHVybiBzdWNjZXNzKHsibWVzc2FnZSI6ICJVcGRhdGVkIiwgIml0ZW0iOiBpdGVtLmF0dHJpYnV0ZV92YWx1ZXN9KQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlcnI6CiAgICAgICAgcHJpbnQoZXJyKQogICAgICAgIHJldHVybiBmYWlsdXJlKCJTb21ldGhpbmcgaGFzIGdvbmUgd3JvbmciKQo=</text>
+        <text encoding="base64">ICAgIGF0X29iamVjdF9tb2NrLnVwZGF0ZS5yZXR1cm5fdmFsdWUgPSB7CiAgICAgICAgImlkIjogInJlY2lkIiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAiTnVtYmVyIjogIjEtMjAxIgogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <keys>
