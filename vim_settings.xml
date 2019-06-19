@@ -40,6 +40,11 @@
         <mark key="^" line="94" column="51" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1560970556142">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1560922544017">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
@@ -65,6 +70,11 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-all-event.json" timestamp="1560803026697">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/delete-event.json" timestamp="1560918895586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="46" />
@@ -85,6 +95,11 @@
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_update.py" timestamp="1560915220922">
         <mark key="'" line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" timestamp="1560906673846">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" timestamp="1560926404540">
         <mark key="[" line="0" column="0" />
@@ -117,6 +132,12 @@
         <mark key="]" line="54" column="41" />
         <mark key="^" line="54" column="41" />
         <mark key="." line="54" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/search.py" timestamp="1560970422888">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="40" />
+        <mark key="^" line="24" column="40" />
+        <mark key="." line="24" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/create.py" timestamp="1560892518726">
         <mark key="[" line="2" column="19" />
@@ -272,7 +293,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIjEtNjA1IiwKICAgICAgICAgICAgICAgICAgICAgICAgIjEtNjAxIiwKICAgICAgICAgICAgICAgICAgICAgICAgIjEtNjAyIiwKICAgICAgICAgICAgICAgICAgICAgICAgIjItNjAzIiwKICAgICAgICAgICAgICAgICAgICAgICAgIkMxLTUwNSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJWMTUtNTAyIiwKICAgICAgICAgICAgICAgICAgICAgICAgIlYxNS01MDMiLAogICAgICAgICAgICAgICAgICAgICAgICAiQjEtNTAyIiwKICAgICAgICAgICAgICAgICAgICAgICAgIkMyLTUwOCIsCiAgICAgICAgICAgICAgICAgICAgICAgICIyLTYwNiIsCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -298,7 +319,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>failure(f&quot;Something has gone wrong: {err}&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>s3</text>
@@ -322,31 +343,33 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlWyJib2R5Il0pCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>at.get_all(
+            formula=make_filter_formula(&quot;Number&quot;, data[&quot;instrumentNumber&quot;])
+        )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBpbnN0cnVtZW50X251bWJlciBpbiBkYXRhWyJpbnN0cnVtZW50TnVtYmVycyJdOgogICAgICAgIHRyeToKICAgICAgICAgICAgbW92ZV9pbnN0cnVtZW50KGluc3RydW1lbnRfbnVtYmVyLCBhdCkKICAgICAgICAgICAgcmVzcG9uc2VfYm9keVsiaW5zdHJ1bWVudHNVcGRhdGVkIl0uYXBwZW5kKGluc3RydW1lbnRfbnVtYmVyKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyOgogICAgICAgICAgICBtZXNzYWdlID0geyJudW1iZXIiOiBpbnN0cnVtZW50X251bWJlcn0KICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShlcnIsIEluZGV4RXJyb3IpOgogICAgICAgICAgICAgICAgbWVzc2FnZVsiZXJyb3IiXSA9ICJDb3VsZCBub3QgZmluZCBpbnN0cnVtZW50IgogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbWVzc2FnZVsiZXJyb3IiXSA9IGVycgogICAgICAgICAgICByZXNwb25zZV9ib2R5WyJpbnN0cnVtZW50c0ZhaWxlZCJdLmFwcGVuZChtZXNzYWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICBhdCA9IHNldHVwX2FpcnRhYmxlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIGluc3RydW1lbnRfbnVtYmVyIG5vdCBpbiByZXNwb25zZV9ib2R5WyJpbnN0cnVtZW50c0ZhaWxlZCJdCg==</text>
+        <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoCiAgICAgICAgZm9ybXVsYT0iU0VBUkNIKCd0ZXN0IG5hbWUnLCBMT1dFUih7QXNzaWduZWQgVG99KSkiCiAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0cnVtZW50TW9kZWwubnVtYmVyLmlzX2luKGRhdGFbImluc3RydW1lbnROdW1iZXJzIl0pCg==</text>
+        <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoZm9ybXVsYT0ie051bWJlcn09JzEtMjAxJyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5yZXR1cm5fdmFsdWUgPSBmb3VuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyOgogICAgICAgIHJldHVybiBmYWlsdXJlKGYiQ291bGQgbm90IGNvbm5lY3QgdG8gYWlydGFibGU6IHtlcnJ9IikK</text>
+        <text encoding="base64">ICAgIGZvdW5kID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGF0X21vY2sgPSBtb2NrLk1hZ2ljTW9jaygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXQgPSBzZXR1cF9haXJ0YWJsZSgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlWyJib2R5Il0pCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL30vKS8=</text>
