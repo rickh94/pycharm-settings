@@ -40,10 +40,11 @@
         <mark key="^" line="94" column="51" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1560970556142">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1560973549833">
+        <mark key="[" line="55" column="82" />
+        <mark key="]" line="55" column="82" />
+        <mark key="." line="55" column="82" />
+        <mark key="^" line="55" column="82" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1560922544017">
         <mark key="[" line="9" column="21" />
@@ -70,11 +71,6 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-all-event.json" timestamp="1560803026697">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/delete-event.json" timestamp="1560918895586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="46" />
@@ -95,11 +91,6 @@
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_update.py" timestamp="1560915220922">
         <mark key="'" line="79" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" timestamp="1560906673846">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" timestamp="1560926404540">
         <mark key="[" line="0" column="0" />
@@ -133,11 +124,11 @@
         <mark key="^" line="54" column="41" />
         <mark key="." line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/search.py" timestamp="1560970422888">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="40" />
-        <mark key="^" line="24" column="40" />
-        <mark key="." line="24" column="40" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/search.py" timestamp="1560973431956">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="40" />
+        <mark key="^" line="44" column="40" />
+        <mark key="." line="44" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/create.py" timestamp="1560892518726">
         <mark key="[" line="2" column="19" />
@@ -292,8 +283,8 @@
       <jump line="38" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
+      <register name="&quot;" type="4">
+        <text>failure(f&quot;Something has gone wrong {err}&quot;)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -319,7 +310,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>failure(f&quot;Something has gone wrong: {err}&quot;)</text>
+        <text>failure(f&quot;Something has gone wrong {err}&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>s3</text>
@@ -343,33 +334,33 @@
         </keys>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gYXQuZ2V0X2FsbCgKICAgICAgICAgICAgZm9ybXVsYT0oCiAgICAgICAgICAgICAgICAiU0VBUkNIKCciICsgZGF0YVsiYXNzaWduZWRUbyJdLmxvd2VyKCkgKyAiJywgTE9XRVIoe0Fzc2lnbmVkIFRvfSkpIgogICAgICAgICAgICApCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhdCA9IHNldHVwX2FpcnRhYmxlKCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>at.get_all(
             formula=make_filter_formula(&quot;Number&quot;, data[&quot;instrumentNumber&quot;])
         )</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBhdCA9IHNldHVwX2FpcnRhYmxlKCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoCiAgICAgICAgZm9ybXVsYT0iU0VBUkNIKCd0ZXN0IG5hbWUnLCBMT1dFUih7QXNzaWduZWQgVG99KSkiCiAgICApCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoZm9ybXVsYT0ie051bWJlcn09JzEtMjAxJyIpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5yZXR1cm5fdmFsdWUgPSBmb3VuZAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvdW5kID0gW10K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGF0X21vY2sgPSBtb2NrLk1hZ2ljTW9jaygpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlWyJib2R5Il0pCg==</text>
+        <text encoding="base64">ICAgIGZvdW5kID0gW10K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL30vKS8=</text>
