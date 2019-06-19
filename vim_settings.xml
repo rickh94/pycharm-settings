@@ -709,11 +709,11 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1560910475499">
-        <mark key="[" line="50" column="11" />
-        <mark key="]" line="51" column="11" />
-        <mark key="." line="51" column="11" />
-        <mark key="^" line="51" column="11" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1560911434901">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="54" column="12" />
+        <mark key="^" line="52" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
         <mark key="[" line="4" column="0" />
@@ -862,7 +862,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIEZuOjpHZXRBdHQ6IFtQaG90b3NQZXJtYW5lbnRCdWNrZXQsIEFybl0K</text>
+        <text encoding="base64">ICAgICAgICAtCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -912,31 +912,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIHMzOkRlbGV0ZU9iamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJpZCI6InJlY2lNcTlONVJ5NXVOUWdmIgo=</text>
+        <text encoding="base64">ICAgICAgICAtIHMzOkRlbGV0ZU9iamVjdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAicGF0aFBhcmFtZXRlcnMiOiAiZmFrZWlkIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluc3RydW1lbnRfaXRlbS51cGRhdGUgPSBtb2NrLk1hZ2ljTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICJpZCI6InJlY2lNcTlONVJ5NXVOUWdmIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluc3RydW1lbnRfaXRlbS51cGRhdGUgPSBtb2NrLk1hZ2ljTW9jaygpCiAgICBpbnN0cnVtZW50X2l0ZW0uc2F2ZSA9IG1vY2suCg==</text>
+        <text encoding="base64">ICAgICAgICB9LCAicGF0aFBhcmFtZXRlcnMiOiAiZmFrZWlkIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluc3RydQo=</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfaXRlbS51cGRhdGUgPSBtb2NrLk1hZ2ljTW9jaygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGVyciwgSW5zdHJ1bWVudE1vZGVsLikK</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfaXRlbS51cGRhdGUgPSBtb2NrLk1hZ2ljTW9jaygpCiAgICBpbnN0cnVtZW50X2l0ZW0uc2F2ZSA9IG1vY2suCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGluc3RydQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL30vKS8=</text>
