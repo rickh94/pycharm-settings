@@ -117,6 +117,13 @@
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1560928238415">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="31" column="50" />
+        <mark key="]" line="31" column="53" />
+        <mark key="^" line="31" column="53" />
+        <mark key="." line="31" column="53" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-todo-event.json" timestamp="1559109326319">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="54" />
@@ -363,10 +370,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/migrate.py" timestamp="1560926501885">
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-        <mark key="^" line="24" column="30" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/migrate.py" timestamp="1560927492541">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="54" column="9" />
+        <mark key="." line="54" column="9" />
+        <mark key="^" line="54" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-event.json" timestamp="1558198770235">
         <mark key="[" line="1" column="14" />
@@ -607,11 +616,11 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/retrieve.py" timestamp="1559752220898">
-        <mark key="[" line="20" column="74" />
-        <mark key="]" line="20" column="74" />
-        <mark key="^" line="20" column="74" />
-        <mark key="." line="20" column="74" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/retrieve.py" timestamp="1560928274511">
+        <mark key="[" line="16" column="93" />
+        <mark key="]" line="16" column="93" />
+        <mark key="^" line="16" column="93" />
+        <mark key="." line="16" column="93" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" timestamp="1549045097632">
         <mark key="[" line="11" column="0" />
@@ -782,17 +791,14 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-full-event.json" timestamp="1560915148209">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="29" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-full-event.json" timestamp="1560928254122">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="47" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="70" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="27" filename="$USER_HOME$/repositories/lilyskel/tests/test_templates.py" />
-      <jump line="19" column="18" filename="$USER_HOME$/repositories/lilyskel/tests/test_cli.py" />
-      <jump line="222" column="30" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/common.py" />
       <jump line="30" column="3" filename="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" />
       <jump line="387" column="32" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
       <jump line="227" column="16" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
@@ -890,10 +896,13 @@
       <jump line="79" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_update.py" />
       <jump line="75" column="71" filename="$USER_HOME$/repositories/instrument-inventory/update.py" />
       <jump line="32" column="4" filename="$USER_HOME$/repositories/instrument-inventory/update.py" />
+      <jump line="9" column="19" filename="$USER_HOME$/repositories/instrument-inventory/migrate.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/repositories/instrument-inventory/migrate.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaGlzdG95KQo=</text>
+        <text encoding="base64">ICAgICJpZCI6ImI2ZGUxMDFmLWY0OWYtNGJhZC05YmE4LWEyZThiYjEzYzE5MiIK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -919,13 +928,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2V0dXBfYWlydGFibGUsIG1vdmVfaW5zdHJ1bWVudCwg</text>
+        <text>rec</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>s3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jayA9IG1vY2suTWFnaWNNb2NrKCkKICAgIGluc3RydW1lbnRfaXRlbSA9IGZha2VfaW5zdHJ1bWVudCgKICAgICAgICAiZmFrZWlkIiwgbnVtYmVyPSIxLTIwMSIsIHNpemU9IjQvNCIsIHR5cGU9InZpb2xpbiIsIGxvY2F0aW9uPSJvZmZpY2UiCiAgICApCiAgICBpbnN0cnVtZW50X21vY2sucXVlcnkucmV0dXJuX3ZhbHVlID0gW2luc3RydW1lbnRfaXRlbV0KICAgIG1vbmtleXBhdGNoLnNldGF0dHIoInNpZ25fb3V0Lkluc3RydW1lbnRNb2RlbCIsIGluc3RydW1lbnRfbW9jaykKCiAgICByZXNwb25zZSA9IHNpZ25fb3V0Lm1haW4oc2lnbl9vdXRfZXZlbnQsIHt9KQoKICAgIGluc3RydW1lbnRfaXRlbS51cGRhdGUuYXNzZXJ0X2NhbGxlZCgpCiAgICBpbnN0cnVtZW50X2l0ZW0uc2F2ZS5hc3NlcnRfY2FsbGVkKCkKICAgIGluc3RydW1lbnRfbW9jay5hc3NpZ25lZFRvLnNldC5hc3NlcnRfY2FsbGVkX3dpdGgoJ1Rlc3QgU3R1ZGVudCcpCiAgICBpbnN0cnVtZW50X21vY2subG9jYXRpb24uc2V0LmFzc2VydF9jYWxsZWRfd2l0aCgnR3JhbnQgRWxlbWVudGFyeSBTY2hvb2wnKQo=</text>
+        <text encoding="base64">ICAgICJpZCI6ImI2ZGUxMDFmLWY0OWYtNGJhZC05YmE4LWEyZThiYjEzYzE5MiIK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -943,40 +952,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaGlzdG95KQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NpZ25lZFRvPSJUZXN0IFN0dWRlbnQiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICBhc3NpZ25lZFRvPSJUZXN0IFN0dWRlbnQiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGVyciwgSW5kZXhFcnJvcik6CiAgICAgICAgICAgIHJldHVybiBmYWlsdXJlKCJDb3VsZCBub3QgZmluZCBtYXRjaGluZyBpbnN0cnVtZW50IiwgNDA0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWMgPSBtb3ZlX2luc3RydW1lbnQoZGF0YVsiaW5zdHJ1bWVudE51bWJlciJdLCBhdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VjY2VzcygKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIm1lc3NhZ2UiOiBmIkluc3RydW1lbnQ6IHtyZWNbJ2ZpZWxkcyddWydOdW1iZXInXX0gc2lnbmVkIG91dCB0byAiCiAgICAgICAgICAgICAgICBmIntyZWNbJ2ZpZWxkcyddWydBc3NpZ25lZCBUbyddfSBhdCB7cmVjWydmaWVsZHMnXVsnTG9jYXRpb24nXX0uIiwKICAgICAgICAgICAgICAgICJpZCI6IHJlY1siaWQiXSwKICAgICAgICAgICAgfQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBhdCA9IHNldHVwX2FpcnRhYmxlKCkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyOgogICAgICAgIHJldHVybiBmYWlsdXJlKGYiQ291bGQgbm90IGNvbm5lY3QgdG8gYWlydGFibGU6IHtlcnJ9IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWMgPSBtb3ZlX2luc3RydW1lbnQoCiAgICAgICAgICAgIGRhdGFbImluc3RydW1lbnROdW1iZXIiXSwgYXQsIGRhdGFbImFzc2lnbmVkVG8iXSwgZGF0YVsibG9jYXRpb24iXQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfaXRlbSA9IGZha2VfaW5zdHJ1bWVudCgKICAgICAgICAiZmFrZWlkIiwKICAgICAgICBudW1iZXI9IjEtMjAxIiwKICAgICAgICB0eXBlPSJ2aW9saW4iLAogICAgICAgIHNpemU9IjQvNCIsCiAgICAgICAgbG9jYXRpb249IkdyYW50IEVsZW1lbnRhcnkgU2Nob29sIiwKICAgICAgICBhc3NpZ25lZFRvPSJUZXN0IFN0dWRlbnQiLAogICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF0X29iamVjdF9tb2NrID0gbW9jay5NYWdpY01vY2soKQogICAgYXRfb2JqZWN0X21vY2suc2VhcmNoLnJldHVybl92YWx1ZSA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHQK</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlID0gcmV0cmlldmUuc2luZ2xlKHJldHJpZXZlX2V2ZW50LCB7fSkKICAgIGF0X29iamVjdF9tb2NrLnNlYXJjaC5hc3NlcnRfY2FsbGVkX3dpdGgoIk51bWJlciIsICIxLTIwMSIpCiAgICBhdF9vYmplY3RfbW9jay51cGRhdGUuYXNzZXJ0X2NhbGxlZF93aXRoKAogICAgICAgICJyZWNpZCIsIHsiTG9jYXRpb24iOiAiU3RvcmFnZSIsICJBc3NpZ25lZCBUbyI6ICIifQogICAgKQoKICAgIGFzc2VydCByZXNwb25zZVsic3RhdHVzQ29kZSJdID09IDIwMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBhdCA9IHNldHVwX2FpcnRhYmxlKCkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyOgogICAgICAgIHJldHVybiBmYWlsdXJlKGYiQ291bGQgbm90IGNvbm5lY3QgdG8gYWlydGFibGU6IHtlcnJ9IikK</text>
+        <text encoding="base64">ICAgIGF0X29iamVjdF9tb2NrID0gbW9jay5NYWdpY01vY2soKQogICAgYXRfb2JqZWN0X21vY2sudXBkYXRlX2J5X2ZpZWxkID0gbW9jay5NYWdpY01vY2soKQogICAgYXRfb2JqZWN0X21vY2suc2VhcmNoID0gbW9jay5NYWdpY01vY2soKQogICAgYXRfb2JqZWN0X21vY2suc2VhcmNoLnJldHVybl92YWx1ZSA9IFsKICAgICAgICB7CiAgICAgICAgICAgICJpZCI6ICJyZWNpZCIsCiAgICAgICAgICAgICJmaWVsZHMiOiB7CiAgICAgICAgICAgICAgICAiTnVtYmVyIjogIjEtMjAxIiwKICAgICAgICAgICAgICAgICJJbnN0cnVtZW50IFR5cGUiOiAidmlvbGluIiwKICAgICAgICAgICAgICAgICJTaXplIjogIjQvNCIsCiAgICAgICAgICAgICAgICAiTG9jYXRpb24iOiAic29tZXdoZXJlIiwKICAgICAgICAgICAgICAgICJIaXN0b3J5IjogIlByZXZpb3VzIFN0dWRlbnQiLAogICAgICAgICAgICB9LAogICAgICAgIH0KICAgIF0KCiAgICBhdF9vYmplY3RfbW9jay51cGRhdGUucmV0dXJuX3ZhbHVlID0geyJpZCI6ICJyZWNpZCIsICJmaWVsZHMiOiB7Ik51bWJlciI6ICIxLTIwMSJ9fQoKICAgIG1vbmtleXBhdGNoLnNldGF0dHIoInJldHJpZXZlLnNldHVwX2FpcnRhYmxlIiwgbGFtYmRhOiBhdF9vYmplY3RfbW9jaykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL30vKS8=</text>
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search>s3</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>s3</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>}</last-substitute>
       <last-dir>1</last-dir>
@@ -984,7 +993,6 @@
     </search>
     <history>
       <history-search>
-        <entry>39</entry>
         <entry>line</entry>
         <entry>response</entry>
         <entry>result</entry>
@@ -1004,6 +1012,7 @@
         <entry>\&quot;:</entry>
         <entry>{</entry>
         <entry>}</entry>
+        <entry>s3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3Jlc3BvbnNl</entry>
