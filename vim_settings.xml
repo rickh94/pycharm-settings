@@ -45,11 +45,8 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" timestamp="1560893275239">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="86" column="5" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" timestamp="1560904919066">
+        <mark key="[" line="25" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/api.py" timestamp="1547707402958">
         <mark key="[" line="8" column="40" />
@@ -99,11 +96,11 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1560893291094">
-        <mark key="[" line="101" column="12" />
-        <mark key="]" line="101" column="26" />
-        <mark key="^" line="101" column="26" />
-        <mark key="." line="101" column="26" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1560893740272">
+        <mark key="'" line="201" column="4" />
+        <mark key="]" line="101" column="44" />
+        <mark key="." line="101" column="44" />
+        <mark key="^" line="101" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-photo-event.json" timestamp="1558977229161">
         <mark key="[" line="3" column="4" />
@@ -758,13 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="11" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" />
-      <jump line="269" column="4" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/make_js_interface.py" />
-      <jump line="20" column="10" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" />
-      <jump line="47" column="16" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" />
-      <jump line="217" column="0" filename="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/django_js_url_generator.py" />
-      <jump line="3" column="92" filename="$USER_HOME$/repositories/sheet_music_database/.travis.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/sheet_music_database/.travis.yml" />
       <jump line="195" column="43" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
       <jump line="2" column="0" filename="$USER_HOME$/repositories/lilyskel/lilyskel/lynames.py" />
       <jump line="127" column="20" filename="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" />
@@ -858,10 +848,17 @@
       <jump line="31" column="0" filename="$USER_HOME$/repositories/instrument-inventory/models.py" />
       <jump line="81" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_create.py" />
       <jump line="17" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_create.py" />
+      <jump line="110" column="16" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
+      <jump line="109" column="8" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
+      <jump line="102" column="11" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
+      <jump line="196" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
+      <jump line="182" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
+      <jump line="183" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>{*fake_record.attribute_values, 'PhotoUrl': {'thumbnail': 'http://fake/thumbnail-test-photo.jpg', 'full': 'http://fake/test-photo.jpg'}}})</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -887,13 +884,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>{*fake_record.attribute_values, 'PhotoUrl': {'thumbnail': 'http://fake/thumbnail-test-photo.jpg', 'full': 'http://fake/test-photo.jpg'}}})</text>
       </register>
       <register name="/" type="4">
-        <text>instrument_mock</text>
+        <text>}</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;https://unsplash.com/photos/uqKyeMaaAOQ/download?force=true&quot;</text>
+        <text>{'thumbnail': 'http://fake/thumbnail-test-photo.jpg', 'full': 'http://fake/test-photo.jpg'}</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -911,55 +908,49 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBmYWtlX2luc3RydW1lbnQoKToKICAgIGNsYXNzIEZha2VJbnN0cnVlbnQ6CiAgICAgICAgZGVmIF9faW5pdF9fKAogICAgICAgICAgICBzZWxmLAogICAgICAgICAgICBpZF8sCiAgICAgICAgICAgIG51bWJlciwKICAgICAgICAgICAgc2l6ZSwKICAgICAgICAgICAgdHlwZSwKICAgICAgICAgICAgbG9jYXRpb24sCiAgICAgICAgICAgIGFzc2lnbmVkVG89Tm9uZSwKICAgICAgICAgICAgbWFpbnRlbmFuY2VOb3Rlcz1Ob25lLAogICAgICAgICAgICBjb25kaXRpb25Ob3Rlcz1Ob25lLAogICAgICAgICAgICBjb25kaXRpb249Tm9uZSwKICAgICAgICAgICAgcXVhbGl0eT1Ob25lLAogICAgICAgICAgICByb3Npbj1GYWxzZSwKICAgICAgICAgICAgYm93PUZhbHNlLAogICAgICAgICAgICBzaG91bGRlclJlc3RFbmRwaW5SZXN0PUZhbHNlLAogICAgICAgICAgICByZWFkeT1GYWxzZSwKICAgICAgICAgICAgZ2lmdGVkPUZhbHNlLAogICAgICAgICAgICBwaG90bz1Ob25lLAogICAgICAgICAgICBhaXJ0YWJsZUlkPU5vbmUsCiAgICAgICAgKToKICAgICAgICAgICAgc2VsZi5pZCA9IGlkXwogICAgICAgICAgICBzZWxmLm51bWJlciA9IG51bWJlcgogICAgICAgICAgICBzZWxmLnNpemUgPSBzaXplCiAgICAgICAgICAgIHNlbGYudHlwZSA9IHR5cGUKICAgICAgICAgICAgc2VsZi5sb2NhdGlvbiA9IGxvY2F0aW9uCiAgICAgICAgICAgIHNlbGYuYXNzaWduZWRUbyA9IGFzc2lnbmVkVG8KICAgICAgICAgICAgc2VsZi5tYWludGVuYW5jZU5vdGVzID0gbWFpbnRlbmFuY2VOb3RlcwogICAgICAgICAgICBzZWxmLmNvbmRpdGlvbk5vdGVzID0gY29uZGl0aW9uTm90ZXMKICAgICAgICAgICAgc2VsZi5jb25kaXRpb24gPSBjb25kaXRpb24KICAgICAgICAgICAgc2VsZi5xdWFsaXR5ID0gcXVhbGl0eQogICAgICAgICAgICBzZWxmLnJvc2luID0gcm9zaW4KICAgICAgICAgICAgc2VsZi5ib3cgPSBib3cKICAgICAgICAgICAgc2VsZi5zaG91bGRlclJlc3RFbmRwaW5SZXN0ID0gc2hvdWxkZXJSZXN0RW5kcGluUmVzdAogICAgICAgICAgICBzZWxmLnJlYWR5ID0gcmVhZHkKICAgICAgICAgICAgc2VsZi5naWZ0ZWQgPSBnaWZ0ZWQKICAgICAgICAgICAgc2VsZi5waG90byA9IHBob3RvCiAgICAgICAgICAgIHNlbGYuYWlydGFibGVJZCA9IGFpcnRhYmxlSWQKCiAgICByZXR1cm4gRmFrZUluc3RydWVudAo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+      <register name="2" type="4">
+        <text>fake_instrument(
+        &quot;fakeid&quot;, number=&quot;123&quot;, size=&quot;4/4&quot;, type=&quot;violin&quot;, location=&quot;office&quot;
+    )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZpZWxkcyI6IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEluc3RydW1lbnRNb2RlbC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0IHNldHVwX2FpcnRhYmxlCg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiByZWMoKToKICAgIHJldHVybiB7CiAgICAgICAgImlkIjogInJlY2lNcTlONVJ5NXVOUWdmIiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAiTnVtYmVyIjogIjEtNjAyIiwKICAgICAgICAgICAgIk1haW50ZW5hbmNlIE5vdGVzIjogInRlc3Qgbm90ZXMiLAogICAgICAgICAgICAiUGhvdG8iOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgImlkIjogImF0dDlmT2NzZk5xeFVhcmJ6IiwKICAgICAgICAgICAgICAgICAgICAidXJsIjogImh0dHBzOi8vZGwuYWlydGFibGUuY29tLy5hdHRhY2htZW50cy80Nzk5Y2ViYzc4MjRkZDc2ZGFkNzVmYjU4NzI2ZmRmZC80N2Y3MzgwMi91cUt5ZU1hYUFPUSIsCiAgICAgICAgICAgICAgICAgICAgImZpbGVuYW1lIjogInVxS3llTWFhQU9RIiwKICAgICAgICAgICAgICAgICAgICAic2l6ZSI6IDE1NTQwOCwKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJ0ZXh0L2h0bWwiLAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdLAogICAgICAgICAgICAiSW5zdHJ1bWVudCBUeXBlIjogInZpb2xpbiIsCiAgICAgICAgICAgICJTaXplIjogIjQvNCIsCiAgICAgICAgICAgICJMb2NhdGlvbiI6ICJHcmFudCBFbGVtZW50YXJ5IFNjaG9vbCIsCiAgICAgICAgICAgICJSZWFkeSBUbyBHbyI6IFRydWUsCiAgICAgICAgICAgICJDb25kaXRpb24iOiA1LAogICAgICAgICAgICAiQXNzaWduZWQgVG8iOiAiVGVzdCBOYW1lIiwKICAgICAgICAgICAgIlF1YWxpdHkiOiAzLAogICAgICAgICAgICAiQ29uZGl0aW9uIE5vdGVzIjogInRlc3QgY29uZGl0aW9uIiwKICAgICAgICAgICAgIlJvc2luIjogVHJ1ZSwKICAgICAgICAgICAgIkJvdyI6IFRydWUsCiAgICAgICAgICAgICJTaG91bGRlciBSZXN0L0VuZHBpbiBSZXN0IjogVHJ1ZSwKICAgICAgICAgICAgIkdpZnRlZCB0byBzdHVkZW50IjogVHJ1ZSwKICAgICAgICB9LAogICAgICAgICJjcmVhdGVkVGltZSI6ICIyMDE5LTA1LTI0VDAyOjM0OjQ3LjAwMFoiLAogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF0X21vY2suZ2V0LnJldHVybl92YWx1ZSA9IHJlYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBhdF9tb2NrKCk6CiAgICAgICAgcmV0dXJuIGF0X29iamVjdF9tb2NrCgogICAgbW9ua2V5cGF0Y2guc2V0YXR0cigiY3JlYXRlLnNldHVwX2FpcnRhYmxlIiwgYXRfbW9jaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImZpZWxkcz0gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIoImNyZWF0ZS5zZXR1cF9haXJ0YWJsZSIsIGxhbWJkYTogYXRfb2JqZWN0X21vY2spCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0X29iamVjdF9tb2NrID0gbW9jay5NYWdpY01vY2soKQogICAgYXRfb2JqZWN0X21vY2suaW5zZXJ0LnJldHVybl92YWx1ZSA9IHsKICAgICAgICAiZmllbGRzIjogeyJ0ZXN0IjogInRlc3QiLCAiTnVtYmVyIjogIjEyMzQifSwKICAgICAgICAiaWQiOiAibmV3cmVjaWQyIiwKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2luc3RydW1lbnRfbW9jay9jcmVhdGVkX2l0ZW0vZw==</text>
+        <text encoding="base64">JzwsJz5zL30vKS8=</text>
       </register>
     </registers>
     <search>
-      <last-search>instrument_mock</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>instrument_mock</last-pattern>
-      <last-replace>created_item</last-replace>
-      <last-substitute>instrument_mock</last-substitute>
+      <last-pattern>}</last-pattern>
+      <last-replace>)</last-replace>
+      <last-substitute>}</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tag</entry>
-        <entry>init_db</entry>
-        <entry>monkeypatch</entry>
-        <entry>delete</entry>
-        <entry>h.env</entry>
-        <entry>tch.env</entry>
-        <entry>eve.main</entry>
-        <entry>retrieve</entry>
         <entry>39</entry>
         <entry>line</entry>
         <entry>response</entry>
@@ -972,16 +963,16 @@
         <entry>active</entry>
         <entry>mark</entry>
         <entry>instrument_mock</entry>
+        <entry>Number</entry>
+        <entry>Assigned To</entry>
+        <entry>Location</entry>
+        <entry>Size</entry>
+        <entry>Instrument Type</entry>
+        <entry>\&quot;:</entry>
+        <entry>{</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
-        <entry>s/delete/update/g</entry>
-        <entry>s/h.env/h.setenv/g</entry>
-        <entry>%s/tch.env/tch.setenv/g</entry>
-        <entry>%s/eve.main/eve.single/g</entry>
-        <entry encoding="base64">JzwsJz5zL3JldHJpZXZlL3NpZ25fb3V0L2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzM5LzEyOC9n</entry>
-        <entry encoding="base64">JzwsJz5zL2xpbmUvcm93L2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3Jlc3VsdC9yZXNwb25zZQ==</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3Jlc3BvbnNl</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3VsdC9yZXNwb25zZS8=</entry>
         <entry>s/results/records/g</entry>
@@ -994,6 +985,14 @@
         <entry encoding="base64">JzwsJz5zL2FjdGl2ZS9jb21wbGV0ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL21hcmsvdW5tYXJrL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2luc3RydW1lbnRfbW9jay9jcmVhdGVkX2l0ZW0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL051bWJlci9udW1iZXIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0Fzc2lnbmVkIFRvL2Fzc2lnbmVkVG8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0xvY2F0aW9uL2xvY2F0aW9u</entry>
+        <entry encoding="base64">JzwsJz5zL1NpemUvc2l6ZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL0luc3RydW1lbnQgVHlwZS90eXBlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1wiOi89L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3svZmFrZV9pbnN0cnVtZW50KC9n</entry>
+        <entry encoding="base64">JzwsJz5zL30vKS8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
