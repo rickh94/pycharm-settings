@@ -364,10 +364,6 @@
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_update.py" timestamp="1560915220922">
         <mark key="'" line="79" column="0" />
-        <mark key="[" line="184" column="33" />
-        <mark key="]" line="135" column="31" />
-        <mark key="." line="135" column="31" />
-        <mark key="^" line="135" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/urls.py" timestamp="1548636792251">
         <mark key="[" line="7" column="77" />
@@ -648,12 +644,12 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/update.py" timestamp="1560915285831">
+      <file name="$USER_HOME$/repositories/instrument-inventory/update.py" timestamp="1560915742655">
         <mark key="'" line="32" column="4" />
-        <mark key="[" line="66" column="46" />
-        <mark key="]" line="66" column="67" />
-        <mark key="." line="66" column="67" />
-        <mark key="^" line="66" column="67" />
+        <mark key="[" line="50" column="46" />
+        <mark key="]" line="50" column="46" />
+        <mark key="." line="50" column="46" />
+        <mark key="^" line="50" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/list_notes.py" timestamp="1559169674555">
         <mark key="[" line="1" column="0" />
