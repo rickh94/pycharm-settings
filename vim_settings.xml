@@ -261,11 +261,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1560908956513">
-        <mark key="[" line="93" column="40" />
-        <mark key="]" line="93" column="40" />
-        <mark key="." line="93" column="40" />
-        <mark key="^" line="93" column="40" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1560922544017">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="16" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/discogs_to_airtable/config.yml" timestamp="1550699499464">
         <mark key="[" line="5" column="4" />
@@ -878,7 +878,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>item.photo</text>
+        <text encoding="base64">IGZhaWx1cmUs</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -904,7 +904,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>item.photo</text>
+        <text encoding="base64">IGZhaWx1cmUs</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
