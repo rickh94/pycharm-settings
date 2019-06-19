@@ -105,12 +105,12 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1560917221033">
-        <mark key="'" line="205" column="4" />
-        <mark key="[" line="99" column="42" />
-        <mark key="]" line="100" column="41" />
-        <mark key="." line="100" column="41" />
-        <mark key="^" line="100" column="41" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" timestamp="1560926131512">
+        <mark key="'" line="206" column="4" />
+        <mark key="[" line="100" column="42" />
+        <mark key="]" line="101" column="42" />
+        <mark key="." line="101" column="42" />
+        <mark key="^" line="101" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-photo-event.json" timestamp="1560915113585">
         <mark key="[" line="2" column="0" />
@@ -279,6 +279,13 @@
         <mark key="^" line="18" column="57" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/sign_out.py" timestamp="1560926396425">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="37" column="60" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1559189441210">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="35" />
@@ -327,11 +334,6 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-all-event.json" timestamp="1560803026697">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-event.json" timestamp="1558736953826">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="20" />
@@ -360,6 +362,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/migrate.py" timestamp="1560926501885">
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-event.json" timestamp="1558198770235">
         <mark key="[" line="1" column="14" />
@@ -436,11 +443,6 @@
         <mark key="." line="51" column="23" />
         <mark key="^" line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" timestamp="1560906673846">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1555786492840">
         <mark key="[" line="7" column="47" />
         <mark key="]" line="7" column="47" />
@@ -458,6 +460,12 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" timestamp="1560926404540">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="65" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/header_commands.py" timestamp="1555786737719">
         <mark key="[" line="126" column="16" />
@@ -518,6 +526,13 @@
         <mark key="]" line="65" column="13" />
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/models.py" timestamp="1560924714814">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="51" column="42" />
+        <mark key="^" line="51" column="42" />
+        <mark key="." line="51" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/exceptions.py" timestamp="1556043021962">
         <mark key="[" line="0" column="0" />
@@ -877,8 +892,8 @@
       <jump line="32" column="4" filename="$USER_HOME$/repositories/instrument-inventory/update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c2V0dXBfYWlydGFibGUsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaGlzdG95KQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -904,13 +919,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2V0dXBfYWlydGFibGUsIA==</text>
+        <text encoding="base64">c2V0dXBfYWlydGFibGUsIG1vdmVfaW5zdHJ1bWVudCwg</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jayA9IG1vY2suTWFnaWNNb2NrKCkKICAgIGluc3RydW1lbnRfaXRlbSA9IGZha2VfaW5zdHJ1bWVudCgKICAgICAgICAiZmFrZWlkIiwgbnVtYmVyPSIxMjM0Iiwgc2l6ZT0iNC80IiwgdHlwZT0idmlvbGluIiwgbG9jYXRpb249Im9mZmljZSIKICAgICkKICAgIGluc3RydW1lbnRfbW9jay5nZXQucmV0dXJuX3ZhbHVlID0gaW5zdHJ1bWVudF9pdGVtCgogICAgbW9ua2V5cGF0Y2guc2V0YXR0cigiZGVsZXRlLkluc3RydW1lbnRNb2RlbCIsIGluc3RydW1lbnRfbW9jaykKCiAgICByZXNwb25zZSA9IGRlbGV0ZS5tYWluKHsicGF0aFBhcmFtZXRlcnMiOiB7ImlkIjogImZha2VpZCJ9fSwge30pCgogICAgaW5zdHJ1bWVudF9tb2NrLmdldC5hc3NlcnRfY2FsbGVkX3dpdGgoImZha2VpZCIpCiAgICBpbnN0cnVtZW50X2l0ZW0uZGVsZXRlLmFzc2VydF9jYWxsZWQoKQoKICAgIGFzc2VydCByZXNwb25zZVsic3RhdHVzQ29kZSJdID09IDIwNAo=</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jayA9IG1vY2suTWFnaWNNb2NrKCkKICAgIGluc3RydW1lbnRfaXRlbSA9IGZha2VfaW5zdHJ1bWVudCgKICAgICAgICAiZmFrZWlkIiwgbnVtYmVyPSIxLTIwMSIsIHNpemU9IjQvNCIsIHR5cGU9InZpb2xpbiIsIGxvY2F0aW9uPSJvZmZpY2UiCiAgICApCiAgICBpbnN0cnVtZW50X21vY2sucXVlcnkucmV0dXJuX3ZhbHVlID0gW2luc3RydW1lbnRfaXRlbV0KICAgIG1vbmtleXBhdGNoLnNldGF0dHIoInNpZ25fb3V0Lkluc3RydW1lbnRNb2RlbCIsIGluc3RydW1lbnRfbW9jaykKCiAgICByZXNwb25zZSA9IHNpZ25fb3V0Lm1haW4oc2lnbl9vdXRfZXZlbnQsIHt9KQoKICAgIGluc3RydW1lbnRfaXRlbS51cGRhdGUuYXNzZXJ0X2NhbGxlZCgpCiAgICBpbnN0cnVtZW50X2l0ZW0uc2F2ZS5hc3NlcnRfY2FsbGVkKCkKICAgIGluc3RydW1lbnRfbW9jay5hc3NpZ25lZFRvLnNldC5hc3NlcnRfY2FsbGVkX3dpdGgoJ1Rlc3QgU3R1ZGVudCcpCiAgICBpbnN0cnVtZW50X21vY2subG9jYXRpb24uc2V0LmFzc2VydF9jYWxsZWRfd2l0aCgnR3JhbnQgRWxlbWVudGFyeSBTY2hvb2wnKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -928,31 +943,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbnRlbmRfYmFja2VuZF9maWVsZF9uYW1lcyA9IHsKICAgICJpbnN0cnVtZW50VHlwZSI6ICJJbnN0cnVtZW50IFR5cGUiLAogICAgIm51bWJlciI6ICJOdW1iZXIiLAogICAgInNpemUiOiAiU2l6ZSIsCiAgICAibG9jYXRpb24iOiAiTG9jYXRpb24iLAogICAgImFzc2lnbmVkVG8iOiAiQXNzaWduZWQgVG8iLAogICAgImNvbmRpdGlvbiI6ICJDb25kaXRpb24iLAogICAgInF1YWxpdHkiOiAiUXVhbGl0eSIsCiAgICAiY29uZGl0aW9uTm90ZXMiOiAiQ29uZGl0aW9uIE5vdGVzIiwKICAgICJtYWludGVuYW5jZU5vdGVzIjogIk1haW50ZW5hbmNlIE5vdGVzIiwKICAgICJyb3NpbiI6ICJSb3NpbiIsCiAgICAiYm93IjogIkJvdyIsCiAgICAicmVhZHlUb0dvIjogIlJlYWR5IFRvIEdvIiwKICAgICJzaG91bGRlclJlc3RFbmRwaW5SZXN0IjogIlNob3VsZGVyIFJlc3QvRW5kcGluIFJlc3QiLAogICAgImdpZnRlZFRvU3R1ZGVudCI6ICJHaWZ0ZWQgVG8gU3R1ZGVudCIsCn0KCgpkZWYgdG9fYWlydGFibGVfbmFtZShmaWVsZF9uYW1lKToKICAgIHJldHVybiBmcm9udGVuZF9iYWNrZW5kX2ZpZWxkX25hbWVzW2ZpZWxkX25hbWVdCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaGlzdG95KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1cGRhdGUtcGhvdG86CiAgICBoYW5kbGVyOiB1cGRhdGUucGhvdG8KICAgIHRhZ3M6CiAgICAgIENvc3RDZW50ZXI6ICdJbnN0cnVtZW50IEludmVudG9yeScKICAgIGV2ZW50czoKICAgICAgLSBodHRwOgogICAgICAgICAgcGF0aDogaW5zdHJ1bWVudHMve2lkfS9waG90bwogICAgICAgICAgbWV0aG9kOiBwYXRjaAogICAgICAgICAgY29yczogdHJ1ZQogICAgICAgICAgYXV0aG9yaXplcjogYXdzX2lhbQoKICB1cGRhdGUtZnVsbDoKICAgIGhhbmRsZXI6IHVwZGF0ZS5mdWxsCiAgICB0YWdzOgogICAgICBDb3N0Q2VudGVyOiAnSW5zdHJ1bWVudCBJbnZlbnRvcnknCiAgICBldmVudHM6CiAgICAgIC0gaHR0cDoKICAgICAgICAgIHBhdGg6IGluc3RydW1lbnRzL3tpZH0KICAgICAgICAgIG1ldGhvZDogcGF0Y2gKICAgICAgICAgIGNvcnM6IHRydWUKICAgICAgICAgIGF1dGhvcml6ZXI6IGF3c19pYW0KICAgICAgLSBodHRwOgogICAgICAgICAgcGF0aDogaW5zdHJ1bWVudHMve2lkfQogICAgICAgICAgbWV0aG9kOiBwdXQKICAgICAgICAgIGNvcnM6IHRydWUKICAgICAgICAgIGF1dGhvcml6ZXI6IGF3c19pYW0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgZ2V0OgogICAgaGFuZGxlcjogZ2V0Lm1haW4KICAgIHRhZ3M6CiAgICAgIENvc3RDZW50ZXI6ICdJbnN0cnVtZW50IEludmVudG9yeScKICAgIGV2ZW50czoKICAgICAgLSBodHRwOgogICAgICAgICAgcGF0aDogaW5zdHJ1bWVudHMve2lkfQogICAgICAgICAgbWV0aG9kOiBnZXQKICAgICAgICAgIGNvcnM6IHRydWUKICAgICAgICAgIGF1dGhvcml6ZXI6IGF3c19pYW0KCiAgZ2V0LWFsbDoKICAgIGhhbmRsZXI6IGdldC5hbGxfCiAgICB0YWdzOgogICAgICBDb3N0Q2VudGVyOiAnSW5zdHJ1bWVudCBJbnZlbnRvcnknCiAgICBldmVudHM6CiAgICAgIC0gaHR0cDoKICAgICAgICAgIHBhdGg6IGluc3RydW1lbnRzL2FsbAogICAgICAgICAgbWV0aG9kOiBnZXQKICAgICAgICAgIGNvcnM6IHRydWUKICAgICAgICAgIGF1dGhvcml6ZXI6IGF3c19pYW0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VjY2VzcygKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIm1lc3NhZ2UiOiBmIkluc3RydW1lbnQ6IHtyZWNbJ2ZpZWxkcyddWydOdW1iZXInXX0gc2lnbmVkIG91dCB0byAiCiAgICAgICAgICAgICAgICBmIntyZWNbJ2ZpZWxkcyddWydBc3NpZ25lZCBUbyddfSBhdCB7cmVjWydmaWVsZHMnXVsnTG9jYXRpb24nXX0uIiwKICAgICAgICAgICAgICAgICJpZCI6IHJlY1siaWQiXSwKICAgICAgICAgICAgfQogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjcmVhdGU6CiAgICBoYW5kbGVyOiBjcmVhdGUubWFpbgogICAgdGFnczoKICAgICAgQ29zdENlbnRlcjogJ0luc3RydW1lbnQgSW52ZW50b3J5JwogICAgZXZlbnRzOgogICAgICAtIGh0dHA6CiAgICAgICAgICBwYXRoOiBpbnN0cnVtZW50cwogICAgICAgICAgbWV0aG9kOiBwb3N0CiAgICAgICAgICBjb3JzOiB0cnVlCiAgICAgICAgICBhdXRob3JpemVyOiBhd3NfaWFtCg==</text>
+        <text encoding="base64">ICAgICAgICByZWMgPSBtb3ZlX2luc3RydW1lbnQoCiAgICAgICAgICAgIGRhdGFbImluc3RydW1lbnROdW1iZXIiXSwgYXQsIGRhdGFbImFzc2lnbmVkVG8iXSwgZGF0YVsibG9jYXRpb24iXQogICAgICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFpbHVyZSgiQ291bGQgbm90IGZpbmQgbWF0Y2hpbmcgaXRlbSIsIDQwNCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGVmIHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBhdCA9IHNldHVwX2FpcnRhYmxlKCkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyOgogICAgICAgIHJldHVybiBmYWlsdXJlKGYiQ291bGQgbm90IGNvbm5lY3QgdG8gYWlydGFibGU6IHtlcnJ9IikK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL30vKS8=</text>
