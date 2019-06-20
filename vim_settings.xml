@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" timestamp="1560909568976">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="96" column="64" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" timestamp="1560996116983">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="18" column="46" />
         <mark key="." line="93" column="25" />
         <mark key="^" line="93" column="25" />
       </file>
@@ -79,14 +79,17 @@
         <mark key="." line="54" column="9" />
         <mark key="^" line="54" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_update.py" timestamp="1560915220922">
-        <mark key="'" line="79" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/filter.py" timestamp="1560997508780">
+        <mark key="[" line="18" column="75" />
+        <mark key="]" line="18" column="75" />
+        <mark key="." line="18" column="75" />
+        <mark key="^" line="18" column="75" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" timestamp="1560995991396">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="39" />
-        <mark key="." line="25" column="39" />
-        <mark key="^" line="25" column="39" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" timestamp="1560997457521">
+        <mark key="[" line="88" column="20" />
+        <mark key="]" line="88" column="23" />
+        <mark key="." line="88" column="23" />
+        <mark key="^" line="88" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" timestamp="1560926404540">
         <mark key="[" line="0" column="0" />
@@ -279,8 +282,8 @@
       <jump line="38" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoZm9ybXVsYT0iQU5EKHtJbnN0cnVtZW50IFR5cGV9PSd2aW9saW4nKSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>get_all</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -306,13 +309,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxhbWJkYTogYXRfbW9jayk=</text>
+        <text>get_all</text>
       </register>
       <register name="/" type="4">
         <text>s3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIjEtNjA1IiwKICAgICAgICAgICAgICAgICAgICAgICAgIjEtNjAxIiwKICAgICAgICAgICAgICAgICAgICAgICAgIjEtNjAyIiwKICAgICAgICAgICAgICAgICAgICAgICAgIjItNjAzIiwKICAgICAgICAgICAgICAgICAgICAgICAgIkMxLTUwNSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJWMTUtNTAyIiwKICAgICAgICAgICAgICAgICAgICAgICAgIlYxNS01MDMiLAogICAgICAgICAgICAgICAgICAgICAgICAiQjEtNTAyIiwKICAgICAgICAgICAgICAgICAgICAgICAgIkMyLTUwOCIsCiAgICAgICAgICAgICAgICAgICAgICAgICIyLTYwNiIsCg==</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jayA9IG1vY2suTWFnaWNNb2NrKCkKICAgIGluc3RydW1lbnRfbW9jay5nZXRfYWxsLnJldHVybl92YWx1ZSA9IFtyZWNvcmRzWzldXQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -330,33 +333,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoZm9ybXVsYT0iQU5EKHtJbnN0cnVtZW50IFR5cGV9PSd2aW9saW4nKSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
+        <text encoding="base64">ICAgIGF0X21vY2sgPSBtb2NrLk1hZ2ljTW9jaygpCiAgICBhdF9tb2NrLmdldF9hbGwucmV0dXJuX3ZhbHVlID0gW3JlY29yZHNbN11dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gYXQuZ2V0X2FsbCgKICAgICAgICAgICAgZm9ybXVsYT0oCiAgICAgICAgICAgICAgICAiU0VBUkNIKCciICsgZGF0YVsiYXNzaWduZWRUbyJdLmxvd2VyKCkgKyAiJywgTE9XRVIoe0Fzc2lnbmVkIFRvfSkpIgogICAgICAgICAgICApCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoCiAgICAgICAgZm9ybXVsYT0iQU5EKHtJbnN0cnVtZW50IFR5cGV9PSd2aW9saW4nLHtTaXplfT0nNC80Jyx7TG9jYXRpb259PSdvZmZpY2UnKSIKICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdCA9IHNldHVwX2FpcnRhYmxlKCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>at.get_all(
-            formula=make_filter_formula(&quot;Number&quot;, data[&quot;instrumentNumber&quot;])
-        )</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBhdCA9IHNldHVwX2FpcnRhYmxlKCkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0IHNldHVwX2FpcnRhYmxlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoZm9ybXVsYT0iQU5EKHtBc3NpZ25lZCBUb309JycpIikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoCiAgICAgICAgZm9ybXVsYT0iU0VBUkNIKCd0ZXN0IG5hbWUnLCBMT1dFUih7QXNzaWduZWQgVG99KSkiCiAgICApCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoZm9ybXVsYT0ie051bWJlcn09JzEtMjAxJyIpCg==</text>
+        <text encoding="base64">ICAgIGF0X21vY2suZ2V0X2FsbC5hc3NlcnRfY2FsbGVkX3dpdGgoZm9ybXVsYT0iQU5EKHtMb2NhdGlvbn09J29mZmljZScpIikK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL30vKS8=</text>
