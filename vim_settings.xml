@@ -198,11 +198,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/create.py" timestamp="1561000807634">
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="50" column="52" />
-        <mark key="." line="50" column="52" />
-        <mark key="^" line="50" column="52" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/create.py" timestamp="1561056585436">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="42" />
+        <mark key="." line="34" column="42" />
+        <mark key="^" line="34" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
         <mark key="[" line="0" column="0" />
@@ -418,7 +418,6 @@
         <mark key="." line="186" column="28" />
         <mark key="^" line="186" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/sign_out.py" timestamp="1561052208573" />
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/urls.py" timestamp="1548636792251">
         <mark key="[" line="7" column="77" />
         <mark key="]" line="7" column="77" />
@@ -760,11 +759,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event-full.json" timestamp="1558665406055">
-        <mark key="[" line="1" column="429" />
-        <mark key="]" line="1" column="487" />
-        <mark key="." line="1" column="487" />
-        <mark key="^" line="1" column="487" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event-full.json" timestamp="1561056603994">
+        <mark key="[" line="1" column="76" />
+        <mark key="]" line="1" column="85" />
+        <mark key="." line="1" column="85" />
+        <mark key="^" line="1" column="85" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1549046541683">
         <mark key="[" line="516" column="81" />
@@ -968,8 +967,8 @@
       <jump line="29" column="25" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZiJJbnN0cnVtZW50IHtpdGVtLm51bWJlcn0gc2lnbmVkIG91dCB0byB7aXRlbS5hc3NpZ25lZFRvfSIKICAgICAgICAgICAgZiIgYXQge2l0ZW0ubG9jYXRpb259Igo=</text>
+      <register name="&quot;" type="4">
+        <text>studentName</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -995,7 +994,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ins.attribute_values</text>
+        <text>studentName</text>
       </register>
       <register name="/" type="4">
         <text>\&quot;get</text>
