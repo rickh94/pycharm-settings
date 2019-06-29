@@ -228,10 +228,11 @@
         <mark key="]" line="29" column="67" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/utils.py" timestamp="1561779959230">
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/utils.py" timestamp="1561782824909">
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="30" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="33" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
         <mark key="[" line="0" column="0" />
@@ -318,11 +319,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/db.py" timestamp="1561781467176">
-        <mark key="[" line="146" column="21" />
-        <mark key="]" line="146" column="21" />
-        <mark key="^" line="146" column="21" />
-        <mark key="." line="146" column="21" />
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/db.py" timestamp="1561782633240">
+        <mark key="[" line="115" column="17" />
+        <mark key="]" line="115" column="22" />
+        <mark key="^" line="115" column="22" />
+        <mark key="." line="115" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/responder-course/demo/movie_service/app.py" timestamp="1561249103595">
         <mark key="]" line="18" column="9" />
@@ -876,11 +877,11 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/core/endpoints.py" timestamp="1561780917572">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="31" />
-        <mark key="^" line="18" column="31" />
-        <mark key="." line="18" column="31" />
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/core/endpoints.py" timestamp="1561782702574">
+        <mark key="[" line="28" column="73" />
+        <mark key="]" line="28" column="77" />
+        <mark key="^" line="28" column="77" />
+        <mark key="." line="28" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" timestamp="1561000060456">
         <mark key="'" line="10" column="26" />
@@ -958,7 +959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="30" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" />
       <jump line="106" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" />
       <jump line="2" column="45" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" />
       <jump line="34" column="31" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" />
@@ -1058,10 +1058,11 @@
       <jump line="29" column="25" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" />
       <jump line="8" column="0" filename="$USER_HOME$/repositories/tutorials/responder-course/demo/movie_service/app.py" />
       <jump line="0" column="27" filename="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/auth.py" />
+      <jump line="23" column="8" filename="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/core/endpoints.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFwcC51dGlscwo=</text>
+      <register name="&quot;" type="4">
+        <text>object</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1087,13 +1088,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
-        <text>\&quot;get</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgaXNfcGFyZW50IDo9IDxib29sPiRpc19wYXJlbnQsIgogICAgICAgICAgICAgICAgIiAgICBzdHVkZW50X25hbWUgOj0gPHN0cj4kc3R1ZGVudF9uYW1lLCIK</text>
+        <text encoding="base64">ICAgICAgICBzdGFydF90aW1lID0gcGFyc2UocmVzcG9uc2UuanNvblsnc3RhcnRfdGltZSddKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1108,19 +1109,29 @@
         </keys>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGVkZ2UgYXMgZWRnZQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>{
+            }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJzdGFydF90aW1lIjogbmV3X2xlc3MK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGFwcC51dGlscwo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGFwcC51dGlscwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>{
                 &quot;email&quot;: updated_user.email,
                 &quot;name&quot;: getattr(updated_user, &quot;name&quot;, &quot;&quot;),
                 &quot;instrument&quot;: getattr(updated_user, &quot;instrument&quot;, &quot;&quot;),
             },</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>{
                 &quot;email&quot;: new_user.email,
                 &quot;name&quot;: new_user.name,
@@ -1129,7 +1140,7 @@
                 &quot;is_parent&quot;: new_user.is_parent,
             }</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>{
         &quot;email&quot;: user.email,
         &quot;name&quot;: getattr(user, &quot;name&quot;, &quot;&quot;),
@@ -1139,38 +1150,24 @@
         &quot;student_name&quot;: getattr(user, &quot;student_name&quot;, &quot;&quot;),
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICIiCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>(
-        &quot;new_email&quot; not in request.json
-        and &quot;name&quot; not in request.json
-        and &quot;instrument&quot; not in request.json
-    )</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">YWJzdHJhY3QgbGluayBzdHVkZW50cyB7CiAgICBhbm5vdGF0aW9uIHRpdGxlIDo9ICdTdHVkZW50cyc7Cn0K</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/\&quot;get/&quot;app.get/g</text>
+        <text>s/start/end/g</text>
       </register>
     </registers>
     <search>
-      <last-search>\&quot;get</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>\&quot;get</last-pattern>
-      <last-replace>&quot;app.get</last-replace>
-      <last-substitute>\&quot;get</last-substitute>
+      <last-pattern>start</last-pattern>
+      <last-replace>end</last-replace>
+      <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>active</entry>
         <entry>mark</entry>
         <entry>instrument_mock</entry>
         <entry>Number</entry>
@@ -1190,10 +1187,9 @@
         <entry>\&quot;delete</entry>
         <entry>\&quot;filter</entry>
         <entry>\&quot;get</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvOi8=</entry>
-        <entry encoding="base64">JzwsJz5zLykvLw==</entry>
         <entry encoding="base64">JzwsJz5zL2FjdGl2ZS9jb21wbGV0ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL21hcmsvdW5tYXJrL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2luc3RydW1lbnRfbW9jay9jcmVhdGVkX2l0ZW0vZw==</entry>
@@ -1212,6 +1208,8 @@
         <entry>%s/\&quot;delete/&quot;app.delete/g</entry>
         <entry>%s/\&quot;filter/&quot;app.filter/g</entry>
         <entry>%s/\&quot;get/&quot;app.get/g</entry>
+        <entry>/start/end/g</entry>
+        <entry>s/start/end/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
