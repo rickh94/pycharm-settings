@@ -66,13 +66,6 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" timestamp="1561000732651">
-        <mark key="'" line="29" column="25" />
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="50" column="43" />
-        <mark key="." line="50" column="43" />
-        <mark key="^" line="50" column="43" />
-      </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/api.py" timestamp="1547707402958">
         <mark key="[" line="8" column="40" />
         <mark key="]" line="8" column="40" />
@@ -132,13 +125,6 @@
         <mark key="]" line="11" column="34" />
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1561000149955">
-        <mark key="'" line="33" column="30" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-todo-event.json" timestamp="1559109326319">
         <mark key="[" line="1" column="12" />
@@ -256,13 +242,6 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1561352569196">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="74" column="82" />
-        <mark key="]" line="74" column="82" />
-        <mark key="." line="74" column="82" />
-        <mark key="^" line="74" column="82" />
-      </file>
       <file name="$USER_HOME$/repositories/dtl/download_images/download_people.py" timestamp="1549070678222">
         <mark key="[" line="24" column="34" />
         <mark key="]" line="24" column="40" />
@@ -317,11 +296,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/db.py" timestamp="1561789759598">
-        <mark key="[" line="183" column="58" />
-        <mark key="]" line="183" column="60" />
-        <mark key="^" line="183" column="60" />
-        <mark key="." line="183" column="60" />
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/db.py" timestamp="1561829581901">
+        <mark key="[" line="48" column="23" />
+        <mark key="]" line="49" column="27" />
+        <mark key="^" line="49" column="27" />
+        <mark key="." line="49" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1560999036734">
         <mark key="[" line="45" column="5" />
@@ -341,13 +320,6 @@
         <mark key="^" line="18" column="57" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/sign_out.py" timestamp="1560926396425">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="37" column="60" />
-        <mark key="." line="2" column="19" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/search.py" timestamp="1561352495273">
         <mark key="[" line="57" column="68" />
         <mark key="]" line="61" column="29" />
@@ -365,6 +337,12 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/.env" timestamp="1561831122527">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/responses.py" timestamp="1555900407181">
         <mark key="[" line="8" column="26" />
@@ -437,13 +415,6 @@
         <mark key="." line="47" column="47" />
         <mark key="^" line="47" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/migrate.py" timestamp="1560999507800">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="4" column="8" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-event.json" timestamp="1558198770235">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="29" />
@@ -455,13 +426,6 @@
         <mark key="]" line="146" column="27" />
         <mark key="." line="146" column="27" />
         <mark key="^" line="146" column="27" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_update.py" timestamp="1560999980282">
-        <mark key="'" line="7" column="19" />
-        <mark key="[" line="186" column="25" />
-        <mark key="]" line="186" column="28" />
-        <mark key="." line="186" column="28" />
-        <mark key="^" line="186" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/urls.py" timestamp="1548636792251">
         <mark key="[" line="7" column="77" />
@@ -546,13 +510,6 @@
         <mark key="." line="51" column="23" />
         <mark key="^" line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" timestamp="1561000293101">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1555786492840">
         <mark key="[" line="7" column="47" />
         <mark key="]" line="7" column="47" />
@@ -582,13 +539,6 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" timestamp="1561000103588">
-        <mark key="'" line="5" column="29" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/header_commands.py" timestamp="1555786737719">
         <mark key="[" line="126" column="16" />
@@ -679,13 +629,6 @@
         <mark key="]" line="8" column="29" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/resources/dynamodb-table.yml" timestamp="1560878940161">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="50" />
-        <mark key="." line="25" column="50" />
-        <mark key="^" line="25" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/cli.py" timestamp="1561772141655">
         <mark key="[" line="5" column="0" />
@@ -813,25 +756,11 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/update.py" timestamp="1560923372839">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="28" column="46" />
-      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/list_notes.py" timestamp="1559169674555">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="6" column="127" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_delete.py" timestamp="1561000257566">
-        <mark key="'" line="3" column="8" />
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
         <mark key="[" line="4" column="0" />
@@ -875,18 +804,11 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/core/endpoints.py" timestamp="1561790165432">
-        <mark key="[" line="35" column="72" />
-        <mark key="]" line="36" column="7" />
-        <mark key="." line="36" column="7" />
-        <mark key="^" line="36" column="7" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" timestamp="1561000060456">
-        <mark key="'" line="10" column="26" />
-        <mark key="[" line="516" column="25" />
-        <mark key="]" line="516" column="28" />
-        <mark key="." line="516" column="28" />
-        <mark key="^" line="516" column="28" />
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/core/endpoints.py" timestamp="1561830546438">
+        <mark key="[" line="95" column="26" />
+        <mark key="]" line="95" column="26" />
+        <mark key="." line="95" column="26" />
+        <mark key="^" line="95" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-todo-event.json" timestamp="1559169387670">
         <mark key="[" line="2" column="10" />
@@ -948,6 +870,12 @@
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/__init__.py" timestamp="1561831151530">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="59" />
+        <mark key="^" line="10" column="59" />
+        <mark key="." line="10" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-full-event.json" timestamp="1560961518958">
         <mark key="[" line="2" column="0" />
@@ -1059,8 +987,8 @@
       <jump line="23" column="8" filename="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/core/endpoints.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>from_envvar('SERVER_NAME')</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1086,7 +1014,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>from_envvar('SERVER_NAME')</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
