@@ -210,13 +210,6 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_create.py" timestamp="1561352364223">
-        <mark key="'" line="15" column="28" />
-        <mark key="[" line="70" column="25" />
-        <mark key="]" line="70" column="31" />
-        <mark key="^" line="70" column="31" />
-        <mark key="." line="70" column="31" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/create.py" timestamp="1561056585436">
         <mark key="[" line="34" column="33" />
         <mark key="]" line="34" column="42" />
@@ -228,11 +221,10 @@
         <mark key="]" line="29" column="67" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/utils.py" timestamp="1561783679116">
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="50" />
-        <mark key="^" line="33" column="50" />
-        <mark key="." line="33" column="50" />
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/utils.py" timestamp="1561789793634">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
         <mark key="[" line="0" column="0" />
@@ -295,6 +287,12 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/exceptions.py" timestamp="1561788877157">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/serializers.py" timestamp="1548636153256">
         <mark key="[" line="5" column="54" />
         <mark key="]" line="6" column="82" />
@@ -319,11 +317,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/db.py" timestamp="1561788242682">
-        <mark key="[" line="117" column="22" />
-        <mark key="]" line="117" column="78" />
-        <mark key="^" line="117" column="78" />
-        <mark key="." line="117" column="78" />
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/db.py" timestamp="1561789759598">
+        <mark key="[" line="183" column="58" />
+        <mark key="]" line="183" column="60" />
+        <mark key="^" line="183" column="60" />
+        <mark key="." line="183" column="60" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1560999036734">
         <mark key="[" line="45" column="5" />
@@ -877,10 +875,11 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/core/endpoints.py" timestamp="1561784110627">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/core/endpoints.py" timestamp="1561790165432">
+        <mark key="[" line="35" column="72" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" timestamp="1561000060456">
         <mark key="'" line="10" column="26" />
@@ -1060,8 +1059,8 @@
       <jump line="23" column="8" filename="$USER_HOME$/repositories/scratch/lesson_scheduler/src/app/core/endpoints.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>start_time</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1087,7 +1086,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start_time</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
@@ -1108,31 +1107,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkFORCAuZW5kX3RpbWUgPCA8ZGF0ZXRpbWU+JG5ld18iCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGluZGV4IGVtYWlsX2lkeCBvbiAoX19zdWJqZWN0X18udXNlci5lbWFpbCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGluZGV4IGVtYWlsX2lkeCBvbiAoLnVzZXIuZW1haWwpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGluZGV4IHVzZXJfZW1haWxfaWR4IG9uIChfX3N1YmplY3RfXy51c2VyLmVtYWlsKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGFwcGx5X3NjaGVtYSgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNzdgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZS5qc29uKAogICAgICAgIHsKICAgICAgICAgICAgInN0YXR1cyI6ICJzdWNjZXNzIiwKICAgICAgICAgICAgInRha2VuIjogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJzdGFydF90aW1lIjogbGVzc29uLnN0YXJ0X3RpbWUuaXNvZm9ybWF0KCksCiAgICAgICAgICAgICAgICAgICAgImVuZF90aW1lIjogbGVzc29uLmVuZF90aW1lLmlzb2Zvcm1hdCgpLAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZm9yIGxlc3NvbiBpbiB0YWtlbgogICAgICAgICAgICBdLAogICAgICAgIH0KICAgICkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRha2VuID0gW10K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGxlc3Nvbl90b19kaWN0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBleGMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIkFORCAuZW5kX3RpbWUgPCA8ZGF0ZXRpbWU+JG5ld18iCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXNzb25zID0gW10K</text>
+        <text encoding="base64">ICAgIGluZGV4IGVtYWlsX2lkeCBvbiAoX19zdWJqZWN0X18udXNlci5lbWFpbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/start/end/g</text>
