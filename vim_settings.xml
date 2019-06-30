@@ -138,12 +138,12 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1561908227848">
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1561914771054">
         <mark key="'" line="97" column="36" />
-        <mark key="[" line="90" column="83" />
-        <mark key="]" line="90" column="83" />
-        <mark key="^" line="90" column="83" />
-        <mark key="." line="90" column="83" />
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="17" column="58" />
+        <mark key="." line="17" column="58" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/helpers.py" timestamp="1555740517808">
         <mark key="[" line="12" column="30" />
@@ -732,11 +732,12 @@
         <mark key="." line="134" column="26" />
         <mark key="^" line="134" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1561913154560">
-        <mark key="'" line="36" column="30" />
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1561914516407">
+        <mark key="'" line="33" column="30" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="115" column="41" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_common.py" timestamp="1560999750586">
         <mark key="[" line="1" column="0" />
@@ -1125,10 +1126,11 @@
         <mark key="." line="1" column="85" />
         <mark key="^" line="1" column="85" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/retrieve.py" timestamp="1561913168873">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/retrieve.py" timestamp="1561914341208">
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="32" />
+        <mark key="." line="72" column="32" />
+        <mark key="^" line="72" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/pyproject.toml" timestamp="1555883518660">
         <mark key="[" line="4" column="0" />
@@ -1283,7 +1285,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGluc3RydQo=</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jay5udW1iZXIuX19lcV9fLmFzc2VydF9jYWxsZWRfd2l0aCgpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1309,7 +1311,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>['history']</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
@@ -1330,31 +1332,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluc3RydQo=</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jay5udW1iZXIuX19lcV9fLmFzc2VydF9jYWxsZWRfd2l0aCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluc3RydW1lbnRfaXRlbS51cGRhdGUuYXNzZXJ0X2NhbGxlZCgpCg==</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jay5sb2NhdGlvbi5zZXQuYXNzZXJ0X2NhbGxlZF93aXRoKCJTdG9yYWdlIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLgo=</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jay5hc3NpZ25lZFRvLnNldC5hc3NlcnRfY2FsbGVkX3dpdGgoTm9uZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByZWNvcmQuYXNzaWduZWRUbzoKICAgICAgICAgICAgaW5zdHJ1bWVudF9tb2NrLmhpc3RvcnkuYWRkLmFzc2VydF9hbnlfY2FsbCh7cmVjb3JkLmFzc2lnbmVkVG99KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTdHVkZW50SGlzdG9yeVRhYmxlOgogICAgVHlwZTogQVdTOjpEeW5hbW9EQjo6VGFibGUKICAgIFByb3BlcnRpZXM6CiAgICAgIFRhYmxlTmFtZTogJHtzZWxmOmN1c3RvbS50YWJsZU5hbWVzLnN0dWRlbnRIaXN0b3J5fQogICAgICBBdHRyaWJ1dGVEZWZpbml0aW9uczoKICAgICAgICAtIEF0dHJpYnV0ZU5hbWU6IGlkCiAgICAgICAgICBBdHRyaWJ1dGVUeXBlOiBTCiAgICAgIEtleVNjaGVtYToKICAgICAgICAtIEF0dHJpYnV0ZU5hbWU6IGlkCiAgICAgICAgICBLZXlUeXBlOiBIQVNICiAgICAgIFByb3Zpc2lvbmVkVGhyb3VnaHB1dDoKICAgICAgICBSZWFkQ2FwYWNpdHlVbml0czogJHtzZWxmOmN1c3RvbS50YWJsZVRocm91Z2hwdXR9CiAgICAgICAgV3JpdGVDYXBhY2l0eVVuaXRzOiAke3NlbGY6Y3VzdG9tLnRhYmxlVGhyb3VnaHB1dH0KICAgICAgVGFnczoKICAgICAgICAtCiAgICAgICAgICBLZXk6ICdDb3N0Q2VudGVyJwogICAgICAgICAgVmFsdWU6ICdJbnN0cnVtZW50IEludmVudG9yeScK</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmQudXBkYXRlLmFzc2VydF9jYWxsZWQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0dWRlbnRIaXN0b3J5OiAke3NlbGY6Y3VzdG9tLnN0YWdlfS1pbnN0cnVtZW50LWludmVudG9yeS1zdHVkZW50LWhpc3RvcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucyA9IGdlbmVyYXRlX2FjdGlvbnMoaW5zKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNUVURFTlRfSElTVE9SWV9UQUJMRV9OQU1FOiAke3NlbGY6Y3VzdG9tLnRhYmxlTmFtZXMuc3R1ZGVudEhpc3Rvcnl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zLnVwZGF0ZShhY3Rpb25zPWFjdGlvbnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgpjbGFzcyBTdHVkZW50SGlzdG9yeU1vZGVsKE1vZGVsKToKICAgICIiIkEgU3R1ZGVudCdzIGhpc3RvcnkiIiIKCiAgICBjbGFzcyBNZXRhOgogICAgICAgIHRhYmxlX25hbWUgPSBTVFVERU5UX0hJU1RPUllfVEFCTEVfTkFNRQogICAgICAgIAogICAgaWQgPSBVbmljb2RlQXR0cmlidXRlKGhhc2hfa2V5PVRydWUpCiAgICBuYW1lID0gVW5pY29kZUF0dHJpYnV0ZSgpCiAgICBpbnN0cnVtZW50cyA9IFVuaWNvZGVTZXRBdHRyaWJ1dGUobnVsbD1UcnVlKQogICAgaW5zdHJ1bWVudHNCcm9rZW4gPSBVbmljb2RlU2V0QXR0cmlidXRlKG51bGw9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jay5hc3NpZ25lZFRvLnNldC5hc3NlcnRfY2FsbGVkX3dpdGgoTm9uZSkKICAgIGluc3RydW1lbnRfbW9jay5sb2NhdGlvbi5zZXQuYXNzZXJ0X2NhbGxlZF93aXRoKCJTdG9yYWdlIikKICAgIGluc3RydW1lbnRfbW9jay5oaXN0b3J5LmFkZC5hc3NlcnRfbm90X2NhbGxlZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIEtleVR5cGU6IEhBU0gK</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfaXRlbS51cGRhdGUuYXNzZXJ0X2NhbGxlZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\&quot;get/&quot;app.get/g</text>
