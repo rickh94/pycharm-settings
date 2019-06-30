@@ -450,6 +450,7 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/lib/models.py" timestamp="1561910013292" />
       <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/config.py" timestamp="1548990696307">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
@@ -582,11 +583,10 @@
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1561908770200">
-        <mark key="[" line="30" column="49" />
-        <mark key="]" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="32" column="64" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1561910021643">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/resources/cognito-identity-pool.yml" timestamp="1560879327724">
         <mark key="[" line="87" column="34" />
@@ -1011,12 +1011,10 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="115" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/resources/dynamodb-table.yml" timestamp="1561908883845">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="45" column="25" />
-        <mark key="." line="45" column="25" />
-        <mark key="^" line="45" column="25" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/resources/dynamodb-table.yml" timestamp="1561910025290">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/get-event.json" timestamp="1558503236718">
         <mark key="[" line="2" column="11" />
@@ -1179,8 +1177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" />
-      <jump line="2" column="45" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" />
       <jump line="34" column="31" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" />
       <jump line="48" column="31" filename="$USER_HOME$/repositories/instrument-inventory/search.py" />
       <jump line="32" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" />
@@ -1279,10 +1275,12 @@
       <jump line="8" column="0" filename="$USER_HOME$/repositories/tutorials/responder-course/demo/movie_service/app.py" />
       <jump line="77" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" />
       <jump line="95" column="36" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" />
+      <jump line="58" column="46" filename="$USER_HOME$/repositories/instrument-inventory/lib/models.py" />
+      <jump line="40" column="13" filename="$USER_HOME$/repositories/instrument-inventory/resources/dynamodb-table.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIEtleVR5cGU6IEhBU0gK</text>
+        <text encoding="base64">ICBTdHVkZW50SGlzdG9yeVRhYmxlOgogICAgVHlwZTogQVdTOjpEeW5hbW9EQjo6VGFibGUKICAgIFByb3BlcnRpZXM6CiAgICAgIFRhYmxlTmFtZTogJHtzZWxmOmN1c3RvbS50YWJsZU5hbWVzLnN0dWRlbnRIaXN0b3J5fQogICAgICBBdHRyaWJ1dGVEZWZpbml0aW9uczoKICAgICAgICAtIEF0dHJpYnV0ZU5hbWU6IGlkCiAgICAgICAgICBBdHRyaWJ1dGVUeXBlOiBTCiAgICAgIEtleVNjaGVtYToKICAgICAgICAtIEF0dHJpYnV0ZU5hbWU6IGlkCiAgICAgICAgICBLZXlUeXBlOiBIQVNICiAgICAgIFByb3Zpc2lvbmVkVGhyb3VnaHB1dDoKICAgICAgICBSZWFkQ2FwYWNpdHlVbml0czogJHtzZWxmOmN1c3RvbS50YWJsZVRocm91Z2hwdXR9CiAgICAgICAgV3JpdGVDYXBhY2l0eVVuaXRzOiAke3NlbGY6Y3VzdG9tLnRhYmxlVGhyb3VnaHB1dH0KICAgICAgVGFnczoKICAgICAgICAtCiAgICAgICAgICBLZXk6ICdDb3N0Q2VudGVyJwogICAgICAgICAgVmFsdWU6ICdJbnN0cnVtZW50IEludmVudG9yeScK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1308,7 +1306,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>instrumentsTableName}</text>
+        <text>environ.get</text>
       </register>
       <register name="/" type="4">
         <text>\&quot;get</text>
@@ -1329,31 +1327,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIEtleVR5cGU6IEhBU0gK</text>
+        <text encoding="base64">ICBTdHVkZW50SGlzdG9yeVRhYmxlOgogICAgVHlwZTogQVdTOjpEeW5hbW9EQjo6VGFibGUKICAgIFByb3BlcnRpZXM6CiAgICAgIFRhYmxlTmFtZTogJHtzZWxmOmN1c3RvbS50YWJsZU5hbWVzLnN0dWRlbnRIaXN0b3J5fQogICAgICBBdHRyaWJ1dGVEZWZpbml0aW9uczoKICAgICAgICAtIEF0dHJpYnV0ZU5hbWU6IGlkCiAgICAgICAgICBBdHRyaWJ1dGVUeXBlOiBTCiAgICAgIEtleVNjaGVtYToKICAgICAgICAtIEF0dHJpYnV0ZU5hbWU6IGlkCiAgICAgICAgICBLZXlUeXBlOiBIQVNICiAgICAgIFByb3Zpc2lvbmVkVGhyb3VnaHB1dDoKICAgICAgICBSZWFkQ2FwYWNpdHlVbml0czogJHtzZWxmOmN1c3RvbS50YWJsZVRocm91Z2hwdXR9CiAgICAgICAgV3JpdGVDYXBhY2l0eVVuaXRzOiAke3NlbGY6Y3VzdG9tLnRhYmxlVGhyb3VnaHB1dH0KICAgICAgVGFnczoKICAgICAgICAtCiAgICAgICAgICBLZXk6ICdDb3N0Q2VudGVyJwogICAgICAgICAgVmFsdWU6ICdJbnN0cnVtZW50IEludmVudG9yeScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbnN0cnVtZW50c1RhYmxlTmFtZTogCg==</text>
+        <text encoding="base64">ICAgIHN0dWRlbnRIaXN0b3J5OiAke3NlbGY6Y3VzdG9tLnN0YWdlfS1pbnN0cnVtZW50LWludmVudG9yeS1zdHVkZW50LWhpc3RvcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0b2Rvc1RhYmxlTmFtZTogCg==</text>
+        <text encoding="base64">ICAgIFNUVURFTlRfSElTVE9SWV9UQUJMRV9OQU1FOiAke3NlbGY6Y3VzdG9tLnRhYmxlTmFtZXMuc3R1ZGVudEhpc3Rvcnl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CgpjbGFzcyBTdHVkZW50SGlzdG9yeU1vZGVsKE1vZGVsKToKICAgICIiIkEgU3R1ZGVudCdzIGhpc3RvcnkiIiIKCiAgICBjbGFzcyBNZXRhOgogICAgICAgIHRhYmxlX25hbWUgPSBTVFVERU5UX0hJU1RPUllfVEFCTEVfTkFNRQogICAgICAgIAogICAgaWQgPSBVbmljb2RlQXR0cmlidXRlKGhhc2hfa2V5PVRydWUpCiAgICBuYW1lID0gVW5pY29kZUF0dHJpYnV0ZSgpCiAgICBpbnN0cnVtZW50cyA9IFVuaWNvZGVTZXRBdHRyaWJ1dGUobnVsbD1UcnVlKQogICAgaW5zdHJ1bWVudHNCcm9rZW4gPSBVbmljb2RlU2V0QXR0cmlidXRlKG51bGw9VHJ1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFkX3JlcXVlc3QoIlBsZWFzZSBwcm92aWRlIGEgc2VhcmNoIHRlcm0uIikK</text>
+        <text encoding="base64">ICAgICAgICAgIEtleVR5cGU6IEhBU0gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpbnN0cnVtZW50c1RhYmxlTmFtZTogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCB0ZXJtOgo=</text>
+        <text encoding="base64">ICB0b2Rvc1RhYmxlTmFtZTogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVycl9yZXNwb25zZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFkX3JlcXVlc3QoIlBsZWFzZSBwcm92aWRlIGEgc2VhcmNoIHRlcm0uIikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\&quot;get/&quot;app.get/g</text>
