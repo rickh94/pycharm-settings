@@ -212,6 +212,12 @@
         <mark key="^" line="18" column="57" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-assigned-history-event.json" timestamp="1561927934403">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/sign_out.py" timestamp="1560926396425">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="2" column="19" />
@@ -588,10 +594,11 @@
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1561922615755">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1561927825006">
+        <mark key="[" line="193" column="29" />
+        <mark key="]" line="204" column="28" />
+        <mark key="." line="204" column="28" />
+        <mark key="^" line="204" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/resources/cognito-identity-pool.yml" timestamp="1560879327724">
         <mark key="[" line="87" column="34" />
@@ -1292,7 +1299,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b6de101f-f49f-4bad-9ba8-a2e8bb13c192</text>
+        <text encoding="base64">IE5hbWU=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1318,7 +1325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b6de101f-f49f-4bad-9ba8-a2e8bb13c192</text>
+        <text encoding="base64">IE5hbWU=</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
