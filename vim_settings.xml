@@ -582,10 +582,10 @@
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1561910021643">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1561922615755">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/resources/cognito-identity-pool.yml" timestamp="1560879327724">
         <mark key="[" line="87" column="34" />
@@ -1021,10 +1021,11 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="115" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/resources/dynamodb-table.yml" timestamp="1561910025290">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/resources/dynamodb-table.yml" timestamp="1561922849723">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+        <mark key="^" line="25" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/get-event.json" timestamp="1558503236718">
         <mark key="[" line="2" column="11" />
@@ -1289,8 +1290,8 @@
       <jump line="40" column="13" filename="$USER_HOME$/repositories/instrument-inventory/resources/dynamodb-table.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>studentHistory</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1316,7 +1317,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>json.dumps(history)</text>
+        <text>studentHistory</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
@@ -1337,31 +1338,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAtICJGbjo6R2V0QXR0IjogW1N0dWRlbnRIaXN0b3J5VGFibGUsIEFybl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXRlbVsnZmllbGRzJ11bJ1Bob3RvJ11bMF1bJ3VybCddKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmlkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXRlbVsnZmllbGRzJ11bJ1Bob3RvJ11bMF1bJ3VybCddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwaG90b19rZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmlkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnMudXBkYXRlKGFjdGlvbnM9W0luc3RydW1lbnRNb2RlbC5waG90by5zZXQobmV3X3Bob3RvKV0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwaG90b19rZXkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfcGhvdG8gPSAK</text>
+        <text encoding="base64">ICAgICAgICBpbnMudXBkYXRlKGFjdGlvbnM9W0luc3RydW1lbnRNb2RlbC5waG90by5zZXQobmV3X3Bob3RvKV0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluc3RydW1lbnRfaXRlbS51cGRhdGUuYXNzZXJ0X2NhbGxlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfcGhvdG8gPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jay5waG90by5zZXQuYXNzZXJ0X2NhbGxlZF93aXRoKCJmYWtlX3Bob3RvLmpwZyIpCg==</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfaXRlbS51cGRhdGUuYXNzZXJ0X2NhbGxlZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnRfbW9jay5waG90by5zZXQuYXNzZXJ0X2NhbGxlZF93aXRoKCJmYWtlX3Bob3RvLmpwZyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\&quot;get/&quot;app.get/g</text>
