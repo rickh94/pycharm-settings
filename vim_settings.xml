@@ -70,6 +70,12 @@
         <mark key="." line="80" column="38" />
         <mark key="^" line="80" column="38" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-photo-event.json" timestamp="1561924407518">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-todo-event.json" timestamp="1559109326319">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="54" />
@@ -617,11 +623,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-full-event.json" timestamp="1560961518958">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="47" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="70" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-full-event.json" timestamp="1561924391606">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/random_composer/random_composer.py" timestamp="1548478579761">
         <mark key="[" line="20" column="61" />
@@ -829,11 +835,6 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/responder-course/demo/movie_service/app.py" timestamp="1561249103595">
-        <mark key="]" line="18" column="9" />
-        <mark key="^" line="18" column="9" />
-        <mark key="." line="18" column="9" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/lib/common.py" timestamp="1561917842992">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -887,8 +888,8 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/delete-event.json" timestamp="1560999332604">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/delete-event.json" timestamp="1561924016905">
+        <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="46" />
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
@@ -1082,9 +1083,9 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-event.json" timestamp="1560910138596">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="47" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-event.json" timestamp="1561924041741">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
@@ -1291,7 +1292,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>studentHistory</text>
+        <text>b6de101f-f49f-4bad-9ba8-a2e8bb13c192</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1317,7 +1318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>studentHistory</text>
+        <text>b6de101f-f49f-4bad-9ba8-a2e8bb13c192</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
