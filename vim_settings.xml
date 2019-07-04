@@ -36,24 +36,11 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" timestamp="1562107557175">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="157" column="16" />
-        <mark key="]" line="157" column="20" />
-        <mark key="^" line="157" column="20" />
-        <mark key="." line="157" column="20" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-assigned-history-event.json" timestamp="1561927934403">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="17" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/search.py" timestamp="1562191251880">
-        <mark key="[" line="61" column="11" />
-        <mark key="]" line="61" column="11" />
-        <mark key="." line="61" column="11" />
-        <mark key="^" line="60" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/get.py" timestamp="1562191184469">
         <mark key="[" line="18" column="9" />
@@ -99,22 +86,18 @@
         <mark key="^" line="447" column="48" />
         <mark key="." line="45" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1562191724358">
-        <mark key="[" line="34" column="55" />
-        <mark key="]" line="34" column="75" />
-        <mark key="." line="34" column="75" />
-        <mark key="^" line="34" column="75" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1562211572487">
+        <mark key="'" line="149" column="39" />
+        <mark key="[" line="224" column="12" />
+        <mark key="]" line="243" column="28" />
+        <mark key="." line="243" column="28" />
+        <mark key="^" line="243" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-full-event.json" timestamp="1561924391606">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/update.py" timestamp="1562122144632">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" timestamp="1562191237436">
         <mark key="'" line="104" column="19" />
@@ -167,6 +150,13 @@
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="55" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_filter.py" timestamp="1562211491924">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="112" column="16" />
+        <mark key="]" line="112" column="25" />
+        <mark key="^" line="112" column="25" />
+        <mark key="." line="112" column="25" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/todos.py" timestamp="1562169992731">
         <mark key="'" line="76" column="28" />
         <mark key="[" line="1" column="0" />
@@ -186,15 +176,14 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/retrieve.py" timestamp="1562122333681">
-        <mark key="^" line="39" column="16" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/filter.py" timestamp="1562122315137">
-        <mark key="^" line="8" column="24" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/filter.py" timestamp="1562211819122">
+        <mark key="[" line="46" column="80" />
+        <mark key="]" line="46" column="80" />
+        <mark key="^" line="46" column="80" />
+        <mark key="." line="46" column="80" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
       <jump line="183" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
       <jump line="42" column="49" filename="$USER_HOME$/repositories/instrument-inventory/update.py" />
       <jump line="148" column="19" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_update.py" />
@@ -294,10 +283,11 @@
       <jump line="110" column="27" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="14" column="31" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="14" column="0" filename="$USER_HOME$/repositories/instrument-inventory/app/create.py" />
+      <jump line="149" column="39" filename="$USER_HOME$/repositories/instrument-inventory/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgYXBpX2tleToga2V5QzQ3UDBnaHA5NjhSbVMKIyAgYmFzZV9rZXk6IGFwcHZ4ekZwanNaY1ZBUTF1CiMgIHRhYmxlX25hbWU6IEluc3RydW1lbnRzCg==</text>
+      <register name="&quot;" type="4">
+        <text>outstanding</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -323,10 +313,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'none'</text>
+        <text>outstanding</text>
       </register>
       <register name="/" type="4">
-        <text>uuid</text>
+        <text>gifted</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudFsicGF0aFBhcmFtZXRlcnMiXVsiaWQiXSwK</text>
@@ -375,9 +365,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uuid</last-search>
+      <last-search>gifted</last-search>
       <last-offset />
-      <last-pattern>uuid</last-pattern>
+      <last-pattern>gifted</last-pattern>
       <last-replace>&quot;app.get</last-replace>
       <last-substitute>\&quot;get</last-substitute>
       <last-dir>1</last-dir>
@@ -385,8 +375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sample_</entry>
-        <entry>tags_ingre</entry>
         <entry>test_user</entry>
         <entry>test_recipes_limited_to_user</entry>
         <entry>user</entry>
@@ -405,6 +393,8 @@
         <entry>test_create_todo_partial</entry>
         <entry>update</entry>
         <entry>uuid</entry>
+        <entry>signed</entry>
+        <entry>gifted</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
