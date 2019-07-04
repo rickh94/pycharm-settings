@@ -157,6 +157,12 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/Dockerfile" timestamp="1562270574984">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/update-event.json" timestamp="1558503250574">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="43" />
@@ -181,6 +187,11 @@
         <mark key="]" line="46" column="64" />
         <mark key="." line="46" column="64" />
         <mark key="^" line="46" column="64" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/app/core/endpoints.py" timestamp="1562269854983">
+        <mark key="]" line="2" column="42" />
+        <mark key="^" line="2" column="42" />
+        <mark key="." line="2" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/django_elastic_drf_example/settings.py" timestamp="1548636851080">
         <mark key="[" line="27" column="26" />
@@ -333,6 +344,12 @@
         <mark key="]" line="18" column="9" />
         <mark key="." line="18" column="9" />
         <mark key="^" line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/docker-compose.yml" timestamp="1562270582494">
+        <mark key="[" line="42" column="31" />
+        <mark key="]" line="42" column="31" />
+        <mark key="." line="42" column="31" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_get.py" timestamp="1555964175590">
         <mark key="[" line="12" column="4" />
@@ -540,6 +557,12 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/config/nginx/app.conf" timestamp="1562270512998">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/urls.py" timestamp="1546833236978">
         <mark key="[" line="7" column="55" />
         <mark key="]" line="8" column="45" />
@@ -563,6 +586,12 @@
         <mark key="]" line="516" column="81" />
         <mark key="^" line="500" column="80" />
         <mark key="." line="516" column="81" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/.env" timestamp="1562270297277">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/views.py" timestamp="1544412704427">
         <mark key="[" line="3" column="11" />
@@ -712,6 +741,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/auth.py" timestamp="1562272559920">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="23" column="16" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" timestamp="1562259465209">
         <mark key="'" line="100" column="19" />
         <mark key="[" line="92" column="0" />
@@ -731,6 +766,12 @@
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="57" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/models.py" timestamp="1562273662955">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/get.py" timestamp="1559276523608">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -742,6 +783,9 @@
         <mark key="]" line="19" column="39" />
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/app.py" timestamp="1562273630631">
+        <mark key="^" line="2" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/views.py" timestamp="1549011138564">
         <mark key="[" line="98" column="44" />
@@ -785,6 +829,12 @@
         <mark key="]" line="27" column="16" />
         <mark key="^" line="27" column="16" />
         <mark key="." line="27" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/config/Dockerfile" timestamp="1562270094185">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-history-event.json" timestamp="1561933934377">
         <mark key="[" line="1" column="14" />
@@ -887,6 +937,11 @@
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/users/endpoints.py" timestamp="1562273445512">
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/sign-out-event.json" timestamp="1559750415939">
         <mark key="[" line="1" column="79" />
@@ -1026,6 +1081,11 @@
         <mark key="]" line="7" column="1" />
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="55" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/security.py" timestamp="1562272855720">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/resources/s3-bucket.yml" timestamp="1560879808390">
         <mark key="[" line="30" column="53" />
@@ -1302,7 +1362,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>args</text>
+        <text>umongo</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1328,7 +1388,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text>umongo</text>
       </register>
       <register name="/" type="4">
         <text>explode</text>
@@ -1349,31 +1409,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgZGJfbW9jaygpOgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbgoK</text>
+        <text encoding="base64">aW5zdGFuY2UgPSBhcGkubW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXNlci5lbnN1cmVfaW5kZXhlcygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoYXBpLmNvbmZpZ1snTU9OR09EQl9VUkknXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBleHBsb2RlKCpfKToKICAgICAgICByYWlzZSBJbnN0cnVtZW50TW9kZWwuRG9lc05vdEV4aXN0Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IFVzZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXNlci5lbnN1cmVfaW5kZXhlcygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBleHBsb2RlKCpfKToKICAgICAgICByYWlzZSBFeGNlcHRpb24KCg==</text>
+        <text encoding="base64">QGFwaS5sYXp5X3Vtb25nby5yZWdpc3RlcgpjbGFzcyBVc2VyKHVtb25nby5Eb2N1bWVudCk6CiAgICBlbWFpbCA9IHVtb25nby5maWVsZHMuRW1haWxGaWVsZChyZXF1aXJlZD1UcnVlLCBhbGxvd19ub25lPUZhbHNlLCB1bmlxdWU9VHJ1ZSkKICAgIHBhc3N3b3JkID0gdW1vbmdvLmZpZWxkcy5TdHJpbmdGaWVsZChyZXF1aXJlZD1UcnVlLCBhbGxvd19ub25lPUZhbHNlKQoKICAgIGRlZiBzZXRfcGFzc3dvcmQoc2VsZiwgcGFzc3dvcmQpOgogICAgICAgIHNlbGYucGFzc3dvcmQgPSBzZWN1cml0eS5oYXNoX3Bhc3N3b3JkKHBhc3N3b3JkKQoKICAgIGRlZiB2ZXJpZnlfcGFzc3dvcmQoc2VsZiwgcGFzc3dvcmQpOgogICAgICAgIHJldHVybiBzZWxmLnBhc3N3b3JkIGFuZCBzZWN1cml0eS5jaGVja19wYXNzd29yZChwYXNzd29yZCwgc2VsZi5wYXNzd29yZCkKCiAgICBhc3luYyBkZWYgcHJlX2luc2VydChzZWxmKToKICAgICAgICBzZWxmLnNldF9wYXNzd29yZChzZWxmLnBhc3N3b3JkKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBpLm1vbmdvZGIuaW5pdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBleHBsb2RlKCk6CiAgICAgICAgcmFpc2UgRXhjZXB0aW9uCgo=</text>
+        <text encoding="base64">YXBpLm1vbmdvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNhbmljX2p3dC5leGNlcHRpb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\&quot;get/&quot;app.get/g</text>
