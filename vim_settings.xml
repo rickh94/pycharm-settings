@@ -731,12 +731,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/auth.py" timestamp="1562293495454">
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/auth.py" timestamp="1562294569485">
         <mark key="'" line="24" column="43" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="25" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" timestamp="1562259465209">
         <mark key="'" line="100" column="19" />
@@ -775,11 +775,11 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/app.py" timestamp="1562293419574">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/app.py" timestamp="1562294666418">
+        <mark key="[" line="37" column="56" />
+        <mark key="]" line="37" column="66" />
+        <mark key="." line="37" column="66" />
+        <mark key="^" line="37" column="66" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/views.py" timestamp="1549011138564">
         <mark key="[" line="98" column="44" />
@@ -842,12 +842,12 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/db.py" timestamp="1562293383450">
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/db.py" timestamp="1562294510230">
         <mark key="'" line="39" column="16" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="39" column="16" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="34" column="67" />
+        <mark key="]" line="34" column="75" />
+        <mark key="^" line="34" column="75" />
+        <mark key="." line="34" column="75" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
         <mark key="[" line="0" column="0" />
@@ -939,11 +939,11 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/users/endpoints.py" timestamp="1562293478734">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="13" column="36" />
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/users/endpoints.py" timestamp="1562294424554">
+        <mark key="[" line="15" column="88" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/sign-out-event.json" timestamp="1559750415939">
         <mark key="[" line="1" column="79" />
@@ -1364,7 +1364,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwaQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB7azogdiBmb3IgaywgdiBpbiB1c2VyLml0ZW1zKCkgaWYgayAhPSAicGFzc3dvcmQifQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1390,7 +1390,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXBpLmRiLCA=</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>explode</text>
@@ -1411,25 +1411,25 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwaQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB7azogdiBmb3IgaywgdiBpbiB1c2VyLml0ZW1zKCkgaWYgayAhPSAicGFzc3dvcmQifQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHF1b3RlX3BsdXMK</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBtb3RvciBpbXBvcnQgbW90b3JfYXN5bmNpbwo=</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHF1b3RlX3BsdXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJydW5uaW5nIHByZXBhcmUgZnVuY3Rpb24iKQogICAgZGJfdXJpID0gIm1vbmdvZGI6Ly97dXNlcm5hbWV9OntwYXNzd29yZH1Ae2hvc3R9Ontwb3J0fSIuZm9ybWF0KAogICAgICAgIHVzZXJuYW1lPXF1b3RlX3BsdXMob3MuZ2V0ZW52KCJEQl9VU0VSTkFNRSIsICJyb290IikpLAogICAgICAgIHBhc3N3b3JkPXF1b3RlX3BsdXMob3MuZ2V0ZW52KCJEQl9QQVNTV09SRCIsICJyb290IikpLAogICAgICAgIGhvc3Q9cXVvdGVfcGx1cyhvcy5nZXRlbnYoIkRCX0hPU1QiLCAibG9jYWxob3N0IikpLAogICAgICAgIHBvcnQ9cXVvdGVfcGx1cyhvcy5nZXRlbnYoIkRCX1BPUlQiLCAiMjcwMTciKSksCiAgICApCiAgICBjbGllbnQgPSBtb3Rvcl9hc3luY2lvLkFzeW5jSU9Nb3RvckNsaWVudChkYl91cmkpCiAgICBhcHAuZGIgPSBjbGllbnRbb3MuZ2V0ZW52KCJEQl9OQU1FIiwgImFwcCIpXQo=</text>
+        <text encoding="base64">ZnJvbSBtb3RvciBpbXBvcnQgbW90b3JfYXN5bmNpbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwaQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJydW5uaW5nIHByZXBhcmUgZnVuY3Rpb24iKQogICAgZGJfdXJpID0gIm1vbmdvZGI6Ly97dXNlcm5hbWV9OntwYXNzd29yZH1Ae2hvc3R9Ontwb3J0fSIuZm9ybWF0KAogICAgICAgIHVzZXJuYW1lPXF1b3RlX3BsdXMob3MuZ2V0ZW52KCJEQl9VU0VSTkFNRSIsICJyb290IikpLAogICAgICAgIHBhc3N3b3JkPXF1b3RlX3BsdXMob3MuZ2V0ZW52KCJEQl9QQVNTV09SRCIsICJyb290IikpLAogICAgICAgIGhvc3Q9cXVvdGVfcGx1cyhvcy5nZXRlbnYoIkRCX0hPU1QiLCAibG9jYWxob3N0IikpLAogICAgICAgIHBvcnQ9cXVvdGVfcGx1cyhvcy5nZXRlbnYoIkRCX1BPUlQiLCAiMjcwMTciKSksCiAgICApCiAgICBjbGllbnQgPSBtb3Rvcl9hc3luY2lvLkFzeW5jSU9Nb3RvckNsaWVudChkYl91cmkpCiAgICBhcHAuZGIgPSBjbGllbnRbb3MuZ2V0ZW52KCJEQl9OQU1FIiwgImFwcCIpXQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwaQo=</text>
