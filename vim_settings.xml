@@ -156,11 +156,11 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/core/endpoints.py" timestamp="1562380867214">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="17" column="29" />
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/core/endpoints.py" timestamp="1562428696372">
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="34" column="53" />
+        <mark key="^" line="34" column="53" />
+        <mark key="." line="34" column="53" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/update-event.json" timestamp="1558503250574">
         <mark key="[" line="1" column="35" />
@@ -902,6 +902,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="24" column="43" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/tests/test_index.py" timestamp="1562428923813">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/.env" timestamp="1546934056354">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1173,6 +1178,11 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/tests/test_index.py" timestamp="1562428806028">
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="54" />
@@ -1369,7 +1379,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>scripts_server.</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1395,7 +1405,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>scripts_server.</text>
       </register>
       <register name="/" type="4">
         <text>explode</text>
@@ -1416,31 +1426,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGluamVjdF9kYgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcHV0KHNlbGYsICk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZGIgPSBnZXRfZGIoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBwdXQoc2VsZiwgKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZGIgPSBnZXRfZGIoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGluamVjdF9kYgo=</text>
+        <text encoding="base64">QGNvcmVfYnAucm91dGUoIi9zdHJlYW1pbmciKQphc3luYyBkZWYgc3RyZWFtaW5nKF9yZXF1ZXN0KToKICAgIGFzeW5jIGRlZiBzdHJlYW1pbmdfZm4ocmVzcG9uc2UpOgogICAgICAgIGZvciBpIGluIHJhbmdlKDIwMDApOgogICAgICAgICAgICBhd2FpdCByZXNwb25zZS53cml0ZShmIntpfSIpCiAgICAgICAgICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMikKCiAgICByZXR1cm4gcmVzcG9uc2Uuc3RyZWFtKHN0cmVhbWluZ19mbiwgY29udGVudF90eXBlPSJ0ZXh0L2h0bWwiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRiID0gZ2V0X2RiKCkK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCByZXNwb25zZS53cml0ZSgiZm9vIikKICAgICAgICBhd2FpdCByZXNwb25zZS53cml0ZSgiYmFyIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGIgPSBnZXRfZGIoKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDEwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Ywo=</text>
+        <text encoding="base64">QGluamVjdF9kYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRiID0gZ2V0X2RiCg==</text>
+        <text encoding="base64">ICAgICMgZGIgPSBnZXRfZGIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\&quot;get/&quot;app.get/g</text>
