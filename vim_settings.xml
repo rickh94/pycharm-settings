@@ -156,10 +156,10 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/core/endpoints.py" timestamp="1562299740426">
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/core/endpoints.py" timestamp="1562380867214">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="17" column="29" />
-        <mark key="^" line="12" column="64" />
+        <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/update-event.json" timestamp="1558503250574">
@@ -1369,7 +1369,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>3</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1395,7 +1395,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>explode</text>
