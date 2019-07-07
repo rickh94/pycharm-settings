@@ -665,11 +665,11 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/scripts_server/recipe_api/tests/test_recipes.py" timestamp="1562521108520">
-        <mark key="[" line="58" column="10" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="58" column="25" />
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/recipe_api/tests/test_recipes.py" timestamp="1562521936528">
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="58" column="55" />
+        <mark key="." line="58" column="55" />
+        <mark key="^" line="58" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/random_composer/random_composer.py" timestamp="1548478579761">
         <mark key="[" line="20" column="61" />
@@ -1341,7 +1341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dir(response)</text>
+        <text>)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1370,7 +1370,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>dir(response)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>explode</text>
@@ -1391,31 +1391,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRiLnJlY2lwZXMuZmluZF9vbmUoeyJuYW1lIjogInRlc3QifSkpCiAgICBwcmludChkYi51c2Vycy5maW5kX29uZSh7ImVtYWlsIjogdXNlcjFbImVtYWlsIl19KSkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLmpzb24pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBjcmVhdGVfdXNlcih0ZXN0X2RiX25hbWUpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBjcmVhdGVfdXNlcih0ZXN0X2RiX25hbWUpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRhdGEgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmNvbnRlbnQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KGRhdCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLmNvbnRlbnQpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiKGRiX25hbWUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5hbWUiOiAidGVzdCIsCiAgICAgICAgICAgICJpbmdyZWRpZW50cyI6IHsib25lIjogIjEiLCAidHdvIjogIjIifSwKICAgICAgICAgICAgImluc3RydWN0aW9ucyI6IFsiZmlyc3Qgc3RlcCIsICJzZWNvbmQgc3RlcCIsICJzZXJ2ZSJdLAogICAgICAgICAgICAicHVibGljIjogRmFsc2UsCiAgICAgICAgICAgICJjb29rX3RpbWVfbWludXRlcyI6IDIwLAogICAgICAgICAgICAicHJlcF90aW1lX21pbnV0ZXMiOiAxMCwKICAgICAgICAgICAgInNlcnZlcyI6IDQsCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRiLnJlY2lwZXMuZmluZF9vbmUoeyJuYW1lIjogInRlc3QifSkpCiAgICBwcmludChkYi51c2Vycy5maW5kX29uZSh7ImVtYWlsIjogdXNlcjFbImVtYWlsIl19KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBjcmVhdGVfdXNlcih0ZXN0X2RiX25hbWUpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\&quot;get/&quot;app.get/g</text>
