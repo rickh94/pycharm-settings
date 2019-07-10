@@ -913,12 +913,12 @@
         <mark key="." line="134" column="26" />
         <mark key="^" line="134" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/db_helpers.py" timestamp="1562733879097">
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/db_helpers.py" timestamp="1562776512673">
         <mark key="'" line="71" column="50" />
-        <mark key="[" line="79" column="39" />
-        <mark key="]" line="79" column="81" />
-        <mark key="." line="79" column="81" />
-        <mark key="^" line="79" column="81" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="33" />
+        <mark key="." line="75" column="33" />
+        <mark key="^" line="75" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1562259404402">
         <mark key="'" line="46" column="71" />
@@ -1540,7 +1540,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>remove</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1569,7 +1569,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>remove</text>
       </register>
       <register name="/" type="4">
         <text>ObjectId</text>
