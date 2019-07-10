@@ -913,11 +913,11 @@
         <mark key="." line="134" column="26" />
         <mark key="^" line="134" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/db_helpers.py" timestamp="1562777296790">
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/db_helpers.py" timestamp="1562778539987">
         <mark key="'" line="71" column="50" />
-        <mark key="[" line="81" column="67" />
-        <mark key="]" line="81" column="72" />
-        <mark key="." line="81" column="72" />
+        <mark key="[" line="67" column="15" />
+        <mark key="]" line="67" column="15" />
+        <mark key="." line="67" column="15" />
         <mark key="^" line="81" column="72" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1562259404402">
@@ -1539,8 +1539,8 @@
       <jump line="3" column="10" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+      <register name="&quot;" type="4">
+        <text>.dbref</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1569,7 +1569,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>remove</text>
+        <text>.dbref</text>
       </register>
       <register name="/" type="4">
         <text>ObjectId</text>
