@@ -913,12 +913,12 @@
         <mark key="." line="134" column="26" />
         <mark key="^" line="134" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/db_helpers.py" timestamp="1562778539987">
-        <mark key="'" line="71" column="50" />
-        <mark key="[" line="67" column="15" />
-        <mark key="]" line="67" column="15" />
-        <mark key="." line="67" column="15" />
-        <mark key="^" line="81" column="72" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/db_helpers.py" timestamp="1562784226538">
+        <mark key="'" line="78" column="50" />
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="86" />
+        <mark key="." line="44" column="86" />
+        <mark key="^" line="44" column="86" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1562259404402">
         <mark key="'" line="46" column="71" />
@@ -1171,10 +1171,12 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/users/endpoints.py" timestamp="1562782527921">
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-        <mark key="^" line="37" column="25" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/users/endpoints.py" timestamp="1562784274428">
+        <mark key="'" line="10" column="60" />
+        <mark key="[" line="63" column="29" />
+        <mark key="]" line="64" column="3" />
+        <mark key="." line="64" column="3" />
+        <mark key="^" line="64" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_down.py" timestamp="1546825785538">
         <mark key="[" line="7" column="7" />
@@ -1362,12 +1364,12 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="69" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_users.py" timestamp="1562783321620">
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_users.py" timestamp="1562784047647">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="102" column="35" />
-        <mark key="]" line="102" column="78" />
-        <mark key="." line="102" column="78" />
-        <mark key="^" line="102" column="78" />
+        <mark key="[" line="46" column="32" />
+        <mark key="]" line="46" column="32" />
+        <mark key="." line="46" column="32" />
+        <mark key="^" line="46" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/gist_clone/celery.py" timestamp="1546742253096">
         <mark key="[" line="7" column="24" />
@@ -1437,7 +1439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="463" column="41" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="465" column="28" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="479" column="21" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="491" column="28" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
@@ -1537,10 +1538,11 @@
       <jump line="133" column="43" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" />
       <jump line="3" column="10" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" />
       <jump line="49" column="0" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_users.py" />
+      <jump line="9" column="60" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/users/endpoints.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF8sIHJlc3BvbnNlID0gYXBpLnRlc3RfY2xpZW50LnBvc3QoCiAgICAgICAgIi91c2Vycy91cGRhdGUtcGFzc3dvcmQiLCBoZWFkZXJzPWhlYWRlcnMsIGRhdGE9anNvbi5kdW1wcyhkYXRhKQogICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>text(&quot;&quot;)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1569,13 +1571,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>not_long_enough</text>
+        <text>text(&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>ObjectId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIF8sIHJlc3BvbnNlID0gYXBpLnRlc3RfY2xpZW50LnBvc3QoCiAgICAgICAgIi91c2Vycy91cGRhdGUtcGFzc3dvcmQiLCBoZWFkZXJzPWhlYWRlcnMsIGRhdGE9anNvbi5kdW1wcyhkYXRhKQogICAgKQo=</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkX2lzX3ZhbGlkLCBwYXNzd29yZF9lcnJvciA9IHZhbGlkYXRlX3Bhc3N3b3JkKHBhc3N3b3JkLCBjb25maXJtX3Bhc3N3b3JkKQogICAgaWYgbm90IHBhc3N3b3JkX2lzX3ZhbGlkOgogICAgICAgIHJldHVybiBwYXNzd29yZF9lcnJvcgo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1590,31 +1592,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF8sIHJlc3BvbnNlID0gYXBpLnRlc3RfY2xpZW50LnBvc3QoKQo=</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkX2lzX3ZhbGlkLCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIGxlbihwYXNzd29yZCkgPCA4OgogICAgICAgIHJldHVybiByZXNwb25zZS5qc29uKHsibWVzc2FnZSI6ICJQYXNzd29yZCBtdXN0IGJlIGF0IGxlYXN0IDggY2hhcmFjdGVycyJ9LCA0MDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcmUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIF8sIHJlc3BvbnNlID0gYXBpLnRlc3RfY2xpZW50LnBvc3QoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRiID0gY29ubmVjdF90b19kYih0ZXN0X2RiX25hbWUpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnbmFtZScgbm90IGluIHJlcXVlc3QuanNvbjoK</text>
+        <text encoding="base64">ZGVmIHRlc3RfcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\&quot;get/&quot;app.get/g</text>
