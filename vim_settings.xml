@@ -85,12 +85,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/core/endpoints.py" timestamp="1562779521046">
-        <mark key="'" line="30" column="46" />
-        <mark key="[" line="92" column="87" />
-        <mark key="]" line="92" column="87" />
-        <mark key="." line="92" column="87" />
-        <mark key="^" line="92" column="87" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/core/endpoints.py" timestamp="1562795235419">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="146" column="14" />
+        <mark key="]" line="148" column="25" />
+        <mark key="^" line="148" column="25" />
+        <mark key="." line="148" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx/django.conf" timestamp="1546932547649">
         <mark key="[" line="18" column="14" />
@@ -136,11 +136,11 @@
         <mark key="." line="88" column="60" />
         <mark key="^" line="88" column="60" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/conftest.py" timestamp="1562775587474">
-        <mark key="[" line="116" column="4" />
-        <mark key="]" line="116" column="4" />
-        <mark key="^" line="116" column="9" />
-        <mark key="." line="116" column="10" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/conftest.py" timestamp="1562795936075">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="183" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/create.py" timestamp="1562190773423">
         <mark key="'" line="12" column="0" />
@@ -913,12 +913,12 @@
         <mark key="." line="134" column="26" />
         <mark key="^" line="134" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/db_helpers.py" timestamp="1562784226538">
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/db_helpers.py" timestamp="1562794692600">
         <mark key="'" line="78" column="50" />
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="44" column="86" />
-        <mark key="." line="44" column="86" />
-        <mark key="^" line="44" column="86" />
+        <mark key="[" line="107" column="11" />
+        <mark key="]" line="107" column="11" />
+        <mark key="." line="107" column="11" />
+        <mark key="^" line="107" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1562259404402">
         <mark key="'" line="46" column="71" />
@@ -1137,8 +1137,12 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" timestamp="1562775730013">
-        <mark key="'" line="3" column="10" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" timestamp="1562796358385">
+        <mark key="'" line="193" column="3" />
+        <mark key="[" line="265" column="84" />
+        <mark key="]" line="265" column="84" />
+        <mark key="." line="265" column="84" />
+        <mark key="^" line="265" column="84" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/thing/settings/base.py" timestamp="1548454373534">
         <mark key="[" line="146" column="13" />
@@ -1171,12 +1175,12 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/users/endpoints.py" timestamp="1562785405006">
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/users/endpoints.py" timestamp="1562786548321">
         <mark key="'" line="11" column="60" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="32" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="71" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_down.py" timestamp="1546825785538">
         <mark key="[" line="7" column="7" />
@@ -1207,6 +1211,11 @@
         <mark key="]" line="154" column="0" />
         <mark key="^" line="152" column="55" />
         <mark key="." line="154" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/Pipfile" timestamp="1562795813774">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1555786492840">
         <mark key="[" line="7" column="47" />
@@ -1364,12 +1373,12 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="69" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_users.py" timestamp="1562785481239">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="95" column="76" />
-        <mark key="]" line="95" column="102" />
-        <mark key="." line="95" column="102" />
-        <mark key="^" line="95" column="102" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_users.py" timestamp="1562786769876">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="94" column="102" />
       </file>
       <file name="$USER_HOME$/repositories/gist_clone/gist_clone/celery.py" timestamp="1546742253096">
         <mark key="[" line="7" column="24" />
@@ -1439,10 +1448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="21" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
-      <jump line="491" column="28" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
-      <jump line="514" column="31" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
-      <jump line="516" column="28" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="10" column="26" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="2" column="8" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
       <jump line="45" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
@@ -1539,10 +1544,14 @@
       <jump line="49" column="0" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_users.py" />
       <jump line="9" column="60" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/users/endpoints.py" />
       <jump line="59" column="0" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_users.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" />
+      <jump line="235" column="3" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/core/endpoints.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test1234567</text>
+        <text>[&quot;recipe-box&quot;]</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1571,13 +1580,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>test1234567</text>
+        <text>[&quot;recipe-box&quot;]</text>
       </register>
       <register name="/" type="4">
-        <text>ObjectId</text>
+        <text>put</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiSWYgeW91IHVzZSB0aGlzIHBhc3N3b3JkIGFueXdoZXJlIGVsc2UsIHlvdSBzaG91bGQgY29uc2lkZXIgIgogICAgICAgICAgICAgICAgICAgICJjaGFuZ2luZyBpdC4iCg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50ID0gZGIudXNlcnMuZmluZF9vbmUoeyJlbWFpbCI6IHVzZXIyWyJlbWFpbCJdfSkKICAgIGFzc2VydCBkb2N1bWVudFsicmVjaXBlLWJveCJdCiAgICByZWNpcGVfaWRzID0gW3N0cihpdGVtLmlkKSBmb3IgaXRlbSBpbiBkb2N1bWVudFsicmVjaXBlLWJveCJdXQogICAgYXNzZXJ0IHJlY2lwZTJbImlkIl0gaW4gcmVjaXBlX2lkcwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1592,48 +1601,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEK</text>
+        <text encoding="base64">ZGVmIHRlc3RfYWRkX293bl9yZWNpcGVfdG9fYm94X2ZhaWxzKGFwaSwgdXNlcjEsIHJlY2lwZTEsIGdldF9hdXRoX2hlYWRlcnMsIGRiKToKICAgICIiIlRlc3QgYWRkaW5nIG93biByZWNpcGUgdG8gYm94LiIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkX2lzX3ZhbGlkLCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihwYXNzd29yZCkgPCA4OgogICAgICAgIHJldHVybiByZXNwb25zZS5qc29uKHsibWVzc2FnZSI6ICJQYXNzd29yZCBtdXN0IGJlIGF0IGxlYXN0IDggY2hhcmFjdGVycyJ9LCA0MDApCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zLmpzb25bJ21lc3NhZ2UnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YnNvbi1weTNjb21wYXQgPSAiKiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhZGRfdG9fcmVjaXBlX2JveChkYik6CiAgICBkZWYgX2FkZCh1c2VyLCByZWNpcGVfaWQpOgogICAgICAgIHJlY2lwZV9yZWYgPSBic29uLkRCUmVmKGRiLikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF8sIHJlc3BvbnNlID0gYXBpLnRlc3RfY2xpZW50LnBvc3QoKQo=</text>
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiBnZXQoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgcGFzcwoKICAgIGFzeW5jIGRlZiBwb3N0KHNlbGYsIHJlcXVlc3QpOgogICAgICAgIHBhc3MKCiAgICBhc3luYyBkZWYgZGVsZXRlKHNlbGYsIHJlcXVlc3QpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgUmVjaXBlQm94KEhUVFBNZXRob2RWaWV3KToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Y29yZV9icC5hZGRfcm91dGUoUmVjaXBlQm94LmFzX3ZpZXcoKSwgIi9yZWNpcGVzL2JveCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcmUK</text>
+        <text encoding="base64">QGNvcmVfYnAucm91dGUoIi9yZWNpcGVzIikK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/\&quot;get/&quot;app.get/g</text>
+        <text encoding="base64">JzwsJz5zL3B1dC9wYXRjaC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>ObjectId</last-search>
+      <last-search>put</last-search>
       <last-offset />
-      <last-pattern>ObjectId</last-pattern>
-      <last-replace>&quot;app.get</last-replace>
-      <last-substitute>\&quot;get</last-substitute>
+      <last-pattern>put</last-pattern>
+      <last-replace>patch</last-replace>
+      <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>INGREDIENTS_URL</entry>
         <entry>self\.client</entry>
         <entry>authenticated_client</entry>
         <entry>ingredients_url</entry>
@@ -1653,6 +1661,7 @@
         <entry>Rick</entry>
         <entry>Object</entry>
         <entry>ObjectId</entry>
+        <entry>put</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -1663,6 +1672,7 @@
         <entry>s/tags/ingredients</entry>
         <entry>%s/INGREDIENTS_URL/ingredients_url/g</entry>
         <entry>%s/self\.client/authenticated_client/g</entry>
+        <entry encoding="base64">JzwsJz5zL3B1dC9wYXRjaC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
