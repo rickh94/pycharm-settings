@@ -85,12 +85,8 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/core/endpoints.py" timestamp="1562802011206">
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/core/endpoints.py" timestamp="1562807506359">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="174" column="20" />
-        <mark key="]" line="174" column="67" />
-        <mark key="." line="174" column="67" />
-        <mark key="^" line="174" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx/django.conf" timestamp="1546932547649">
         <mark key="[" line="18" column="14" />
