@@ -9,6 +9,12 @@
         <mark key="^" line="35" column="33" />
         <mark key="." line="35" column="33" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/dnd_character_manager/dnd_character_manager/config.py" timestamp="1561860257334">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1562431586427">
         <mark key="[" line="0" column="0" />
       </file>
@@ -121,18 +127,18 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/microblog.py" timestamp="1548991897483">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/serializers.py" timestamp="1546839302586">
         <mark key="'" line="24" column="38" />
         <mark key="[" line="44" column="45" />
         <mark key="]" line="44" column="46" />
         <mark key="^" line="43" column="32" />
         <mark key="." line="44" column="46" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/microblog.py" timestamp="1548991897483">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="47" />
-        <mark key="^" line="3" column="47" />
-        <mark key="." line="3" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx2/django.conf" timestamp="1546932933194">
         <mark key="[" line="16" column="29" />
@@ -157,8 +163,8 @@
         <mark key="'" line="12" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="15" column="12" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" timestamp="1546708173712">
         <mark key="[" line="93" column="0" />
@@ -221,6 +227,12 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/dnd_character_manager/docker-compose.yml" timestamp="1561861058606">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+      </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/auth.py" timestamp="1562559706942">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="26" column="47" />
@@ -263,6 +275,12 @@
         <mark key="^" line="23" column="88" />
         <mark key="." line="23" column="88" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/search.py" timestamp="1561000846628">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="41" />
+        <mark key="^" line="37" column="41" />
+        <mark key="." line="37" column="41" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/sign_out.py" timestamp="1560926396425">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="2" column="19" />
@@ -282,6 +300,13 @@
         <mark key="]" line="27" column="27" />
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/conftest.py" timestamp="1562954916645">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="113" column="54" />
+        <mark key="^" line="102" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/responses.py" timestamp="1555900407181">
         <mark key="[" line="8" column="26" />
@@ -311,6 +336,12 @@
         <mark key="]" line="74" column="0" />
         <mark key="^" line="80" column="30" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/security.py" timestamp="1562953442049">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="15" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/ponynote/settings.py" timestamp="1547666474483">
         <mark key="[" line="122" column="0" />
@@ -361,6 +392,13 @@
         <mark key="^" line="88" column="22" />
         <mark key="." line="169" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/dnd_character_manager/dnd_character_manager/tables.py" timestamp="1561864403454">
+        <mark key="'" line="7" column="87" />
+        <mark key="[" line="35" column="75" />
+        <mark key="]" line="35" column="75" />
+        <mark key="." line="35" column="75" />
+        <mark key="^" line="35" column="75" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/movement_commands.py" timestamp="1546718443366">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -399,6 +437,18 @@
         <mark key="]" line="44" column="45" />
         <mark key="." line="44" column="45" />
         <mark key="^" line="44" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/dnd_character_manager/dnd_character_manager/core/endpoints.py" timestamp="1561859736851">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/dnd_character_manager/.env" timestamp="1561860641369">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/get.py" timestamp="1562191184469">
         <mark key="[" line="18" column="9" />
@@ -457,6 +507,12 @@
         <mark key="^" line="58" column="24" />
         <mark key="." line="58" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/dnd_character_manager/app/__init__.py" timestamp="1561859131158">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/header_commands.py" timestamp="1555786737719">
         <mark key="[" line="126" column="16" />
         <mark key="]" line="126" column="21" />
@@ -492,6 +548,12 @@
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/.env" timestamp="1562953229594">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/views.py" timestamp="1546925989146">
         <mark key="[" line="25" column="32" />
@@ -656,6 +718,13 @@
         <mark key="^" line="6" column="127" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/router.py" timestamp="1562957112049">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="97" column="63" />
+        <mark key="]" line="97" column="68" />
+        <mark key="^" line="97" column="68" />
+        <mark key="." line="97" column="68" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -691,6 +760,9 @@
         <mark key="]" line="78" column="18" />
         <mark key="^" line="78" column="17" />
         <mark key="." line="78" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562953385910">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/scripts_server/Dockerfile.test" timestamp="1562433881251">
         <mark key="[" line="6" column="30" />
@@ -728,6 +800,12 @@
         <mark key="]" line="63" column="83" />
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/dnd_character_manager/app/app.py" timestamp="1561859258115">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-todo-event.json" timestamp="1559169387670">
         <mark key="[" line="2" column="10" />
@@ -784,6 +862,12 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/.env.example" timestamp="1562952720016">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/response.py" timestamp="1562258484747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -825,6 +909,12 @@
         <mark key="]" line="18" column="35" />
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/update.py" timestamp="1561000885036">
+        <mark key="[" line="55" column="64" />
+        <mark key="]" line="55" column="82" />
+        <mark key="^" line="55" column="82" />
+        <mark key="." line="55" column="82" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/common.py" timestamp="1560999392516">
         <mark key="[" line="9" column="5" />
@@ -936,6 +1026,13 @@
         <mark key="." line="110" column="101" />
         <mark key="^" line="110" column="101" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/examples.py" timestamp="1562956738104">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="15" />
+        <mark key="^" line="38" column="26" />
+        <mark key="." line="40" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" timestamp="1562259404402">
         <mark key="'" line="46" column="71" />
         <mark key="[" line="61" column="0" />
@@ -954,6 +1051,13 @@
         <mark key="]" line="23" column="13" />
         <mark key="." line="23" column="13" />
         <mark key="^" line="25" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_recipes.py" timestamp="1562957143970">
+        <mark key="'" line="113" column="83" />
+        <mark key="[" line="171" column="37" />
+        <mark key="]" line="171" column="40" />
+        <mark key="^" line="171" column="40" />
+        <mark key="." line="171" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/env.yml" timestamp="1558500227430">
         <mark key="[" line="5" column="63" />
@@ -1021,6 +1125,12 @@
         <mark key="]" line="9" column="65" />
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="65" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/.pre-commit-config.yaml" timestamp="1562957645157">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="11" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/baseball/pitcher_scraper_2017-09/scrape_baseball.py" timestamp="1547938552179">
         <mark key="[" line="60" column="4" />
@@ -1126,8 +1236,8 @@
       <file name="$USER_HOME$/repositories/instrument-inventory/env.yml" timestamp="1562191784795">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="17" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-event.json" timestamp="1561933799316">
         <mark key="[" line="1" column="14" />
@@ -1262,6 +1372,18 @@
         <mark key="." line="3" column="86" />
         <mark key="^" line="3" column="86" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/crud.py" timestamp="1562957065450">
+        <mark key="[" line="37" column="88" />
+        <mark key="]" line="38" column="44" />
+        <mark key="^" line="38" column="44" />
+        <mark key="." line="38" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/todos.py" timestamp="1560999607368">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/Dockerfile" timestamp="1547843708354">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="41" />
@@ -1326,13 +1448,6 @@
         <mark key="." line="1" column="74" />
         <mark key="^" line="1" column="74" />
       </file>
-      <file name="$USER_HOME$/repositories/recipe-app-api/app/core/models.py" timestamp="1546837939708">
-        <mark key="'" line="11" column="27" />
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-      </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/pytest.ini" timestamp="1547700220752">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="27" />
@@ -1344,6 +1459,13 @@
         <mark key="]" line="3" column="22" />
         <mark key="^" line="54" column="41" />
         <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/core/models.py" timestamp="1546837939708">
+        <mark key="'" line="11" column="27" />
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1549169483824">
         <mark key="[" line="19" column="30" />
@@ -1419,6 +1541,12 @@
         <mark key="." line="1" column="85" />
         <mark key="^" line="1" column="85" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/retrieve.py" timestamp="1560999541470">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/pyproject.toml" timestamp="1555883518660">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1467,13 +1595,14 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/dnd_character_manager/dnd_character_manager/__main__.py" timestamp="1561860357638">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="103" />
+        <mark key="^" line="4" column="103" />
+        <mark key="." line="4" column="103" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
-      <jump line="24" column="34" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
-      <jump line="49" column="29" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
-      <jump line="55" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
       <jump line="62" column="26" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
       <jump line="67" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
       <jump line="5" column="29" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_sign_out.py" />
@@ -1569,10 +1698,15 @@
       <jump line="239" column="0" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" />
       <jump line="238" column="37" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" />
       <jump line="272" column="0" filename="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/conftest.py" />
+      <jump line="113" column="83" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_recipes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/examples.py" />
+      <jump line="71" column="3" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/router.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/router.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBuZXdfcGFpLmRiLnVzZXJzCg==</text>
+        <text encoding="base64">ICAgICAgLSBpZDogCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1601,13 +1735,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>['db']</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>put</text>
+        <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRiX3VyaSA9ICJtb25nb2RiOi8ve3VzZXJuYW1lfTp7cGFzc3dvcmR9QHtob3N0fTp7cG9ydH0iLmZvcm1hdCgKICAgICAgICB1c2VybmFtZT1xdW90ZV9wbHVzKG9zLmdldGVudigiREJfVVNFUk5BTUUiLCAicm9vdCIpKSwKICAgICAgICBwYXNzd29yZD1xdW90ZV9wbHVzKG9zLmdldGVudigiREJfUEFTU1dPUkQiLCAicm9vdCIpKSwKICAgICAgICBob3N0PXF1b3RlX3BsdXMob3MuZ2V0ZW52KCJEQl9IT1NUIiwgImxvY2FsaG9zdCIpKSwKICAgICAgICBwb3J0PXF1b3RlX3BsdXMob3MuZ2V0ZW52KCJEQl9QT1JUIiwgIjI3MDE3IikpLAogICAgKQogICAgY2xpZW50ID0gbW90b3JfYXN5bmNpby5Bc3luY0lPTW90b3JDbGllbnQoZGJfdXJpKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBhd2FpdCBjaGVja19yZWNpcGVfb3duZXJzaGlwKHJlY2lwZSwgdXNlcik6CiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbigKICAgICAgICAgICAgc3RhdHVzX2NvZGU9NDAxLCBkZXRhaWw9IllvdSBhcmUgbm90IGF1dGhvcml6ZWQgdG8gZGVsZXRlIHRoaXMgcmVjaXBlLiIKICAgICAgICApCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1622,67 +1756,67 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBuZXdfcGFpLmRiLnVzZXJzCg==</text>
+        <text encoding="base64">ICAgICAgLSBpZDogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBkYi5yZWZyZXNoX3Rva2Vucwo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBhd2FpdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiQ29tYmluZSBicm90aCBhbmQgd2luZSBhbmQgcGxhY2UgaW4ga2V0dGxlIG9yIHBvdCBvdmVyIGxvdyBoZWF0LCBjb3ZlcmVkLiIsCiAgICAgICAgIkNvYXQgdGhlIGJvdHRvbSBvZiBhIHBhbiB3aXRoIG9saXZlIG9pbC4gQWRkIG9uaW9uLCByaWNlIGFuZCBzYWx0LiBDb29rICIKICAgICAgICAib3ZlciBtZWRpdW0gaGVhdCB1bnRpbCByaWNlIGFuZCBvbmlvbiBhcmUgY2xlYXIgYnV0IG5vdCBicm93bi4iLAogICAgICAgICJBZGQgbGlxdWlkIHRvIHJpY2UgdW50aWwganVzdCBjb3ZlcmVkLCByZWR1Y2UgdG8gc2ltbWVyLCBzdGlycmluZyAiCiAgICAgICAgImZyZXF1ZW50bHkiLAogICAgICAgICJPbmNlIG1vc3Qgb2YgdGhlIGxpcXVpZCBoYXMgYmVlbiBhYnNvcmJlZCwgYWRkIG1vcmUgbGlxdWlkLiBSZXBlYXQgIgogICAgICAgICJ1bnRpbCByaWNlIGlzIGZ1bGx5IGNvb2tlZC4iLAogICAgICAgICJSZW1vdmUgZnJvbSBoZWF0LCBhZGQgcGFybWVzYW4sIGxlbW9uIHplc3QsIGFuZCBudXRtZWcuIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRiX3VyaSA9ICJtb25nb2RiOi8ve3VzZXJuYW1lfTp7cGFzc3dvcmR9QHtob3N0fTp7cG9ydH0iLmZvcm1hdCgKICAgICAgICB1c2VybmFtZT1xdW90ZV9wbHVzCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAiQXJib3JpbyBSaWNlIjogIjEgY3VwIiwKICAgICAgICAiQnJvdGgiOiAiNiBjdXBzIiwKICAgICAgICAiV2hpdGUgV2luZSI6ICIxIGN1cCIsCiAgICAgICAgIk9saXZlIE9pbCI6ICIxIHRic3AiLAogICAgICAgICJZZWxsb3cgT25pb24iOiAiMSwgZGljZWQiLAogICAgICAgICJTYWx0IjogIjEgdHNwIiwKICAgICAgICAiUGFybWVzYW4gQ2hlZXNlIjogIjEgdHNwIiwKICAgICAgICAiV2hpdGUgb3IgQmxhY2sgUGVwcGVyIjogIjEgdHNwIiwKICAgICAgICAiTGVtb24gemVzdCI6ICIxLzIgdHNwIiwKICAgICAgICAiRnJlc2hseSBncmF0ZWQgTnV0bWVnIjogIlBpbmNoIG9mIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcGlbJyddCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfcHV0X3JlY2lwZV9pbmNvbXBsZXRlKHJlY2lwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBpID0gU3RhcmxldHRlKGRlYnVnPW9zLmdldGVudigiREVCVUciLCBGYWxzZSkpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCByZWNpcGVfZG9jWyduYW1lJ10gPT0gcmlzb3R0b19kYXRhWyduYW1lJ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REVCVUc9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q01EIGd1bmljb3JuIC13IDQgLWsgdXZpY29ybi53b3JrZXJzLlV2aWNvcm5Xb3JrZXIgLS1iaW5kICcwLjAuMC4wOjgwMDAnIC0tbG9nLWxldmVsIGluZm8gYXBwOmFwaQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgcmVzcG9uc2Uud3JpdGUoIiwiKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBhd2FpdCBzZXJpYWxpemVfcmVjaXBlKHJlY2lwZSkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3B1dC9wYXRjaC9n</text>
+        <text encoding="base64">JzwsJz5zLzIvMy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>put</last-search>
+      <last-search>2</last-search>
       <last-offset />
-      <last-pattern>put</last-pattern>
-      <last-replace>patch</last-replace>
-      <last-substitute>put</last-substitute>
+      <last-pattern>2</last-pattern>
+      <last-replace>3</last-replace>
+      <last-substitute>2</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>style</entry>
+        <entry>HELPERS</entry>
+        <entry>HELPER</entry>
+        <entry>1</entry>
+        <entry>tags</entry>
+        <entry>sample_tag</entry>
+        <entry>sample_recipe</entry>
+        <entry>sample_</entry>
+        <entry>tags_ingre</entry>
+        <entry>test_user</entry>
+        <entry>test_recipes_limited_to_user</entry>
+        <entry>user</entry>
+        <entry>test_user2</entry>
+        <entry>def sample_ingredient</entry>
+        <entry>sample_ingredient2</entry>
+        <entry>INGREDIENTS_URL</entry>
         <entry>self\.client</entry>
         <entry>authenticated_client</entry>
         <entry>ingredients_url</entry>
-        <entry>history</entry>
-        <entry>airtable</entry>
-        <entry>parso</entry>
-        <entry>mark_completed</entry>
-        <entry>unmark</entry>
-        <entry>test_create_todo_partial</entry>
-        <entry>update</entry>
-        <entry>uuid</entry>
-        <entry>signed</entry>
-        <entry>gifted</entry>
-        <entry>get_explode</entry>
-        <entry>DoesNotExist</entry>
-        <entry>explode</entry>
-        <entry>Rick</entry>
-        <entry>Object</entry>
-        <entry>ObjectId</entry>
-        <entry>put</entry>
+        <entry>2</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -1693,7 +1827,7 @@
         <entry>s/tags/ingredients</entry>
         <entry>%s/INGREDIENTS_URL/ingredients_url/g</entry>
         <entry>%s/self\.client/authenticated_client/g</entry>
-        <entry encoding="base64">JzwsJz5zL3B1dC9wYXRjaC9n</entry>
+        <entry encoding="base64">JzwsJz5zLzIvMy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
