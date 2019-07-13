@@ -194,11 +194,6 @@
         <mark key="." line="46" column="64" />
         <mark key="^" line="46" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/scripts_server/app/core/endpoints.py" timestamp="1562269854983">
-        <mark key="]" line="2" column="42" />
-        <mark key="^" line="2" column="42" />
-        <mark key="." line="2" column="42" />
-      </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/django_elastic_drf_example/settings.py" timestamp="1548636851080">
         <mark key="[" line="27" column="26" />
         <mark key="]" line="27" column="37" />
@@ -318,11 +313,6 @@
         <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/scratch/scripts_server/recipe_api/auth.py" timestamp="1562432169836">
-        <mark key="]" line="33" column="29" />
-        <mark key="^" line="33" column="29" />
-        <mark key="." line="33" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/urls.py" timestamp="1548636792251">
         <mark key="[" line="7" column="77" />
@@ -638,11 +628,11 @@
         <mark key="^" line="6" column="127" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/router.py" timestamp="1562989059314">
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="75" column="25" />
-        <mark key="^" line="75" column="25" />
-        <mark key="." line="75" column="25" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/router.py" timestamp="1563045113413">
+        <mark key="[" line="80" column="39" />
+        <mark key="]" line="81" column="53" />
+        <mark key="^" line="81" column="53" />
+        <mark key="." line="81" column="53" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
         <mark key="[" line="4" column="0" />
@@ -650,11 +640,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/models.py" timestamp="1563044712453">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="35" column="16" />
-        <mark key="." line="35" column="16" />
-        <mark key="^" line="35" column="16" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/models.py" timestamp="1563044980599">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="13" />
+        <mark key="." line="42" column="13" />
+        <mark key="^" line="42" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/scripts_server/config/nginx/app.conf" timestamp="1562270512998">
         <mark key="[" line="8" column="34" />
@@ -1236,10 +1226,11 @@
         <mark key="." line="3" column="86" />
         <mark key="^" line="3" column="86" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/crud.py" timestamp="1562988686458">
-        <mark key="]" line="40" column="41" />
-        <mark key="^" line="40" column="41" />
-        <mark key="." line="40" column="41" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/crud.py" timestamp="1563045392565">
+        <mark key="[" line="54" column="72" />
+        <mark key="]" line="54" column="72" />
+        <mark key="^" line="54" column="72" />
+        <mark key="." line="54" column="72" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/Dockerfile" timestamp="1547843708354">
         <mark key="[" line="10" column="0" />
@@ -1347,11 +1338,6 @@
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
-      </file>
-      <file name="$USER_HOME$/repositories/scratch/scripts_server/tests/test_index.py" timestamp="1562428806028">
-        <mark key="]" line="2" column="32" />
-        <mark key="^" line="2" column="32" />
-        <mark key="." line="2" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
         <mark key="[" line="1" column="51" />
@@ -1546,7 +1532,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcHAucmVjaXBlX2JveC5yb3V0ZXIgaW1wb3J0IHJlY2lwZV9ib3hfcm91dGVyCg==</text>
+        <text encoding="base64">ICAgIHVzZXJfZG9jID0gYXdhaXQgZGIudXNlcnMuZmluZF9vbmUoe30pCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1596,33 +1582,33 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcHAucmVjaXBlX2JveC5yb3V0ZXIgaW1wb3J0IHJlY2lwZV9ib3hfcm91dGVyCg==</text>
+        <text encoding="base64">ICAgIHVzZXJfZG9jID0gYXdhaXQgZGIudXNlcnMuZmluZF9vbmUoe30pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwLmluY2x1ZGVfcm91dGVyKAogICAgcmVjaXBlX2JveF9yb3V0ZXIsCiAgICBwcmVmaXg9Ii9yZWNpcGUtYm94IiwKICAgIHRhZ3M9WyJyZWNpcGUtYm94Il0sCiAgICByZXNwb25zZXM9ewogICAgICAgIDQwMTogeyJkZXNjcmlwdGlvbiI6ICJBdXRoZW50aWNhdGlvbiBmYWlsdXJlIn0sCiAgICAgICAgNDA0OiB7ImRlc2NyaXB0aW9uIjogIlJlY2lwZSBub3QgZm91bmQifSwKICAgIH0sCikK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfYWRkX3RvX3JlY2lwZV9ib3godGVzdF9jbGllbnQ6IFRlc3RDbGllbnQsIHJlY2lwZTIsIHVzZXIyX2hlYWRlcnMsIHVzZXIyLCBtb25rZXlwYXRjaCwgYXN5bmNfZGIsIGRiKToKICAgICIiIlRlc3QgYWRkaW5nIHJlY2lwZSB0byBhIHVzZXIncyByZWNpcGUgYm94IiIiCiAgICByZXNwb25zZSA9IHRlc3RfY2xpZW50LnBvc3QoJy9ib3gnKQo=</text>
+        <text encoding="base64">ZnJvbSBhcHAucmVjaXBlX2JveC5yb3V0ZXIgaW1wb3J0IHJlY2lwZV9ib3hfcm91dGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
+        <text encoding="base64">YXBwLmluY2x1ZGVfcm91dGVyKAogICAgcmVjaXBlX2JveF9yb3V0ZXIsCiAgICBwcmVmaXg9Ii9yZWNpcGUtYm94IiwKICAgIHRhZ3M9WyJyZWNpcGUtYm94Il0sCiAgICByZXNwb25zZXM9ewogICAgICAgIDQwMTogeyJkZXNjcmlwdGlvbiI6ICJBdXRoZW50aWNhdGlvbiBmYWlsdXJlIn0sCiAgICAgICAgNDA0OiB7ImRlc2NyaXB0aW9uIjogIlJlY2lwZSBub3QgZm91bmQifSwKICAgIH0sCikK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfYWRkX3RvX3JlY2lwZV9ib3godGVzdF9jbGllbnQ6IFRlc3RDbGllbnQsIHJlY2lwZTIsIHVzZXIyX2hlYWRlcnMsIHVzZXIyLCBtb25rZXlwYXRjaCwgYXN5bmNfZGIsIGRiKToKICAgICIiIlRlc3QgYWRkaW5nIHJlY2lwZSB0byBhIHVzZXIncyByZWNpcGUgYm94IiIiCiAgICByZXNwb25zZSA9IHRlc3RfY2xpZW50LnBvc3QoJy9ib3gnKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIDQyMgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>[
     
 ]</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICByZWNpcGUgPSBhd2FpdCBjcnVkLmdldF9yZWNpcGVfYnlfaWQocmVjaXBlX2lkKQogICAgZXhjZXB0IGJzb24uZXJyb3JzLkludmFsaWRJZDoKICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKHN0YXR1c19jb2RlPTQyMiwgZGV0YWlsPSJJbnZhbGlkIHJlY2lwZSBJRCIpCiAgICAKICAgIGlmIHJlY2lwZSBpcyBOb25lOgogICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oc3RhdHVzX2NvZGU9NDA0LCBkZXRhaWw9IlJlY2lwZSBjb3VsZCBub3QgYmUgZm91bmQiKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvMi9n</text>
