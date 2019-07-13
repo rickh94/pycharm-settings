@@ -135,11 +135,10 @@
         <mark key="." line="215" column="61" />
         <mark key="^" line="215" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/main.py" timestamp="1562988139422">
-        <mark key="[" line="40" column="61" />
-        <mark key="]" line="40" column="100" />
-        <mark key="." line="40" column="100" />
-        <mark key="^" line="40" column="100" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/main.py" timestamp="1562989773902">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" timestamp="1546708173712">
         <mark key="[" line="93" column="0" />
@@ -147,11 +146,11 @@
         <mark key="." line="93" column="1" />
         <mark key="^" line="134" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/models.py" timestamp="1562948271486">
-        <mark key="[" line="58" column="14" />
-        <mark key="]" line="58" column="16" />
-        <mark key="^" line="58" column="16" />
-        <mark key="." line="58" column="16" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/models.py" timestamp="1562988959774">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="60" column="17" />
+        <mark key="^" line="60" column="17" />
+        <mark key="." line="60" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/templates/index.html" timestamp="1547666071967">
         <mark key="[" line="9" column="6" />
@@ -639,11 +638,11 @@
         <mark key="^" line="6" column="127" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/router.py" timestamp="1562988624642">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="16" />
-        <mark key="^" line="27" column="16" />
-        <mark key="." line="27" column="16" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/router.py" timestamp="1562989059314">
+        <mark key="[" line="66" column="28" />
+        <mark key="]" line="75" column="25" />
+        <mark key="^" line="75" column="25" />
+        <mark key="." line="75" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
         <mark key="[" line="4" column="0" />
@@ -930,10 +929,12 @@
         <mark key="." line="23" column="13" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_recipes.py" timestamp="1562987720449">
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="231" column="0" />
-        <mark key="." line="231" column="0" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_recipes.py" timestamp="1562989750542">
+        <mark key="'" line="265" column="0" />
+        <mark key="[" line="288" column="36" />
+        <mark key="]" line="288" column="37" />
+        <mark key="." line="288" column="37" />
+        <mark key="^" line="288" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/env.yml" timestamp="1558500227430">
         <mark key="[" line="5" column="63" />
@@ -1144,10 +1145,10 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" timestamp="1562943761184">
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/test_recipes.py" timestamp="1562989675779">
         <mark key="'" line="272" column="0" />
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="4" />
+        <mark key="[" line="292" column="32" />
+        <mark key="]" line="292" column="55" />
         <mark key="^" line="332" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/thing/settings/base.py" timestamp="1548454373534">
@@ -1442,7 +1443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" />
       <jump line="95" column="36" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" />
       <jump line="58" column="46" filename="$USER_HOME$/repositories/instrument-inventory/lib/models.py" />
       <jump line="40" column="13" filename="$USER_HOME$/repositories/instrument-inventory/resources/dynamodb-table.yml" />
@@ -1542,10 +1542,11 @@
       <jump line="31" column="13" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/router.py" />
       <jump line="5" column="32" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/models.py" />
       <jump line="177" column="11" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/conftest.py" />
+      <jump line="265" column="0" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_recipes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfYWRkX3RvX3JlY2lwZV9ib3godGVzdF9jbGllbnQ6IFRlc3RDbGllbnQsIHJlY2lwZTIsIHVzZXIyX2hlYWRlcnMsIHVzZXIyLCBtb25rZXlwYXRjaCwgYXN5bmNfZGIsIGRiKToKICAgICIiIlRlc3QgYWRkaW5nIHJlY2lwZSB0byBhIHVzZXIncyByZWNpcGUgYm94IiIiCiAgICByZXNwb25zZSA9IHRlc3RfY2xpZW50LnBvc3QoJy9ib3gnKQo=</text>
+        <text encoding="base64">ZnJvbSBhcHAucmVjaXBlX2JveC5yb3V0ZXIgaW1wb3J0IHJlY2lwZV9ib3hfcm91dGVyCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1574,41 +1575,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>04</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-        &quot;name&quot;: &quot;Risotto&quot;,
-        &quot;ingredients&quot;: {
-            &quot;Arborio Rice&quot;: &quot;1 cup&quot;,
-            &quot;Broth&quot;: &quot;6 cups&quot;,
-            &quot;White Wine&quot;: &quot;1 cup&quot;,
-            &quot;Olive Oil&quot;: &quot;1 tbsp&quot;,
-            &quot;Yellow Onion&quot;: &quot;1, diced&quot;,
-            &quot;Salt&quot;: &quot;1 tsp&quot;,
-            &quot;Parmesan Cheese&quot;: &quot;1 tsp&quot;,
-            &quot;White or Black Pepper&quot;: &quot;1 tsp&quot;,
-            &quot;Lemon zest&quot;: &quot;1/2 tsp&quot;,
-            &quot;Freshly grated Nutmeg&quot;: &quot;Pinch of&quot;,
-        },
-        &quot;instructions&quot;: [
-            &quot;Combine broth and wine and place in kettle or pot over low heat, covered.&quot;,
-            &quot;Coat the bottom of a pan with olive oil. Add onion, rice and salt. Cook &quot;
-            &quot;over medium heat until rice and onion are clear but not brown.&quot;,
-            &quot;Add liquid to rice until just covered, reduce to simmer, stirring &quot;
-            &quot;frequently&quot;,
-            &quot;Once most of the liquid has been absorbed, add more liquid. Repeat &quot;
-            &quot;until rice is fully cooked.&quot;,
-            &quot;Remove from heat, add parmesan, lemon zest, and nutmeg.&quot;,
-        ],
-        &quot;public&quot;: False,
-        &quot;cook_time_minutes&quot;: 45,
-        &quot;prep_time_minutes&quot;: 10,
-        &quot;serves&quot;: 6,
-    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfYWRkX3RvX3JlY2lwZV9ib3hfbm90X2ZvdW5kKAogICAgdGVzdF9jbGllbnQ6IFRlc3RDbGllbnQsIHVzZXIyLCB1c2VyMl9oZWFkZXJzLCBhc3luY19kYiwgZGIsIG1vbmtleXBhdGNoCik6CiAgICAiIiJUZXN0IGFkZGluZyBhIG5vbi1leGlzdGVudCByZWNpcGUgZmFpbHMuIiIiCiAgICBtb25rZXlwYXRjaC5zZXRhdHRyKCJhcHAucmVjaXBlcy5jcnVkLmRiIiwgYXN5bmNfZGIpCiAgICByZXNwb25zZSA9IHRlc3RfY2xpZW50LnBvc3QoCiAgICAgICAgIi9yZWNpcGVzL2JveC8iLAogICAgICAgIGhlYWRlcnM9dXNlcjJfaGVhZGVycywKICAgICAgICBqc29uPXsicmVjaXBlX2lkIjogIjVkMjYwZTYyNzQ0OTkwNDUwYjkwMmZhOCJ9LAogICAgKQoKICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSA0MDQK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1623,33 +1596,33 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfYWRkX3RvX3JlY2lwZV9ib3godGVzdF9jbGllbnQ6IFRlc3RDbGllbnQsIHJlY2lwZTIsIHVzZXIyX2hlYWRlcnMsIHVzZXIyLCBtb25rZXlwYXRjaCwgYXN5bmNfZGIsIGRiKToKICAgICIiIlRlc3QgYWRkaW5nIHJlY2lwZSB0byBhIHVzZXIncyByZWNpcGUgYm94IiIiCiAgICByZXNwb25zZSA9IHRlc3RfY2xpZW50LnBvc3QoJy9ib3gnKQo=</text>
+        <text encoding="base64">ZnJvbSBhcHAucmVjaXBlX2JveC5yb3V0ZXIgaW1wb3J0IHJlY2lwZV9ib3hfcm91dGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
+        <text encoding="base64">YXBwLmluY2x1ZGVfcm91dGVyKAogICAgcmVjaXBlX2JveF9yb3V0ZXIsCiAgICBwcmVmaXg9Ii9yZWNpcGUtYm94IiwKICAgIHRhZ3M9WyJyZWNpcGUtYm94Il0sCiAgICByZXNwb25zZXM9ewogICAgICAgIDQwMTogeyJkZXNjcmlwdGlvbiI6ICJBdXRoZW50aWNhdGlvbiBmYWlsdXJlIn0sCiAgICAgICAgNDA0OiB7ImRlc2NyaXB0aW9uIjogIlJlY2lwZSBub3QgZm91bmQifSwKICAgIH0sCikK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfYWRkX3RvX3JlY2lwZV9ib3godGVzdF9jbGllbnQ6IFRlc3RDbGllbnQsIHJlY2lwZTIsIHVzZXIyX2hlYWRlcnMsIHVzZXIyLCBtb25rZXlwYXRjaCwgYXN5bmNfZGIsIGRiKToKICAgICIiIlRlc3QgYWRkaW5nIHJlY2lwZSB0byBhIHVzZXIncyByZWNpcGUgYm94IiIiCiAgICByZXNwb25zZSA9IHRlc3RfY2xpZW50LnBvc3QoJy9ib3gnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDQyMgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>[
     
 ]</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICByZWNpcGUgPSBhd2FpdCBjcnVkLmdldF9yZWNpcGVfYnlfaWQocmVjaXBlX2lkKQogICAgZXhjZXB0IGJzb24uZXJyb3JzLkludmFsaWRJZDoKICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKHN0YXR1c19jb2RlPTQyMiwgZGV0YWlsPSJJbnZhbGlkIHJlY2lwZSBJRCIpCiAgICAKICAgIGlmIHJlY2lwZSBpcyBOb25lOgogICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oc3RhdHVzX2NvZGU9NDA0LCBkZXRhaWw9IlJlY2lwZSBjb3VsZCBub3QgYmUgZm91bmQiKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdGQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICByZWNpcGUgPSBhd2FpdCBjcnVkLmdldF9yZWNpcGVfYnlfaWQocmVjaXBlX2lkKQogICAgZXhjZXB0IGJzb24uZXJyb3JzLkludmFsaWRJZDoKICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKHN0YXR1c19jb2RlPTQyMiwgZGV0YWlsPSJJbnZhbGlkIHJlY2lwZSBJRCIpCiAgICAKICAgIGlmIHJlY2lwZSBpcyBOb25lOgogICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oc3RhdHVzX2NvZGU9NDA0LCBkZXRhaWw9IlJlY2lwZSBjb3VsZCBub3QgYmUgZm91bmQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvMi9n</text>
