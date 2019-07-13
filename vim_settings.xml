@@ -650,8 +650,8 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/models.py" timestamp="1562895399631">
-        <mark key="[" line="27" column="24" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/models.py" timestamp="1563044712453">
+        <mark key="[" line="39" column="8" />
         <mark key="]" line="35" column="16" />
         <mark key="." line="35" column="16" />
         <mark key="^" line="35" column="16" />
