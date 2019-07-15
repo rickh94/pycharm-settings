@@ -338,11 +338,11 @@
         <mark key="^" line="1" column="303" />
         <mark key="." line="1" column="303" />
       </file>
-      <file name="$USER_HOME$/repositories/title-page/templates/title_page.html" timestamp="1563221567464">
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="59" column="22" />
-        <mark key="^" line="55" column="25" />
-        <mark key="." line="59" column="22" />
+      <file name="$USER_HOME$/repositories/title-page/templates/title_page.html" timestamp="1563222923796">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/movement_commands.py" timestamp="1546718443366">
         <mark key="[" line="29" column="0" />
@@ -999,11 +999,11 @@
         <mark key="." line="56" column="16" />
         <mark key="^" line="56" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/title-page/serverless.yml" timestamp="1563219430230">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="61" />
-        <mark key="." line="9" column="61" />
-        <mark key="^" line="9" column="61" />
+      <file name="$USER_HOME$/repositories/title-page/serverless.yml" timestamp="1563222267815">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
         <mark key="[" line="0" column="0" />
@@ -1564,8 +1564,8 @@
       <jump line="29" column="4" filename="$USER_HOME$/repositories/title-page/title_page.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PUNhcmRvJmRpc3BsYXk9c3dhcCIgcmVsPSJzdHlsZXNoZWV0Ij4KPGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU5vdG8rU2VyaWYmZGlzcGxheT1zd2FwIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1594,7 +1594,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Noto Serif</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
@@ -1615,31 +1615,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB3ZWFzeXByaW50IGltcG9ydAo=</text>
+        <text encoding="base64">PGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PUNhcmRvJmRpc3BsYXk9c3dhcCIgcmVsPSJzdHlsZXNoZWV0Ij4KPGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU5vdG8rU2VyaWYmZGlzcGxheT1zd2FwIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4dHJhX2luZm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLmdldGVudigiUERGS0lUX1BBVEgiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PUFtaXJpJmRpc3BsYXk9c3dhcCIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFByb3BlcnRpZXM6CiAgICAgIENvcnNDb25maWd1cmF0aW9uOgogICAgICAgIENvcnNSdWxlczoKICAgICAgICAgIC0KICAgICAgICAgICAgQWxsb3dlZE9yaWdpbnM6CiAgICAgICAgICAgICAgLSAnKicKICAgICAgICAgICAgQWxsb3dlZEhlYWRlcnM6CiAgICAgICAgICAgICAgLSAnKicKICAgICAgICAgICAgQWxsb3dlZE1ldGhvZHMK</text>
+        <text encoding="base64">PGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PUNyaW1zb24rVGV4dCZkaXNwbGF5PXN3YXAiIHJlbD0ic3R5bGVzaGVldCI+Cgo8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9RUIrR2FyYW1vbmQmZGlzcGxheT1zd2FwIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">PGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PUxpYnJlK0Jhc2tlcnZpbGxlJmRpc3BsYXk9c3dhcCIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlbnZpcm9ubWVudDoK</text>
+        <text encoding="base64">ZnJvbSB3ZWFzeXByaW50IGltcG9ydAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBERktJVF9QQVRIOiAnLi9iaW5hcnkvd2todG1sdG9wZGYnCg==</text>
+        <text encoding="base64">ICAgIGV4dHJhX2luZm8K</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
