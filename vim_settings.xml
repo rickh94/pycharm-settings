@@ -63,11 +63,11 @@
         <mark key="^" line="29" column="56" />
         <mark key="." line="29" column="56" />
       </file>
-      <file name="$USER_HOME$/repositories/title-page/docker-compose.yml" timestamp="1563301347668">
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="25" />
+      <file name="$USER_HOME$/repositories/title-page/docker-compose.yml" timestamp="1563302796630">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="26" column="10" />
+        <mark key="." line="26" column="10" />
+        <mark key="^" line="26" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/delete.py" timestamp="1558502368102">
         <mark key="[" line="11" column="31" />
@@ -1592,7 +1592,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>config</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1621,7 +1621,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
