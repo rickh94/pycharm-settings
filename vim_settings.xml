@@ -741,11 +741,11 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="83" />
       </file>
-      <file name="$USER_HOME$/repositories/title-page/Dockerfile" timestamp="1563244718827">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="38" />
-        <mark key="^" line="6" column="38" />
+      <file name="$USER_HOME$/repositories/title-page/Dockerfile" timestamp="1563294512236">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-todo-event.json" timestamp="1559169387670">
         <mark key="[" line="2" column="10" />
@@ -1336,11 +1336,11 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/repositories/title-page/title_page.py" timestamp="1563251639988">
-        <mark key="'" line="98" column="33" />
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="36" column="41" />
-        <mark key="." line="36" column="41" />
+      <file name="$USER_HOME$/repositories/title-page/title_page.py" timestamp="1563293921090">
+        <mark key="'" line="115" column="4" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="4" />
+        <mark key="." line="129" column="4" />
         <mark key="^" line="36" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipe_box/router.py" timestamp="1562988609707">
@@ -1482,7 +1482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="23" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
       <jump line="98" column="30" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
       <jump line="123" column="35" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
       <jump line="218" column="9" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
@@ -1582,10 +1581,11 @@
       <jump line="29" column="4" filename="$USER_HOME$/repositories/title-page/title_page.py" />
       <jump line="69" column="33" filename="$USER_HOME$/repositories/title-page/title_page.py" />
       <jump line="9" column="22" filename="$USER_HOME$/repositories/title-page/title_page.py" />
+      <jump line="115" column="4" filename="$USER_HOME$/repositories/title-page/title_page.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>texlive-fonts-extra</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1614,7 +1614,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>texlive-fonts-extra</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
@@ -1635,31 +1635,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UERGX1BBVEggPSBQYXRoKCd0bXAnKQo=</text>
+        <text encoding="base64">UlVOCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZyb250ZW5kID0gUGF0aChfX2ZpbGVfXykucGFyZW50LmFic29sdXRlKCkgLyAiZnJvbnRlbmQiCiAgICBmb3JtX2ZpbGUgPSBmcm9udGVuZCAvICdkaXN0JyAvICJpbmRleC5odG1sIgogICAgd2l0aCBmb3JtX2ZpbGUub3BlbigiciIpIGFzIGh0bWxfZmlsZToKICAgICAgICBodG1sID0gaHRtbF9maWxlLnJlYWQoKQo=</text>
+        <text encoding="base64">UERGX1BBVEggPSBQYXRoKCd0bXAnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgczMgPSBib3RvMy5jbGllbnQoInMzIikKICAgICMgYnVja2V0ID0gb3MuZ2V0ZW52KCJCVUNLRVRfTkFNRSIpCiAgICAjIHMzLnVwbG9hZF9maWxlKHN0cihwZGZfcGF0aCksIEtleT1zdHIocGRmX3BhdGgubmFtZSksIEJ1Y2tldD1idWNrZXQpCiAgICAjIHVybCA9IHMzLmdlbmVyYXRlX3ByZXNpZ25lZF91cmwoCiAgICAjICAgICAiZ2V0X29iamVjdCIsIFBhcmFtcz17IktleSI6IHN0cihwZGZfcGF0aC5uYW1lKSwgIkJ1Y2tldCI6IGJ1Y2tldH0KICAgICMgKQoKICAgICMgcmV0dXJuIHsiZG93bmxvYWRfZmlsZSI6IHVybH0K</text>
+        <text encoding="base64">ICAgIGZyb250ZW5kID0gUGF0aChfX2ZpbGVfXykucGFyZW50LmFic29sdXRlKCkgLyAiZnJvbnRlbmQiCiAgICBmb3JtX2ZpbGUgPSBmcm9udGVuZCAvICdkaXN0JyAvICJpbmRleC5odG1sIgogICAgd2l0aCBmb3JtX2ZpbGUub3BlbigiciIpIGFzIGh0bWxfZmlsZToKICAgICAgICBodG1sID0gaHRtbF9maWxlLnJlYWQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBjbGFzcyBPdXRwdXQoQmFzZU1vZGVsKToKIyAgICAgdXJsOiBzdHIKCgo=</text>
+        <text encoding="base64">ICAgICMgczMgPSBib3RvMy5jbGllbnQoInMzIikKICAgICMgYnVja2V0ID0gb3MuZ2V0ZW52KCJCVUNLRVRfTkFNRSIpCiAgICAjIHMzLnVwbG9hZF9maWxlKHN0cihwZGZfcGF0aCksIEtleT1zdHIocGRmX3BhdGgubmFtZSksIEJ1Y2tldD1idWNrZXQpCiAgICAjIHVybCA9IHMzLmdlbmVyYXRlX3ByZXNpZ25lZF91cmwoCiAgICAjICAgICAiZ2V0X29iamVjdCIsIFBhcmFtcz17IktleSI6IHN0cihwZGZfcGF0aC5uYW1lKSwgIkJ1Y2tldCI6IGJ1Y2tldH0KICAgICMgKQoKICAgICMgcmV0dXJuIHsiZG93bmxvYWRfZmlsZSI6IHVybH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXJsbGliMyA9ICIqIgo=</text>
+        <text encoding="base64">IyBjbGFzcyBPdXRwdXQoQmFzZU1vZGVsKToKIyAgICAgdXJsOiBzdHIKCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRtcGZzOgogICAgICAtIC90bXAK</text>
+        <text encoding="base64">dXJsbGliMyA9ICIqIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2b2x1bWVzOgogICAgLSAuOi9hcHAK</text>
+        <text encoding="base64">ICAgIHRtcGZzOgogICAgICAtIC90bXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHV2aWNvcm4ucnVuKGFwcCwgaG9zdD0iMC4wLjAuMCIsIHBvcnQ9KQo=</text>
+        <text encoding="base64">ICB2b2x1bWVzOgogICAgLSAuOi9hcHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgczMudXBsb2FkX2ZpbGUoc3RyKGh0bWxfcGF0aCksIEtleT1zdHIoaHRtbF9wYXRoLm5hbWUpLCBCdWNrZXQ9YnVja2V0KQo=</text>
+        <text encoding="base64">ICAgIHV2aWNvcm4ucnVuKGFwcCwgaG9zdD0iMC4wLjAuMCIsIHBvcnQ9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
@@ -1743,6 +1743,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
