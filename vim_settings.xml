@@ -63,10 +63,10 @@
         <mark key="^" line="29" column="56" />
         <mark key="." line="29" column="56" />
       </file>
-      <file name="$USER_HOME$/repositories/title-page/docker-compose.yml" timestamp="1563302796630">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="26" column="10" />
-        <mark key="." line="26" column="10" />
+      <file name="$USER_HOME$/repositories/title-page/docker-compose.yml" timestamp="1563305759264">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
         <mark key="^" line="26" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/delete.py" timestamp="1558502368102">
@@ -1591,8 +1591,8 @@
       <jump line="60" column="26" filename="$USER_HOME$/repositories/title-page/title_page.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>config</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSAuL2RhdGEvbmdpbng6L2V0Yy9uZ2lueC9jb25mLmQvCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1627,7 +1627,7 @@
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAZm9udC1mYWNlIHsKICAgIGZvbnQtZmFtaWx5OiAnQ29ybW9yYW50IEdhcmFtb25kJzsKICAgIHNyYzogdXJsKGZpbGU6Ly97e2hlcmV9fS9Db3Jtb3JhbnRHYXJhbW9uZC1SZWd1bGFyLnR0Zik7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi9kYXRhL25naW54Oi9ldGMvbmdpbngvY29uZi5kLwogICAgICAtIC4vZGF0YS9jZXJ0Ym90L2NvbmY6L2V0Yy9sZXRzZW5jcnlwdAogICAgICAtIC4vZGF0YS9jZXJ0Ym90L3d3dzovdmFyL3d3dy9jZXJ0Ym90Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1642,31 +1642,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAuL2RhdGEvbmdpbng6L2V0Yy9uZ2lueC9jb25mLmQvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDoK</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBkZmtpdAo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvbnRfY29uZmlnID0gd2Vhc3lwcmludC5mb250cy5Gb250Q29uZmlndXJhdGlvbigpCiAgICBoZXJlID0gUGF0aChfX2ZpbGVfXykucGFyZW50LmFic29sdXRlKCkgLyAidGVtcGxhdGVzIgo=</text>
+        <text encoding="base64">aW1wb3J0IHBkZmtpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRvX3BkZihpbl9wYXRoLCBvdXRfcGF0aCk6CiAgICBoZXJlID0gUGF0aChfX2ZpbGVfXykKICAgIGJhc2UgPSBoZXJlLnBhcmVudAogICAgY29uZmlnID0gcGRma2l0LmNvbmZpZ3VyYXRpb24od2todG1sdG9wZGY9c3RyKHdraHRtbHRvcGRmX3BhdGgpKQogICAgcGRma2l0LmZyb21fZmlsZShzdHIoaW5fcGF0aCksIHN0cihvdXRfcGF0aCksIGNvbmZpZ3VyYXRpb249Y29uZmlnKQoKCg==</text>
+        <text encoding="base64">ICAgIGZvbnRfY29uZmlnID0gd2Vhc3lwcmludC5mb250cy5Gb250Q29uZmlndXJhdGlvbigpCiAgICBoZXJlID0gUGF0aChfX2ZpbGVfXykucGFyZW50LmFic29sdXRlKCkgLyAidGVtcGxhdGVzIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdraHRtbHRvcGRmX3BhdGggPSBiYXNlIC8gImJpbmFyeSIgLyAid2todG1sdG9wZGYiCg==</text>
+        <text encoding="base64">ZGVmIHRvX3BkZihpbl9wYXRoLCBvdXRfcGF0aCk6CiAgICBoZXJlID0gUGF0aChfX2ZpbGVfXykKICAgIGJhc2UgPSBoZXJlLnBhcmVudAogICAgY29uZmlnID0gcGRma2l0LmNvbmZpZ3VyYXRpb24od2todG1sdG9wZGY9c3RyKHdraHRtbHRvcGRmX3BhdGgpKQogICAgcGRma2l0LmZyb21fZmlsZShzdHIoaW5fcGF0aCksIHN0cihvdXRfcGF0aCksIGNvbmZpZ3VyYXRpb249Y29uZmlnKQoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvbnRfY29uZmlnPWZvbnRfY29uZmlnLAogICAgICAgICMgc3R5bGVzaGVldHM9W2Nzc10K</text>
+        <text encoding="base64">ICAgIHdraHRtbHRvcGRmX3BhdGggPSBiYXNlIC8gImJpbmFyeSIgLyAid2todG1sdG9wZGYiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgY3NzID0gd2Vhc3lwcmludC5DU1MoCiAgICAjICAgICBzdHJpbmc9KAogICAgIyAgICAgICAgICJAZm9udC1mYWNlIHsiCiAgICAjICAgICAgICAgIiAgIGZvbnQtZmFtaWx5OiAnQ29ybW9yYW50IEdhcmFtb25kJzsiCiAgICAjICAgICAgICAgZiIgICBzcmM6IHVybChmaWxlOi8ve2hlcmV9L0Nvcm1vcmFudEdhcmFtb25kLVJlZ3VsYXIudHRmKTsiCiAgICAjICAgICAgICAgIn0iCiAgICAjICAgICApLAogICAgIyAgICAgZm9udF9jb25maWc9Zm9udF9jb25maWcsCiAgICAjICkK</text>
+        <text encoding="base64">ICAgICAgICAjIGZvbnRfY29uZmlnPWZvbnRfY29uZmlnLAogICAgICAgICMgc3R5bGVzaGVldHM9W2Nzc10K</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
