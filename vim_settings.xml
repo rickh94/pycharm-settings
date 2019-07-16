@@ -135,6 +135,12 @@
         <mark key="." line="16" column="29" />
         <mark key="^" line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/repositories/title-page/frontend/package.json" timestamp="1563247294810">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="14" column="51" />
+        <mark key="^" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+      </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/conftest.py" timestamp="1562943267081">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="155" column="45" />
@@ -1331,12 +1337,12 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/repositories/title-page/title_page.py" timestamp="1563246071278">
-        <mark key="'" line="87" column="33" />
-        <mark key="[" line="35" column="13" />
-        <mark key="]" line="35" column="17" />
-        <mark key="." line="35" column="17" />
-        <mark key="^" line="35" column="17" />
+      <file name="$USER_HOME$/repositories/title-page/title_page.py" timestamp="1563246858722">
+        <mark key="'" line="90" column="33" />
+        <mark key="[" line="31" column="59" />
+        <mark key="]" line="31" column="72" />
+        <mark key="." line="31" column="72" />
+        <mark key="^" line="31" column="72" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipe_box/router.py" timestamp="1562988609707">
         <mark key="[" line="12" column="7" />
@@ -1580,7 +1586,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>here</text>
+        <text>HTMLResponse(html)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1609,7 +1615,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>here</text>
+        <text>HTMLResponse(html)</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
@@ -1630,31 +1636,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgczMgPSBib3RvMy5jbGllbnQoInMzIikKICAgICMgYnVja2V0ID0gb3MuZ2V0ZW52KCJCVUNLRVRfTkFNRSIpCiAgICAjIHMzLnVwbG9hZF9maWxlKHN0cihwZGZfcGF0aCksIEtleT1zdHIocGRmX3BhdGgubmFtZSksIEJ1Y2tldD1idWNrZXQpCiAgICAjIHVybCA9IHMzLmdlbmVyYXRlX3ByZXNpZ25lZF91cmwoCiAgICAjICAgICAiZ2V0X29iamVjdCIsIFBhcmFtcz17IktleSI6IHN0cihwZGZfcGF0aC5uYW1lKSwgIkJ1Y2tldCI6IGJ1Y2tldH0KICAgICMgKQoKICAgICMgcmV0dXJuIHsiZG93bmxvYWRfZmlsZSI6IHVybH0K</text>
+        <text encoding="base64">ICAgIGZyb250ZW5kID0gUGF0aChfX2ZpbGVfXykucGFyZW50LmFic29sdXRlKCkgLyAiZnJvbnRlbmQiCiAgICBmb3JtX2ZpbGUgPSBmcm9udGVuZCAvICdkaXN0JyAvICJpbmRleC5odG1sIgogICAgd2l0aCBmb3JtX2ZpbGUub3BlbigiciIpIGFzIGh0bWxfZmlsZToKICAgICAgICBodG1sID0gaHRtbF9maWxlLnJlYWQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjbGFzcyBPdXRwdXQoQmFzZU1vZGVsKToKIyAgICAgdXJsOiBzdHIKCgo=</text>
+        <text encoding="base64">ICAgICMgczMgPSBib3RvMy5jbGllbnQoInMzIikKICAgICMgYnVja2V0ID0gb3MuZ2V0ZW52KCJCVUNLRVRfTkFNRSIpCiAgICAjIHMzLnVwbG9hZF9maWxlKHN0cihwZGZfcGF0aCksIEtleT1zdHIocGRmX3BhdGgubmFtZSksIEJ1Y2tldD1idWNrZXQpCiAgICAjIHVybCA9IHMzLmdlbmVyYXRlX3ByZXNpZ25lZF91cmwoCiAgICAjICAgICAiZ2V0X29iamVjdCIsIFBhcmFtcz17IktleSI6IHN0cihwZGZfcGF0aC5uYW1lKSwgIkJ1Y2tldCI6IGJ1Y2tldH0KICAgICMgKQoKICAgICMgcmV0dXJuIHsiZG93bmxvYWRfZmlsZSI6IHVybH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXJsbGliMyA9ICIqIgo=</text>
+        <text encoding="base64">IyBjbGFzcyBPdXRwdXQoQmFzZU1vZGVsKToKIyAgICAgdXJsOiBzdHIKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRtcGZzOgogICAgICAtIC90bXAK</text>
+        <text encoding="base64">dXJsbGliMyA9ICIqIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2b2x1bWVzOgogICAgLSAuOi9hcHAK</text>
+        <text encoding="base64">ICAgIHRtcGZzOgogICAgICAtIC90bXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHV2aWNvcm4ucnVuKGFwcCwgaG9zdD0iMC4wLjAuMCIsIHBvcnQ9KQo=</text>
+        <text encoding="base64">ICB2b2x1bWVzOgogICAgLSAuOi9hcHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgczMudXBsb2FkX2ZpbGUoc3RyKGh0bWxfcGF0aCksIEtleT1zdHIoaHRtbF9wYXRoLm5hbWUpLCBCdWNrZXQ9YnVja2V0KQo=</text>
+        <text encoding="base64">ICAgIHV2aWNvcm4ucnVuKGFwcCwgaG9zdD0iMC4wLjAuMCIsIHBvcnQ9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdXJsID0gczMuZ2VuZXJhdGVfcHJlc2lnbmVkX3VybCgKICAgICMgICAgICJnZXRfb2JqZWN0IiwgUGFyYW1zPXsiS2V5Ijogc3RyKGh0bWxfcGF0aC5uYW1lKSwgIkJ1Y2tldCI6IGJ1Y2tldH0KICAgICMgKQo=</text>
+        <text encoding="base64">ICAgICMgczMudXBsb2FkX2ZpbGUoc3RyKGh0bWxfcGF0aCksIEtleT1zdHIoaHRtbF9wYXRoLm5hbWUpLCBCdWNrZXQ9YnVja2V0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgdXJsID0gczMuZ2VuZXJhdGVfcHJlc2lnbmVkX3VybCgKICAgICMgICAgICJnZXRfb2JqZWN0IiwgUGFyYW1zPXsiS2V5Ijogc3RyKGh0bWxfcGF0aC5uYW1lKSwgIkJ1Y2tldCI6IGJ1Y2tldH0KICAgICMgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
