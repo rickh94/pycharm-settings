@@ -529,11 +529,6 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/title-page/docker-compose.dev.yml" timestamp="1563319958105">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/common.py" timestamp="1562258292016">
         <mark key="[" line="66" column="18" />
         <mark key="]" line="66" column="38" />
@@ -672,11 +667,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/models.py" timestamp="1563044980599">
-        <mark key="[" line="42" column="10" />
-        <mark key="]" line="42" column="13" />
-        <mark key="." line="42" column="13" />
-        <mark key="^" line="42" column="13" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/models.py" timestamp="1563828141624">
+        <mark key="[" line="35" column="97" />
+        <mark key="]" line="35" column="104" />
+        <mark key="." line="35" column="104" />
+        <mark key="^" line="35" column="104" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/scripts_server/config/nginx/app.conf" timestamp="1562270512998">
         <mark key="[" line="8" column="34" />
@@ -1547,8 +1542,8 @@
       <jump line="9" column="18" filename="$USER_HOME$/repositories/title-page/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q09QWSAuL2FwcCAvYXBwL2FwcAo=</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1577,7 +1572,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
