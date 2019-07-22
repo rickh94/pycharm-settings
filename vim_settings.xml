@@ -151,6 +151,12 @@
         <mark key="." line="215" column="61" />
         <mark key="^" line="215" column="61" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/main.py" timestamp="1563821244536">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+      </file>
       <file name="$USER_HOME$/repositories/title-page/config/nginx/app.conf" timestamp="1563301576752">
         <mark key="[" line="18" column="83" />
         <mark key="]" line="21" column="49" />
@@ -1542,7 +1548,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGlkKHNlbGYpOgogICAgIyAgICAgcmV0dXJuIHN0cihzZWxmLl9pZCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7Im1lc3NhZ2UiOiAiaGVsbG8gd29ybGQifQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1571,7 +1577,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
@@ -1592,31 +1598,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGlkKHNlbGYpOgogICAgIyAgICAgcmV0dXJuIHN0cihzZWxmLl9pZCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7Im1lc3NhZ2UiOiAiaGVsbG8gd29ybGQifQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRfb25fbWVzYWdlKCkK</text>
+        <text encoding="base64">ICAgICMgZGVmIGlkKHNlbGYpOgogICAgIyAgICAgcmV0dXJuIHN0cihzZWxmLl9pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRfb25fbWVzYWdlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gNDM2OQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gMjU2NzIK</text>
+        <text encoding="base64">ICAgIC0gNDM2OQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gMTU2NzIK</text>
+        <text encoding="base64">ICAgIC0gMjU2NzIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB3b3JrZXIuY2VsZXJ5X2FwcAo=</text>
+        <text encoding="base64">ICAgIC0gMTU2NzIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICI4MDgwOjgwIgo=</text>
+        <text encoding="base64">ZnJvbSB3b3JrZXIuY2VsZXJ5X2FwcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICI4MDgwOjgwIgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
