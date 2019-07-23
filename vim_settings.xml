@@ -685,9 +685,10 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/models.py" timestamp="1562258459448">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/models.py" timestamp="1563852305151">
+        <mark key="'" line="33" column="47" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="50" column="44" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="61" />
       </file>
@@ -1075,6 +1076,12 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/scratch/pynamodantic/pydantic_models.py" timestamp="1563853254232">
+        <mark key="[" line="106" column="27" />
+        <mark key="]" line="107" column="20" />
+        <mark key="^" line="107" column="20" />
+        <mark key="." line="107" column="20" />
+      </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/router.py" timestamp="1563843305096">
         <mark key="[" line="91" column="39" />
         <mark key="]" line="91" column="65" />
@@ -1455,7 +1462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="31" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="82" column="31" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="99" column="42" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="105" column="59" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
@@ -1555,10 +1561,11 @@
       <jump line="238" column="71" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_recipes.py" />
       <jump line="246" column="11" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_recipes.py" />
       <jump line="298" column="4" filename="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_recipes.py" />
+      <jump line="33" column="47" filename="$USER_HOME$/repositories/instrument-inventory/app/lib/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQ9InBhc3N3b3JkIiwK</text>
+      <register name="&quot;" type="4">
+        <text>tInDB</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1587,13 +1594,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>22</text>
+        <text>tInDB</text>
       </register>
       <register name="/" type="4">
         <text>recipe2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5ld19wYXNzd29yZCA9ICIxIgogICAgcmVzcG9uc2UgPSB0ZXN0X2NsaWVudC5wb3N0KAogICAgICAgICIvYXV0aC91cGRhdGUtcGFzc3dvcmQiLCBqc29uPXsicGFzc3dvcmQiOiBuZXdfcGFzc3dvcmR9LCBoZWFkZXJzPXVzZXIxX2hlYWRlcnMKICAgICkKCiAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gNDIyCiAgICB1c2VyX2RvYyA9IGRiLnVzZXJzLmZpbmRfb25lKHsiX2lkIjogdXNlcjFbImlkIl19KQogICAgYXNzZXJ0IG5vdCBwd2RfY29udGV4dC52ZXJpZnkoCiAgICAgICAgbmV3X3Bhc3N3b3JkLCB1c2VyX2RvY1siaGFzaGVkX3Bhc3N3b3JkIl0KICAgICksICJOZXcgcGFzc3dvcmQgZG9lcyBub3QgdmFsaWRhdGUgYWdhaW5zdCBkYiIK</text>
+        <text encoding="base64">ICAgIGNvbmRpdGlvbjogaW50ID0gU2NoZW1hKE5vbmUsIHRpdGxlPSJDb25kaXRpb24iLCBndD0wLCBsdD02KQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1608,31 +1615,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQ9InBhc3N3b3JkIiwK</text>
+        <text encoding="base64">ICAgIGlkOiBzdHIgPSBTY2hlbWEoCiAgICAgICAgLi4uLCB0aXRsZT0iSUQiLCBkZXNjcmlwdGlvbj0iVGhlIGlkIG9mIHRoZSBpbnN0cnVtZW50IGluIHRoZSBkYXRhYmFzZSIKICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQ9InBhc3N3b3JkIiwK</text>
+        <text encoding="base64">ICAgIHBob3RvOiBzdHIgPSBTY2hlbWEoTm9uZSwgdGl0bGU9IlBob3RvIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBob3RvOiBzdHIgPSBTY2hlbWEoTm9uZSwgdGl0bGU9IlBob3RvIiwgZGVzY3JpcHRpb249IkZpbGVuYW1lIG9mIHRoZSBwaG90byIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgIGJvdzogYm9vbCA9IFNjaGVtYShGYWxzZSwgdGl0bGU9IkJvdyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgIHJvc2luOiBib29sID0gU2NoZW1hKEZhbHNlLCB0aXRsZT0iUm9zaW4iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFsaWFzPSJOYW1lIiwK</text>
+        <text encoding="base64">ICAgIHNob3VsZGVyUmVzdEVuZHBpblJlc3Q6IGJvb2wgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFsaWFzPSJJbmdyZWRpZW50cyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXQ9InBhc3N3b3JkIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXQ9InBhc3N3b3JkIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvZnJvbnRlbmQvZGlzdAoKI1dPUktESVIgL2FwcC9hcHAKUlVOIGxzIC9hcHAvYXBwLyoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
