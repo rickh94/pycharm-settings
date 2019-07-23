@@ -666,11 +666,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/models.py" timestamp="1563843272021">
-        <mark key="[" line="59" column="6" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="8" />
-        <mark key="^" line="59" column="8" />
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/models.py" timestamp="1563847745515">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="57" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/scripts_server/config/nginx/app.conf" timestamp="1562270512998">
         <mark key="[" line="8" column="34" />
@@ -1557,7 +1557,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXQ9InBhc3N3b3JkIiwK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1607,31 +1607,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXQ9InBhc3N3b3JkIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXQ9InBhc3N3b3JkIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFsaWFzPSJOYW1lIiwK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFsaWFzPSJJbmdyZWRpZW50cyIsCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIGFsaWFzPSJOYW1lIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvZnJvbnRlbmQvZGlzdAoKI1dPUktESVIgL2FwcC9hcHAKUlVOIGxzIC9hcHAvYXBwLyoK</text>
+        <text encoding="base64">ICAgICAgICAjIGFsaWFzPSJJbmdyZWRpZW50cyIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9hcHAvYXBwL2Zyb250ZW5kL2Rpc3QK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I1dPUktESVIgL2FwcC9hcHAK</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvZnJvbnRlbmQvZGlzdAoKI1dPUktESVIgL2FwcC9hcHAKUlVOIGxzIC9hcHAvYXBwLyoK</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
