@@ -12,11 +12,11 @@
       <file name="/a.dummy" timestamp="1563387287290">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/conftest.py" timestamp="1563921612417">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="45" />
-        <mark key="." line="5" column="45" />
-        <mark key="^" line="14" column="7" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/conftest.py" timestamp="1563925429264">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="16" column="68" />
+        <mark key="." line="16" column="68" />
+        <mark key="^" line="16" column="68" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event.json" timestamp="1563857888894">
         <mark key="[" line="1" column="36" />
@@ -817,11 +817,11 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563922209087">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="41" column="22" />
-        <mark key="." line="44" column="22" />
-        <mark key="^" line="41" column="22" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563925791393">
+        <mark key="[" line="71" column="72" />
+        <mark key="]" line="72" column="19" />
+        <mark key="." line="72" column="19" />
+        <mark key="^" line="72" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
         <mark key="[" line="12" column="26" />
@@ -1513,9 +1513,9 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event-full.json" timestamp="1563858534407">
-        <mark key="[" line="1" column="167" />
-        <mark key="]" line="1" column="167" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event-full.json" timestamp="1563925514285">
+        <mark key="[" line="1" column="291" />
+        <mark key="]" line="1" column="349" />
         <mark key="." line="1" column="167" />
         <mark key="^" line="1" column="178" />
       </file>
@@ -1690,7 +1690,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1719,13 +1719,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>&quot;create&quot;</text>
       </register>
       <register name="/" type="4">
         <text>thumbnail</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBib2R5WydzaXplJ10gPT0gZXZlbnRfYm9keVsnc2l6ZSddCg==</text>
+      <register name="0" type="4">
+        <text>https://unsplash.com/photos/uqKyeMaaAOQ/download?force=true</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1740,31 +1740,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QHB5dGVzdAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KHJlc3VsdF9kYXRhKQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCAwCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/thumbnail/full/g</text>
