@@ -701,11 +701,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/decorators.py" timestamp="1563858260690">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="12" />
-        <mark key="." line="65" column="12" />
-        <mark key="^" line="18" column="36" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/decorators.py" timestamp="1563859611113">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="45" />
+        <mark key="." line="23" column="45" />
+        <mark key="^" line="23" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_auth/test_crud.py" timestamp="1562870769456">
         <mark key="[" line="0" column="25" />
@@ -1582,7 +1582,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>failure(err.json(), 422)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1611,7 +1611,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>failure(err.json(), 422)</text>
       </register>
       <register name="/" type="4">
         <text>recipe2</text>
