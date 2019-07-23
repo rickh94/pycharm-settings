@@ -1261,6 +1261,11 @@
         <mark key="^" line="54" column="72" />
         <mark key="." line="54" column="72" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/utils/api_models.py" timestamp="1563898574896">
+        <mark key="[" line="137" column="81" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/Dockerfile" timestamp="1547843708354">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="41" />
@@ -1581,8 +1586,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/repositories/instrument-inventory/Justfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>failure(err.json(), 422)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1632,31 +1637,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHB5ZGFudGljLlZhbGlkYXRpb25FcnJvciBhcyBlcnI6CiAgICAgICAgICAgICAgICByZXR1cm4gZmFpbHVyZShlcnIuanNvbigpLCA0MjIpCg==</text>
+        <text encoding="base64">ICAgIEB2YWxpZGF0b3IoJ3R5cGUnLCAnc2l6ZScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkeT1GYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaG91bGRlclJlc3RFbmRwaW5SZXN0PUZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHB5ZGFudGljLlZhbGlkYXRpb25FcnJvciBhcyBlcnI6CiAgICAgICAgICAgICAgICByZXR1cm4gZmFpbHVyZShlcnIuanNvbigpLCA0MjIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib3c9RmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICByZWFkeT1GYWxzZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb3Npbj1GYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICBzaG91bGRlclJlc3RFbmRwaW5SZXN0PUZhbHNlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QHNvbWV0aGluZ19taWdodF9nb193cm9uZwo=</text>
+        <text encoding="base64">ICAgICAgICBib3c9RmFsc2UsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBudW1iZXI9ZGF0YVsiaW5zdHJ1bWVudE51bWJlciJdLnVwcGVyKCksCiAgICAgICAgdHlwZT1kYXRhWyJpbnN0cnVtZW50VHlwZSJdLAogICAgICAgIHNpemU9ZGF0YVsic2l6ZSJdLAogICAgICAgIGxvY2F0aW9uPWRhdGFbImxvY2F0aW9uIl0sCiAgICAgICAgYXNzaWduZWRUbz1kYXRhLmdldCgiYXNzaWduZWRUbyIsIE5vbmUpLAogICAgICAgIG1haW50ZW5hbmNlTm90ZXM9ZGF0YS5nZXQoIm1haW50ZW5hbmNlTm90ZXMiLCBOb25lKSwKICAgICAgICBjb25kaXRpb25Ob3Rlcz1kYXRhLmdldCgiY29uZGl0aW9uTm90ZXMiLCBOb25lKSwKICAgICAgICBjb25kaXRpb249ZGF0YS5nZXQoImNvbmRpdGlvbiIsIE5vbmUpLAogICAgICAgIHF1YWxpdHk9ZGF0YS5nZXQoInF1YWxpdHkiLCBOb25lKSwKICAgICAgICByb3Npbj1kYXRhLmdldCgicm9zaW4iLCBGYWxzZSksCiAgICAgICAgYm93PWRhdGEuZ2V0KCJib3ciLCBGYWxzZSksCiAgICAgICAgc2hvdWxkZXJSZXN0RW5kcGluUmVzdD1kYXRhLmdldCgic2hvdWxkZXJSZXN0Um9ja1N0b3AiLCBGYWxzZSksCiAgICAgICAgcmVhZHk9ZGF0YS5nZXQoInJlYWR5VG9HbyIsIEZhbHNlKSwKICAgICAgICBnaWZ0ZWQ9ZGF0YS5nZXQoImdpZnRlZCIsIEZhbHNlKSwKICAgICAgICBwaG90bz1waG90b19pZCwK</text>
+        <text encoding="base64">ICAgICAgICByb3Npbj1GYWxzZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QHNvbWV0aGluZ19taWdodF9nb193cm9uZwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
