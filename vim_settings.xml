@@ -735,13 +735,6 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/models.py" timestamp="1563852305151">
-        <mark key="'" line="33" column="47" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="50" column="44" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="21" column="61" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/decorators.py" timestamp="1563859611113">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="45" />
@@ -808,11 +801,8 @@
         <mark key="^" line="2" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563996537164">
-        <mark key="'" line="265" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="265" column="79" />
+        <mark key="'" line="264" column="0" />
+        <mark key="^" line="264" column="79" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
         <mark key="[" line="12" column="26" />
@@ -1154,13 +1144,6 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
-      </file>
-      <file name="$USER_HOME$/scratch/pynamodantic/pydantic_models.py" timestamp="1563855885329">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="121" column="5" />
-        <mark key="^" line="27" column="36" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/router.py" timestamp="1563843305096">
         <mark key="[" line="91" column="39" />
