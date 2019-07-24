@@ -93,10 +93,10 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="28" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/schema.py" timestamp="1563991909114">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/schema.py" timestamp="1563993354451">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-photo-event.json" timestamp="1563931341863">
         <mark key="[" line="4" column="29" />
@@ -840,10 +840,10 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1563942469870">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless.yml" timestamp="1563993048329">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/resources/cognito-identity-pool.yml" timestamp="1560879327724">
         <mark key="[" line="87" column="34" />
@@ -1696,7 +1696,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhlYWQgPSB7CiAgICAgICAgCiAgICB9CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1746,34 +1746,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWQgPSB7CiAgICAgICAgCiAgICB9CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiZml0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcXVlc3RCb2R5OgogICAgICAgICAgICBtb2RlbDogSW5zdHJ1bWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSJtb2R1bGUiKQo=</text>
+        <text encoding="base64">ICAgIGhlYWQgPSB7CiAgICAgICAgCiAgICB9CiAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHRlc3Rfc2VhcmNoX2Fzc2lnbmVkKCkK</text>
+        <text encoding="base64">ICAgICAgICAiZml0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSJtb2R1bGUiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZGVmIHRlc3Rfc2VhcmNoX2Fzc2lnbmVkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAicGhvdG8iOiAiaHR0cHM6Ly91bnNwbGFzaC5jb20vcGhvdG9zL3VxS3llTWFhQU9RL2Rvd25sb2FkP2ZvcmNlPXRydWUiLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAibWFpbnRlbmFuY2VOb3RlcyI6ICJ0ZXN0IG1haW50ZW5hbmNlIiwKICAgICAgICAiY29uZGl0aW9uTm90ZXMiOiAidGVzdCBjb25kaXRpb24iLAogICAgICAgICJjb25kaXRpb24iOiA1LAogICAgICAgICJxdWFsaXR5IjogIjMiLAogICAgICAgICJnaWZ0ZWQiOiBUcnVlLAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="x" type="4">
         <text>_</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhdGhfcGFyYW1ldGVycyA9IHsiaWQiOiBpbnN0cnVtZW50MVsnaWQnXX0K</text>
+        <text encoding="base64">ICAgICAgICAicGhvdG8iOiAiaHR0cHM6Ly91bnNwbGFzaC5jb20vcGhvdG9zL3VxS3llTWFhQU9RL2Rvd25sb2FkP2ZvcmNlPXRydWUiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/thumbnail/full/g</text>
