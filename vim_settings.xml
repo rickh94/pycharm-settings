@@ -12,11 +12,11 @@
       <file name="/a.dummy" timestamp="1563387287290">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/conftest.py" timestamp="1563925429264">
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="16" column="68" />
-        <mark key="." line="16" column="68" />
-        <mark key="^" line="16" column="68" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/conftest.py" timestamp="1563930256343">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+        <mark key="^" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event.json" timestamp="1563857888894">
         <mark key="[" line="1" column="36" />
@@ -817,11 +817,11 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563925791393">
-        <mark key="[" line="71" column="72" />
-        <mark key="]" line="72" column="19" />
-        <mark key="." line="72" column="19" />
-        <mark key="^" line="72" column="19" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563930154634">
+        <mark key="[" line="114" column="36" />
+        <mark key="]" line="114" column="42" />
+        <mark key="." line="114" column="42" />
+        <mark key="^" line="114" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
         <mark key="[" line="12" column="26" />
@@ -1182,12 +1182,12 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1563921583829">
+      <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1563930239393">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="31" column="45" />
-        <mark key="]" line="31" column="64" />
-        <mark key="." line="31" column="64" />
-        <mark key="^" line="31" column="64" />
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="56" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/.env" timestamp="1544412797121">
         <mark key="[" line="3" column="26" />
@@ -1587,7 +1587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="21" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
       <jump line="46" column="71" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" />
       <jump line="34" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="17" column="14" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
@@ -1687,10 +1686,11 @@
       <jump line="150" column="19" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
       <jump line="61" column="12" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" />
       <jump line="202" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
+      <jump line="44" column="20" filename="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1719,13 +1719,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;create&quot;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>thumbnail</text>
       </register>
-      <register name="0" type="4">
-        <text>https://unsplash.com/photos/uqKyeMaaAOQ/download?force=true</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNtZCA9IG1ha2Vfc2xzX2NtZCgiY3JlYXRlIiwgZXZlbnRfcGF0aCkKICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQoKICAgIGFzc2VydCByZXN1bHRfZGF0YVsic3RhdHVzQ29kZSJdID09IDIwMQogICAgYm9keSA9IGpzb24ubG9hZHMocmVzdWx0X2RhdGFbImJvZHkiXSkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1739,32 +1739,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>_</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdF9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIGZvciBrLCB2IGluIGluc3RydW1lbnQxOgogICAgICAgIGFzc2VydCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGV2ZW50X3BhdGggPSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAwCg==</text>
+        <text encoding="base64">ICAgIC4uLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHRfZGF0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFzc2VydCByZXN1bHRfZGF0YVsic3RhdHVzQ29kZSJdID09IDIwMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvZHkgPSBqc29uLmxvYWRzKHJlc3VsdF9kYXRhWyJib2R5Il0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
+        <text encoding="base64">ICAgIGV2ZW50X2JvZAo=</text>
+      </register>
+      <register name="x" type="4">
+        <text>_</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/thumbnail/full/g</text>
