@@ -523,11 +523,6 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/title-page/docker-compose.dev.yml" timestamp="1563319958105">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/common.py" timestamp="1562258292016">
         <mark key="[" line="66" column="18" />
         <mark key="]" line="66" column="38" />
@@ -1062,11 +1057,11 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1559189441210">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="35" />
-        <mark key="^" line="1" column="35" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1564003253052">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="47" />
+        <mark key="." line="31" column="47" />
+        <mark key="^" line="31" column="47" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/.env" timestamp="1544412797121">
         <mark key="[" line="3" column="26" />
@@ -1536,7 +1531,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>addpydantic</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1565,7 +1560,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>addpydantic</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
