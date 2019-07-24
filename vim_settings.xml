@@ -809,11 +809,11 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563932762317">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="14" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563936140226">
+        <mark key="[" line="163" column="28" />
+        <mark key="]" line="163" column="31" />
+        <mark key="^" line="163" column="31" />
+        <mark key="." line="163" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
         <mark key="[" line="12" column="26" />
@@ -868,7 +868,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-full-event.json" timestamp="1563919252722">
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-full-event.json" timestamp="1563934243368">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
@@ -1676,7 +1676,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHN0ZGVycj1zdWJwcm9jZXNzLlNURE9VVCwK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1705,7 +1705,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>cmd</text>
+        <text>get_output.stdout</text>
       </register>
       <register name="/" type="4">
         <text>thumbnail</text>
@@ -1726,34 +1726,36 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHN0ZGVycj1zdWJwcm9jZXNzLlNURE9VVCwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
+      <register name="2" type="4">
+        <text>r)
+
+    assert get_result['statusCode'] == 404</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGdldF9vdXRwdXQuc3Rkb3V0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcmVzdWx0ID0gc3VicHJvY2Vzcy5ydW4oY21kLCBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFKQogICAgIyByZXN1bHRfZGF0YSA9IGpzb24ubG9hZHMocmVzdWx0LnN0ZG91dCkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHl0ZXN0LXNsczoKICAgIHBpcGVudiBydW4gcHl0ZXN0IC1wIG5vOndhcm5pbmdzIHNlcnZlcmxlc3MtdGVzdHMvCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
       </register>
       <register name="x" type="4">
         <text>_</text>
       </register>
-      <register name="9" type="4">
-        <text>_</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/thumbnail/full/g</text>
