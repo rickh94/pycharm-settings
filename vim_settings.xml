@@ -737,6 +737,13 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/models.py" timestamp="1563852305151">
+        <mark key="'" line="33" column="47" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="50" column="44" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="21" column="61" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/decorators.py" timestamp="1563859611113">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="45" />
@@ -809,11 +816,12 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563938388420">
-        <mark key="[" line="202" column="36" />
-        <mark key="]" line="202" column="42" />
-        <mark key="." line="202" column="42" />
-        <mark key="^" line="202" column="42" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563941730182">
+        <mark key="'" line="280" column="0" />
+        <mark key="[" line="280" column="55" />
+        <mark key="]" line="280" column="55" />
+        <mark key="." line="280" column="55" />
+        <mark key="^" line="280" column="79" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
         <mark key="[" line="12" column="26" />
@@ -1162,6 +1170,13 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/scratch/pynamodantic/pydantic_models.py" timestamp="1563855885329">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="121" column="5" />
+        <mark key="^" line="27" column="36" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/router.py" timestamp="1563843305096">
         <mark key="[" line="91" column="39" />
         <mark key="]" line="91" column="65" />
@@ -1217,10 +1232,10 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-event.json" timestamp="1561933799316">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-event.json" timestamp="1563939727866">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/delete-event.json" timestamp="1562258359151">
@@ -1573,7 +1588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="71" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" />
       <jump line="34" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="17" column="14" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
       <jump line="365" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
@@ -1673,10 +1687,11 @@
       <jump line="61" column="12" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" />
       <jump line="202" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="44" column="20" filename="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" />
+      <jump line="264" column="0" filename="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGluc3RydW1lbnQxLA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1705,13 +1720,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text encoding="base64">IGluc3RydW1lbnQxLA==</text>
       </register>
       <register name="/" type="4">
         <text>thumbnail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV2ZW50X3BhdGggPSBnZW5lcmF0ZV9ldmVudChldmVudF9ib2R5LCAiaW5zdHJ1bWVudDEiKQogICAgcmVzdWx0X2RhdGEgPSBydW5fc2xzX2NtZCgiY3JlYXRlIiwgZXZlbnRfcGF0aCkKICAgIGJvZHkgPSBqc29uLmxvYWRzKHJlc3VsdF9kYXRhWyJib2R5Il0pCgogICAgcmV0dXJuIGJvZHlbIml0ZW0iXQo=</text>
+        <text encoding="base64">ZGVmIGluc3RydW1lbnQyKHJ1bl9zbHNfY21kLCBnZW5lcmF0ZV9ldmVudCk6CiAgICBldmVudF9ib2R5ID0gewogICAgICAgICJudW1iZXIiOiAiMS02MDMiLAogICAgICAgICJ0eXBlIjogIlZpb2xpbiIsCiAgICAgICAgImFzc2lnbmVkVG8iOiAiVGVzdCBTdHVkZW50IiwKICAgICAgICAibG9jYXRpb24iOiAiR3JhbnQgRWxlbWVudGFyeSBTY2hvb2wiLAogICAgICAgICJzaXplIjogIjQvNCIsCiAgICB9CgogICAgZXZlbnRfcGF0aCA9IGdlbmVyYXRlX2V2ZW50KGV2ZW50X2JvZHksICJpbnN0cnVtZW50MiIpCiAgICByZXN1bHRfZGF0YSA9IHJ1bl9zbHNfY21kKCJjcmVhdGUiLCBldmVudF9wYXRoKQogICAgYm9keSA9IGpzb24ubG9hZHMocmVzdWx0X2RhdGFbImJvZHkiXSkKCiAgICByZXR1cm4gYm9keVsiaXRlbSJdCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1726,36 +1741,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAiZml0Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAicGhvdG8iOiAiaHR0cHM6Ly91bnNwbGFzaC5jb20vcGhvdG9zL3VxS3llTWFhQU9RL2Rvd25sb2FkP2ZvcmNlPXRydWUiLAo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSJtb2R1bGUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAibWFpbnRlbmFuY2VOb3RlcyI6ICJ0ZXN0IG1haW50ZW5hbmNlIiwKICAgICAgICAiY29uZGl0aW9uTm90ZXMiOiAidGVzdCBjb25kaXRpb24iLAogICAgICAgICJjb25kaXRpb24iOiA1LAogICAgICAgICJxdWFsaXR5IjogIjMiLAogICAgICAgICJnaWZ0ZWQiOiBUcnVlLAo=</text>
+        <text encoding="base64">ZGVmIHRlc3Rfc2VhcmNoX2Fzc2lnbmVkKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGhfcGFyYW1ldGVycyA9IHsiaWQiOiBpbnN0cnVtZW50MVsnaWQnXX0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcmV0cmlldmUocnVuX3Nsc19jbWQsIGdlbmVyYXRlX2V2ZW50LCBpbnN0cnVtZW50MSk6CiAgICAiIiJJbnRlZ3JhdGlvbiB0ZXN0IGZvciByZXRyaWV2aW5nIGEgc2luZ2xlIGluc3RydW1lbnQuIiIiCiAgICBwYXRoX3BhcmFtZXRlcnMgPSB7ImlkIjogaW5zdHJ1bWVudDFbJ2lkJ119CiAgICBldmVudF9wYXRoID0gZ2VuZXJhdGVfZXZlbnQocGF0aF9wYXJhbWV0ZXJzPXBhdGhfcGFyYW1ldGVycykKCiAgICByZXN1bHRfZGF0YSA9IHJ1bl9zbHNfY21kKCdyZXRyaWV2ZS1zaW5nbGUnLCBldmVudF9wYXRoKQoKICAgIGFzc2VydCByZXN1bHRfZGF0YVsnc3RhdHVzQ29kZSddID09IDIwMAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN0ZGVycj1zdWJwcm9jZXNzLlNURE9VVCwK</text>
+        <text encoding="base64">ICAgICAgICAicGhvdG8iOiAiaHR0cHM6Ly91bnNwbGFzaC5jb20vcGhvdG9zL3VxS3llTWFhQU9RL2Rvd25sb2FkP2ZvcmNlPXRydWUiLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>r)
-
-    assert get_result['statusCode'] == 404</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAibWFpbnRlbmFuY2VOb3RlcyI6ICJ0ZXN0IG1haW50ZW5hbmNlIiwKICAgICAgICAiY29uZGl0aW9uTm90ZXMiOiAidGVzdCBjb25kaXRpb24iLAogICAgICAgICJjb25kaXRpb24iOiA1LAogICAgICAgICJxdWFsaXR5IjogIjMiLAogICAgICAgICJnaWZ0ZWQiOiBUcnVlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAwCg==</text>
+        <text encoding="base64">ICAgIHBhdGhfcGFyYW1ldGVycyA9IHsiaWQiOiBpbnN0cnVtZW50MVsnaWQnXX0K</text>
       </register>
       <register name="x" type="4">
         <text>_</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdldF9vdXRwdXQuc3Rkb3V0KQo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfcmV0cmlldmUocnVuX3Nsc19jbWQsIGdlbmVyYXRlX2V2ZW50LCBpbnN0cnVtZW50MSk6CiAgICAiIiJJbnRlZ3JhdGlvbiB0ZXN0IGZvciByZXRyaWV2aW5nIGEgc2luZ2xlIGluc3RydW1lbnQuIiIiCiAgICBwYXRoX3BhcmFtZXRlcnMgPSB7ImlkIjogaW5zdHJ1bWVudDFbJ2lkJ119CiAgICBldmVudF9wYXRoID0gZ2VuZXJhdGVfZXZlbnQocGF0aF9wYXJhbWV0ZXJzPXBhdGhfcGFyYW1ldGVycykKCiAgICByZXN1bHRfZGF0YSA9IHJ1bl9zbHNfY21kKCdyZXRyaWV2ZS1zaW5nbGUnLCBldmVudF9wYXRoKQoKICAgIGFzc2VydCByZXN1bHRfZGF0YVsnc3RhdHVzQ29kZSddID09IDIwMAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/thumbnail/full/g</text>
