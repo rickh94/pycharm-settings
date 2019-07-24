@@ -1213,6 +1213,12 @@
         <mark key="^" line="71" column="72" />
         <mark key="." line="71" column="72" />
       </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/utils/api_models.py" timestamp="1564005043569">
+        <mark key="[" line="103" column="21" />
+        <mark key="]" line="103" column="31" />
+        <mark key="." line="103" column="31" />
+        <mark key="^" line="103" column="31" />
+      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/Dockerfile" timestamp="1547843708354">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="41" />
@@ -1272,9 +1278,6 @@
         <mark key="]" line="5" column="52" />
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
-      </file>
-      <file name="$USER_HOME$/repositories/title-page/title_page.py" timestamp="1563323932383">
-        <mark key="'" line="62" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipe_box/router.py" timestamp="1562988609707">
         <mark key="[" line="12" column="7" />
@@ -1531,7 +1534,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addpydantic</text>
+        <text>Condition</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1560,7 +1563,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>addpydantic</text>
+        <text>Condition</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
