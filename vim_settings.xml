@@ -12,11 +12,10 @@
       <file name="/a.dummy" timestamp="1563387287290">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/conftest.py" timestamp="1563930256343">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-        <mark key="^" line="15" column="26" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/conftest.py" timestamp="1563931973970">
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event.json" timestamp="1563857888894">
         <mark key="[" line="1" column="36" />
@@ -97,9 +96,9 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="28" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-photo-event.json" timestamp="1561924407518">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="45" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-photo-event.json" timestamp="1563931341863">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="87" />
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
@@ -738,13 +737,6 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/models.py" timestamp="1563852305151">
-        <mark key="'" line="33" column="47" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="50" column="44" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="21" column="61" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/decorators.py" timestamp="1563859611113">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="45" />
@@ -817,11 +809,11 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563930968747">
-        <mark key="[" line="123" column="43" />
-        <mark key="]" line="114" column="42" />
-        <mark key="." line="114" column="42" />
-        <mark key="^" line="114" column="42" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" timestamp="1563932762317">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="39" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
         <mark key="[" line="12" column="26" />
@@ -958,6 +950,13 @@
         <mark key="]" line="10" column="3" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_get.py" timestamp="1563903652757">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="8" />
+        <mark key="^" line="85" column="26" />
+        <mark key="." line="97" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/todos-mark-completed-event.json" timestamp="1563919475605">
         <mark key="[" line="2" column="10" />
@@ -1163,13 +1162,6 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/scratch/pynamodantic/pydantic_models.py" timestamp="1563855885329">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="121" column="5" />
-        <mark key="^" line="27" column="36" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/router.py" timestamp="1563843305096">
         <mark key="[" line="91" column="39" />
         <mark key="]" line="91" column="65" />
@@ -1182,12 +1174,12 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1563930239393">
+      <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1563932142696">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="34" column="37" />
-        <mark key="]" line="34" column="56" />
-        <mark key="." line="34" column="56" />
-        <mark key="^" line="34" column="56" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/.env" timestamp="1544412797121">
         <mark key="[" line="3" column="26" />
@@ -1260,12 +1252,6 @@
         <mark key="]" line="199" column="17" />
         <mark key="^" line="164" column="39" />
         <mark key="." line="199" column="47" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/sign_out.py" timestamp="1563915877772">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/filter-event.json" timestamp="1563900808892">
         <mark key="[" line="1" column="69" />
@@ -1689,8 +1675,8 @@
       <jump line="44" column="20" filename="$USER_HOME$/repositories/instrument-inventory/serverless-tests/test_instruments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1719,13 +1705,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>cmd</text>
       </register>
       <register name="/" type="4">
         <text>thumbnail</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNtZCA9IG1ha2Vfc2xzX2NtZCgiY3JlYXRlIiwgZXZlbnRfcGF0aCkKICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQoKICAgIGFzc2VydCByZXN1bHRfZGF0YVsic3RhdHVzQ29kZSJdID09IDIwMQogICAgYm9keSA9IGpzb24ubG9hZHMocmVzdWx0X2RhdGFbImJvZHkiXSkK</text>
+      <register name="0" type="4">
+        <text>https://unsplash.com/photos/wPaBwop_rSo/download?force=true</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1739,35 +1725,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>_</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBrLCB2IGluIGluc3RydW1lbnQxOgogICAgICAgIGFzc2VydCAK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV2ZW50X3BhdGggPSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkKICAgIHJlc3VsdF9kYXRhID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHRfZGF0YQo=</text>
+        <text encoding="base64">ICAgICMgcmVzdWx0ID0gc3VicHJvY2Vzcy5ydW4oY21kLCBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFKQogICAgIyByZXN1bHRfZGF0YSA9IGpzb24ubG9hZHMocmVzdWx0LnN0ZG91dCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCByZXN1bHRfZGF0YVsic3RhdHVzQ29kZSJdID09IDIwMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvZHkgPSBqc29uLmxvYWRzKHJlc3VsdF9kYXRhWyJib2R5Il0pCg==</text>
+        <text encoding="base64">cHl0ZXN0LXNsczoKICAgIHBpcGVudiBydW4gcHl0ZXN0IC1wIG5vOndhcm5pbmdzIHNlcnZlcmxlc3MtdGVzdHMvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV2ZW50X2JvZAo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSkK</text>
       </register>
       <register name="x" type="4">
         <text>_</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>s/thumbnail/full/g</text>
