@@ -602,6 +602,11 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/title-page/docker-compose.dev.yml" timestamp="1563319958105">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/common.py" timestamp="1562258292016">
         <mark key="[" line="66" column="18" />
         <mark key="]" line="66" column="38" />
@@ -620,11 +625,11 @@
         <mark key="^" line="16" column="8" />
         <mark key="." line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/graphql_tutorial_backend/hackernews/users/schema.py" timestamp="1564071959166">
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="33" />
-        <mark key="^" line="31" column="33" />
-        <mark key="." line="31" column="33" />
+      <file name="$USER_HOME$/repositories/tutorials/graphql_tutorial_backend/hackernews/users/schema.py" timestamp="1564084034761">
+        <mark key="[" line="38" column="45" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="40" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" timestamp="1548219442432">
         <mark key="[" line="6" column="15" />
@@ -892,11 +897,10 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/graphql_tutorial_backend/hackernews/hackernews/schema.py" timestamp="1564073811454">
-        <mark key="[" line="11" column="82" />
-        <mark key="]" line="12" column="7" />
-        <mark key="." line="12" column="7" />
-        <mark key="^" line="12" column="7" />
+      <file name="$USER_HOME$/repositories/tutorials/graphql_tutorial_backend/hackernews/hackernews/schema.py" timestamp="1564083519197">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/response.py" timestamp="1562258484747">
         <mark key="[" line="0" column="0" />
@@ -1359,11 +1363,11 @@
         <mark key="." line="86" column="64" />
         <mark key="^" line="86" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/utils/api_models.py" timestamp="1564026477703">
-        <mark key="[" line="52" column="27" />
-        <mark key="]" line="52" column="28" />
-        <mark key="." line="52" column="28" />
-        <mark key="^" line="52" column="28" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/utils/api_models.py" timestamp="1564083165127">
+        <mark key="[" line="155" column="10" />
+        <mark key="]" line="155" column="25" />
+        <mark key="." line="155" column="25" />
+        <mark key="^" line="155" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/Dockerfile" timestamp="1547843708354">
         <mark key="[" line="10" column="0" />
@@ -1680,8 +1684,8 @@
       <jump line="9" column="18" filename="$USER_HOME$/repositories/title-page/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;graphql_jwt.middleware.JSONWebTokenMiddleware&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1lID0gZ3JhcGhlbmUuRmllbGQoVXNlclR5cGUpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1710,13 +1714,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;graphql_jwt.middleware.JSONWebTokenMiddleware&quot;</text>
+        <text>info.conte</text>
       </register>
       <register name="/" type="4">
         <text>AUTHENTICATION</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQU1RUF9IT1NUOiByYWJiaXRtcQogICAgICBBTVFQX1BPUlQ6IDU2NzIK</text>
+        <text encoding="base64">U2l6ZU9wdGlvbmFsRW51bSA9IG1ha2Vfb3B0aW9uYWxfZW51bShJbnN0cnVtZW50U2l6ZUVudW0sICdTaXplT3B0aW9uYWxFbnVtJykK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1731,34 +1735,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIG1lID0gZ3JhcGhlbmUuRmllbGQoVXNlclR5cGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX3Bhc3N3b3JkCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">U2l6ZU9wdGlvbmFsRW51bSA9IG1ha2Vfb3B0aW9uYWxfZW51bShJbnN0cnVtZW50U2l6ZUVudW0sICJTaXplT3B0aW9uYWxFbnVtIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRfb25fbWVzYWdlKCkK</text>
+        <text encoding="base64">VHlwZU9wdGlvbmFsRW51bSA9IG1ha2Vfb3B0aW9uYWxfZW51bShJbnN0cnVtZW50VHlwZUVudW0sICJUeXBlT3B0aW9uYWxFbnVtIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlBcmd1bWVudExpc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gNDM2OQo=</text>
+        <text encoding="base64">Y2xhc3MgTG9jYXRpb25PcHRpb25hbEVudW0oTG9jYXRpb25FbnVtKToKICAgIG5vbmUgPSAnJwoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gMjU2NzIK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gMTU2NzIK</text>
+        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX3Bhc3N3b3JkCg==</text>
       </register>
       <register name="x" type="4">
         <text>_</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB3b3JrZXIuY2VsZXJ5X2FwcAo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
