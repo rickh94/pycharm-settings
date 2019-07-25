@@ -2,14 +2,23 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.pytest_cache;.serverless;.svn;.vscode;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="test" type="Dockerfile" />
-      <mapping pattern="Justfile" type="PLAIN_TEXT" />
+      <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
       <mapping pattern=".pretty.json.swp" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
-      <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="Justfile" type="PLAIN_TEXT" />
       <mapping ext="ily" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="test" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
