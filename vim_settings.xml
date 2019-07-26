@@ -1403,11 +1403,11 @@
         <mark key="." line="86" column="64" />
         <mark key="^" line="86" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/utils/api_models.py" timestamp="1564083165127">
-        <mark key="[" line="155" column="10" />
-        <mark key="]" line="155" column="25" />
-        <mark key="." line="155" column="25" />
-        <mark key="^" line="155" column="25" />
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/utils/api_models.py" timestamp="1564157958595">
+        <mark key="[" line="97" column="9" />
+        <mark key="]" line="97" column="9" />
+        <mark key="." line="97" column="9" />
+        <mark key="^" line="97" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/Dockerfile" timestamp="1547843708354">
         <mark key="[" line="10" column="0" />
@@ -1737,7 +1737,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>None</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1766,7 +1766,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>AUTHENTICATION</text>
