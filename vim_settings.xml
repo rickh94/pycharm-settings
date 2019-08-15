@@ -91,6 +91,12 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="28" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/dtl/dtl-poll-admin/serverless-tests/test_polls.py" timestamp="1565894648319">
+        <mark key="[" line="91" column="51" />
+        <mark key="]" line="92" column="20" />
+        <mark key="." line="92" column="20" />
+        <mark key="^" line="92" column="20" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-photo-event.json" timestamp="1561924407518">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="45" />
@@ -1533,8 +1539,8 @@
       <jump line="9" column="18" filename="$USER_HOME$/repositories/title-page/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtICJhcm46YXdzOmR5bmFtb2RiOio6MTA5Mzg5ODg3NTE4OnRhYmxlL2R0bC0qIgo=</text>
+      <register name="&quot;" type="4">
+        <text>15</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1563,7 +1569,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Condition</text>
+        <text>15</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
