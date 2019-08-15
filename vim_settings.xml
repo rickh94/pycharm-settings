@@ -1147,6 +1147,12 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
+      <file name="$USER_HOME$/repositories/dtl/dtl-poll-admin/serverless.yml" timestamp="1565894311359">
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="32" column="52" />
+        <mark key="." line="32" column="52" />
+        <mark key="^" line="32" column="52" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_down.py" timestamp="1546825785538">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="9" column="0" />
@@ -1212,12 +1218,6 @@
         <mark key="]" line="71" column="72" />
         <mark key="^" line="71" column="72" />
         <mark key="." line="71" column="72" />
-      </file>
-      <file name="$USER_HOME$/repositories/instrument-inventory/app/utils/api_models.py" timestamp="1564005043569">
-        <mark key="[" line="103" column="21" />
-        <mark key="]" line="103" column="31" />
-        <mark key="." line="103" column="31" />
-        <mark key="^" line="103" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/Dockerfile" timestamp="1547843708354">
         <mark key="[" line="10" column="0" />
@@ -1533,8 +1533,8 @@
       <jump line="9" column="18" filename="$USER_HOME$/repositories/title-page/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Condition</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtICJhcm46YXdzOmR5bmFtb2RiOio6MTA5Mzg5ODg3NTE4OnRhYmxlL2R0bC0qIgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1569,7 +1569,7 @@
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQU1RUF9IT1NUOiByYWJiaXRtcQogICAgICBBTVFQX1BPUlQ6IDU2NzIK</text>
+        <text encoding="base64">ICAgICAgICAtICJhcm46YXdzOmR5bmFtb2RiOio6MTA5Mzg5ODg3NTE4OnRhYmxlL2R0bC0qIgo=</text>
       </register>
       <register name="p" type="4">
         <keys>
