@@ -145,6 +145,12 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/app/main.py" timestamp="1566846040275">
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="13" column="117" />
+        <mark key="^" line="13" column="117" />
+        <mark key="." line="13" column="117" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx2/django.conf" timestamp="1546932933194">
         <mark key="[" line="16" column="29" />
         <mark key="]" line="16" column="29" />
@@ -156,6 +162,13 @@
         <mark key="]" line="155" column="45" />
         <mark key="." line="215" column="61" />
         <mark key="^" line="215" column="61" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/app/auth/router.py" timestamp="1566848759288">
+        <mark key="'" line="56" column="15" />
+        <mark key="[" line="50" column="72" />
+        <mark key="]" line="50" column="75" />
+        <mark key="^" line="50" column="75" />
+        <mark key="." line="50" column="75" />
       </file>
       <file name="$USER_HOME$/repositories/title-page/config/nginx/app.conf" timestamp="1563301576752">
         <mark key="[" line="18" column="83" />
@@ -302,10 +315,10 @@
         <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/security.py" timestamp="1562872668745">
-        <mark key="[" line="72" column="51" />
-        <mark key="]" line="72" column="70" />
-        <mark key="^" line="72" column="70" />
-        <mark key="." line="72" column="70" />
+        <mark key="[" line="105" column="51" />
+        <mark key="]" line="105" column="70" />
+        <mark key="^" line="105" column="70" />
+        <mark key="." line="105" column="70" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/ponynote/settings.py" timestamp="1547666474483">
         <mark key="[" line="122" column="0" />
@@ -426,6 +439,13 @@
         <mark key="]" line="24" column="63" />
         <mark key="^" line="24" column="63" />
         <mark key="." line="24" column="63" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/app/auth/security.py" timestamp="1566848968535">
+        <mark key="'" line="107" column="41" />
+        <mark key="[" line="72" column="59" />
+        <mark key="]" line="72" column="60" />
+        <mark key="." line="72" column="60" />
+        <mark key="^" line="83" column="17" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
         <mark key="[" line="11" column="10" />
@@ -919,6 +939,12 @@
         <mark key="." line="134" column="26" />
         <mark key="^" line="134" column="26" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/app/auth/models.py" timestamp="1566846209547">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/examples.py" timestamp="1562948463167">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="13" />
@@ -1008,6 +1034,13 @@
         <mark key="]" line="60" column="9" />
         <mark key="^" line="60" column="9" />
         <mark key="." line="60" column="9" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/Dockerfile" timestamp="1566847231169">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="60" />
+        <mark key="^" line="12" column="60" />
+        <mark key="." line="12" column="60" />
       </file>
       <file name="$USER_HOME$/repositories/dtl/download_images/download_people.py" timestamp="1549070678222">
         <mark key="[" line="24" column="34" />
@@ -1207,6 +1240,12 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/.env" timestamp="1566845116992">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+        <mark key="." line="5" column="61" />
+      </file>
       <file name="$USER_HOME$/repositories/recipe-app-api/docker-compose.yml" timestamp="1546934099160">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="86" />
@@ -1351,6 +1390,12 @@
         <mark key="^" line="32" column="38" />
         <mark key="." line="32" column="38" />
       </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/docker-compose.yml" timestamp="1566847923249">
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="22" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_delete.py" timestamp="1562259508100">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -1431,9 +1476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="9" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
-      <jump line="79" column="12" filename="$USER_HOME$/repositories/instrument-inventory/tests/conftest.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_retrieve.py" />
       <jump line="115" column="31" filename="$USER_HOME$/repositories/instrument-inventory/Pipfile.lock" />
       <jump line="110" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_search.py" />
       <jump line="103" column="28" filename="$USER_HOME$/repositories/instrument-inventory/app/todos.py" />
@@ -1531,10 +1573,13 @@
       <jump line="115" column="4" filename="$USER_HOME$/repositories/title-page/title_page.py" />
       <jump line="60" column="26" filename="$USER_HOME$/repositories/title-page/title_page.py" />
       <jump line="9" column="18" filename="$USER_HOME$/repositories/title-page/docker-compose.yml" />
+      <jump line="96" column="41" filename="$USER_HOME$/repositories/scratch/passwordless/app/auth/security.py" />
+      <jump line="0" column="17" filename="$USER_HOME$/repositories/scratch/passwordless/Dockerfile" />
+      <jump line="47" column="15" filename="$USER_HOME$/repositories/scratch/passwordless/app/auth/router.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>15</text>
+        <text>Password</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1563,10 +1608,10 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>15</text>
+        <text>Password</text>
       </register>
       <register name="/" type="4">
-        <text>pdf</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAtICJhcm46YXdzOmR5bmFtb2RiOio6MTA5Mzg5ODg3NTE4OnRhYmxlL2R0bC0qIgo=</text>
@@ -1584,48 +1629,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRfb25fbWVzYWdlKCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9UUFMuZXhwaXJlKGYib3RwIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gNDM2OQo=</text>
+        <text encoding="base64">ICAgIE9UUFNbZW1haWxdID0gY29kZV9oYXNoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gMjU2NzIK</text>
+        <text encoding="base64">ICAgICAgLSAiUkVESVNfVVJMPXJlZGlzX2NhY2hlOjYzNzkiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gMTU2NzIK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhlbWFpbCkKICAgIGxvZ2dlci5kZWJ1Zyhjb2RlKQogICAgbG9nZ2VyLmRlYnVnKE9UUFMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB3b3JrZXIuY2VsZXJ5X2FwcAo=</text>
+        <text encoding="base64">ZnJvbSBzdGFybGV0dGUucmVzcG9uc2VzIGltcG9ydCBKU09OUmVzcG9uc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICI4MDgwOjgwIgo=</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbl9kYXRhID0gbW9kZWxzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRfb25fbWVzYWdlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpdGxlX3BhZ2VfcGF0aCA9IFBERl9QQVRIIC8gdGl0bGVfcGFnZV9maWxlbmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
       </register>
     </registers>
     <search>
-      <last-search>pdf</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>pdf</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>html</last-replace>
       <last-substitute>pdf</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>airtable</entry>
         <entry>parso</entry>
         <entry>mark_completed</entry>
         <entry>unmark</entry>
@@ -1645,6 +1689,7 @@
         <entry>TokenDAta</entry>
         <entry>1</entry>
         <entry>pdf</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
