@@ -238,6 +238,12 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/README.md" timestamp="1567229809388">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/auth.py" timestamp="1562559706942">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="26" column="47" />
@@ -509,12 +515,11 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/passwordless-python/app/auth.py" timestamp="1567229012966">
-        <mark key="'" line="8" column="11" />
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/repositories/passwordless-python/app/auth.py" timestamp="1567229657172">
+        <mark key="'" line="3" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_auth.py" timestamp="1562895535098">
         <mark key="[" line="86" column="37" />
@@ -845,11 +850,11 @@
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/passwordless-python/serverless.yml" timestamp="1567229023950">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/repositories/passwordless-python/serverless.yml" timestamp="1567229649052">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/random_composer/random_composer.py" timestamp="1548478579761">
         <mark key="[" line="20" column="61" />
@@ -1458,12 +1463,11 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/passwordless-python/app/hello.py" timestamp="1567229007415">
-        <mark key="'" line="14" column="16" />
+      <file name="$USER_HOME$/repositories/passwordless-python/app/hello.py" timestamp="1567229653524">
+        <mark key="'" line="10" column="16" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event-full.json" timestamp="1561056603994">
         <mark key="[" line="1" column="76" />
@@ -1630,7 +1634,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJ5OgogICAgaW1wb3J0IHVuemlwX3JlcXVpcmVtZW50cwpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBwYXNzCgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1680,31 +1684,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJ5OgogICAgaW1wb3J0IHVuemlwX3JlcXVpcmVtZW50cwpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBwYXNzCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZWY6IENvZ25pdG9Vc2VyUG9vbAo=</text>
+        <text encoding="base64">dHJ5OgogICAgaW1wb3J0IHVuemlwX3JlcXVpcmVtZW50cwpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZWY6IENvZ25pdG9JZGVudGl0eVBvb2wK</text>
+        <text encoding="base64">ICAgIHppcDogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVmOiBDb2duaXRvVXNlclBvb2xDbGllbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgICAgICAgICAgLSAnJwogICAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAgICAgIC0gJ2Fybjphd3M6ZXhlY3V0ZS1hcGk6JwogICAgICAgICAgICAgICAgICAgICAgLSBSZWY6IEFXUzo6UmVnaW9uCiAgICAgICAgICAgICAgICAgICAgICAtICc6JwogICAgICAgICAgICAgICAgICAgICAgLSBSZWY6IEFXUzo6QWNjb3VudElkCiAgICAgICAgICAgICAgICAgICAgICAtICc6JwogICAgICAgICAgICAgICAgICAgICAgLSBSZWY6IEFwaUdhdGV3YXlSZXN0QXBpCiAgICAgICAgICAgICAgICAgICAgICAtICcvKicK</text>
+        <text encoding="base64">ICAgICAgICBSZWY6IENvZ25pdG9Vc2VyUG9vbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgUmVmOiBDb2duaXRvSWRlbnRpdHlQb29sCg==</text>
+        <text encoding="base64">ICAgICAgICBSZWY6IENvZ25pdG9JZGVudGl0eVBvb2wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIEZuOjpHZXRBdHQ6IFtDb2duaXRvQXV0aFJvbGUsIEFybl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVmOiBDb2duaXRvVXNlclBvb2xDbGllbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm46OkdldEF0dDogWyJDb2duaXRvVXNlclBvb2wiLCAiUHJvdmlkZXJOYW1lIl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgICAgICAgICAgLSAnJwogICAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAgICAgIC0gJ2Fybjphd3M6ZXhlY3V0ZS1hcGk6JwogICAgICAgICAgICAgICAgICAgICAgLSBSZWY6IEFXUzo6UmVnaW9uCiAgICAgICAgICAgICAgICAgICAgICAtICc6JwogICAgICAgICAgICAgICAgICAgICAgLSBSZWY6IEFXUzo6QWNjb3VudElkCiAgICAgICAgICAgICAgICAgICAgICAtICc6JwogICAgICAgICAgICAgICAgICAgICAgLSBSZWY6IEFwaUdhdGV3YXlSZXN0QXBpCiAgICAgICAgICAgICAgICAgICAgICAtICcvKicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUmVzdEFwaUlkOgogICAgICAgIFJlZjogJ0FwaUdhdGV3YXlSZXN0QXBpJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgUmVmOiBDb2duaXRvSWRlbnRpdHlQb29sCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
