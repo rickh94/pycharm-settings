@@ -9,9 +9,6 @@
         <mark key="^" line="35" column="33" />
         <mark key="." line="35" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1563387287290">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event.json" timestamp="1558580609631">
         <mark key="[" line="1" column="93" />
         <mark key="]" line="1" column="93" />
@@ -512,6 +509,13 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/app/auth.py" timestamp="1567229012966">
+        <mark key="'" line="8" column="11" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_auth.py" timestamp="1562895535098">
         <mark key="[" line="86" column="37" />
         <mark key="]" line="86" column="38" />
@@ -535,6 +539,12 @@
         <mark key="]" line="1" column="43" />
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/resources/challenge-permission.yml" timestamp="1567228426803">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="7" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/screenshot_site/dtl_pdf.py" timestamp="1547743187073">
         <mark key="[" line="65" column="8" />
@@ -758,6 +768,11 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/Pipfile" timestamp="1567228472656">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-todo-event.json" timestamp="1559169387670">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="45" />
@@ -787,6 +802,12 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/resources/cognito-user-pool.yml" timestamp="1567228787551">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_manage.py" timestamp="1548013380715">
         <mark key="[" line="16" column="81" />
@@ -823,6 +844,12 @@
         <mark key="]" line="58" column="55" />
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="55" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/serverless.yml" timestamp="1567229023950">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/random_composer/random_composer.py" timestamp="1548478579761">
         <mark key="[" line="20" column="61" />
@@ -985,6 +1012,12 @@
         <mark key="]" line="1" column="58" />
         <mark key="^" line="1" column="58" />
         <mark key="." line="1" column="58" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/resources/api-gateway-errors.yml" timestamp="1567228565421">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-history-event.json" timestamp="1561933934377">
         <mark key="[" line="1" column="14" />
@@ -1323,6 +1356,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/resources/cognito-identity-pool.yml" timestamp="1567228687494">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipe_box/router.py" timestamp="1562988609707">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="11" column="57" />
@@ -1419,6 +1458,13 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/app/hello.py" timestamp="1567229007415">
+        <mark key="'" line="14" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event-full.json" timestamp="1561056603994">
         <mark key="[" line="1" column="76" />
         <mark key="]" line="1" column="85" />
@@ -1481,8 +1527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="28" filename="$USER_HOME$/repositories/instrument-inventory/app/todos.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="297" column="0" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="296" column="32" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
       <jump line="213" column="17" filename="$USER_HOME$/repositories/instrument-inventory/tests/test_todo.py" />
@@ -1581,10 +1625,12 @@
       <jump line="47" column="15" filename="$USER_HOME$/repositories/scratch/passwordless/app/auth/router.py" />
       <jump line="53" column="9" filename="$USER_HOME$/repositories/scratch/passwordless/app/auth/router.py" />
       <jump line="19" column="36" filename="$USER_HOME$/repositories/scratch/passwordless/app/auth/crud.py" />
+      <jump line="7" column="16" filename="$USER_HOME$/repositories/passwordless-python/app/hello.py" />
+      <jump line="3" column="11" filename="$USER_HOME$/repositories/passwordless-python/app/auth.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mg.temptestsites.online</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1613,13 +1659,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>mg.temptestsites.online</text>
+        <text>us-east-1:109389887518:function:passwordless-python-${self:custom.stage}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtICJhcm46YXdzOmR5bmFtb2RiOio6MTA5Mzg5ODg3NTE4OnRhYmxlL2R0bC0qIgo=</text>
+        <text encoding="base64">dHJ5OgogICAgaW1wb3J0IHVuemlwX3JlcXVpcmVtZW50cwpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBwYXNzCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1634,31 +1680,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhjcmVhdGVkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBsb2dnaW4gaW1wb3IK</text>
+        <text encoding="base64">ICAgICAgICBSZWY6IENvZ25pdG9Vc2VyUG9vbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zwo=</text>
+        <text encoding="base64">ICAgICAgICBSZWY6IENvZ25pdG9JZGVudGl0eVBvb2wK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVmOiBDb2duaXRvVXNlclBvb2xDbGllbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgICAgICAgICAgLSAnJwogICAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAgICAgIC0gJ2Fybjphd3M6ZXhlY3V0ZS1hcGk6JwogICAgICAgICAgICAgICAgICAgICAgLSBSZWY6IEFXUzo6UmVnaW9uCiAgICAgICAgICAgICAgICAgICAgICAtICc6JwogICAgICAgICAgICAgICAgICAgICAgLSBSZWY6IEFXUzo6QWNjb3VudElkCiAgICAgICAgICAgICAgICAgICAgICAtICc6JwogICAgICAgICAgICAgICAgICAgICAgLSBSZWY6IEFwaUdhdGV3YXlSZXN0QXBpCiAgICAgICAgICAgICAgICAgICAgICAtICcvKicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgUmVmOiBDb2duaXRvSWRlbnRpdHlQb29sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9UUFMuZXhwaXJlKGYib3RwIikK</text>
+        <text encoding="base64">ICAgICAgICAgIEZuOjpHZXRBdHQ6IFtDb2duaXRvQXV0aFJvbGUsIEFybl0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE9UUFNbZW1haWxdID0gY29kZV9oYXNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm46OkdldEF0dDogWyJDb2duaXRvVXNlclBvb2wiLCAiUHJvdmlkZXJOYW1lIl0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAiUkVESVNfVVJMPXJlZGlzX2NhY2hlOjYzNzkiCg==</text>
+        <text encoding="base64">ICAgICAgUmVzdEFwaUlkOgogICAgICAgIFJlZjogJ0FwaUdhdGV3YXlSZXN0QXBpJwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/pdf/html/g</text>
