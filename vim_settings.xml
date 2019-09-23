@@ -1,6 +1,1691 @@
 <application>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/db_interface.py" timestamp="1549045803746">
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="33" />
+        <mark key="^" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event.json" timestamp="1558580609631">
+        <mark key="[" line="1" column="93" />
+        <mark key="]" line="1" column="93" />
+        <mark key="." line="1" column="93" />
+        <mark key="^" line="1" column="86" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-barcode-generator/combine.py" timestamp="1558562064462">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+      </file>
+      <file name="$USER_HOME$/scratch/simple_task/docker-compose.yml" timestamp="1563387185259">
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="48" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/docker-compose.test.yml" timestamp="1562872078914">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/delete.py" timestamp="1562191033881">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_server_starlette/Dockerfile" timestamp="1562810115362">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="71" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/dtl/download_images/.env" timestamp="1549060084309">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/urls.py" timestamp="1545849897284">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+        <mark key="^" line="16" column="59" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/resources/dynamodb-table.yml" timestamp="1559102459203">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/responses.py" timestamp="1560918066788">
+        <mark key="[" line="29" column="56" />
+        <mark key="]" line="29" column="56" />
+        <mark key="^" line="29" column="56" />
+        <mark key="." line="29" column="56" />
+      </file>
+      <file name="$USER_HOME$/repositories/title-page/docker-compose.yml" timestamp="1563412823839">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="25" column="110" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/delete.py" timestamp="1558502368102">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/main.py" timestamp="1562823176275">
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="28" column="6" />
+        <mark key="." line="28" column="6" />
+        <mark key="^" line="28" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/dtl/dtl-poll-admin/serverless-tests/test_polls.py" timestamp="1565894648319">
+        <mark key="[" line="98" column="51" />
+        <mark key="]" line="99" column="20" />
+        <mark key="." line="99" column="20" />
+        <mark key="^" line="99" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-photo-event.json" timestamp="1561924407518">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_server_starlette/docker-compose.yml" timestamp="1562810244031">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="43" column="14" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="43" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-todo-event.json" timestamp="1559109326319">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+        <mark key="^" line="1" column="54" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/yaml_interface.py" timestamp="1546658865648">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx/django.conf" timestamp="1546932547649">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="18" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/.env" timestamp="1548454388011">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/admin.py" timestamp="1549133177155">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/microblog.py" timestamp="1548991897483">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/app/main.py" timestamp="1566846040275">
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="13" column="117" />
+        <mark key="^" line="13" column="117" />
+        <mark key="." line="13" column="117" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/config/nginx2/django.conf" timestamp="1546932933194">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/tests/conftest.py" timestamp="1562943267081">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="155" column="45" />
+        <mark key="." line="215" column="61" />
+        <mark key="^" line="215" column="61" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/app/auth/router.py" timestamp="1566852048230">
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="52" />
+        <mark key="^" line="35" column="52" />
+        <mark key="." line="35" column="52" />
+      </file>
+      <file name="$USER_HOME$/repositories/title-page/config/nginx/app.conf" timestamp="1563301576752">
+        <mark key="[" line="18" column="83" />
+        <mark key="]" line="21" column="49" />
+        <mark key="^" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/db_commands.py" timestamp="1546708173712">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="1" />
+        <mark key="." line="93" column="1" />
+        <mark key="^" line="134" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/models.py" timestamp="1562988959774">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="60" column="17" />
+        <mark key="^" line="60" column="17" />
+        <mark key="." line="60" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/templates/index.html" timestamp="1547666071967">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/helpers.py" timestamp="1555740517808">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/Dockerfile" timestamp="1562430233644">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/core/endpoints.py" timestamp="1562428696372">
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="34" column="53" />
+        <mark key="^" line="34" column="53" />
+        <mark key="." line="34" column="53" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/update-event.json" timestamp="1558503250574">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/update-customer-plan.json" timestamp="1556147529074">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_create.py" timestamp="1555964091873">
+        <mark key="[" line="45" column="41" />
+        <mark key="]" line="46" column="64" />
+        <mark key="." line="46" column="64" />
+        <mark key="^" line="46" column="64" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/django_elastic_drf_example/settings.py" timestamp="1548636851080">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+      </file>
+      <file name="$USER_HOME$/scratch/simple_task/celery_worker.py" timestamp="1563384791534">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/README.md" timestamp="1567229809388">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/auth.py" timestamp="1562559706942">
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/recipe_api/tests/test_index.py" timestamp="1562433895162">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/common.py" timestamp="1560999036734">
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="46" column="3" />
+        <mark key="." line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/settings.py" timestamp="1544413098764">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="34" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/get.py" timestamp="1560909483318">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="18" column="57" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-assigned-history-event.json" timestamp="1561927934403">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/recipe_api/users/endpoints.py" timestamp="1562432630951">
+        <mark key="[" line="23" column="84" />
+        <mark key="]" line="23" column="88" />
+        <mark key="^" line="23" column="88" />
+        <mark key="." line="23" column="88" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_makemigrations.py" timestamp="1546825779687">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/responses.py" timestamp="1555900407181">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/django_elastic_drf_example/urls.py" timestamp="1548636692310">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/Dockerfile" timestamp="1546927769983">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/discogs_to_airtable/discogs_to_airtable.py" timestamp="1550703345144">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="80" column="30" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/security.py" timestamp="1562872668745">
+        <mark key="[" line="105" column="51" />
+        <mark key="]" line="105" column="70" />
+        <mark key="^" line="105" column="70" />
+        <mark key="." line="105" column="70" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/ponynote/ponynote/settings.py" timestamp="1547666474483">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="56" column="49" />
+        <mark key="." line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/dtl/screenshot_site/download_images.py" timestamp="1549059572018">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="47" column="21" />
+        <mark key="." line="47" column="21" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/urls.py" timestamp="1544412712333">
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="59" />
+        <mark key="^" line="22" column="59" />
+        <mark key="." line="22" column="59" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-event.json" timestamp="1558198770235">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/urls.py" timestamp="1548636792251">
+        <mark key="[" line="7" column="77" />
+        <mark key="]" line="7" column="77" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="77" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/filter.py" timestamp="1560998855256">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="12" column="25" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/render.py" timestamp="1549046899235">
+        <mark key="[" line="169" column="20" />
+        <mark key="]" line="169" column="25" />
+        <mark key="^" line="88" column="22" />
+        <mark key="." line="169" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/title-page/event.json" timestamp="1563219828991">
+        <mark key="[" line="1" column="303" />
+        <mark key="]" line="1" column="303" />
+        <mark key="^" line="1" column="303" />
+        <mark key="." line="1" column="303" />
+      </file>
+      <file name="$USER_HOME$/repositories/title-page/templates/title_page.html" timestamp="1563298154270">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless/app/tests/test_auth.py" timestamp="1569213306287">
+        <mark key="[" line="199" column="43" />
+        <mark key="]" line="199" column="40" />
+        <mark key="." line="199" column="40" />
+        <mark key="^" line="199" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/movement_commands.py" timestamp="1546718443366">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/tests/Dockerfile" timestamp="1562429833827">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless/.env.example" timestamp="1569212172058">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/title-page/data/nginx/app.conf" timestamp="1563326791393">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_interface_common.py" timestamp="1548966510581">
+        <mark key="[" line="105" column="37" />
+        <mark key="]" line="105" column="42" />
+        <mark key="^" line="105" column="42" />
+        <mark key="." line="105" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/globals.py" timestamp="1555963999258">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/tests/test_knox_views.py" timestamp="1547847793303">
+        <mark key="[" line="64" column="45" />
+        <mark key="]" line="64" column="45" />
+        <mark key="^" line="61" column="66" />
+        <mark key="." line="64" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/mutopia.py" timestamp="1546658703911">
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="45" />
+        <mark key="." line="44" column="45" />
+        <mark key="^" line="44" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/get.py" timestamp="1562191184469">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/crud.py" timestamp="1562945111570">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="49" />
+        <mark key="." line="23" column="49" />
+        <mark key="^" line="23" column="49" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_get.py" timestamp="1555964175590">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/app/urls.py" timestamp="1546837366746">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="63" />
+        <mark key="^" line="24" column="63" />
+        <mark key="." line="24" column="63" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/app/auth/security.py" timestamp="1566851800669">
+        <mark key="'" line="109" column="41" />
+        <mark key="[" line="115" column="8" />
+        <mark key="]" line="115" column="12" />
+        <mark key="." line="115" column="12" />
+        <mark key="^" line="115" column="12" />
+      </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/ships/urls.py" timestamp="1544389701716">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/responder-course/demo/movie_service/api_instance.py" timestamp="1561248791541">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-assigned-event.json" timestamp="1561933792591">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/scratch/simple_task/.env" timestamp="1563386995044">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/header_commands.py" timestamp="1555786737719">
+        <mark key="[" line="126" column="16" />
+        <mark key="]" line="126" column="21" />
+        <mark key="^" line="126" column="21" />
+        <mark key="." line="126" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/serializers.py" timestamp="1549009830961">
+        <mark key="[" line="62" column="88" />
+        <mark key="]" line="63" column="96" />
+        <mark key="." line="63" column="96" />
+        <mark key="^" line="63" column="96" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/recipe_api/db_helpers.py" timestamp="1562472670791">
+        <mark key="[" line="46" column="56" />
+        <mark key="]" line="46" column="57" />
+        <mark key="." line="46" column="57" />
+        <mark key="^" line="46" column="57" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/test_tags_api.py" timestamp="1549007807349">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/requirements.txt" timestamp="1546929092588">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/pytest.ini" timestamp="1555962356614">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/.env" timestamp="1562824399257">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/app/auth.py" timestamp="1567229657172">
+        <mark key="'" line="3" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_auth.py" timestamp="1562895535098">
+        <mark key="[" line="86" column="37" />
+        <mark key="]" line="86" column="38" />
+        <mark key="^" line="119" column="28" />
+        <mark key="." line="86" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/views.py" timestamp="1546925989146">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="27" column="58" />
+        <mark key="." line="27" column="58" />
+        <mark key="^" line="27" column="58" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-name-event.json" timestamp="1558725206529">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/Justfile" timestamp="1549477718684">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/resources/challenge-permission.yml" timestamp="1567228426803">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="7" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/screenshot_site/dtl_pdf.py" timestamp="1547743187073">
+        <mark key="[" line="65" column="8" />
+        <mark key="]" line="65" column="13" />
+        <mark key="." line="65" column="13" />
+        <mark key="^" line="65" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/exceptions.py" timestamp="1556043021962">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/common.py" timestamp="1562258292016">
+        <mark key="[" line="66" column="18" />
+        <mark key="]" line="66" column="38" />
+        <mark key="^" line="66" column="38" />
+        <mark key="." line="66" column="38" />
+      </file>
+      <file name="$USER_HOME$/scratch/simple_task/app.py" timestamp="1563386412786">
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_test.py" timestamp="1546834510447">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="16" column="8" />
+        <mark key="." line="16" column="8" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_edit_prompts.py" timestamp="1548219442432">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/lib/models.py" timestamp="1561917125702">
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="53" column="29" />
+        <mark key="^" line="53" column="29" />
+        <mark key="." line="53" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/websauna-tutorial/my.app/my/app/conf/development.ini" timestamp="1562714295904">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/title-page/deploy.sh" timestamp="1563383767276">
+        <mark key="[" line="1" column="100" />
+        <mark key="]" line="1" column="111" />
+        <mark key="^" line="1" column="111" />
+        <mark key="." line="1" column="111" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/config.py" timestamp="1548990696307">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="109" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/config.py" timestamp="1562282664702">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/update-content-event.json" timestamp="1558503326779">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/recipe_api/tests/test_users.py" timestamp="1562442555754">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan.json" timestamp="1556147128664">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="56" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/cli.py" timestamp="1549045097632">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="38" column="10" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/search.py" timestamp="1560998914819">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="44" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/create.py" timestamp="1560892518726">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="43" column="25" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/spacespace/settings.py" timestamp="1544394105886">
+        <mark key="[" line="126" column="15" />
+        <mark key="]" line="126" column="15" />
+        <mark key="^" line="126" column="15" />
+        <mark key="." line="126" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/delete.py" timestamp="1560918735260">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/resources/cognito-identity-pool.yml" timestamp="1559276456749">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="1" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/responder-course/demo/movie_service/templates/shared/_layout.html" timestamp="1561244807117">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/.flaskenv" timestamp="1548962765968">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/list_notes.py" timestamp="1559169674555">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="127" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1547845878796">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/auth/models.py" timestamp="1563044980599">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="13" />
+        <mark key="." line="42" column="13" />
+        <mark key="^" line="42" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/config/nginx/app.conf" timestamp="1562270512998">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/recipe/urls.py" timestamp="1546833236978">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/models.py" timestamp="1562258459448">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="21" column="61" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/decorators.py" timestamp="1562259914193">
+        <mark key="[" line="78" column="18" />
+        <mark key="]" line="78" column="18" />
+        <mark key="^" line="78" column="17" />
+        <mark key="." line="78" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_auth/test_crud.py" timestamp="1562870769456">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/Dockerfile.test" timestamp="1562433881251">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/info.py" timestamp="1549046541683">
+        <mark key="[" line="516" column="81" />
+        <mark key="]" line="516" column="81" />
+        <mark key="^" line="500" column="80" />
+        <mark key="." line="516" column="81" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/.env" timestamp="1562282476977">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/views.py" timestamp="1544412704427">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/title-page/s3-bucket.yml" timestamp="1563219452494">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-barcode-generator/codes/C4-204.svg" timestamp="1558546641345">
+        <mark key="[" line="63" column="83" />
+        <mark key="]" line="63" column="83" />
+        <mark key="." line="63" column="83" />
+        <mark key="^" line="63" column="83" />
+      </file>
+      <file name="$USER_HOME$/repositories/title-page/Dockerfile" timestamp="1563295210480">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/Pipfile" timestamp="1567228472656">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-todo-event.json" timestamp="1559169387670">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless/app/auth/router.py" timestamp="1569213181246">
+        <mark key="[" line="122" column="4" />
+        <mark key="]" line="122" column="4" />
+        <mark key="." line="122" column="4" />
+        <mark key="^" line="122" column="4" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_build.py" timestamp="1546825815796">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="53" />
+        <mark key="." line="12" column="53" />
+        <mark key="^" line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_server/Dockerfile.test" timestamp="1562774346422">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/resources/cognito-identity-pool.yml" timestamp="1560879327724">
+        <mark key="[" line="87" column="34" />
+        <mark key="]" line="87" column="34" />
+        <mark key="^" line="87" column="34" />
+        <mark key="." line="87" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-event.json" timestamp="1558502486295">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/resources/cognito-user-pool.yml" timestamp="1567228787551">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_manage.py" timestamp="1548013380715">
+        <mark key="[" line="16" column="81" />
+        <mark key="]" line="16" column="81" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="16" column="81" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/pytest.ini" timestamp="1546826091993">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/requirements.txt" timestamp="1555702798895">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/lib/response.py" timestamp="1562258484747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/update-full-event.json" timestamp="1561924391606">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/recipe_api/tests/test_recipes.py" timestamp="1562521936528">
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="58" column="55" />
+        <mark key="." line="58" column="55" />
+        <mark key="^" line="58" column="55" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/serverless.yml" timestamp="1567229649052">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/random_composer/random_composer.py" timestamp="1548478579761">
+        <mark key="[" line="20" column="61" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_migrate.py" timestamp="1546831394925">
+        <mark key="[" line="12" column="64" />
+        <mark key="]" line="12" column="70" />
+        <mark key="." line="12" column="70" />
+        <mark key="^" line="12" column="70" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/test.sh" timestamp="1546806957224">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/instrument_commands.py" timestamp="1546708985107">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/scratch/simple_task/Dockerfile" timestamp="1563386568365">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/common.py" timestamp="1560999392516">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/repositories/pdf_from_site/.env" timestamp="1547675181169">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/tests/conftest.py" timestamp="1549007404658">
+        <mark key="[" line="99" column="27" />
+        <mark key="]" line="99" column="36" />
+        <mark key="." line="99" column="36" />
+        <mark key="^" line="99" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/resources/cognito-user-pool.yml" timestamp="1558194867479">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="20" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" timestamp="1546658017319">
+        <mark key="[" line="69" column="68" />
+        <mark key="]" line="69" column="84" />
+        <mark key="^" line="69" column="84" />
+        <mark key="." line="69" column="84" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/accounts/serializers.py" timestamp="1547847335447">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/notes/api.py" timestamp="1547707402958">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="40" />
+      </file>
+      <file name="$USER_HOME$/scratch/calendar/app.py" timestamp="1561826853221">
+        <mark key="[" line="35" column="43" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+        <mark key="^" line="35" column="57" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/models.py" timestamp="1562273662955">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/get.py" timestamp="1559276523608">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/.pre-commit.yaml" timestamp="1555882925615">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="19" column="39" />
+        <mark key="^" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/app.py" timestamp="1562298354325">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+        <mark key="^" line="28" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/music/views.py" timestamp="1549011138564">
+        <mark key="[" line="98" column="44" />
+        <mark key="]" line="98" column="57" />
+        <mark key="." line="98" column="57" />
+        <mark key="^" line="98" column="57" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/app/settings.py" timestamp="1546932220416">
+        <mark key="[" line="132" column="29" />
+        <mark key="]" line="134" column="26" />
+        <mark key="." line="134" column="26" />
+        <mark key="^" line="134" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/app/auth/models.py" timestamp="1566846209547">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/examples.py" timestamp="1562948463167">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_common.py" timestamp="1562258849632">
+        <mark key="[" line="10" column="59" />
+        <mark key="]" line="10" column="59" />
+        <mark key="." line="10" column="59" />
+        <mark key="^" line="10" column="59" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/build_requirements.py" timestamp="1547886674926">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="25" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/env.yml" timestamp="1558500227430">
+        <mark key="[" line="5" column="63" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/forms.py" timestamp="1549476392606">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/config/Dockerfile" timestamp="1562270094185">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/Justfile" timestamp="1562519208267">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="58" />
+        <mark key="^" line="1" column="58" />
+        <mark key="." line="1" column="58" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/resources/api-gateway-errors.yml" timestamp="1567228565421">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-history-event.json" timestamp="1561933934377">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/models.py" timestamp="1558500695997">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/db.py" timestamp="1562299529586">
+        <mark key="[" line="55" column="81" />
+        <mark key="]" line="56" column="16" />
+        <mark key="." line="56" column="16" />
+        <mark key="^" line="56" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/title-page/serverless.yml" timestamp="1563242080057">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/user_plans.py" timestamp="1555961692637">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
+      <file name="/Python Console" timestamp="1548313792738">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/.env" timestamp="1549149796118">
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="65" />
+        <mark key="." line="9" column="65" />
+        <mark key="^" line="9" column="65" />
+      </file>
+      <file name="$USER_HOME$/repositories/baseball/pitcher_scraper_2017-09/scrape_baseball.py" timestamp="1547938552179">
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="60" column="9" />
+        <mark key="^" line="60" column="9" />
+        <mark key="." line="60" column="9" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/Dockerfile" timestamp="1566847231169">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="60" />
+        <mark key="^" line="12" column="60" />
+        <mark key="." line="12" column="60" />
+      </file>
+      <file name="$USER_HOME$/repositories/dtl/download_images/download_people.py" timestamp="1549070678222">
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+        <mark key="^" line="24" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/tests/test_update.py" timestamp="1556077847936">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/serializers.py" timestamp="1548636153256">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="6" column="82" />
+        <mark key="^" line="6" column="82" />
+        <mark key="." line="6" column="82" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/update.py" timestamp="1559276642517">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="24" column="43" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipe_box/models.py" timestamp="1562988440658">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/.env" timestamp="1546934056354">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/core/admin.py" timestamp="1546831476261">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/discogs_to_airtable/config.yml" timestamp="1550699499464">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/responder-course/demo/movie_service/views/api_views.py" timestamp="1561248920775">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/Justfile" timestamp="1564003253052">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="47" />
+        <mark key="." line="31" column="47" />
+        <mark key="^" line="31" column="47" />
+      </file>
+      <file name="$USER_HOME$/scratch/test-zappa-django/zappatest2/zappatest2/.env" timestamp="1544412797121">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/list.py" timestamp="1555883591414">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/scripts_server/scripts_server/users/endpoints.py" timestamp="1562299138018">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/sign-out-event.json" timestamp="1559750415939">
+        <mark key="[" line="1" column="79" />
+        <mark key="]" line="1" column="86" />
+        <mark key="^" line="1" column="86" />
+        <mark key="." line="1" column="86" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/env.yml" timestamp="1562191784795">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/scratch/simple_task/start.sh" timestamp="1563386625059">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="63" />
+        <mark key="^" line="2" column="63" />
+        <mark key="." line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/search-event.json" timestamp="1561933799316">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/delete-event.json" timestamp="1562258359151">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/blog/models.py" timestamp="1548478095486">
+        <mark key="[" line="47" column="46" />
+        <mark key="]" line="47" column="47" />
+        <mark key="." line="47" column="47" />
+        <mark key="^" line="47" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/posts/admin.py" timestamp="1545270531363">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/wagtail-play/thing/thing/settings/base.py" timestamp="1548454373534">
+        <mark key="[" line="146" column="13" />
+        <mark key="]" line="146" column="27" />
+        <mark key="." line="146" column="27" />
+        <mark key="^" line="146" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/sign_out.py" timestamp="1562122474492">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/filter-event.json" timestamp="1558908883307">
+        <mark key="[" line="1" column="99" />
+        <mark key="]" line="1" column="99" />
+        <mark key="." line="1" column="99" />
+        <mark key="^" line="1" column="99" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/resources/cognito-user-pool.yml" timestamp="1555702005071">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_down.py" timestamp="1546825785538">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="12" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/flask/microblog/app/__init__.py" timestamp="1548995279263">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/Justfile" timestamp="1569212070778">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/create_commands.py" timestamp="1548225010863">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="51" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/edit_prompts.py" timestamp="1555786492840">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="73" column="49" />
+        <mark key="." line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/scratch/calendar/cal.py" timestamp="1561826389970">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_server_starlette/.env" timestamp="1562810237827">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/cli/commands/cmd_up.py" timestamp="1547786616814">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/scratch/simple_task/worker/celery_worker.py" timestamp="1563384903473">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless/Justfile" timestamp="1569212085652">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/.env" timestamp="1566845116992">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+        <mark key="." line="5" column="61" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/docker-compose.yml" timestamp="1546934099160">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="86" />
+        <mark key="." line="3" column="86" />
+        <mark key="^" line="3" column="86" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipes/crud.py" timestamp="1563045392565">
+        <mark key="[" line="71" column="72" />
+        <mark key="]" line="71" column="72" />
+        <mark key="^" line="71" column="72" />
+        <mark key="." line="71" column="72" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/Dockerfile" timestamp="1547843708354">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="8" column="102" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/.flake8" timestamp="1555901634138">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/new-customer-event.json" timestamp="1556147518922">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="55" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/resources/s3-bucket.yml" timestamp="1560879808390">
+        <mark key="[" line="30" column="53" />
+        <mark key="]" line="30" column="53" />
+        <mark key="." line="30" column="53" />
+        <mark key="^" line="30" column="46" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/todos.py" timestamp="1559192335945">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="115" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/resources/dynamodb-table.yml" timestamp="1561922849723">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+        <mark key="^" line="25" column="52" />
+      </file>
+      <file name="$USER_HOME$/repositories/title-page/init-letsencrypt.sh" timestamp="1563326013695">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/get-event.json" timestamp="1558503236718">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/pyproject.toml" timestamp="1558586223499">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/Dockerfile" timestamp="1562894159777">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/app/auth/crud.py" timestamp="1566851648531">
+        <mark key="'" line="22" column="36" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/resources/cognito-identity-pool.yml" timestamp="1567228687494">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/recipe_box/router.py" timestamp="1562988609707">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="11" column="57" />
+        <mark key="^" line="11" column="57" />
+        <mark key="." line="11" column="57" />
+      </file>
+      <file name="$USER_HOME$/scratch/simple_task/main.py" timestamp="1563387624179">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="8" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-multiple-event.json" timestamp="1558201585542">
+        <mark key="[" line="1" column="73" />
+        <mark key="]" line="1" column="74" />
+        <mark key="." line="1" column="74" />
+        <mark key="^" line="1" column="74" />
+      </file>
+      <file name="$USER_HOME$/scratch/simple_task/worker.py" timestamp="1563384692541">
+        <mark key="[" line="16" column="80" />
+        <mark key="]" line="17" column="45" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/ponynote/backend/app/pytest.ini" timestamp="1547700220752">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/retrieve.py" timestamp="1560998903868">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="54" column="41" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/tests/test_commands.py" timestamp="1549169483824">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/lilyskel/tests/test_integration.py" timestamp="1548220549636">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/setup.py" timestamp="1546823945839">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/get-event.json" timestamp="1562171043166">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+        <mark key="^" line="1" column="54" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-elastic-drf-example/articles/documents.py" timestamp="1548636056425">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="32" column="38" />
+        <mark key="^" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/scratch/passwordless/docker-compose.yml" timestamp="1566847923249">
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/tests/test_delete.py" timestamp="1562259508100">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="69" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/celery.py" timestamp="1546742253096">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/gist_clone/gist_clone/.env" timestamp="1546751067179">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/passwordless-python/app/hello.py" timestamp="1567229653524">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event-full.json" timestamp="1561056603994">
+        <mark key="[" line="1" column="76" />
+        <mark key="]" line="1" column="85" />
+        <mark key="." line="1" column="85" />
+        <mark key="^" line="1" column="85" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/passwordless-vZxEVcLq/lib/python3.7/site-packages/starlette/testclient.py" timestamp="1569211984161" />
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/pyproject.toml" timestamp="1555883518660">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/baseball/pitcher_scraper_2017-09/prospectus.py" timestamp="1547939113174">
+        <mark key="[" line="60" column="36" />
+        <mark key="]" line="60" column="36" />
+        <mark key="." line="60" column="36" />
+        <mark key="^" line="60" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/app/.flake8" timestamp="1546814633156">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_up.py" timestamp="1546930014921">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/instrument-inventory/app/filter.py" timestamp="1562211819122">
+        <mark key="[" line="46" column="80" />
+        <mark key="]" line="46" column="80" />
+        <mark key="^" line="46" column="80" />
+        <mark key="." line="46" column="80" />
+      </file>
+      <file name="$USER_HOME$/repositories/dtl/screenshot_homepage/screenshot_homepage.py" timestamp="1548302148955">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="19" column="63" />
+      </file>
+      <file name="$USER_HOME$/repositories/recipe-app-api/cli/commands/cmd_restart.py" timestamp="1546932427785">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/serverless-python/lib/resonses.py" timestamp="1555703640972">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/scratch/simple_task/worker/celery_app.py" timestamp="1563386999256">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="45" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>s None</text>
+      </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="68" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="d" type="2">
+        <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>s None</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwpXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfbG9nZ2VkX2luX2dldF91c2VyX2luZm8oCiAgICB0ZXN0X2NsaWVudDogVGVzdENsaWVudCwgdXNlcjE6IGRpY3QsIG1vbmtleXBhdGNoOiBNb25rZXlQYXRjaCwgYXN5bmNfZGIKKToKICAgIG1vbmtleXBhdGNoLnNldGF0dHIoImFwcC5hdXRoLmNydWQuZGIiLCBhc3luY19kYikKICAgIG90cCA9IHNlY3VyaXR5LmdlbmVyYXRlX290cCh1c2VyMVsiZW1haWwiXSkKCiAgICBfcmVzcG9uc2UgPSB0ZXN0X2NsaWVudC5wb3N0KAogICAgICAgICIvYXV0aC9jb25maXJtIiwganNvbj17ImVtYWlsIjogdXNlcjFbImVtYWlsIl0sICJjb2RlIjogb3RwfQogICAgKQoKICAgIHJlc3BvbnNlMiA9IHRlc3RfY2xpZW50LmdldCgiL2F1dGgvbWUiKQoKICAgIGFzc2VydCByZXNwb25zZTIuc3RhdHVzX2NvZGUgPT0gMjAwCg==</text>
+      </register>
+      <register name="p" type="4">
+        <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBub3QgcmVzcG9uc2UuY29va2llcy5nZXQoInRva2VuIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QGF1dGhfcm91dGVyLmdldCgiL21hZ2ljIikKYXN5bmMgZGVmIG1hZ2ljKHNlY3JldDogc3RyLCBlbWFpbDogc3RyID0gRm9ybSguLi4pKToKICAgIHVzZXIgPSBhd2FpdCBzZWN1cml0eS5hdXRoZW50aWNhdGVfdXNlcl9tYWdpYyhlbWFpbCwgc2VjcmV0KQogICAgaWYgbm90IHVzZXI6CiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbihzdGF0dXNfY29kZT1IVFRQXzQwMF9CQURfUkVRVUVTVCwgZGV0YWlsPSJJbnZhbGlkIExpbmsiKQogICAgYWNjZXNzX3Rva2VuX2V4cGlyZXMgPSBkYXRldGltZS50aW1lZGVsdGEobWludXRlcz1BQ0NFU1NfVE9LRU5fRVhQSVJFX01JTlVURVMpCiAgICBhY2Nlc3NfdG9rZW4gPSBzZWN1cml0eS5jcmVhdGVfYWNjZXNzX3Rva2VuKAogICAgICAgIGRhdGE9eyJzdWIiOiB1c2VyLmVtYWlsfSwgZXhwaXJlc19kZWx0YT1hY2Nlc3NfdG9rZW5fZXhwaXJlcwogICAgKQogICAgcmVzcG9uc2UgPSBVSlNPTlJlc3BvbnNlKHsic3RhdHVzIjogImF1dGhlbnRpY2F0ZWQifSkKICAgIHJlc3BvbnNlLnNldF9jb29raWUoCiAgICAgICAgb2F1dGgyX3NjaGVtZS50b2tlbl9uYW1lLCBhY2Nlc3NfdG9rZW4sIGh0dHBvbmx5PVRydWUsIHNlY3VyZT1zZWN1cmVfY29va2llcwogICAgKQogICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG90cCAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>s/pdf/html/g</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-replace>html</last-replace>
+      <last-substitute>pdf</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>parso</entry>
+        <entry>mark_completed</entry>
+        <entry>unmark</entry>
+        <entry>test_create_todo_partial</entry>
+        <entry>update</entry>
+        <entry>uuid</entry>
+        <entry>signed</entry>
+        <entry>gifted</entry>
+        <entry>get_explode</entry>
+        <entry>DoesNotExist</entry>
+        <entry>explode</entry>
+        <entry>Rick</entry>
+        <entry>Object</entry>
+        <entry>ObjectId</entry>
+        <entry>put</entry>
+        <entry>db</entry>
+        <entry>TokenDAta</entry>
+        <entry>1</entry>
+        <entry>pdf</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/db/add/g</entry>
+        <entry encoding="base64">JzwsJz5zL2xpY2Vuc2Uvc3R5bGUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3N0eWxlL3NvdXJjZS9n</entry>
+        <entry>w</entry>
+        <entry>s/1/2/g</entry>
+        <entry>s/tags/ingredients</entry>
+        <entry>%s/INGREDIENTS_URL/ingredients_url/g</entry>
+        <entry>%s/self\.client/authenticated_client/g</entry>
+        <entry encoding="base64">JzwsJz5zL3B1dC9wYXRjaC9n</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
+        <entry>s/pdf/html/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
@@ -48,11 +1733,5 @@
         <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
-    <notifications>
-      <idea-join enabled="true" />
-      <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
-    </notifications>
   </component>
 </application>
