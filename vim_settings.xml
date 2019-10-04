@@ -243,11 +243,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/rickhenry.dev/api/.env" timestamp="1569470013610">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="33" />
+      <file name="$USER_HOME$/repositories/rickhenry.dev/api/.env" timestamp="1570165113860">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/auth.py" timestamp="1562559706942">
         <mark key="[" line="26" column="35" />
@@ -346,8 +346,7 @@
         <mark key="." line="22" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/rickhenry.dev/api/.env.example" timestamp="1569469999844">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="11" />
+        <mark key="]" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-event.json" timestamp="1558198770235">
         <mark key="[" line="1" column="14" />
