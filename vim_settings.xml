@@ -243,6 +243,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/rickhenry.dev/api/.env" timestamp="1569470013610">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+      </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_server/recipe_api/auth.py" timestamp="1562559706942">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="26" column="47" />
@@ -338,6 +344,10 @@
         <mark key="]" line="22" column="59" />
         <mark key="^" line="22" column="59" />
         <mark key="." line="22" column="59" />
+      </file>
+      <file name="$USER_HOME$/repositories/rickhenry.dev/api/.env.example" timestamp="1569469999844">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/retrieve-event.json" timestamp="1558198770235">
         <mark key="[" line="1" column="14" />
@@ -477,6 +487,11 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/rickhenry.dev/api/app/tests/conftest.py" timestamp="1569470620406">
+        <mark key="'" line="66" column="0" />
+        <mark key="]" line="47" column="88" />
+        <mark key="^" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/generate_demo_data.py" timestamp="1569217688016">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="131" column="44" />
@@ -525,12 +540,6 @@
         <mark key="]" line="4" column="29" />
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/passwordless-python/app/auth.py" timestamp="1567229657172">
-        <mark key="'" line="3" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/recipe_fastapi/app/tests/test_auth.py" timestamp="1562895535098">
         <mark key="[" line="86" column="37" />
@@ -664,11 +673,11 @@
         <mark key="^" line="43" column="25" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/rickhenry.dev/api/app/contact/router.py" timestamp="1569469477437">
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-        <mark key="^" line="23" column="20" />
+      <file name="$USER_HOME$/repositories/rickhenry.dev/api/app/contact/router.py" timestamp="1569470823948">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="33" column="88" />
+        <mark key="^" line="33" column="88" />
+        <mark key="." line="33" column="88" />
       </file>
       <file name="$USER_HOME$/Nextcloud/Documents/django_full_stack/spacespace/spacespace/settings.py" timestamp="1544394105886">
         <mark key="[" line="126" column="15" />
@@ -930,6 +939,13 @@
         <mark key="]" line="20" column="6" />
         <mark key="^" line="10" column="37" />
         <mark key="." line="20" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/rickhenry.dev/api/app/tests/test_contact.py" timestamp="1569471054185">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="85" column="38" />
+        <mark key="]" line="86" column="32" />
+        <mark key="." line="86" column="32" />
+        <mark key="^" line="86" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/lilyskel/lilyskel/interface/sub_repl.py" timestamp="1546658017319">
         <mark key="[" line="69" column="68" />
@@ -1333,11 +1349,11 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/rickhenry.dev/api/app/tests/test_auth.py" timestamp="1569305976273">
-        <mark key="[" line="65" column="70" />
-        <mark key="]" line="65" column="95" />
-        <mark key="." line="65" column="95" />
-        <mark key="^" line="65" column="95" />
+      <file name="$USER_HOME$/repositories/rickhenry.dev/api/app/tests/test_auth.py" timestamp="1569470617936">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="54" column="95" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/rickhenry.dev/api/app/auth/crud.py" timestamp="1569305081012">
         <mark key="[" line="16" column="0" />
@@ -1391,12 +1407,6 @@
         <mark key="]" line="5" column="52" />
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
-      </file>
-      <file name="$USER_HOME$/repositories/scratch/passwordless/app/auth/crud.py" timestamp="1566851648531">
-        <mark key="'" line="22" column="36" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/passwordless-python/resources/cognito-identity-pool.yml" timestamp="1567228687494">
         <mark key="[" line="14" column="0" />
@@ -1464,6 +1474,12 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
+      <file name="$USER_HOME$/repositories/rickhenry.dev/api/app/dependencies.py" timestamp="1569470543447">
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="48" column="43" />
+        <mark key="^" line="48" column="43" />
+        <mark key="." line="48" column="43" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/serverless-python/mocks/delete-customer-plan2.json" timestamp="1556147147608">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="54" />
@@ -1499,12 +1515,6 @@
         <mark key="]" line="4" column="35" />
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
-      </file>
-      <file name="$USER_HOME$/repositories/passwordless-python/app/hello.py" timestamp="1567229653524">
-        <mark key="'" line="10" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/instrument-inventory/mocks/create-event-full.json" timestamp="1561056603994">
         <mark key="[" line="1" column="76" />
@@ -1571,10 +1581,14 @@
       <jump line="105" column="18" filename="$USER_HOME$/repositories/instrument-inventory/generate_demo_data.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/instrument-inventory/generate_demo_data.py" />
       <jump line="202" column="7" filename="$USER_HOME$/repositories/rickhenry.dev/api/app/tests/test_auth.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/repositories/rickhenry.dev/api/app/tests/test_contact.py" />
+      <jump line="50" column="11" filename="$USER_HOME$/repositories/rickhenry.dev/api/app/tests/conftest.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/repositories/rickhenry.dev/api/app/tests/conftest.py" />
+      <jump line="24" column="65" filename="$USER_HOME$/repositories/rickhenry.dev/api/app/contact/router.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGhlIGZvcm0gb24g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1603,13 +1617,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhlIGZvcm0gb24g</text>
+        <text>fake_send_email</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIoImFwcC5hdXRoLmNydWQuZGIiLCBhc3luY19kYikKICAgIHJlc3BvbnNlID0gYWRtaW5fYXV0aGVudGljYXRlZF9jbGllbnQucG9zdCgiL2F1dGgvcmVnaXN0ZXIiLCBqc29uPXVzZXJfZGF0YSkKCiAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAxCiAgICB1c2VyX2luX2RiID0gZGIudXNlcnMuZmluZF9vbmUoeyJlbWFpbCI6IHVzZXJfZGF0YVsiZW1haWwiXX0pCgogICAgYXNzZXJ0IHVzZXJfaW5fZGJbImZ1bGxfbmFtZSJdID09IHVzZXJfZGF0YVsiZnVsbF9uYW1lIl0K</text>
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiBmYWtlX3NlbmRfZW1haWwodG8sIHN1YmplY3QsIHRleHQsIGZyb21fYWRkcmVzcywgZnJvbV9uYW1lLCByZXBseV90byk6CiAgICAgICAgYXNzZXJ0IHRvID09ICJyaWNraGVucnlAcmlja2hlbnJ5LmRldiIKICAgICAgICBhc3NlcnQgc3ViamVjdCA9PSBtZXNzYWdlX2RhdGFbInN1YmplY3QiXQogICAgICAgIGFzc2VydCB0ZXh0ID09IG1lc3NhZ2VfZGF0YVsibWVzc2FnZSJdCiAgICAgICAgYXNzZXJ0IGZyb21fYWRkcmVzcyA9PSAiY29udGFjdEBtZy5yaWNraGVucnkuZGV2IgogICAgICAgIGFzc2VydCBmcm9tX25hbWUgPT0gbWVzc2FnZV9kYXRhWyJuYW1lIl0KICAgICAgICBhc3NlcnQgcmVwbHlfdG8gPT0gbWVzc2FnZV9kYXRhWyJlbWFpbCJdCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1624,31 +1638,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJfZGF0YSkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjYWxsZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJfaW5fZGIgPSBkYi51c2Vycy5maW5kX29uZSh7ImVtYWlsIjogdXNlcl9kYXRhWyJlbWFpbCJdfSkKCiAgICBhc3NlcnQgdXNlcl9pbl9kYlsiZnVsbF9uYW1lIl0gPT0gdXNlcl9kYXRhWyJmdWxsX25hbWUiXQo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxsZWQgPSBUcnVlCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcmVnaXN0ZXJfZXhpc3RpbmdfZmFpbHMoKQo=</text>
+        <text encoding="base64">ICAgIGNhbGxzID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWwgY2FsbGVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiB1c2VyMihkYikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGN1cnJlbnRfdXNlcikK</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhZG1pbl91c2VyKGRiKToKICAgIG5ld191c2VyID0gVXNlckluREIoCiAgICAgICAgZW1haWw9ImFkbWluQHJpY2toZW5yeS5kZXYiLCBmdWxsX25hbWU9IkFkbWluIiwgcm9sZT1BdXRoUm9sZS5hZG1pbgogICAgKQogICAgcmVzdWx0ID0gZGIudXNlcnMuaW5zZXJ0X29uZShuZXdfdXNlci5kaWN0KCkpCiAgICByZXR1cm4geyoqbmV3X3VzZXIuZGljdCgpLCAiaWQiOiByZXN1bHQuaW5zZXJ0ZWRfaWR9CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGN1cnJlbnRfdXNlcikK</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiB1c2VyX2RhdGEoKToKICAgIHJldHVybiB7ImVtYWlsIjogInRlc3RAcmlja2hlbnJ5LmRldiIsICJmdWxsX25hbWUiOiAiVGVzdCBQZXJzb24iLCAicm9sZSI6ICJDTElFTlQifQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
