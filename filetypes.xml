@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping ext="test" type="Dockerfile" />
       <mapping pattern="Justfile" type="PLAIN_TEXT" />
-      <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern=".pretty.json.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile.test" type="PLAIN_TEXT" />
       <mapping ext="ily" type="PLAIN_TEXT" />
