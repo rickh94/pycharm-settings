@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../src/app/static-src/postcss.config.js'" />
+    <option name="defaultScopeName" value="File '.../src/app/static-src/postcss.config.js'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/app/static-src/postcss.config.js'" />
+  </component>
+</application>
