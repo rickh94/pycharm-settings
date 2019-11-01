@@ -1,6 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="88" />
   <option name="SOFT_MARGINS" value="88" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
