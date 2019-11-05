@@ -1,13 +1,9 @@
 <keymap version="1" name="Default for KDE copy 1" parent="Default for KDE">
   <action id="BLACKReformatCode">
-    <keyboard-shortcut first-keystroke="shift alt l" />
-  </action>
-  <action id="NewElement">
-    <keyboard-shortcut first-keystroke="alt insert" />
-    <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="shift alt l" second-keystroke="b" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="shift alt l" second-keystroke="d" />
   </action>
   <action id="Vcs.ReformatCommitMessage" />
   <action id="context.load" />
