@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="pcss" type="CSS" />
       <mapping pattern="Dockerfile.prod" type="Dockerfile" />
       <mapping pattern="Dockerfile.dev" type="Dockerfile" />
       <mapping pattern="Dockerfile.test" type="Dockerfile" />
+      <mapping pattern=".zeroignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
