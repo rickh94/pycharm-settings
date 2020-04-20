@@ -91,18 +91,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/list.py" timestamp="1586240027153">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-      </file>
       <file name="$USER_HOME$/repositories/scratch/fix-csvs/Zoom Address-Grid view.csv" timestamp="1587004826606">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/smlib/docker-compose.dev.yml" timestamp="1587404043525" />
       <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/items.svelte" timestamp="1586287705588">
         <mark key="[" line="40" column="11" />
         <mark key="]" line="41" column="7" />
@@ -116,18 +111,18 @@
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/zero-passwordless/src/app/.zeroignore" timestamp="1586240153715">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/index.svelte" timestamp="1586241692365">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="34" />
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/.env" timestamp="1587404619601">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/zero-passwordless/docker-compose.dev.yml" timestamp="1586241249307">
         <mark key="[" line="23" column="32" />
