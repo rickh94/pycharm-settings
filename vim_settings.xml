@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>evince</entry>
         <entry>fish</entry>
         <entry>firacode</entry>
         <entry>frescobaldi</entry>
@@ -25,6 +24,7 @@
         <entry>yak</entry>
         <entry encoding="base64">XDxncmF5XD4=</entry>
         <entry>url</entry>
+        <entry>find</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -97,6 +97,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" timestamp="1587447752514">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/items.svelte" timestamp="1586287705588">
         <mark key="[" line="40" column="11" />
         <mark key="]" line="41" column="7" />
@@ -144,6 +150,19 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/forms.py" timestamp="1587447732551">
+        <mark key="[" line="59" column="40" />
+        <mark key="]" line="60" column="40" />
+        <mark key="^" line="60" column="40" />
+        <mark key="." line="60" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" timestamp="1587447570213">
+        <mark key="'" line="163" column="17" />
+        <mark key="[" line="175" column="11" />
+        <mark key="]" line="175" column="88" />
+        <mark key="^" line="175" column="88" />
+        <mark key="." line="175" column="87" />
+      </file>
       <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/api/v1/items/list.py" timestamp="1586287793828">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="10" column="42" />
@@ -155,12 +174,6 @@
         <mark key="]" line="4" column="28" />
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/repositories/zero-passwordless/src/Dockerfile.dev" timestamp="1586241576139">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/data.svelte" timestamp="1586242213068">
         <mark key="'" line="21" column="8" />
@@ -189,10 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="1" filename="$USER_HOME$/repositories/tutorials/flask/microblog/src/app/main/routes.py" />
-      <jump line="135" column="1" filename="$USER_HOME$/repositories/tutorials/flask/microblog/src/app/main/routes.py" />
-      <jump line="151" column="1" filename="$USER_HOME$/repositories/tutorials/flask/microblog/src/app/main/routes.py" />
-      <jump line="167" column="1" filename="$USER_HOME$/repositories/tutorials/flask/microblog/src/app/main/routes.py" />
       <jump line="195" column="1" filename="$USER_HOME$/repositories/tutorials/flask/microblog/src/app/main/routes.py" />
       <jump line="202" column="1" filename="$USER_HOME$/repositories/tutorials/flask/microblog/src/app/main/routes.py" />
       <jump line="18" column="0" filename="$USER_HOME$/repositories/field-trip-tracker/src/app/auth/routes.py" />
@@ -289,12 +298,16 @@
       <jump line="29" column="0" filename="$USER_HOME$/repositories/scratch/fix-csvs/main.py" />
       <jump line="2" column="10" filename="$USER_HOME$/repositories/tutorials/jptutorial/alert_comp.py" />
       <jump line="41" column="45" filename="$USER_HOME$/repositories/tutorials/jptutorial/alert_comp.py" />
+      <jump line="119" column="12" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" />
+      <jump line="139" column="10" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" />
+      <jump line="150" column="23" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" />
+      <jump line="163" column="17" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>self.color</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -323,10 +336,10 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>self.color</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>find</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">RW1haWwgQWRkcmVzcwo=</text>
@@ -381,9 +394,9 @@ MINIO_HOST=minio.rickhenry.dev</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>url</last-search>
+      <last-search>find</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>find</last-pattern>
       <last-replace>tags</last-replace>
       <last-substitute>composers</last-substitute>
       <last-dir>1</last-dir>
