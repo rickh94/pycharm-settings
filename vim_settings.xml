@@ -156,11 +156,11 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/base.html" timestamp="1587487357380">
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="34" />
-        <mark key="." line="25" column="34" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/base.html" timestamp="1587489182687">
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="27" column="57" />
+        <mark key="." line="27" column="56" />
+        <mark key="^" line="27" column="57" />
       </file>
       <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/api/v1/items/list.py" timestamp="1586287793828">
         <mark key="[" line="8" column="34" />
@@ -306,7 +306,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>green</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -335,7 +335,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>green</text>
       </register>
       <register name="/" type="4">
         <text>has_next</text>
@@ -356,35 +356,35 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZm9ybSA9IFNlYXJjaEZvcm0oYXdhaXQgcmVxdWVzdC5mb3JtKCksIG1ldGE9eyJjc3JmX2NvbnRleHQiOiByZXF1ZXN0LnNlc3Npb259KQogICAgIyBpZiBmb3JtLnZhbGlkYXRlKCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJtYi00Ij4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJiZy1ncmVlbi0xMDAgYm9yZGVyLWdyZWVuLTcwMCBib3JkZXIgcHgtMSBtdC0xIj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHt7IGZvcm0gfX0K</text>
+        <text encoding="base64">ICAgICMgZm9ybSA9IFNlYXJjaEZvcm0oYXdhaXQgcmVxdWVzdC5mb3JtKCksIG1ldGE9eyJjc3JmX2NvbnRleHQiOiByZXF1ZXN0LnNlc3Npb259KQogICAgIyBpZiBmb3JtLnZhbGlkYXRlKCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgfX0K</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJtYi00Ij4KICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHt7IGZvcm0gfX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgfX0K</text>
+      </register>
+      <register name="7" type="2">
         <text>{% block body %}
 {</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">eyUgICV9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PGV4dGVuZHM+PC9leHRlbmRzPg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGV4dGVuZHM+PC9leHRlbmRzPg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
