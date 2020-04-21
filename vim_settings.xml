@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>fish</entry>
         <entry>firacode</entry>
         <entry>frescobaldi</entry>
         <entry>gimp</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxncmF5XD4=</entry>
         <entry>url</entry>
         <entry>find</entry>
+        <entry>has_next</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -97,11 +97,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" timestamp="1587447752514">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="21" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="23" column="20" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" timestamp="1587448600805">
+        <mark key="'" line="322" column="4" />
+        <mark key="]" line="50" column="93" />
+        <mark key="." line="50" column="92" />
+        <mark key="^" line="50" column="93" />
       </file>
       <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/items.svelte" timestamp="1586287705588">
         <mark key="[" line="40" column="11" />
@@ -115,13 +115,6 @@
       <file name="$USER_HOME$/repositories/scratch/fix-csvs/breakout_room_template.csv" timestamp="1587004150463">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="34" />
-      </file>
-      <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/index.svelte" timestamp="1586241692365">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/.env" timestamp="1587438272446">
         <mark key="[" line="14" column="0" />
@@ -141,7 +134,7 @@
         <mark key="." line="24" column="72" />
         <mark key="^" line="24" column="73" />
       </file>
-      <file name="/" timestamp="1587359819988">
+      <file name="/" timestamp="1587448657030">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/jptutorial/alert_comp.py" timestamp="1587364061087">
@@ -156,12 +149,11 @@
         <mark key="^" line="60" column="40" />
         <mark key="." line="60" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" timestamp="1587447570213">
-        <mark key="'" line="163" column="17" />
-        <mark key="[" line="175" column="11" />
-        <mark key="]" line="175" column="88" />
-        <mark key="^" line="175" column="88" />
-        <mark key="." line="175" column="87" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" timestamp="1587448120334">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/api/v1/items/list.py" timestamp="1586287793828">
         <mark key="[" line="8" column="34" />
@@ -174,6 +166,11 @@
         <mark key="]" line="4" column="28" />
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/search.html" timestamp="1587448646940">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/data.svelte" timestamp="1586242213068">
         <mark key="'" line="21" column="8" />
@@ -202,16 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="1" filename="$USER_HOME$/repositories/tutorials/flask/microblog/src/app/main/routes.py" />
-      <jump line="202" column="1" filename="$USER_HOME$/repositories/tutorials/flask/microblog/src/app/main/routes.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/repositories/field-trip-tracker/src/app/auth/routes.py" />
-      <jump line="8" column="25" filename="$USER_HOME$/repositories/field-trip-tracker/src/app/auth/email.py" />
-      <jump line="24" column="44" filename="$USER_HOME$/repositories/field-trip-tracker/src/app/auth/email.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/repositories/field-trip-tracker/src/app/auth/email.py" />
-      <jump line="0" column="26" filename="$USER_HOME$/repositories/field-trip-tracker/src/app/templates/email/magic.html" />
-      <jump line="9" column="37" filename="$USER_HOME$/repositories/field-trip-tracker/src/app/templates/email/otp.html" />
-      <jump line="58" column="13" filename="$USER_HOME$/repositories/field-trip-tracker/src/app/auth/routes.py" />
-      <jump line="28" column="23" filename="$USER_HOME$/repositories/field-trip-tracker/src/app/auth/forms.py" />
       <jump line="6" column="24" filename="$USER_HOME$/repositories/field-trip-tracker/src/app/auth/forms.py" />
       <jump line="11" column="24" filename="$USER_HOME$/repositories/tutorials/flask/microblog/src/app/main/routes.py" />
       <jump line="24" column="7" filename="$USER_HOME$/repositories/tutorials/flask/microblog/src/app/main/routes.py" />
@@ -302,12 +289,22 @@
       <jump line="139" column="10" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" />
       <jump line="150" column="23" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" />
       <jump line="163" column="17" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" />
+      <jump line="276" column="11" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" />
+      <jump line="277" column="0" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" />
+      <jump line="296" column="36" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" />
+      <jump line="293" column="34" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" />
+      <jump line="43" column="38" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" />
+      <jump line="149" column="34" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" />
+      <jump line="312" column="4" filename="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" />
+      <jump line="4" column="14" filename="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/search.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/search.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -336,13 +333,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text>direction</text>
       </register>
       <register name="/" type="4">
-        <text>find</text>
+        <text>has_next</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">RW1haWwgQWRkcmVzcwo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByZXZfcGFnZSwgbmV4dF9wYWdlID0gZ2V0X25leHRfcHJldl9wYWdlX3VybHMocmVxdWVzdC51cmwsIHBhZ2UpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -357,35 +354,35 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text>MINIO_BUCKET_NAME=smlib-experiment
-MINIO_HOST=minio.rickhenry.dev</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtaW5pbzoKICAgIGltYWdlOiBtaW5pby9taW5pbwogICAgcG9ydHM6CiAgICAgIC0gIjkwMDA6OTAwMCIKICAgIHZvbHVtZXM6CiAgICAgIC0gbWluaW8tZGF0YTovZGF0YQogICAgZW52X2ZpbGU6CiAgICAgIC0gLmVudgogICAgY29tbWFuZDogc2VydmVyIC9kYXRhCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBtaW5pbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkLnRpdGxlX3RleHQgPSAiU2hhbG9tIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG93bmVyX2VtYWlsOiBzdHIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBncmVlaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGVtcGxhdGVzLlRlbXBsYXRlUmVzcG9uc2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dD0iTWFrZSBzdXJlIHlvdSBrbm93IGhvdyB0aGVzZSBjaGFuZ2VzIGFmZmVjdCB5b3UuIiwK</text>
+        <text>MINIO_BUCKET_NAME=smlib-experiment
+MINIO_HOST=minio.rickhenry.dev</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjMSA9IGpwLkQK</text>
+        <text encoding="base64">ICBtaW5pbzoKICAgIGltYWdlOiBtaW5pby9taW5pbwogICAgcG9ydHM6CiAgICAgIC0gIjkwMDA6OTAwMCIKICAgIHZvbHVtZXM6CiAgICAgIC0gbWluaW8tZGF0YTovZGF0YQogICAgZW52X2ZpbGU6CiAgICAgIC0gLmVudgogICAgY29tbWFuZDogc2VydmVyIC9kYXRhCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHRtbF9zdHJpbmcgPSAiIiIKPGRpdiBjbGFzcz0iYmctdGVhbC0xMDAgYm9yZGVyLXQtNCBib3JkZXItdGVhbC01MDAgcm91bmRlZC1iIHRleHQtdGVhbC05MDAgcHgtNCBweS0zIHNoYWRvdy1tZCIgcm9sZT0iYWxlcnQiPgogIDxkaXYgY2xhc3M9ImZsZXgiPgogICAgPGRpdiBjbGFzcz0icHktMSI+CiAgICA8c3ZnIGNsYXNzPSJmaWxsLWN1cnJlbnQgaC02IHctNiB0ZXh0LXRlYWwtNTAwIG1yLTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDIwIDIwIj4KICAgIDxwYXRoIGQ9Ik0yLjkzIDE3LjA3QTEwIDEwIDAgMSAxIDE3LjA3IDIuOTMgMTAgMTAgMCAwIDEgMi45MyAxNy4wN3ptMTIuNzMtMS40MUE4IDggMCAxIDAgNC4zNCA0LjM0YTggOCAwIDAgMCAxMS4zMiAxMS4zMnpNOSAxMVY5aDJ2Nkg5di00em0wLTZoMnYySDlWNXoiLz48L3N2Zz4KICAgIDwvZGl2PgogICAgPGRpdj4KICAgICAgPHAgY2xhc3M9ImZvbnQtYm9sZCI+T3VyIHByaXZhY3kgcG9saWN5IGhhcyBjaGFuZ2VkPC9wPgogICAgICA8cCBjbGFzcz0idGV4dC1zbSI+TWFrZSBzdXJlIHlvdSBrbm93IGhvdyB0aGVzZSBjaGFuZ2VzIGFmZmVjdCB5b3UuPC9wPgogICAgPC9kaXY+CiAgPC9kaXY+CjwvZGl2PgoiIiIKCmQgPSBqcC5wYXJzZV9odG1sKGh0bWxfc3RyaW5nKQpmb3IgYyBpbiBkLmNvbW1hbmRzOgogICAgcHJpbnQoYyk=</text>
+        <text encoding="base64">ICAgICAgLSBtaW5pbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -394,9 +391,9 @@ MINIO_HOST=minio.rickhenry.dev</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>find</last-search>
+      <last-search>has_next</last-search>
       <last-offset />
-      <last-pattern>find</last-pattern>
+      <last-pattern>has_next</last-pattern>
       <last-replace>tags</last-replace>
       <last-substitute>composers</last-substitute>
       <last-dir>1</last-dir>
