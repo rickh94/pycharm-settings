@@ -117,11 +117,11 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/.env" timestamp="1587404619601">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="29" />
+      <file name="$USER_HOME$/repositories/smlib/.env" timestamp="1587438272446">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/docker-compose.win.yml" timestamp="1587404885208">
         <mark key="[" line="44" column="0" />
@@ -181,11 +181,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/jptutorial/calendar_date.py" timestamp="1587437261086">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="23" />
+      <file name="$USER_HOME$/repositories/tutorials/jptutorial/calendar_date.py" timestamp="1587438967476">
+        <mark key="[" line="54" column="35" />
+        <mark key="]" line="54" column="73" />
+        <mark key="^" line="54" column="73" />
+        <mark key="." line="54" column="72" />
       </file>
     </filemarks>
     <jumps>
@@ -293,8 +293,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtaW5pbzoKICAgIGltYWdlOiBtaW5pby9taW5pbwogICAgcG9ydHM6CiAgICAgIC0gIjkwMDA6OTAwMCIKICAgIHZvbHVtZXM6CiAgICAgIC0gbWluaW8tZGF0YTovZGF0YQogICAgZW52X2ZpbGU6CiAgICAgIC0gLmVudgogICAgY29tbWFuZDogc2VydmVyIC9kYXRhCgo=</text>
+      <register name="&quot;" type="4">
+        <text>self.color</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -323,7 +323,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>self.color</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
@@ -344,34 +344,35 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtaW5pbzoKICAgIGltYWdlOiBtaW5pby9taW5pbwogICAgcG9ydHM6CiAgICAgIC0gIjkwMDA6OTAwMCIKICAgIHZvbHVtZXM6CiAgICAgIC0gbWluaW8tZGF0YTovZGF0YQogICAgZW52X2ZpbGU6CiAgICAgIC0gLmVudgogICAgY29tbWFuZDogc2VydmVyIC9kYXRhCgo=</text>
+        <text>MINIO_BUCKET_NAME=smlib-experiment
+MINIO_HOST=minio.rickhenry.dev</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBtaW5pbwo=</text>
+        <text encoding="base64">ICBtaW5pbzoKICAgIGltYWdlOiBtaW5pby9taW5pbwogICAgcG9ydHM6CiAgICAgIC0gIjkwMDA6OTAwMCIKICAgIHZvbHVtZXM6CiAgICAgIC0gbWluaW8tZGF0YTovZGF0YQogICAgZW52X2ZpbGU6CiAgICAgIC0gLmVudgogICAgY29tbWFuZDogc2VydmVyIC9kYXRhCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkLnRpdGxlX3RleHQgPSAiU2hhbG9tIgo=</text>
+        <text encoding="base64">ICAgICAgLSBtaW5pbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkLnRpdGxlX3RleHQgPSAiU2hhbG9tIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBncmVlaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dD0iTWFrZSBzdXJlIHlvdSBrbm93IGhvdyB0aGVzZSBjaGFuZ2VzIGFmZmVjdCB5b3UuIiwK</text>
+        <text encoding="base64">ICAgIGZvciBncmVlaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjMSA9IGpwLkQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dD0iTWFrZSBzdXJlIHlvdSBrbm93IGhvdyB0aGVzZSBjaGFuZ2VzIGFmZmVjdCB5b3UuIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aHRtbF9zdHJpbmcgPSAiIiIKPGRpdiBjbGFzcz0iYmctdGVhbC0xMDAgYm9yZGVyLXQtNCBib3JkZXItdGVhbC01MDAgcm91bmRlZC1iIHRleHQtdGVhbC05MDAgcHgtNCBweS0zIHNoYWRvdy1tZCIgcm9sZT0iYWxlcnQiPgogIDxkaXYgY2xhc3M9ImZsZXgiPgogICAgPGRpdiBjbGFzcz0icHktMSI+CiAgICA8c3ZnIGNsYXNzPSJmaWxsLWN1cnJlbnQgaC02IHctNiB0ZXh0LXRlYWwtNTAwIG1yLTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDIwIDIwIj4KICAgIDxwYXRoIGQ9Ik0yLjkzIDE3LjA3QTEwIDEwIDAgMSAxIDE3LjA3IDIuOTMgMTAgMTAgMCAwIDEgMi45MyAxNy4wN3ptMTIuNzMtMS40MUE4IDggMCAxIDAgNC4zNCA0LjM0YTggOCAwIDAgMCAxMS4zMiAxMS4zMnpNOSAxMVY5aDJ2Nkg5di00em0wLTZoMnYySDlWNXoiLz48L3N2Zz4KICAgIDwvZGl2PgogICAgPGRpdj4KICAgICAgPHAgY2xhc3M9ImZvbnQtYm9sZCI+T3VyIHByaXZhY3kgcG9saWN5IGhhcyBjaGFuZ2VkPC9wPgogICAgICA8cCBjbGFzcz0idGV4dC1zbSI+TWFrZSBzdXJlIHlvdSBrbm93IGhvdyB0aGVzZSBjaGFuZ2VzIGFmZmVjdCB5b3UuPC9wPgogICAgPC9kaXY+CiAgPC9kaXY+CjwvZGl2PgoiIiIKCmQgPSBqcC5wYXJzZV9odG1sKGh0bWxfc3RyaW5nKQpmb3IgYyBpbiBkLmNvbW1hbmRzOgogICAgcHJpbnQoYyk=</text>
+        <text encoding="base64">ICAgICAgICBjMSA9IGpwLkQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RG9uIEhlbnJ5LGRvbmhlbnJ5QG1lLmNvbQo=</text>
+        <text encoding="base64">aHRtbF9zdHJpbmcgPSAiIiIKPGRpdiBjbGFzcz0iYmctdGVhbC0xMDAgYm9yZGVyLXQtNCBib3JkZXItdGVhbC01MDAgcm91bmRlZC1iIHRleHQtdGVhbC05MDAgcHgtNCBweS0zIHNoYWRvdy1tZCIgcm9sZT0iYWxlcnQiPgogIDxkaXYgY2xhc3M9ImZsZXgiPgogICAgPGRpdiBjbGFzcz0icHktMSI+CiAgICA8c3ZnIGNsYXNzPSJmaWxsLWN1cnJlbnQgaC02IHctNiB0ZXh0LXRlYWwtNTAwIG1yLTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDIwIDIwIj4KICAgIDxwYXRoIGQ9Ik0yLjkzIDE3LjA3QTEwIDEwIDAgMSAxIDE3LjA3IDIuOTMgMTAgMTAgMCAwIDEgMi45MyAxNy4wN3ptMTIuNzMtMS40MUE4IDggMCAxIDAgNC4zNCA0LjM0YTggOCAwIDAgMCAxMS4zMiAxMS4zMnpNOSAxMVY5aDJ2Nkg5di00em0wLTZoMnYySDlWNXoiLz48L3N2Zz4KICAgIDwvZGl2PgogICAgPGRpdj4KICAgICAgPHAgY2xhc3M9ImZvbnQtYm9sZCI+T3VyIHByaXZhY3kgcG9saWN5IGhhcyBjaGFuZ2VkPC9wPgogICAgICA8cCBjbGFzcz0idGV4dC1zbSI+TWFrZSBzdXJlIHlvdSBrbm93IGhvdyB0aGVzZSBjaGFuZ2VzIGFmZmVjdCB5b3UuPC9wPgogICAgPC9kaXY+CiAgPC9kaXY+CjwvZGl2PgoiIiIKCmQgPSBqcC5wYXJzZV9odG1sKGh0bWxfc3RyaW5nKQpmb3IgYyBpbiBkLmNvbW1hbmRzOgogICAgcHJpbnQoYyk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
