@@ -113,23 +113,22 @@
         <mark key="^" line="51" column="36" />
         <mark key="." line="51" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/Dockerfile.dev" timestamp="1587588386994">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="35" />
+      <file name="$USER_HOME$/repositories/smlib/backend/Dockerfile.dev" timestamp="1587589480187">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/manage.py" timestamp="1587589776928">
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="8" />
+        <mark key="." line="77" column="8" />
+        <mark key="^" line="79" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/base.html" timestamp="1587582118236">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="^" line="49" column="78" />
         <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/dependencies.py" timestamp="1587534298784">
-        <mark key="[" line="68" column="35" />
-        <mark key="]" line="68" column="48" />
-        <mark key="^" line="68" column="48" />
-        <mark key="." line="68" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-row.html" timestamp="1587579887789">
         <mark key="[" line="29" column="23" />
@@ -143,17 +142,17 @@
         <mark key="." line="20" column="59" />
         <mark key="^" line="20" column="60" />
       </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/.dockerignore" timestamp="1587588977707">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/repositories/smlib/backend/Dockerfile.prod" timestamp="1587588401959">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/TODO" timestamp="1587534831311">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/Justfile" timestamp="1587588041605">
         <mark key="[" line="22" column="65" />
@@ -179,10 +178,10 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/storage.py" timestamp="1587587977047">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="4" />
-        <mark key="." line="62" column="4" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/storage.py" timestamp="1587589686009">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="50" column="27" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/_prev-sheet-card.html" timestamp="1587587944100">
         <mark key="[" line="39" column="0" />
@@ -321,7 +320,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'Sheet Preview'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -350,13 +349,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, 'Sheet Preview'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>has_next</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvY2tlci1jb21wb3NlIC1mIGRvY2tlci1jb21wb3NlLmRldi55bWwgc3RvcCBhcHAKICAgIGRvY2tlci1jb21wb3NlIC1mIGRvY2tlci1jb21wb3NlLmRldi55bWwgcm0gYXBwCiAgICBkb2NrZXItY29tcG9zZSAtZiBkb2NrZXItY29tcG9zZS5kZXYueW1sIGJ1aWxkIGFwcAo=</text>
+        <text encoding="base64">ICAgIGlmIHNoZWV0X2ZpbGVfZXh0Lmxvd2VyKCkgPT0gJ3BkZic6CiAgICAgICAgdG1wX3NoZWV0LnNlZWsoMCkKICAgICAgICBpbWFnZXMgPSBjb252ZXJ0X2Zyb21fYnl0ZXMoCiAgICAgICAgICAgIHRtcF9zaGVldC5yZWFkKCksCiAgICAgICAgICAgIGRwaT01MCwKICAgICAgICAgICAgdXNlX2Nyb3Bib3g9VHJ1ZSwKICAgICAgICAgICAgZmlyc3RfcGFnZT0xLAogICAgICAgICAgICBsYXN0X3BhZ2U9MSwKICAgICAgICAgICAgZ3JheXNjYWxlPVRydWUsCiAgICAgICAgKQogICAgICAgIHRtcF9wcmV2aWV3ID0gdGVtcGZpbGUuTmFtZWRUZW1wb3JhcnlGaWxlKCkKICAgICAgICBpbWFnZXNbMF0uc2F2ZSh0bXBfcHJldmlldywgZm9ybWF0PSJQTkciKQogICAgICAgIHRtcF9wcmV2aWV3LnNlZWsoMCkKICAgICAgICBwcmV2aWV3X3N0YXRzID0gb3Muc3RhdCh0bXBfcHJldmlldy5uYW1lKQogICAgICAgIHByZXZpZXdfcmVzdWx0ID0gbWluaW9fY2xpZW50LnB1dF9vYmplY3QoCiAgICAgICAgICAgIG9zLmdldGVudigiTUlOSU9fQlVDS0VUX05BTUUiKSwKICAgICAgICAgICAgZiJ7b3duZXJfZW1haWx9L3tzaGVldF9pZH0tcHJldmlldy5wbmciLAogICAgICAgICAgICB0bXBfcHJldmlldywKICAgICAgICAgICAgcHJldmlld19zdGF0cy5zdF9zaXplLAogICAgICAgICkKICAgICAgICBsb2dnZXIuZGVidWcocHJldmlld19yZXN1bHQpCiAgICAgICAgdG1wX3ByZXZpZXcuY2xvc2UoKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -371,34 +370,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcocHJldmlld19yZXN1bHQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzaGVldF9maWxlX2V4dC5sb3dlcigpID09ICdwZGYnOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTdHJlYW1pbmdSZXNwb25zZShkYXRhLnN0cmVhbSgzMiAqIDEwMjQpKQo=</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBncmFkZSAteQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBtaW5pby5lcnJvci5Ob1N1Y2hLZXk6CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgIHJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyMgICAgICA8aSBjbGFzcz0iZmFzIGZhLWluZm8tY2lyY2xlIGlubGluZS1ibG9jayBwci0xIj48L2k+I30K</text>
+        <text encoding="base64">ICAgIHJldHVybiBTdHJlYW1pbmdSZXNwb25zZShkYXRhLnN0cmVhbSgzMiAqIDEwMjQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyMgICAgICA8aSBjbGFzcz0iZmFzIGZhLWZpbGUtZG93bmxvYWQgaW5saW5lLWJsb2NrIHByLTEiPjwvaT4jfQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBtaW5pby5lcnJvci5Ob1N1Y2hLZXk6CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNoZWV0ID0gYXdhaXQK</text>
+        <text encoding="base64">eyMgICAgICA8aSBjbGFzcz0iZmFzIGZhLWluZm8tY2lyY2xlIGlubGluZS1ibG9jayBwci0xIj48L2k+I30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
