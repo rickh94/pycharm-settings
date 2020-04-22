@@ -97,12 +97,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/TODO" timestamp="1587534831311">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="22" />
-      </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-card.html" timestamp="1587534960648">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="27" column="8" />
@@ -112,68 +106,17 @@
       <file name="/a.dummy" timestamp="1587401484889">
         <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/static-src/main.css" timestamp="1587494588961">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/.env" timestamp="1587438272446">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="16" column="30" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/docker-compose.win.yml" timestamp="1587404885208">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/scratch/fix-csvs/main.py" timestamp="1587005220770">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="73" />
-        <mark key="." line="24" column="72" />
-        <mark key="^" line="24" column="73" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/single.html" timestamp="1587539639162">
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="3" column="61" />
-        <mark key="." line="3" column="60" />
-        <mark key="^" line="3" column="61" />
-      </file>
-      <file name="/" timestamp="1587448657030">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/jptutorial/alert_comp.py" timestamp="1587364061087">
-        <mark key="'" line="38" column="45" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/forms.py" timestamp="1587447732551">
         <mark key="[" line="59" column="40" />
         <mark key="]" line="60" column="40" />
         <mark key="^" line="60" column="40" />
         <mark key="." line="60" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" timestamp="1587491218223">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="182" column="24" />
-        <mark key="]" line="182" column="29" />
-        <mark key="." line="182" column="28" />
-        <mark key="^" line="182" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/base.html" timestamp="1587493518315">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="48" />
-        <mark key="." line="33" column="47" />
-        <mark key="^" line="33" column="48" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/list.html" timestamp="1587534463473">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/base.html" timestamp="1587576168031">
+        <mark key="[" line="66" column="96" />
+        <mark key="]" line="66" column="96" />
+        <mark key="." line="66" column="96" />
+        <mark key="^" line="66" column="103" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/dependencies.py" timestamp="1587534298784">
         <mark key="[" line="68" column="35" />
@@ -187,17 +130,72 @@
         <mark key="." line="26" column="6" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/scratch/fix-csvs/sheet2.csv" timestamp="1587005141099">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="27" />
-      </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/search.html" timestamp="1587448793502">
         <mark key="[" line="5" column="44" />
         <mark key="]" line="6" column="37" />
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/static-src/package.json" timestamp="1587575244644">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="60" />
+        <mark key="." line="20" column="59" />
+        <mark key="^" line="20" column="60" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/TODO" timestamp="1587534831311">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/static-src/main.css" timestamp="1587575339841">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/.env" timestamp="1587438272446">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/docker-compose.win.yml" timestamp="1587404885208">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/single.html" timestamp="1587576905862">
+        <mark key="[" line="55" column="110" />
+        <mark key="]" line="55" column="128" />
+        <mark key="." line="55" column="127" />
+        <mark key="^" line="55" column="128" />
+      </file>
+      <file name="/" timestamp="1587448657030">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" timestamp="1587491218223">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="182" column="24" />
+        <mark key="]" line="182" column="29" />
+        <mark key="." line="182" column="28" />
+        <mark key="^" line="182" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/_prev-sheet-card.html" timestamp="1587577260796">
+        <mark key="[" line="40" column="62" />
+        <mark key="]" line="41" column="34" />
+        <mark key="^" line="41" column="34" />
+        <mark key="." line="41" column="33" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/list.html" timestamp="1587534463473">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/static-src/icons.css" timestamp="1587577813883">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="16" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/jptutorial/calendar_date.py" timestamp="1587438967476">
         <mark key="[" line="54" column="35" />
@@ -311,8 +309,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -341,7 +339,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text>has_next</text>
@@ -362,34 +360,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InctZnVsbCBmbGV4Ij4K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iL3NoZWV0cy97eyBzaGVldC5zaGVldF9pZCB9fS9kb3dubG9hZCIgY2xhc3M9InctMS8yIGJnLWdyZWVuLTcwMCB0ZXh0LXdoaXRlIHB5LTIgaW5saW5lLWJsb2NrIHRleHQtY2VudGVyIj5Eb3dubG9hZDwvYT4KICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Lmljb24tdXBsb2FkOmJlZm9yZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aSBjbGFzcz0iZmFzIGZhLXRyYXNoLWFsdCBpbmxpbmUtYmxvY2sgcHItMSI+PC9pPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gY2xhc3M9InctZnVsbCBiZy1ibGFjayB0ZXh0LXdoaXRlIHB5LTIiIEBjbGljaz0ic2hvd1ByZXZpZXcgPSBmYWxzZSI+Q2xvc2UgUHJldmlldzwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aSBjbGFzcz0iZmFzIGZhLXBlbmNpbC1hbHQgaW5saW5lLWJsb2NrIHByLTEiPjwvaT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyMgICAgICAgICAgICA8aSBjbGFzcz0iZmFzIGZhLWZpbGUtZG93bmxvYWQgaW5saW5lLWJsb2NrIHByLTEiPjwvaT4jfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBrZXl1cC5Fc2NhcGU9InNob3dQcmV2aWV3ID0gZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyMgICAgICAgICAgICA8aSBjbGFzcz0iZmFzIGZhLWV5ZSBpbmxpbmUtYmxvY2sgcHItMSI+PC9pPiN9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGtleXVwLkVzY2FwZT0ic2hvd1ByZXZpZXcgPSBmYWxzZSIK</text>
+        <text encoding="base64">ICA8YnI+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2CiAgICAgIGNsYXNzPSJmaXhlZCBpbnNldC0wIHotNTAgb3ZlcmZsb3ctaGlkZGVuIGJnLXNtb2tlLWxpZ2h0ZXIgbWQ6Ymctc21va2UtbGlnaHQgZmxleCIKICAgICAgeC1zaG93PSJzaG93UHJldmlldyI+CiAgICA8ZGl2CiAgICAgICAgY2xhc3M9ImgtMS8yIGJvdHRvbS0wIGJnLXdoaXRlIGZpeGVkIG1kOnJlbGF0aXZlIG1kOmgtYXV0byBtZDpyb3VuZGVkIHctZnVsbCBtZDptYXgtdy1tZCBtZDptLWF1dG8gZmxleC1jb2wgZmxleCBzaGFkb3ciCiAgICAgICAgQGNsaWNrLmF3YXk9InNob3dQcmV2aWV3ID0gZmFsc2UiCiAgICA+CgogICAgICA8aW1nIHgtYmluZDpzcmM9InNob3dQcmV2aWV3ID8gJy9zdGF0aWMvbHVkd2lncy10YW5nby1iYXNzLXByZXZpZXcucG5nJyA6ICcnIgogICAgICAgICAgIGFsdD0iIj4KICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">QGltcG9ydAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
