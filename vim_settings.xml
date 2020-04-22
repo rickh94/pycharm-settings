@@ -154,11 +154,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/Justfile" timestamp="1587588041605">
-        <mark key="[" line="22" column="65" />
-        <mark key="]" line="25" column="68" />
-        <mark key="^" line="25" column="68" />
-        <mark key="." line="25" column="67" />
+      <file name="$USER_HOME$/repositories/smlib/Justfile" timestamp="1587589997183">
+        <mark key="[" line="28" column="66" />
+        <mark key="]" line="28" column="68" />
+        <mark key="^" line="28" column="68" />
+        <mark key="." line="28" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/static-src/main.css" timestamp="1587579999300">
         <mark key="[" line="18" column="0" />
@@ -180,7 +180,6 @@
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/storage.py" timestamp="1587589686009">
         <mark key="[" line="29" column="0" />
-        <mark key="]" line="50" column="27" />
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/_prev-sheet-card.html" timestamp="1587587944100">
