@@ -103,11 +103,17 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/items.svelte" timestamp="1586287705588">
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="41" column="7" />
-        <mark key="." line="41" column="7" />
-        <mark key="^" line="41" column="7" />
+      <file name="$USER_HOME$/repositories/smlib/TODO" timestamp="1587534831311">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-card.html" timestamp="1587534960648">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="8" />
+        <mark key="^" line="24" column="2" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1587401484889">
         <mark key="[" line="0" column="12" />
@@ -117,10 +123,6 @@
         <mark key="]" line="13" column="30" />
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/scratch/fix-csvs/breakout_room_template.csv" timestamp="1587004150463">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/.env" timestamp="1587438272446">
         <mark key="[" line="14" column="0" />
@@ -168,17 +170,22 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/zero-passwordless/src/app/site/api/v1/items/list.py" timestamp="1586287793828">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="10" column="42" />
-        <mark key="." line="10" column="42" />
-        <mark key="^" line="10" column="42" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/list.html" timestamp="1587534463473">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-row.html" timestamp="1587493635355">
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="3" column="67" />
-        <mark key="^" line="3" column="67" />
-        <mark key="." line="3" column="66" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/dependencies.py" timestamp="1587534298784">
+        <mark key="[" line="68" column="35" />
+        <mark key="]" line="68" column="48" />
+        <mark key="^" line="68" column="48" />
+        <mark key="." line="68" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-row.html" timestamp="1587534958408">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="26" column="6" />
+        <mark key="^" line="26" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/scratch/fix-csvs/sheet2.csv" timestamp="1587005141099">
         <mark key="[" line="4" column="22" />
@@ -304,8 +311,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>shadow</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHt7IHNoZWV0LnRhZ3MgfCBjb21tYV90cnVuY2F0ZV9saXN0KDYpIH19Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -334,13 +341,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>shadow</text>
+        <text encoding="base64">PC9hPg==</text>
       </register>
       <register name="/" type="4">
         <text>has_next</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0PVsoc29ydCwgZGlyZWN0aW9uKV0sCiAgICAgICAgbGltaXQ9bGltaXQsCiAgICAgICAgc2tpcD1za2lwLAo=</text>
+        <text encoding="base64">ICAgIDxhIGhyZWY9Ii9zaGVldHMve3sgc2hlZXQuc2hlZXRfaWQgfX0vcmVsYXRlZD9maWVsZD10YWdzIiBjbGFzcz0iaG92ZXI6dGV4dC1zaGFkb3ciCiAgICAgICB0aXRsZT0ie3sgc2hlZXQudGFncyB8IGNvbW1hX2xpc3QgfX0iPgogICAgICB7eyBzaGVldC50YWdzIHwgY29tbWFfdHJ1bmNhdGVfbGlzdCB9fQogICAgPC9hPgo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -355,34 +362,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpbWl0ID0gMQo=</text>
+        <text encoding="base64">ICAgIHt7IHNoZWV0LnRhZ3MgfCBjb21tYV90cnVuY2F0ZV9saXN0KDYpIH19Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0PVsoc29ydCwgZGlyZWN0aW9uKV0sCg==</text>
+        <text encoding="base64">ICA8L3A+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaW1pdD1saW1pdCwK</text>
+        <text encoding="base64">ICA8cCBjbGFzcz0idGV4dC1ibGFjayI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBAc2hlZXRfcm91dGVyLmdldCgiL3NlYXJjaCIpCiMgYXN5bmMgZGVmIHNlYXJjaF9zaGVldHNfZm9ybSgKIyAgICAgcmVxdWVzdDogUmVxdWVzdCwgX2N1cnJlbnRfdXNlcjogVXNlckluREIgPSBEZXBlbmRzKGdldF9jdXJyZW50X2FjdGl2ZV91c2VyKQojICk6CiMgICAgIGZvcm0gPSBTZWFyY2hGb3JtKG1ldGE9eyJjc3JmX2NvbnRleHQiOiByZXF1ZXN0LnNlc3Npb259KQojICAgICByZXR1cm4gdGVtcGxhdGVzLlRlbXBsYXRlUmVzcG9uc2UoCiMgICAgICAgICAic2hlZXRzL3NlYXJjaC5odG1sIiwgeyJyZXF1ZXN0IjogcmVxdWVzdCwgImZvcm0iOiBmb3JtfQojICAgICApCgoK</text>
+        <text encoding="base64">ICAgIHt7IHNoZWV0Lmluc3RydW1lbnRzIHwgY29tbWFfdHJ1bmNhdGVfbGlzdCg2KSB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcnB0PgogIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzZWFyY2gtZm9ybScpLmFkZEV2ZW50TGlzdGVuZXIoJ3N1Ym1pdCcsIGZ1bmN0aW9uICgpIHsKICAgIGNvbnN0IHNlYXJjaCA9CiAgfSkKPC9zY3JwdD4K</text>
+        <text encoding="base64">ICAgIHt7IHNoZWV0LmNvbXBvc2VycyB8IGNvbW1hX3RydW5jYXRlX2xpc3QgfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q3JlYXRlIHNlYXJjaCBmdW5jdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJiZy1ncmVlbi0xMDAgYm9yZGVyLWdyZWVuLTcwMCBib3JkZXIgcHgtMSBtdC0xIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZm9ybSA9IFNlYXJjaEZvcm0oYXdhaXQgcmVxdWVzdC5mb3JtKCksIG1ldGE9eyJjc3JmX2NvbnRleHQiOiByZXF1ZXN0LnNlc3Npb259KQogICAgIyBpZiBmb3JtLnZhbGlkYXRlKCk6Cg==</text>
+        <text encoding="base64">ICAgIHt7IHNoZWV0LnRhZ3MgfCBjb21tYV90cnVuY2F0ZV9saXN0IH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJtYi00Ij4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
