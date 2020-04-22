@@ -94,11 +94,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" timestamp="1587493050891">
-        <mark key="'" line="321" column="4" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" timestamp="1587585861741">
+        <mark key="'" line="330" column="4" />
+        <mark key="[" line="126" column="60" />
+        <mark key="]" line="127" column="50" />
+        <mark key="^" line="127" column="50" />
+        <mark key="." line="127" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/macros.html" timestamp="1587581784952">
         <mark key="[" line="270" column="66" />
@@ -111,12 +112,6 @@
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/forms.py" timestamp="1587447732551">
-        <mark key="[" line="59" column="40" />
-        <mark key="]" line="60" column="40" />
-        <mark key="^" line="60" column="40" />
-        <mark key="." line="60" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/base.html" timestamp="1587582118236">
         <mark key="[" line="74" column="0" />
@@ -154,20 +149,29 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/repositories/smlib/Justfile" timestamp="1587586710414">
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="53" />
+        <mark key="^" line="1" column="122" />
+        <mark key="." line="1" column="53" />
+      </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/static-src/main.css" timestamp="1587579999300">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="20" column="21" />
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/smlib/.env" timestamp="1587586659163">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="39" />
+      </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/single.html" timestamp="1587584584700">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="91" />
-      </file>
-      <file name="/" timestamp="1587448657030">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/crud.py" timestamp="1587491218223">
         <mark key="'" line="103" column="0" />
@@ -176,11 +180,11 @@
         <mark key="." line="182" column="28" />
         <mark key="^" line="182" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/storage.py" timestamp="1587585608776">
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="56" column="50" />
-        <mark key="." line="56" column="49" />
-        <mark key="^" line="56" column="50" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/storage.py" timestamp="1587585730425">
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="78" />
+        <mark key="." line="60" column="77" />
+        <mark key="^" line="60" column="78" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/_prev-sheet-card.html" timestamp="1587577260796">
         <mark key="[" line="40" column="62" />
@@ -318,8 +322,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c2ggLWMg</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -348,13 +352,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>include</text>
+        <text encoding="base64">c2ggLWMg</text>
       </register>
       <register name="/" type="4">
         <text>has_next</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICBjbGFzcz0iaG92ZXI6dGV4dC1ncmVlbi03MDAgcC0xIGJvcmRlci1iIGJvcmRlci1ncmF5LTcwMCBob3Zlcjpib3JkZXItZ3JlZW4tNzAwIGN1cnNvci1wb2ludGVyIGZsZXggaXRlbXMtY2VudGVyIgogICAgICAgICAgICAgIEBjbGljaz0ic2hvd1ByZXZpZXcgPSAhc2hvd1ByZXZpZXciCiAgICAgICAgICA+CiAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uLXByZXZpZXcgcHItMSI+PC9pPgogICAgICAgICAgICBQcmV2aWV3CiAgICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIGRvY2tlci1jb21wb3NlIC1mIGRvY2tlci1jb21wb3NlLmRldi55bWwgc3RvcCBhcHAKICAgIGRvY2tlci1jb21wb3NlIC1mIGRvY2tlci1jb21wb3NlLmRldi55bWwgcm0gYXBwCiAgICBkb2NrZXItY29tcG9zZSAtZiBkb2NrZXItY29tcG9zZS5kZXYueW1sIGJ1aWxkIGFwcAo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -369,34 +373,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsjICAgIDxkaXYgY2xhc3M9ImZsZXggZmxleC13cmFwIiB4LWRhdGE9Insnc2hvd1ByZXZpZXcnOiBmYWxzZX0iPiN9CiAgICB7IyAgICAgIDxkaXYjfQogICAgeyMgICAgICAgICAgY2xhc3M9ImZpeGVkIGluc2V0LTAgei01MCBvdmVyZmxvdy1oaWRkZW4gYmctc21va2UtbGlnaHRlciBtZDpiZy1zbW9rZS1saWdodCBmbGV4IiN9CiAgICB7IyAgICAgICAgICB4LXNob3c9InNob3dQcmV2aWV3IiN9CiAgICB7IyAgICAgICAgICBAa2V5ZG93bi5lc2NhcGUud2luZG93PSJzaG93UHJldmlldyA9IGZhbHNlIiN9CiAgICB7IyAgICAgID4jfQogICAgeyMgICAgICAgIDxkaXYjfQogICAgeyMgICAgICAgICAgICBjbGFzcz0iYmctd2hpdGUgZml4ZWQgcmVsYXRpdmUgaC1hdXRvIG1heC13LW1kIG0tYXV0byBmbGV4LWNvbCBmbGV4IHNoYWRvdyIjfQogICAgeyMgICAgICAgICAgICBAY2xpY2suYXdheT0ic2hvd1ByZXZpZXcgPSBmYWxzZSIjfQogICAgeyMgICAgICAgID4jfQogICAgeyMgICAgICAgICAgPGltZyB4LWJpbmQ6c3JjPSJzaG93UHJldmlldyA/ICcvc3RhdGljL2x1ZHdpZ3MtdGFuZ28tYmFzcy1wcmV2aWV3LnBuZycgOiAnJyIjfQogICAgeyMgICAgICAgICAgICAgICBhbHQ9IiI+I30KICAgIHsjICAgICAgICAgIDxidXR0b24gY2xhc3M9InctZnVsbCBiZy1ibGFjayB0ZXh0LXdoaXRlIHB5LTIiI30KICAgIHsjICAgICAgICAgICAgICAgICAgQGNsaWNrPSJzaG93UHJldmlldyA9IGZhbHNlIj5DbG9zZSBQcmV2aWV3I30KICAgIHsjICAgICAgICAgIDwvYnV0dG9uPiN9CiAgICB7IyAgICAgICAgPC9kaXY+I30KICAgIHsjICAgICAgPC9kaXY+I30K</text>
+        <text encoding="base64">ICAgIHNoZWV0ID0gYXdhaXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8va2l0LmZvbnRhd2Vzb21lLmNvbS84YTg3MDE1NzJjLmpzIgogICAgICAgIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIHRtcF9zaGVldC5zZWVrKDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZXZpZXdfc3RhdHMgPSBvcy5zdGF0KHRtcF9wcmV2aWV3Lm5hbWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYKICAgICAgICBjbGFzcz0iZml4ZWQgaW5zZXQtMCB6LTUwIG92ZXJmbG93LWhpZGRlbiBiZy1zbW9rZS1saWdodGVyIG1kOmJnLXNtb2tlLWxpZ2h0IGZsZXgiCiAgICAgICAgeC1zaG93PSJzaG93UHJldmlldyIKICAgICAgICBAa2V5ZG93bi5lc2NhcGUud2luZG93PSJzaG93UHJldmlldyA9IGZhbHNlIgogICAgPgogICAgICA8ZGl2CiAgICAgICAgICBjbGFzcz0iYmctd2hpdGUgZml4ZWQgcmVsYXRpdmUgaC1hdXRvIG1heC13LW1kIG0tYXV0byBmbGV4LWNvbCBmbGV4IHNoYWRvdyIKICAgICAgICAgIEBjbGljay5hd2F5PSJzaG93UHJldmlldyA9IGZhbHNlIgogICAgICA+CiAgICAgICAgPGltZyB4LWJpbmQ6c3JjPSJzaG93UHJldmlldyA/ICcvc3RhdGljL2x1ZHdpZ3MtdGFuZ28tYmFzcy1wcmV2aWV3LnBuZycgOiAnJyIKICAgICAgICAgICAgIGFsdD0iIj4KICAgICAgICA8YnV0dG9uIGNsYXNzPSJ3LWZ1bGwgYmctYmxhY2sgdGV4dC13aGl0ZSBweS0yIgogICAgICAgICAgICAgICAgQGNsaWNrPSJzaG93UHJldmlldyA9IGZhbHNlIj5DbG9zZSBQcmV2aWV3CiAgICAgICAgPC9idXR0b24+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHRtcF9wcmV2aWV3LnNlZWsoMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZsZXggZmxleC13cmFwIiB4LWRhdGE9Insnc2hvd1ByZXZpZXcnOiBmYWxzZX0iPgo=</text>
+        <text encoding="base64">ICAgIGltYWdlcyA9IGNvbnZlcnRfZnJvbV9ieXRlcygKICAgICAgICB0bXBfc2hlZXQucmVhZCgpLAogICAgICAgIGRwaT01MCwKICAgICAgICB1c2VfY3JvcGJveD1UcnVlLAogICAgICAgIGZpcnN0X3BhZ2U9MSwKICAgICAgICBsYXN0X3BhZ2U9MSwKICAgICAgICBncmF5c2NhbGU9VHJ1ZSwKICAgICkKICAgIHRtcF9wcmV2aWV3ID0gdGVtcGZpbGUuTmFtZWRUZW1wb3JhcnlGaWxlKCkKICAgIGltYWdlc1swXS5zYXZlKHRtcF9wcmV2aWV3LCBmb3JtYXQ9IlBORyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlcyA9IGNvbnZlcnRfZnJvbV9ieXRlcygKICAgICAgICB0bXBfc2hlZXQucmVhZCgpLAogICAgICAgIGRwaT01MCwKICAgICAgICB1c2VfY3JvcGJveD1UcnVlLAogICAgICAgIGZpcnN0X3BhZ2U9MSwKICAgICAgICBsYXN0X3BhZ2U9MSwKICAgICAgICBncmF5c2NhbGU9VHJ1ZSwKICAgICkKICAgIHRtcF9wcmV2aWV3ID0gdGVtcGZpbGUuTmFtZWRUZW1wb3JhcnlGaWxlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8ZGl2IHgtZGF0YT0ie3Nob3dNZTogZmFsc2V9IiBAY2xpY2s9InNob3dNZSA9IHRydWUiIGNsYXNzPSJoLTQiPgogICAgPGRpdiBjbGFzcz0iYmctZ3JlZW4tMTAwIGgtOCIKICAgICAgICAgIHgtc2hvdz0ic2hvd01lIj48L2Rpdj4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIHRtcF9wcmV2aWV3LmNsb3NlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

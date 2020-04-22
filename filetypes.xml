@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile.test" type="Dockerfile" />
       <mapping pattern="Dockerfile.dev" type="Dockerfile" />
       <mapping pattern="Dockerfile.prod" type="Dockerfile" />
+      <mapping pattern="Justfile" type="PLAIN_TEXT" />
       <mapping pattern=".zeroignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
