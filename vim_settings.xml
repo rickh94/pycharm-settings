@@ -150,6 +150,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/repositories/smlib/TODO" timestamp="1587605127051">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="51" />
+      </file>
       <file name="$USER_HOME$/repositories/smlib/Justfile" timestamp="1587589997183">
         <mark key="[" line="28" column="66" />
         <mark key="]" line="28" column="68" />
@@ -201,12 +207,6 @@
         <mark key="]" line="3" column="5" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/static-src/icons.css" timestamp="1587577813883">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="16" />
-        <mark key="^" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_preview_modal.html" timestamp="1587602930831">
         <mark key="[" line="12" column="39" />
@@ -321,7 +321,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-block</text>
+        <text>object</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -350,7 +350,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-block</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text>related</text>
