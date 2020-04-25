@@ -94,12 +94,66 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/router.py" timestamp="1587588004576">
-        <mark key="'" line="334" column="4" />
-        <mark key="[" line="130" column="33" />
-        <mark key="]" line="131" column="19" />
-        <mark key="^" line="131" column="19" />
-        <mark key="." line="131" column="18" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/macros.html" timestamp="1587604491282">
+        <mark key="'" line="262" column="29" />
+        <mark key="[" line="263" column="80" />
+        <mark key="]" line="264" column="25" />
+        <mark key="^" line="264" column="25" />
+        <mark key="." line="264" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-card.html" timestamp="1587604290180">
+        <mark key="'" line="42" column="33" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/ribbons.json" timestamp="1587779755150">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/Dockerfile.dev" timestamp="1587589480187">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/login.py" timestamp="1587779133437" />
+      <file name="$USER_HOME$/repositories/smlib/backend/manage.py" timestamp="1587589776928">
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="8" />
+        <mark key="." line="77" column="8" />
+        <mark key="^" line="79" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.js" timestamp="1587779406981">
+        <mark key="[" line="73" column="64" />
+        <mark key="]" line="73" column="65" />
+        <mark key="." line="73" column="64" />
+        <mark key="^" line="73" column="65" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-row.html" timestamp="1587604508372">
+        <mark key="[" line="35" column="78" />
+        <mark key="]" line="35" column="83" />
+        <mark key="." line="35" column="82" />
+        <mark key="^" line="35" column="83" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/.dockerignore" timestamp="1587588977707">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.css" timestamp="1587779550697">
+        <mark key="[" line="154" column="22" />
+        <mark key="]" line="155" column="21" />
+        <mark key="." line="155" column="20" />
+        <mark key="^" line="155" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/Dockerfile.prod" timestamp="1587588401959">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/index.py" timestamp="1587777962485">
         <mark key="[" line="36" column="28" />
@@ -113,31 +167,18 @@
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/macros.html" timestamp="1587604491282">
-        <mark key="'" line="262" column="29" />
-        <mark key="[" line="263" column="80" />
-        <mark key="]" line="264" column="25" />
-        <mark key="^" line="264" column="25" />
-        <mark key="." line="264" column="24" />
-      </file>
       <file name="$USER_HOME$/repositories/smlib/Justfile" timestamp="1587589997183">
         <mark key="[" line="28" column="66" />
         <mark key="]" line="28" column="68" />
         <mark key="^" line="28" column="68" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-card.html" timestamp="1587604290180">
-        <mark key="'" line="42" column="33" />
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/.env" timestamp="1587586659163">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="40" />
-        <mark key="^" line="7" column="40" />
-        <mark key="." line="7" column="39" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/logout.py" timestamp="1587779602518">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/single.html" timestamp="1587604258608">
         <mark key="'" line="2" column="52" />
@@ -145,68 +186,21 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/Dockerfile.dev" timestamp="1587589480187">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/storage.py" timestamp="1587589686009">
         <mark key="[" line="29" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/manage.py" timestamp="1587589776928">
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="8" />
-        <mark key="." line="77" column="8" />
-        <mark key="^" line="79" column="41" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/base.html" timestamp="1587582118236">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="49" column="78" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/_prev-sheet-card.html" timestamp="1587587944100">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="34" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.js" timestamp="1587777798820">
-        <mark key="[" line="75" column="10" />
-        <mark key="]" line="75" column="18" />
-        <mark key="." line="75" column="17" />
-        <mark key="^" line="75" column="18" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/index.html" timestamp="1587779395652">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/list.html" timestamp="1587603758445">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="33" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-row.html" timestamp="1587604508372">
-        <mark key="[" line="35" column="78" />
-        <mark key="]" line="35" column="83" />
-        <mark key="." line="35" column="82" />
-        <mark key="^" line="35" column="83" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/static/.gitignore" timestamp="1587581991832">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/.dockerignore" timestamp="1587588977707">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/Dockerfile.prod" timestamp="1587588401959">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_preview_modal.html" timestamp="1587602930831">
         <mark key="[" line="12" column="39" />
@@ -216,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="13" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
       <jump line="142" column="13" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
       <jump line="156" column="13" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
       <jump line="171" column="13" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
@@ -316,12 +309,13 @@
       <jump line="2" column="52" filename="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/single.html" />
       <jump line="262" column="29" filename="$USER_HOME$/repositories/smlib/backend/app/templates/macros.html" />
       <jump line="42" column="33" filename="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-card.html" />
+      <jump line="9" column="13" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/logout.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICRyaWJib24udGl0bGUgPSBgRWFybmVkOiA4LzEyLzEyYDsK</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -350,7 +344,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>related</text>
@@ -371,34 +365,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICRyaWJib24udGl0bGUgPSBgRWFybmVkOiA4LzEyLzEyYDsK</text>
+        <text encoding="base64">LmxvZ2luLWZvcm0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAkCg==</text>
+        <text encoding="base64">ICA8YnV0dG9uIGNsYXNzPSJsb2dvdXQiID5Mb2dvdXQ8L2J1dHRvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGltcG9ydD48L2ltcG9ydD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgPGJ1dHRvbiN9CnsjICAgICAgICAgICAgICBjbGFzcz0iaG92ZXI6dGV4dC1ncmVlbi03MDAgcC0xIGJvcmRlci1iIGJvcmRlci1ncmF5LTcwMCBob3Zlcjpib3JkZXItZ3JlZW4tNzAwIGN1cnNvci1wb2ludGVyIGZsZXggaXRlbXMtY2VudGVyIiN9CnsjICAgICAgICAgICAgICBAY2xpY2s9InNob3dQcmV2aWV3ID0gIXNob3dQcmV2aWV3OyBwcmV2aWV3VXJsID0gJy9zaGVldHMve3sgc2hlZXQuc2hlZXRfaWQgfX0vcHJldmlldyc7IiN9CnsjICAgICAgICAgID4jfQp7IyAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uLXByZXZpZXcgcHItMSI+PC9pPiN9CnsjICAgICAgICAgICAgUHJldmlldyN9CnsjICAgICAgICAgIDwvYnV0dG9uPiN9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">eyUgaW1wb3J0ICJtYWNyb3MuaHRtbCIgYXMgbWFjcm9zICV9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">eyMgICAgPGJ1dHRvbiN9CnsjICAgICAgICBjbGFzcz0ibWwtMiBob3Zlcjp0ZXh0LWdyZWVuLTcwMCBwLTEgYm9yZGVyLWIgYm9yZGVyLWdyYXktNzAwIGhvdmVyOmJvcmRlci1ncmVlbi03MDAgY3Vyc29yLXBvaW50ZXIgZmxleCBpdGVtcy1jZW50ZXIiI30KeyMgICAgICAgIEBjbGljaz0ic2hvd1ByZXZpZXcgPSB0cnVlOyBwcmV2aWV3VXJsID0gJy9zaGVldHMve3sgc2hlZXQuc2hlZXRfaWQgfX0vcHJldmlldyciI30KeyMgICAgPiN9CnsjICAgICAgPGkgY2xhc3M9Imljb24tcHJldmlldyBwci0xIj48L2k+I30KeyMgICAgICBQcmV2aWV3I30KeyMgICAgPC9idXR0b24+I30K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1dHRvbl9jbGFzc2VzID0gCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PC9oZWFkPgo8Ym9keT4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICRyaWJib24udGl0bGUgPSBgRWFybmVkOiA4LzEyLzEyYDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCAkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PGltcG9ydD48L2ltcG9ydD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">eyMgICAgICAgICAgPGJ1dHRvbiN9CnsjICAgICAgICAgICAgICBjbGFzcz0iaG92ZXI6dGV4dC1ncmVlbi03MDAgcC0xIGJvcmRlci1iIGJvcmRlci1ncmF5LTcwMCBob3Zlcjpib3JkZXItZ3JlZW4tNzAwIGN1cnNvci1wb2ludGVyIGZsZXggaXRlbXMtY2VudGVyIiN9CnsjICAgICAgICAgICAgICBAY2xpY2s9InNob3dQcmV2aWV3ID0gIXNob3dQcmV2aWV3OyBwcmV2aWV3VXJsID0gJy9zaGVldHMve3sgc2hlZXQuc2hlZXRfaWQgfX0vcHJldmlldyc7IiN9CnsjICAgICAgICAgID4jfQp7IyAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uLXByZXZpZXcgcHItMSI+PC9pPiN9CnsjICAgICAgICAgICAgUHJldmlldyN9CnsjICAgICAgICAgIDwvYnV0dG9uPiN9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgaW1wb3J0ICJtYWNyb3MuaHRtbCIgYXMgbWFjcm9zICV9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
