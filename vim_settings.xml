@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>git</entry>
         <entry>gnome-terminal</entry>
         <entry>golang</entry>
         <entry>htop</entry>
@@ -25,6 +24,7 @@
         <entry>Preview</entry>
         <entry>macro</entry>
         <entry>related</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -94,12 +94,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/index.py" timestamp="1587777962485">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="73" />
+        <mark key="^" line="36" column="73" />
+        <mark key="." line="36" column="72" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/TODO" timestamp="1587605127051">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="51" />
+      </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/macros.html" timestamp="1587604491282">
         <mark key="'" line="262" column="29" />
         <mark key="[" line="263" column="80" />
         <mark key="]" line="264" column="25" />
         <mark key="^" line="264" column="25" />
         <mark key="." line="264" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/Justfile" timestamp="1587589997183">
+        <mark key="[" line="28" column="66" />
+        <mark key="]" line="28" column="68" />
+        <mark key="^" line="28" column="68" />
+        <mark key="." line="28" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-card.html" timestamp="1587604290180">
         <mark key="'" line="42" column="33" />
@@ -113,23 +131,51 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/logout.py" timestamp="1587779602518">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/single.html" timestamp="1587604258608">
+        <mark key="'" line="2" column="52" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/smlib/backend/Dockerfile.dev" timestamp="1587589480187">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/login.py" timestamp="1587779133437" />
+      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/storage.py" timestamp="1587589686009">
+        <mark key="[" line="29" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/smlib/backend/manage.py" timestamp="1587589776928">
         <mark key="[" line="77" column="8" />
         <mark key="]" line="77" column="8" />
         <mark key="." line="77" column="8" />
         <mark key="^" line="79" column="41" />
       </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/index.html" timestamp="1587779395652">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="49" />
+      </file>
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.js" timestamp="1587779406981">
         <mark key="[" line="73" column="64" />
         <mark key="]" line="73" column="65" />
         <mark key="." line="73" column="64" />
         <mark key="^" line="73" column="65" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/list.html" timestamp="1587603758445">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-row.html" timestamp="1587604508372">
         <mark key="[" line="35" column="78" />
@@ -149,58 +195,11 @@
         <mark key="." line="155" column="20" />
         <mark key="^" line="155" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/Dockerfile.prod" timestamp="1587588401959">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/index.py" timestamp="1587777962485">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="73" />
-        <mark key="^" line="36" column="73" />
-        <mark key="." line="36" column="72" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/TODO" timestamp="1587605127051">
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="4" column="51" />
-        <mark key="^" line="4" column="57" />
-        <mark key="." line="4" column="51" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/Justfile" timestamp="1587589997183">
-        <mark key="[" line="28" column="66" />
-        <mark key="]" line="28" column="68" />
-        <mark key="^" line="28" column="68" />
-        <mark key="." line="28" column="67" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/logout.py" timestamp="1587779602518">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/single.html" timestamp="1587604258608">
-        <mark key="'" line="2" column="52" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/storage.py" timestamp="1587589686009">
-        <mark key="[" line="29" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/index.html" timestamp="1587779395652">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="49" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/list.html" timestamp="1587603758445">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="33" />
+      <file name="$USER_HOME$/repositories/tutorials/jptutorial/calculator.py" timestamp="1587860248273">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="64" column="20" />
+        <mark key="^" line="64" column="20" />
+        <mark key="." line="64" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_preview_modal.html" timestamp="1587602930831">
         <mark key="[" line="12" column="39" />
@@ -314,8 +313,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgQ2FsY3VsYXRvcihEaXYpOgogICAgYnRuX2NsYXNzZXMgPSAoCiAgICAgICAgInctMS80IHRleHQteGwgZm9udC1ib2xkIHAtMiBtLTEgYm9yZGVyIGJnLWdyYXktMjAwICIgImhvdmVyOmJnLWdyYXktNzAwIHNoYWRvdyIKICAgICkKICAgIGxheW91dF90ZXh0ID0gWwogICAgICAgIFsiNyIsICI4IiwgIjkiLCAiKiJdLAogICAgICAgIFsiNCIsICI1IiwgIjYiLCAiLSJdLAogICAgICAgIFsiMSIsICIyIiwgIjMiLCAiKyJdLAogICAgICAgIFsiQyIsICIwIiwgIi4iLCAiPSJdLAogICAgXQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygqKmt3YXJncykKICAgICAgICBzZWxmLnZhbHVlID0gMAogICAgICAgIHNlbGYudGFwZSA9IElucHV0KAogICAgICAgICAgICBjbGFzc2VzPSJibG9jayBwLTIgbS0yIGJvcmRlciB0ZXh0LXJpZ2h0IHRleHQtc20gYmctZ3JheS0yMDAiLAogICAgICAgICAgICBhPXNlbGYsCiAgICAgICAgICAgIHJlYWRvbmx5PVRydWUsCiAgICAgICAgICAgIHZhbHVlPSIgIiwKICAgICAgICAgICAgc3R5bGU9IndpZHRoOiA5MCU7IiwKICAgICAgICApCiAgICAgICAgc2VsZi5yZXN1bHQgPSBJbnB1dCgKICAgICAgICAgICAgY2xhc3Nlcz0iYmxvY2sgcC0yIG0tMiBib3JkZXIgdGV4dC0yeGwgdGV4dC1yaWdodCIsCiAgICAgICAgICAgIGE9c2VsZiwKICAgICAgICAgICAgcmVhZG9ubHk9VHJ1ZSwKICAgICAgICAgICAgdmFsdWU9IjAiLAogICAgICAgICAgICBzdHlsZT0id2lkdGg6IDkwJTsiLAogICAgICAgICkKICAgICAgICBmb3IgbGluZSBpbiBzZWxmLl9fY2xhc3NfXy5sYXlvdXRfdGV4dDoKICAgICAgICAgICAgZCA9IERpdihjbGFzc2VzPSJmbGV4IHctYXV0byBtLTIiLCBhPXNlbGYpCiAgICAgICAgICAgIGZvciBiIGluIGxpbmU6CiAgICAgICAgICAgICAgICBiMSA9IEJ1dHRvbigKICAgICAgICAgICAgICAgICAgICB0ZXh0PWIsCiAgICAgICAgICAgICAgICAgICAgYT1kLAogICAgICAgICAgICAgICAgICAgIGNsYXNzZXM9c2VsZi5fX2NsYXNzX18uYnRuX2NsYXNzZXMsCiAgICAgICAgICAgICAgICAgICAgY2xpY2s9c2VsZi5jYWxjdWxhdG9yX2NsaWNrLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgYjEuY2FsYyA9IHNlbGYKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgY2FsY3VsYXRvcl9jbGljayhzZWxmLCBtc2cpOgogICAgICAgIGNhbGMgPSBzZWxmLmNhbGMKICAgICAgICBpZiBzZWxmLnRleHQgPT0gIkMiOgogICAgICAgICAgICBjYWxjLnJlc3VsdC52YWx1ZSA9ICIwIgogICAgICAgICAgICBjYWxjLnRhcGUudmFsdWUgPSAiICIKICAgICAgICAgICAgY2FsYy52YWx1ZSA9IDAKICAgICAgICBlbGlmIHNlbGYudGV4dCA9PSAiPSI6CiAgICAgICAgICAgIGNhbGMucmVzdWx0LnZhbHVlID0gc3RyKGV2YWwoY2FsYy50YXBlLnZhbHVlKSkKICAgICAgICAgICAgY2FsYy52YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQogICAgICAgICAgICBjYWxjLnRhcGUudmFsdWUgPSBjYWxjLnJlc3VsdC52YWx1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmIGNhbGMudGFwZS52YWx1ZVstMV0gaW4gIiorLS8iIG9yIHNlbGYudGV4dCBpbiAiKistLyI6CiAgICAgICAgICAgICAgICBjYWxjLnRhcGxlLnZhbHVlICs9ICIgIiArIHNlbGYudGV4dAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgY2FsYy50YXBlLnZhbHVlICs9IHNlbGYudGV4dAogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBjYWxjLnJlc3VsdC52YWx1ZSA9IHN0cihldmFsKGNhbGMudGFwZS52YWx1ZSkpCiAgICAgICAgICAgICAgICBjYWxjLnZhbHVlID0gZXZhbChjYWxjLnRhcGUudmFsdWUpCiAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -344,10 +343,10 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>related</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxidXR0b24KICAgICAgICBjbGFzcz0ibWwtMiBob3Zlcjp0ZXh0LWdyZWVuLTcwMCBwLTEgYm9yZGVyLWIgYm9yZGVyLWdyYXktNzAwIGhvdmVyOmJvcmRlci1ncmVlbi03MDAgY3Vyc29yLXBvaW50ZXIgZmxleCBpdGVtcy1jZW50ZXIiCiAgICAgICAgQGNsaWNrPSJzaG93UHJldmlldyA9IHRydWU7IHByZXZpZXdVcmwgPSAnL3NoZWV0cy97eyBzaGVldC5zaGVldF9pZCB9fS9wcmV2aWV3JyIKICAgID4KICAgICAgPGkgY2xhc3M9Imljb24tcHJldmlldyBwci0xIj48L2k+CiAgICAgIFByZXZpZXcKICAgIDwvYnV0dG9uPgo=</text>
@@ -365,34 +364,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmxvZ2luLWZvcm0K</text>
+        <text encoding="base64">Y2xhc3MgQ2FsY3VsYXRvcihEaXYpOgogICAgYnRuX2NsYXNzZXMgPSAoCiAgICAgICAgInctMS80IHRleHQteGwgZm9udC1ib2xkIHAtMiBtLTEgYm9yZGVyIGJnLWdyYXktMjAwICIgImhvdmVyOmJnLWdyYXktNzAwIHNoYWRvdyIKICAgICkKICAgIGxheW91dF90ZXh0ID0gWwogICAgICAgIFsiNyIsICI4IiwgIjkiLCAiKiJdLAogICAgICAgIFsiNCIsICI1IiwgIjYiLCAiLSJdLAogICAgICAgIFsiMSIsICIyIiwgIjMiLCAiKyJdLAogICAgICAgIFsiQyIsICIwIiwgIi4iLCAiPSJdLAogICAgXQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygqKmt3YXJncykKICAgICAgICBzZWxmLnZhbHVlID0gMAogICAgICAgIHNlbGYudGFwZSA9IElucHV0KAogICAgICAgICAgICBjbGFzc2VzPSJibG9jayBwLTIgbS0yIGJvcmRlciB0ZXh0LXJpZ2h0IHRleHQtc20gYmctZ3JheS0yMDAiLAogICAgICAgICAgICBhPXNlbGYsCiAgICAgICAgICAgIHJlYWRvbmx5PVRydWUsCiAgICAgICAgICAgIHZhbHVlPSIgIiwKICAgICAgICAgICAgc3R5bGU9IndpZHRoOiA5MCU7IiwKICAgICAgICApCiAgICAgICAgc2VsZi5yZXN1bHQgPSBJbnB1dCgKICAgICAgICAgICAgY2xhc3Nlcz0iYmxvY2sgcC0yIG0tMiBib3JkZXIgdGV4dC0yeGwgdGV4dC1yaWdodCIsCiAgICAgICAgICAgIGE9c2VsZiwKICAgICAgICAgICAgcmVhZG9ubHk9VHJ1ZSwKICAgICAgICAgICAgdmFsdWU9IjAiLAogICAgICAgICAgICBzdHlsZT0id2lkdGg6IDkwJTsiLAogICAgICAgICkKICAgICAgICBmb3IgbGluZSBpbiBzZWxmLl9fY2xhc3NfXy5sYXlvdXRfdGV4dDoKICAgICAgICAgICAgZCA9IERpdihjbGFzc2VzPSJmbGV4IHctYXV0byBtLTIiLCBhPXNlbGYpCiAgICAgICAgICAgIGZvciBiIGluIGxpbmU6CiAgICAgICAgICAgICAgICBiMSA9IEJ1dHRvbigKICAgICAgICAgICAgICAgICAgICB0ZXh0PWIsCiAgICAgICAgICAgICAgICAgICAgYT1kLAogICAgICAgICAgICAgICAgICAgIGNsYXNzZXM9c2VsZi5fX2NsYXNzX18uYnRuX2NsYXNzZXMsCiAgICAgICAgICAgICAgICAgICAgY2xpY2s9c2VsZi5jYWxjdWxhdG9yX2NsaWNrLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgYjEuY2FsYyA9IHNlbGYKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgY2FsY3VsYXRvcl9jbGljayhzZWxmLCBtc2cpOgogICAgICAgIGNhbGMgPSBzZWxmLmNhbGMKICAgICAgICBpZiBzZWxmLnRleHQgPT0gIkMiOgogICAgICAgICAgICBjYWxjLnJlc3VsdC52YWx1ZSA9ICIwIgogICAgICAgICAgICBjYWxjLnRhcGUudmFsdWUgPSAiICIKICAgICAgICAgICAgY2FsYy52YWx1ZSA9IDAKICAgICAgICBlbGlmIHNlbGYudGV4dCA9PSAiPSI6CiAgICAgICAgICAgIGNhbGMucmVzdWx0LnZhbHVlID0gc3RyKGV2YWwoY2FsYy50YXBlLnZhbHVlKSkKICAgICAgICAgICAgY2FsYy52YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQogICAgICAgICAgICBjYWxjLnRhcGUudmFsdWUgPSBjYWxjLnJlc3VsdC52YWx1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmIGNhbGMudGFwZS52YWx1ZVstMV0gaW4gIiorLS8iIG9yIHNlbGYudGV4dCBpbiAiKistLyI6CiAgICAgICAgICAgICAgICBjYWxjLnRhcGxlLnZhbHVlICs9ICIgIiArIHNlbGYudGV4dAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgY2FsYy50YXBlLnZhbHVlICs9IHNlbGYudGV4dAogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBjYWxjLnJlc3VsdC52YWx1ZSA9IHN0cihldmFsKGNhbGMudGFwZS52YWx1ZSkpCiAgICAgICAgICAgICAgICBjYWxjLnZhbHVlID0gZXZhbChjYWxjLnRhcGUudmFsdWUpCiAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8YnV0dG9uIGNsYXNzPSJsb2dvdXQiID5Mb2dvdXQ8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9oZWFkPgo8Ym9keT4K</text>
+        <text encoding="base64">LmxvZ2luLWZvcm0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICRyaWJib24udGl0bGUgPSBgRWFybmVkOiA4LzEyLzEyYDsK</text>
+        <text encoding="base64">ICA8YnV0dG9uIGNsYXNzPSJsb2dvdXQiID5Mb2dvdXQ8L2J1dHRvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAkCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGltcG9ydD48L2ltcG9ydD4K</text>
+        <text encoding="base64">PC9oZWFkPgo8Ym9keT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgPGJ1dHRvbiN9CnsjICAgICAgICAgICAgICBjbGFzcz0iaG92ZXI6dGV4dC1ncmVlbi03MDAgcC0xIGJvcmRlci1iIGJvcmRlci1ncmF5LTcwMCBob3Zlcjpib3JkZXItZ3JlZW4tNzAwIGN1cnNvci1wb2ludGVyIGZsZXggaXRlbXMtY2VudGVyIiN9CnsjICAgICAgICAgICAgICBAY2xpY2s9InNob3dQcmV2aWV3ID0gIXNob3dQcmV2aWV3OyBwcmV2aWV3VXJsID0gJy9zaGVldHMve3sgc2hlZXQuc2hlZXRfaWQgfX0vcHJldmlldyc7IiN9CnsjICAgICAgICAgID4jfQp7IyAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uLXByZXZpZXcgcHItMSI+PC9pPiN9CnsjICAgICAgICAgICAgUHJldmlldyN9CnsjICAgICAgICAgIDwvYnV0dG9uPiN9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICRyaWJib24udGl0bGUgPSBgRWFybmVkOiA4LzEyLzEyYDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyUgaW1wb3J0ICJtYWNyb3MuaHRtbCIgYXMgbWFjcm9zICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCAkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -401,9 +400,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>related</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern>related</last-pattern>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
       <last-replace>tags</last-replace>
       <last-substitute>composers</last-substitute>
       <last-dir>1</last-dir>
