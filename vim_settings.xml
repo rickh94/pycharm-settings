@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>htop</entry>
         <entry>inotify-tools</entry>
         <entry>lastpass</entry>
         <entry>wire</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>cors</entry>
         <entry>CORS</entry>
+        <entry>Easy</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -43,6 +43,8 @@
         <entry>s/instruments/composers</entry>
         <entry>s/composers/tags</entry>
         <entry>w</entry>
+        <entry>s/Easy/Medium/g</entry>
+        <entry>s/Easy/Hard/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -94,8 +96,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" timestamp="1587926695807">
-        <mark key="'" line="54" column="0" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" timestamp="1587932398250">
+        <mark key="'" line="55" column="49" />
+        <mark key="[" line="46" column="59" />
+        <mark key="]" line="47" column="44" />
+        <mark key="^" line="47" column="44" />
+        <mark key="." line="47" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/core/admin.py" timestamp="1587926394315">
         <mark key="[" line="3" column="0" />
@@ -103,61 +109,68 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/macros.html" timestamp="1587604491282">
-        <mark key="'" line="262" column="29" />
-        <mark key="[" line="263" column="80" />
-        <mark key="]" line="264" column="25" />
-        <mark key="^" line="264" column="25" />
-        <mark key="." line="264" column="24" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-card.html" timestamp="1587604290180">
-        <mark key="'" line="42" column="33" />
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/ribbons.json" timestamp="1587779755150">
+      <file name="/Python Console" timestamp="1587934776011">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.js" timestamp="1587779406981">
-        <mark key="[" line="73" column="64" />
-        <mark key="]" line="73" column="65" />
-        <mark key="." line="73" column="64" />
-        <mark key="^" line="73" column="65" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/components/RecipeCard.vue" timestamp="1587931802444">
+        <mark key="[" line="21" column="89" />
+        <mark key="]" line="21" column="96" />
+        <mark key="." line="21" column="95" />
+        <mark key="^" line="21" column="96" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-row.html" timestamp="1587604508372">
-        <mark key="[" line="35" column="78" />
-        <mark key="]" line="35" column="83" />
-        <mark key="." line="35" column="82" />
-        <mark key="^" line="35" column="83" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/_id/index.vue" timestamp="1587935773192">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.css" timestamp="1587779550697">
-        <mark key="[" line="154" column="22" />
-        <mark key="]" line="155" column="21" />
-        <mark key="." line="155" column="20" />
-        <mark key="^" line="155" column="21" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/index.vue" timestamp="1587929731236">
+        <mark key="[" line="6" column="102" />
+        <mark key="]" line="6" column="109" />
+        <mark key="." line="6" column="108" />
+        <mark key="^" line="6" column="109" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/index.py" timestamp="1587777962485">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="73" />
-        <mark key="^" line="36" column="73" />
-        <mark key="." line="36" column="72" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/nuxt.config.js" timestamp="1587936427577">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+        <mark key="." line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/TODO" timestamp="1587605127051">
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="4" column="51" />
-        <mark key="^" line="4" column="57" />
-        <mark key="." line="4" column="51" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/assets/css/transitions.css" timestamp="1587936349911">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/logout.py" timestamp="1587779602518">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="14" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/package.json" timestamp="1587930951229">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/layouts/default.vue" timestamp="1587931223544">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/index.vue" timestamp="1587932046567">
+        <mark key="[" line="46" column="62" />
+        <mark key="]" line="46" column="36" />
+        <mark key="." line="46" column="35" />
+        <mark key="^" line="46" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/_id/edit.vue" timestamp="1587936243636">
+        <mark key="[" line="112" column="63" />
+        <mark key="]" line="112" column="64" />
+        <mark key="^" line="112" column="64" />
+        <mark key="." line="112" column="63" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/add.vue" timestamp="1587935942239">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="44" column="90" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/urls.py" timestamp="1587926516882">
         <mark key="[" line="20" column="1" />
@@ -171,18 +184,11 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="95" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/index.html" timestamp="1587779395652">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="49" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/jptutorial/calculator.py" timestamp="1587867572864">
-        <mark key="'" line="86" column="16" />
-        <mark key="[" line="44" column="3" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="44" column="3" />
-        <mark key="^" line="45" column="4" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/assets/css/tailwind.css" timestamp="1587935226554">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/core/models.py" timestamp="1587926645962">
         <mark key="[" line="9" column="31" />
@@ -195,16 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="36" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
-      <jump line="209" column="13" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
-      <jump line="214" column="37" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
-      <jump line="219" column="37" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
-      <jump line="41" column="37" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
-      <jump line="15" column="14" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
-      <jump line="33" column="24" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
-      <jump line="45" column="14" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/conftest.py" />
-      <jump line="13" column="22" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/conftest.py" />
-      <jump line="41" column="33" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_attendance_certificate.py" />
       <jump line="19" column="0" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_attendance_certificate.py" />
       <jump line="63" column="0" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_attendance_certificate.py" />
       <jump line="248" column="7" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/attendance_certificate/templates/perfect_attendance.html" />
@@ -294,13 +290,23 @@
       <jump line="79" column="15" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" />
       <jump line="57" column="42" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" />
       <jump line="40" column="5" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" />
+      <jump line="7" column="5" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/layouts/default.vue" />
+      <jump line="1" column="0" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/index.vue" />
+      <jump line="76" column="0" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/index.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/index.vue" />
+      <jump line="22" column="6" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/index.vue" />
+      <jump line="54" column="49" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" />
+      <jump line="0" column="9" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/_id/index.vue" />
+      <jump line="10" column="10" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/assets/css/tailwind.css" />
+      <jump line="29" column="14" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/add.vue" />
+      <jump line="30" column="14" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/add.vue" />
+      <jump line="0" column="9" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/add.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>RecipeSerializer</text>
+        <text>]</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -329,13 +335,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>RecipeSerializer</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>CORS</text>
+        <text>Easy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24KICAgICAgICBjbGFzcz0ibWwtMiBob3Zlcjp0ZXh0LWdyZWVuLTcwMCBwLTEgYm9yZGVyLWIgYm9yZGVyLWdyYXktNzAwIGhvdmVyOmJvcmRlci1ncmVlbi03MDAgY3Vyc29yLXBvaW50ZXIgZmxleCBpdGVtcy1jZW50ZXIiCiAgICAgICAgQGNsaWNrPSJzaG93UHJldmlldyA9IHRydWU7IHByZXZpZXdVcmwgPSAnL3NoZWV0cy97eyBzaGVldC5zaGVldF9pZCB9fS9wcmV2aWV3JyIKICAgID4KICAgICAgPGkgY2xhc3M9Imljb24tcHJldmlldyBwci0xIj48L2k+CiAgICAgIFByZXZpZXcKICAgIDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHYtaWY9InByZXZpZXciIDpzcmM9InByZXZpZXciIGFsdD0iIgogICAgICAgICAgICAgY2xhc3M9InJlY2lwZS1pbWciPgo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -350,47 +356,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHYtZWxzZSBzcmM9IkAvc3RhdGljL2ltYWdlcy9wbGFjZWhvbGRlci5wbmciIGFsdD0iIgogICAgICAgICAgICAgY2xhc3M9InJlY2lwZS1pbWciPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZXh0YWVyYT48L3RleHRhZXJhPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICA8bGFiZWwgZm9yPkluZ3JlZGllbnRzPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHYtbW9kZWw9InJlY2lwZS5pbmdyZWRpZW50cyI+CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICA8bGFiZWwgZm9yPkluZ3JlZGllbnRzPC9sYWJlbD4KICAgICAgICAgICAgPHRleHRhcmVhIHYtbW9kZWw9InJlY2lwZS5pbmdyZWRpZW50cyIgcm93cz0iNCI+PC90ZXh0YXJlYT4KICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGFzeW5jIGRlZiBjYWxjdWxhdG9yX2NsaWNrKHNlbGYsIG1zZyk6CiAgICAgICAgY2FsYyA9IHNlbGYuY2FsYwogICAgICAgIHRyeToKICAgICAgICAgICAgdGFwZV92YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgdGFwZV92YWx1ZSA9IDAKICAgICAgICBjaGFuZ2VkID0gRmFsc2UKICAgICAgICBpZiBzZWxmLnRleHQgPT0gIkMiOgogICAgICAgICAgICBjYWxjLnJlc3VsdC52YWx1ZSA9ICIwIgogICAgICAgICAgICBjYWxjLnRhcGUudmFsdWUgPSAiICIKICAgICAgICAgICAgaWYgY2FsYy52YWx1ZSAhPSAwOgogICAgICAgICAgICAgICAgY2FsYy52YWx1ZSA9IDAKICAgICAgICAgICAgICAgIGNoYW5nZWQgPSBUcnVlCiAgICAgICAgZWxpZiBzZWxmLnRleHQgPT0gIj0iOgogICAgICAgICAgICBpZiBjYWxjLnZhbHVlICE9IHRhcGVfdmFsdWU6CiAgICAgICAgICAgICAgICBjYWxjLnZhbHVlID0gdGFwZV92YWx1ZQogICAgICAgICAgICAgICAgY2hhbmdlZCA9IFRydWUKICAgICAgICAgICAgY2FsYy5yZXN1bHQudmFsdWUgPSBzdHIodGFwZV92YWx1ZSkKICAgICAgICAgICAgY2FsYy50YXBlLnZhbHVlID0gc3RyKHRhcGVfdmFsdWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWYgY2FsYy50YXBlLnZhbHVlWy0xXSBpbiAiKistLyIgb3Igc2VsZi50ZXh0IGluICIqKy0vIjoKICAgICAgICAgICAgICAgIGNhbGMudGFwZS52YWx1ZSArPSAiICIgKyBzZWxmLnRleHQKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGNhbGMudGFwZS52YWx1ZSArPSBzZWxmLnRleHQKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdGFwZV92YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQogICAgICAgICAgICAgICAgY2FsYy5yZXN1bHQudmFsdWUgPSBldmFsKHRhcGVfdmFsdWUpCiAgICAgICAgICAgICAgICBpZiBjYWxjLnZhbHVlICE9IHRhcGVfdmFsdWU6CiAgICAgICAgICAgICAgICAgICAgY2FsYy52YWx1ZSA9IHRhcGVfdmFsdWUKICAgICAgICAgICAgICAgICAgICBjaGFuZ2VkID0gVHJ1ZQogICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgaWYgY2hhbmdlZDoKICAgICAgICAgICAgaWYgY2FsYy5oYXNfZXZlbnRfZnVuY3Rpb24oImNoYW5nZSIpOgogICAgICAgICAgICAgICAgY2FsY19tc2cgPSBtc2cKICAgICAgICAgICAgICAgIGNhbGNfbXNnLmV2ZW50X3R5cGUgPSAiY2hhbmdlIgogICAgICAgICAgICAgICAgY2FsY19tc2cuaWQgPSBjYWxjLmlkCiAgICAgICAgICAgICAgICBjYWxjX21zZy5idXR0b25fdGV4dCA9IHNlbGYudGV4dAogICAgICAgICAgICAgICAgY2FsY19tc2cudmFsdWUgPSBjYWxjLnZhbHVlCiAgICAgICAgICAgICAgICBjYWxjX21zZy5jbGFzc19uYW1lID0gY2FsYy5fX2NsYXNzX18uX19uYW1lX18KICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCBjYWxjLnJ1bl9ldmVudF9mdW5jdGlvbigiY2hhbmdlIiwgY2FsY19tc2cpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNtYWxsPihtaW51dGVzKTwvc21hbGw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEwKToK</text>
+        <text encoding="base64">PHN0eWxlIHR5cGU9InBvc3Rjc3MiPgoKPC9zdHlsZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGMucmVzdWx0LnZhbHVlID0gc3RyKGV2YWwoY2FsYy50YXBlLnZhbHVlKSkK</text>
+        <text encoding="base64">ICAuZm9ybS1ncm91cCB7CiAgICBAYXBwbHkgdy1mdWxsIG10LTQ7CiAgfQoKICAuZm9ybS1ncm91cCA+IGxhYmVsIHsKICAgIEBhcHBseSBibG9jayBtYi0yIHctZnVsbDsKICB9CgogIC5mb3JtLWdyb3VwID4gaW5wdXQgewogICAgQGFwcGx5IGJsb2NrIHB4LTQgcHktMiBib3JkZXIgcm91bmRlZCBib3JkZXItZ3JheS00MDAgdy1mdWxsOwogIH0KCiAgLmZvcm0tZ3JvdXAgPiBpbnB1dDpmb2N1cyB7CiAgICBAYXBwbHkgYm9yZGVyLWJsdWUtNjAwIHNoYWRvdzsKICB9CgogIEBtZWRpYSAobWluLXdpZHRoOiA3NjhweCkgewogICAgLmZvcm0tZ3JvdXAgPiBpbnB1dCB7CiAgICAgIEBhcHBseSB3LTMvNDsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsYy52YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQo=</text>
+        <text encoding="base64">LmZvcm0tZ3JvdXAgewogIEBhcHBseSB3LWZ1bGwgbXQtNDsKfQoKLmZvcm0tZ3JvdXAgPiBsYWJlbCB7CiAgQGFwcGx5IGJsb2NrIG1iLTIgdy1mdWxsOwp9CgouZm9ybS1ncm91cCA+IGlucHV0IHsKICBAYXBwbHkgYmxvY2sgcHgtNCBweS0yIGJvcmRlciByb3VuZGVkIGJvcmRlci1ncmF5LTQwMCB3LWZ1bGw7Cn0KCi5mb3JtLWdyb3VwID4gaW5wdXQ6Zm9jdXMgewogIEBhcHBseSBib3JkZXItYmx1ZS02MDAgc2hhZG93Owp9CgpAbWVkaWEgKG1pbi13aWR0aDogNzY4cHgpIHsKICAuZm9ybS1ncm91cCA+IGlucHV0IHsKICAgIEBhcHBseSB3LTMvNDsKICB9Cn0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/Easy/Hard/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>CORS</last-search>
+      <last-search>Easy</last-search>
       <last-offset />
-      <last-pattern>CORS</last-pattern>
-      <last-replace>tags</last-replace>
-      <last-substitute>composers</last-substitute>
+      <last-pattern>Easy</last-pattern>
+      <last-replace>Hard</last-replace>
+      <last-substitute>Easy</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
