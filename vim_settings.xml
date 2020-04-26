@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>gnome-terminal</entry>
-        <entry>golang</entry>
         <entry>htop</entry>
         <entry>inotify-tools</entry>
         <entry>lastpass</entry>
@@ -25,6 +23,8 @@
         <entry>macro</entry>
         <entry>related</entry>
         <entry encoding="base64">XDwoXD4=</entry>
+        <entry>cors</entry>
+        <entry>CORS</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -94,17 +94,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/index.py" timestamp="1587777962485">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="73" />
-        <mark key="^" line="36" column="73" />
-        <mark key="." line="36" column="72" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" timestamp="1587926695807">
+        <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/TODO" timestamp="1587605127051">
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="4" column="51" />
-        <mark key="^" line="4" column="57" />
-        <mark key="." line="4" column="51" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/core/admin.py" timestamp="1587926394315">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/macros.html" timestamp="1587604491282">
         <mark key="'" line="262" column="29" />
@@ -112,12 +109,6 @@
         <mark key="]" line="264" column="25" />
         <mark key="^" line="264" column="25" />
         <mark key="." line="264" column="24" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/Justfile" timestamp="1587589997183">
-        <mark key="[" line="28" column="66" />
-        <mark key="]" line="28" column="68" />
-        <mark key="^" line="28" column="68" />
-        <mark key="." line="28" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-card.html" timestamp="1587604290180">
         <mark key="'" line="42" column="33" />
@@ -131,51 +122,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/logout.py" timestamp="1587779602518">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/sheets/single.html" timestamp="1587604258608">
-        <mark key="'" line="2" column="52" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/Dockerfile.dev" timestamp="1587589480187">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/sheets/storage.py" timestamp="1587589686009">
-        <mark key="[" line="29" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/manage.py" timestamp="1587589776928">
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="8" />
-        <mark key="." line="77" column="8" />
-        <mark key="^" line="79" column="41" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/index.html" timestamp="1587779395652">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="49" />
-      </file>
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.js" timestamp="1587779406981">
         <mark key="[" line="73" column="64" />
         <mark key="]" line="73" column="65" />
         <mark key="." line="73" column="64" />
         <mark key="^" line="73" column="65" />
-      </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/list.html" timestamp="1587603758445">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-row.html" timestamp="1587604508372">
         <mark key="[" line="35" column="78" />
@@ -189,6 +140,43 @@
         <mark key="." line="155" column="20" />
         <mark key="^" line="155" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/index.py" timestamp="1587777962485">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="73" />
+        <mark key="^" line="36" column="73" />
+        <mark key="." line="36" column="72" />
+      </file>
+      <file name="$USER_HOME$/repositories/smlib/TODO" timestamp="1587605127051">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="51" />
+      </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/logout.py" timestamp="1587779602518">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/urls.py" timestamp="1587926516882">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="23" column="79" />
+        <mark key="^" line="23" column="79" />
+        <mark key="." line="23" column="78" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/core/serializers.py" timestamp="1587926359717">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="96" />
+        <mark key="^" line="3" column="96" />
+        <mark key="." line="3" column="95" />
+      </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/index.html" timestamp="1587779395652">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="49" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/jptutorial/calculator.py" timestamp="1587867572864">
         <mark key="'" line="86" column="16" />
         <mark key="[" line="44" column="3" />
@@ -196,18 +184,17 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="45" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/smlib/backend/app/templates/_preview_modal.html" timestamp="1587602930831">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="56" />
-        <mark key="." line="12" column="55" />
-        <mark key="^" line="12" column="56" />
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/core/models.py" timestamp="1587926645962">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/core/urls.py" timestamp="1587926586487">
+        <mark key="[" line="5" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="13" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
-      <jump line="171" column="13" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
-      <jump line="185" column="13" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
-      <jump line="188" column="37" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
       <jump line="197" column="36" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
       <jump line="209" column="13" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
       <jump line="214" column="37" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_auth.py" />
@@ -304,12 +291,16 @@
       <jump line="42" column="33" filename="$USER_HOME$/repositories/smlib/backend/app/templates/_sheet-card.html" />
       <jump line="9" column="13" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/logout.py" />
       <jump line="44" column="16" filename="$USER_HOME$/repositories/tutorials/jptutorial/calculator.py" />
+      <jump line="79" column="15" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" />
+      <jump line="57" column="42" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" />
+      <jump line="40" column="5" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>RecipeSerializer</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -338,10 +329,10 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>RecipeSerializer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwoXD4=</text>
+        <text>CORS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxidXR0b24KICAgICAgICBjbGFzcz0ibWwtMiBob3Zlcjp0ZXh0LWdyZWVuLTcwMCBwLTEgYm9yZGVyLWIgYm9yZGVyLWdyYXktNzAwIGhvdmVyOmJvcmRlci1ncmVlbi03MDAgY3Vyc29yLXBvaW50ZXIgZmxleCBpdGVtcy1jZW50ZXIiCiAgICAgICAgQGNsaWNrPSJzaG93UHJldmlldyA9IHRydWU7IHByZXZpZXdVcmwgPSAnL3NoZWV0cy97eyBzaGVldC5zaGVldF9pZCB9fS9wcmV2aWV3JyIKICAgID4KICAgICAgPGkgY2xhc3M9Imljb24tcHJldmlldyBwci0xIj48L2k+CiAgICAgIFByZXZpZXcKICAgIDwvYnV0dG9uPgo=</text>
@@ -359,34 +350,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGFzeW5jIGRlZiBjYWxjdWxhdG9yX2NsaWNrKHNlbGYsIG1zZyk6CiAgICAgICAgY2FsYyA9IHNlbGYuY2FsYwogICAgICAgIHRyeToKICAgICAgICAgICAgdGFwZV92YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgdGFwZV92YWx1ZSA9IDAKICAgICAgICBjaGFuZ2VkID0gRmFsc2UKICAgICAgICBpZiBzZWxmLnRleHQgPT0gIkMiOgogICAgICAgICAgICBjYWxjLnJlc3VsdC52YWx1ZSA9ICIwIgogICAgICAgICAgICBjYWxjLnRhcGUudmFsdWUgPSAiICIKICAgICAgICAgICAgaWYgY2FsYy52YWx1ZSAhPSAwOgogICAgICAgICAgICAgICAgY2FsYy52YWx1ZSA9IDAKICAgICAgICAgICAgICAgIGNoYW5nZWQgPSBUcnVlCiAgICAgICAgZWxpZiBzZWxmLnRleHQgPT0gIj0iOgogICAgICAgICAgICBpZiBjYWxjLnZhbHVlICE9IHRhcGVfdmFsdWU6CiAgICAgICAgICAgICAgICBjYWxjLnZhbHVlID0gdGFwZV92YWx1ZQogICAgICAgICAgICAgICAgY2hhbmdlZCA9IFRydWUKICAgICAgICAgICAgY2FsYy5yZXN1bHQudmFsdWUgPSBzdHIodGFwZV92YWx1ZSkKICAgICAgICAgICAgY2FsYy50YXBlLnZhbHVlID0gc3RyKHRhcGVfdmFsdWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWYgY2FsYy50YXBlLnZhbHVlWy0xXSBpbiAiKistLyIgb3Igc2VsZi50ZXh0IGluICIqKy0vIjoKICAgICAgICAgICAgICAgIGNhbGMudGFwZS52YWx1ZSArPSAiICIgKyBzZWxmLnRleHQKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGNhbGMudGFwZS52YWx1ZSArPSBzZWxmLnRleHQKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdGFwZV92YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQogICAgICAgICAgICAgICAgY2FsYy5yZXN1bHQudmFsdWUgPSBldmFsKHRhcGVfdmFsdWUpCiAgICAgICAgICAgICAgICBpZiBjYWxjLnZhbHVlICE9IHRhcGVfdmFsdWU6CiAgICAgICAgICAgICAgICAgICAgY2FsYy52YWx1ZSA9IHRhcGVfdmFsdWUKICAgICAgICAgICAgICAgICAgICBjaGFuZ2VkID0gVHJ1ZQogICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgaWYgY2hhbmdlZDoKICAgICAgICAgICAgaWYgY2FsYy5oYXNfZXZlbnRfZnVuY3Rpb24oImNoYW5nZSIpOgogICAgICAgICAgICAgICAgY2FsY19tc2cgPSBtc2cKICAgICAgICAgICAgICAgIGNhbGNfbXNnLmV2ZW50X3R5cGUgPSAiY2hhbmdlIgogICAgICAgICAgICAgICAgY2FsY19tc2cuaWQgPSBjYWxjLmlkCiAgICAgICAgICAgICAgICBjYWxjX21zZy5idXR0b25fdGV4dCA9IHNlbGYudGV4dAogICAgICAgICAgICAgICAgY2FsY19tc2cudmFsdWUgPSBjYWxjLnZhbHVlCiAgICAgICAgICAgICAgICBjYWxjX21zZy5jbGFzc19uYW1lID0gY2FsYy5fX2NsYXNzX18uX19uYW1lX18KICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCBjYWxjLnJ1bl9ldmVudF9mdW5jdGlvbigiY2hhbmdlIiwgY2FsY19tc2cpCgo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEwKToK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGMucmVzdWx0LnZhbHVlID0gc3RyKGV2YWwoY2FsYy50YXBlLnZhbHVlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsYy52YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQo=</text>
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsYy52YWx1ZSA9IDAK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQ2FsY3VsYXRvcihEaXYpOgogICAgYnRuX2NsYXNzZXMgPSAoCiAgICAgICAgInctMS80IHRleHQteGwgZm9udC1ib2xkIHAtMiBtLTEgYm9yZGVyIGJnLWdyYXktMjAwICIgImhvdmVyOmJnLWdyYXktNzAwIHNoYWRvdyIKICAgICkKICAgIGxheW91dF90ZXh0ID0gWwogICAgICAgIFsiNyIsICI4IiwgIjkiLCAiKiJdLAogICAgICAgIFsiNCIsICI1IiwgIjYiLCAiLSJdLAogICAgICAgIFsiMSIsICIyIiwgIjMiLCAiKyJdLAogICAgICAgIFsiQyIsICIwIiwgIi4iLCAiPSJdLAogICAgXQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygqKmt3YXJncykKICAgICAgICBzZWxmLnZhbHVlID0gMAogICAgICAgIHNlbGYudGFwZSA9IElucHV0KAogICAgICAgICAgICBjbGFzc2VzPSJibG9jayBwLTIgbS0yIGJvcmRlciB0ZXh0LXJpZ2h0IHRleHQtc20gYmctZ3JheS0yMDAiLAogICAgICAgICAgICBhPXNlbGYsCiAgICAgICAgICAgIHJlYWRvbmx5PVRydWUsCiAgICAgICAgICAgIHZhbHVlPSIgIiwKICAgICAgICAgICAgc3R5bGU9IndpZHRoOiA5MCU7IiwKICAgICAgICApCiAgICAgICAgc2VsZi5yZXN1bHQgPSBJbnB1dCgKICAgICAgICAgICAgY2xhc3Nlcz0iYmxvY2sgcC0yIG0tMiBib3JkZXIgdGV4dC0yeGwgdGV4dC1yaWdodCIsCiAgICAgICAgICAgIGE9c2VsZiwKICAgICAgICAgICAgcmVhZG9ubHk9VHJ1ZSwKICAgICAgICAgICAgdmFsdWU9IjAiLAogICAgICAgICAgICBzdHlsZT0id2lkdGg6IDkwJTsiLAogICAgICAgICkKICAgICAgICBmb3IgbGluZSBpbiBzZWxmLl9fY2xhc3NfXy5sYXlvdXRfdGV4dDoKICAgICAgICAgICAgZCA9IERpdihjbGFzc2VzPSJmbGV4IHctYXV0byBtLTIiLCBhPXNlbGYpCiAgICAgICAgICAgIGZvciBiIGluIGxpbmU6CiAgICAgICAgICAgICAgICBiMSA9IEJ1dHRvbigKICAgICAgICAgICAgICAgICAgICB0ZXh0PWIsCiAgICAgICAgICAgICAgICAgICAgYT1kLAogICAgICAgICAgICAgICAgICAgIGNsYXNzZXM9c2VsZi5fX2NsYXNzX18uYnRuX2NsYXNzZXMsCiAgICAgICAgICAgICAgICAgICAgY2xpY2s9c2VsZi5jYWxjdWxhdG9yX2NsaWNrLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgYjEuY2FsYyA9IHNlbGYKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgY2FsY3VsYXRvcl9jbGljayhzZWxmLCBtc2cpOgogICAgICAgIGNhbGMgPSBzZWxmLmNhbGMKICAgICAgICBpZiBzZWxmLnRleHQgPT0gIkMiOgogICAgICAgICAgICBjYWxjLnJlc3VsdC52YWx1ZSA9ICIwIgogICAgICAgICAgICBjYWxjLnRhcGUudmFsdWUgPSAiICIKICAgICAgICAgICAgY2FsYy52YWx1ZSA9IDAKICAgICAgICBlbGlmIHNlbGYudGV4dCA9PSAiPSI6CiAgICAgICAgICAgIGNhbGMucmVzdWx0LnZhbHVlID0gc3RyKGV2YWwoY2FsYy50YXBlLnZhbHVlKSkKICAgICAgICAgICAgY2FsYy52YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQogICAgICAgICAgICBjYWxjLnRhcGUudmFsdWUgPSBjYWxjLnJlc3VsdC52YWx1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmIGNhbGMudGFwZS52YWx1ZVstMV0gaW4gIiorLS8iIG9yIHNlbGYudGV4dCBpbiAiKistLyI6CiAgICAgICAgICAgICAgICBjYWxjLnRhcGxlLnZhbHVlICs9ICIgIiArIHNlbGYudGV4dAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgY2FsYy50YXBlLnZhbHVlICs9IHNlbGYudGV4dAogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBjYWxjLnJlc3VsdC52YWx1ZSA9IHN0cihldmFsKGNhbGMudGFwZS52YWx1ZSkpCiAgICAgICAgICAgICAgICBjYWxjLnZhbHVlID0gZXZhbChjYWxjLnRhcGUudmFsdWUpCiAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGFzeW5jIGRlZiBjYWxjdWxhdG9yX2NsaWNrKHNlbGYsIG1zZyk6CiAgICAgICAgY2FsYyA9IHNlbGYuY2FsYwogICAgICAgIHRyeToKICAgICAgICAgICAgdGFwZV92YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgdGFwZV92YWx1ZSA9IDAKICAgICAgICBjaGFuZ2VkID0gRmFsc2UKICAgICAgICBpZiBzZWxmLnRleHQgPT0gIkMiOgogICAgICAgICAgICBjYWxjLnJlc3VsdC52YWx1ZSA9ICIwIgogICAgICAgICAgICBjYWxjLnRhcGUudmFsdWUgPSAiICIKICAgICAgICAgICAgaWYgY2FsYy52YWx1ZSAhPSAwOgogICAgICAgICAgICAgICAgY2FsYy52YWx1ZSA9IDAKICAgICAgICAgICAgICAgIGNoYW5nZWQgPSBUcnVlCiAgICAgICAgZWxpZiBzZWxmLnRleHQgPT0gIj0iOgogICAgICAgICAgICBpZiBjYWxjLnZhbHVlICE9IHRhcGVfdmFsdWU6CiAgICAgICAgICAgICAgICBjYWxjLnZhbHVlID0gdGFwZV92YWx1ZQogICAgICAgICAgICAgICAgY2hhbmdlZCA9IFRydWUKICAgICAgICAgICAgY2FsYy5yZXN1bHQudmFsdWUgPSBzdHIodGFwZV92YWx1ZSkKICAgICAgICAgICAgY2FsYy50YXBlLnZhbHVlID0gc3RyKHRhcGVfdmFsdWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWYgY2FsYy50YXBlLnZhbHVlWy0xXSBpbiAiKistLyIgb3Igc2VsZi50ZXh0IGluICIqKy0vIjoKICAgICAgICAgICAgICAgIGNhbGMudGFwZS52YWx1ZSArPSAiICIgKyBzZWxmLnRleHQKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGNhbGMudGFwZS52YWx1ZSArPSBzZWxmLnRleHQKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdGFwZV92YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQogICAgICAgICAgICAgICAgY2FsYy5yZXN1bHQudmFsdWUgPSBldmFsKHRhcGVfdmFsdWUpCiAgICAgICAgICAgICAgICBpZiBjYWxjLnZhbHVlICE9IHRhcGVfdmFsdWU6CiAgICAgICAgICAgICAgICAgICAgY2FsYy52YWx1ZSA9IHRhcGVfdmFsdWUKICAgICAgICAgICAgICAgICAgICBjaGFuZ2VkID0gVHJ1ZQogICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgaWYgY2hhbmdlZDoKICAgICAgICAgICAgaWYgY2FsYy5oYXNfZXZlbnRfZnVuY3Rpb24oImNoYW5nZSIpOgogICAgICAgICAgICAgICAgY2FsY19tc2cgPSBtc2cKICAgICAgICAgICAgICAgIGNhbGNfbXNnLmV2ZW50X3R5cGUgPSAiY2hhbmdlIgogICAgICAgICAgICAgICAgY2FsY19tc2cuaWQgPSBjYWxjLmlkCiAgICAgICAgICAgICAgICBjYWxjX21zZy5idXR0b25fdGV4dCA9IHNlbGYudGV4dAogICAgICAgICAgICAgICAgY2FsY19tc2cudmFsdWUgPSBjYWxjLnZhbHVlCiAgICAgICAgICAgICAgICBjYWxjX21zZy5jbGFzc19uYW1lID0gY2FsYy5fX2NsYXNzX18uX19uYW1lX18KICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCBjYWxjLnJ1bl9ldmVudF9mdW5jdGlvbigiY2hhbmdlIiwgY2FsY19tc2cpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEwKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGMucmVzdWx0LnZhbHVlID0gc3RyKGV2YWwoY2FsYy50YXBlLnZhbHVlKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmxvZ2luLWZvcm0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsYy52YWx1ZSA9IGV2YWwoY2FsYy50YXBlLnZhbHVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -395,9 +386,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDwoXD4=</last-search>
+      <last-search>CORS</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
+      <last-pattern>CORS</last-pattern>
       <last-replace>tags</last-replace>
       <last-substitute>composers</last-substitute>
       <last-dir>1</last-dir>
