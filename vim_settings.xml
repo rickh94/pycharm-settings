@@ -178,6 +178,9 @@
         <mark key="^" line="23" column="79" />
         <mark key="." line="23" column="78" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/.gitignore" timestamp="1587936530676">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/core/serializers.py" timestamp="1587926359717">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="96" />
