@@ -103,14 +103,14 @@
         <mark key="^" line="47" column="44" />
         <mark key="." line="47" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/core/admin.py" timestamp="1587926394315">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1587934776011">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/openapi.json.py" timestamp="1587944870636">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/components/RecipeCard.vue" timestamp="1587931802444">
         <mark key="[" line="21" column="89" />
@@ -142,6 +142,11 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/_common.py" timestamp="1587944198428">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/package.json" timestamp="1587930951229">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="32" />
@@ -172,26 +177,26 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="44" column="90" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/api/urls.py" timestamp="1587926516882">
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="23" column="79" />
-        <mark key="^" line="23" column="79" />
-        <mark key="." line="23" column="78" />
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/test.py" timestamp="1587944464221">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/.gitignore" timestamp="1587936530676">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/core/serializers.py" timestamp="1587926359717">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="96" />
-        <mark key="^" line="3" column="96" />
-        <mark key="." line="3" column="95" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/assets/css/tailwind.css" timestamp="1587935226554">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="32" />
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/docs.py" timestamp="1587943604302">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/api/core/models.py" timestamp="1587926645962">
         <mark key="[" line="9" column="31" />
@@ -309,7 +314,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text encoding="base64">YXBpLCA=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -338,7 +343,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">YXBpLCA=</text>
       </register>
       <register name="/" type="4">
         <text>Easy</text>
@@ -359,34 +364,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIHYtZWxzZSBzcmM9IkAvc3RhdGljL2ltYWdlcy9wbGFjZWhvbGRlci5wbmciIGFsdD0iIgogICAgICAgICAgICAgY2xhc3M9InJlY2lwZS1pbWciPgo=</text>
+        <text encoding="base64">YXBwLmluY2x1ZGVfcm91dGVyKGFwaSwgcHJlZml4PSIvYXBpIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">YXBpID0gQVBJUm91dGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZXh0YWVyYT48L3RleHRhZXJhPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHYtZWxzZSBzcmM9IkAvc3RhdGljL2ltYWdlcy9wbGFjZWhvbGRlci5wbmciIGFsdD0iIgogICAgICAgICAgICAgY2xhc3M9InJlY2lwZS1pbWciPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICA8bGFiZWwgZm9yPkluZ3JlZGllbnRzPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHYtbW9kZWw9InJlY2lwZS5pbmdyZWRpZW50cyI+CiAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICA8bGFiZWwgZm9yPkluZ3JlZGllbnRzPC9sYWJlbD4KICAgICAgICAgICAgPHRleHRhcmVhIHYtbW9kZWw9InJlY2lwZS5pbmdyZWRpZW50cyIgcm93cz0iNCI+PC90ZXh0YXJlYT4KICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZXh0YWVyYT48L3RleHRhZXJhPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNtYWxsPihtaW51dGVzKTwvc21hbGw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICA8bGFiZWwgZm9yPkluZ3JlZGllbnRzPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHYtbW9kZWw9InJlY2lwZS5pbmdyZWRpZW50cyI+CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHN0eWxlIHR5cGU9InBvc3Rjc3MiPgoKPC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICA8bGFiZWwgZm9yPkluZ3JlZGllbnRzPC9sYWJlbD4KICAgICAgICAgICAgPHRleHRhcmVhIHYtbW9kZWw9InJlY2lwZS5pbmdyZWRpZW50cyIgcm93cz0iNCI+PC90ZXh0YXJlYT4KICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuZm9ybS1ncm91cCB7CiAgICBAYXBwbHkgdy1mdWxsIG10LTQ7CiAgfQoKICAuZm9ybS1ncm91cCA+IGxhYmVsIHsKICAgIEBhcHBseSBibG9jayBtYi0yIHctZnVsbDsKICB9CgogIC5mb3JtLWdyb3VwID4gaW5wdXQgewogICAgQGFwcGx5IGJsb2NrIHB4LTQgcHktMiBib3JkZXIgcm91bmRlZCBib3JkZXItZ3JheS00MDAgdy1mdWxsOwogIH0KCiAgLmZvcm0tZ3JvdXAgPiBpbnB1dDpmb2N1cyB7CiAgICBAYXBwbHkgYm9yZGVyLWJsdWUtNjAwIHNoYWRvdzsKICB9CgogIEBtZWRpYSAobWluLXdpZHRoOiA3NjhweCkgewogICAgLmZvcm0tZ3JvdXAgPiBpbnB1dCB7CiAgICAgIEBhcHBseSB3LTMvNDsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNtYWxsPihtaW51dGVzKTwvc21hbGw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmZvcm0tZ3JvdXAgewogIEBhcHBseSB3LWZ1bGwgbXQtNDsKfQoKLmZvcm0tZ3JvdXAgPiBsYWJlbCB7CiAgQGFwcGx5IGJsb2NrIG1iLTIgdy1mdWxsOwp9CgouZm9ybS1ncm91cCA+IGlucHV0IHsKICBAYXBwbHkgYmxvY2sgcHgtNCBweS0yIGJvcmRlciByb3VuZGVkIGJvcmRlci1ncmF5LTQwMCB3LWZ1bGw7Cn0KCi5mb3JtLWdyb3VwID4gaW5wdXQ6Zm9jdXMgewogIEBhcHBseSBib3JkZXItYmx1ZS02MDAgc2hhZG93Owp9CgpAbWVkaWEgKG1pbi13aWR0aDogNzY4cHgpIHsKICAuZm9ybS1ncm91cCA+IGlucHV0IHsKICAgIEBhcHBseSB3LTMvNDsKICB9Cn0K</text>
+        <text encoding="base64">PHN0eWxlIHR5cGU9InBvc3Rjc3MiPgoKPC9zdHlsZT4K</text>
       </register>
       <register name=":" type="4">
         <text>s/Easy/Hard/g</text>
