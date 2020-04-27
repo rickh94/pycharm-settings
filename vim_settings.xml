@@ -103,73 +103,19 @@
         <mark key="^" line="47" column="44" />
         <mark key="." line="47" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1587934776011">
+      <file name="/a.dummy" timestamp="1587948360447">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/openapi.json.py" timestamp="1587944870636">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="19" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/components/RecipeCard.vue" timestamp="1587931802444">
-        <mark key="[" line="21" column="89" />
-        <mark key="]" line="21" column="96" />
-        <mark key="." line="21" column="95" />
-        <mark key="^" line="21" column="96" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/_id/index.vue" timestamp="1587935773192">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/pages/index.js" timestamp="1587946735494" />
-      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/pages/posts/[id].js" timestamp="1587946722876">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="23" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/index.vue" timestamp="1587929731236">
-        <mark key="[" line="6" column="102" />
-        <mark key="]" line="6" column="109" />
-        <mark key="." line="6" column="108" />
-        <mark key="^" line="6" column="109" />
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/posts/_single.py" timestamp="1587948139098">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/nuxt.config.js" timestamp="1587936427577">
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="34" />
         <mark key="^" line="25" column="34" />
         <mark key="." line="25" column="34" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/assets/css/transitions.css" timestamp="1587936349911">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/_common.py" timestamp="1587944198428">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/package.json" timestamp="1587930951229">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/layouts/default.vue" timestamp="1587931223544">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="20" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/index.vue" timestamp="1587932046567">
-        <mark key="[" line="46" column="62" />
-        <mark key="]" line="46" column="36" />
-        <mark key="." line="46" column="35" />
-        <mark key="^" line="46" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/_id/edit.vue" timestamp="1587936243636">
         <mark key="[" line="112" column="63" />
@@ -184,14 +130,66 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="44" column="90" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/.gitignore" timestamp="1587936530676">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1587934776011">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/openapi.json.py" timestamp="1587948350653">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/_id/index.vue" timestamp="1587935773192">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/pages/index.js" timestamp="1587946735494" />
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/pages/posts/[id].js" timestamp="1587946722876">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/assets/css/transitions.css" timestamp="1587936349911">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/_common.py" timestamp="1587944198428">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/posts/[slug].py" timestamp="1587948149139">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="32" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/test.py" timestamp="1587944464221">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="13" />
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/.gitignore" timestamp="1587936530676">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/posts/_routes.py" timestamp="1587948412593">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="73" />
+        <mark key="^" line="5" column="73" />
+        <mark key="." line="5" column="72" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/posts/index.py" timestamp="1587948438893">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/assets/css/tailwind.css" timestamp="1587935226554">
         <mark key="[" line="19" column="26" />
@@ -207,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_attendance_certificate.py" />
       <jump line="63" column="0" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/tests/test_attendance_certificate.py" />
       <jump line="248" column="7" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/attendance_certificate/templates/perfect_attendance.html" />
       <jump line="21" column="27" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/attendance_certificate/templates/perfect_attendance.html" />
@@ -307,12 +304,13 @@
       <jump line="29" column="14" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/add.vue" />
       <jump line="30" column="14" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/add.vue" />
       <jump line="0" column="9" filename="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/pages/recipes/add.vue" />
+      <jump line="4" column="4" filename="$USER_HOME$/repositories/tutorials/nextjs-blog/api/posts/[slug].py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text>from api.posts import _singl</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -341,7 +339,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>Easy</text>
@@ -362,34 +360,38 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IHBvc3REYXRhLmNvbnRlbnRIdG1sIH19PjwvZGl2Pgo=</text>
+        <text>from api.posts import _singl</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text>from api._common import app
+
+@app.get('/api/posts/{slug}')
+def get_post(slug: str):
+    return {&quot;slug&quot;: slug}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgLCBnZXRQb3N0RGF0YSB9IGZyb20gJy4uLy4uL2xpYi9wb3N0cyc7Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IHBvc3REYXRhLmNvbnRlbnRIdG1sIH19PjwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldFN0YXRpY1BhdGhzKCkgewogIGNvbnN0IHBhdGhzID0gZ2V0QWxsUG9zdElkcygpOwogIHJldHVybiB7CiAgICBwYXRocywgZmFsbGJhY2s6IGZhbHNlLAogIH07Cn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwLmluY2x1ZGVfcm91dGVyKGFwaSwgcHJlZml4PSIvYXBpIikK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgLCBnZXRQb3N0RGF0YSB9IGZyb20gJy4uLy4uL2xpYi9wb3N0cyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBpID0gQVBJUm91dGVyKCkK</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldFN0YXRpY1BhdGhzKCkgewogIGNvbnN0IHBhdGhzID0gZ2V0QWxsUG9zdElkcygpOwogIHJldHVybiB7CiAgICBwYXRocywgZmFsbGJhY2s6IGZhbHNlLAogIH07Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIHYtZWxzZSBzcmM9IkAvc3RhdGljL2ltYWdlcy9wbGFjZWhvbGRlci5wbmciIGFsdD0iIgogICAgICAgICAgICAgY2xhc3M9InJlY2lwZS1pbWciPgo=</text>
+        <text encoding="base64">YXBwLmluY2x1ZGVfcm91dGVyKGFwaSwgcHJlZml4PSIvYXBpIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">YXBpID0gQVBJUm91dGVyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZXh0YWVyYT48L3RleHRhZXJhPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHYtZWxzZSBzcmM9IkAvc3RhdGljL2ltYWdlcy9wbGFjZWhvbGRlci5wbmciIGFsdD0iIgogICAgICAgICAgICAgY2xhc3M9InJlY2lwZS1pbWciPgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Easy/Hard/g</text>
