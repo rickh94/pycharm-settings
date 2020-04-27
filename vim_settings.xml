@@ -96,11 +96,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/student-tracker/backend/api/docker-start.sh" timestamp="1588016345778">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="17" />
+      <file name="$USER_HOME$/repositories/student-tracker/backend/api/docker-start.sh" timestamp="1588023172807">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/.env" timestamp="1588008551801">
         <mark key="'" line="0" column="17" />
@@ -114,17 +115,14 @@
         <mark key="." line="124" column="18" />
         <mark key="^" line="124" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/student-tracker/frontend/app/src/pages/index.js" timestamp="1588022492513">
+        <mark key="[" line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/student-tracker/backend/api/api/urls.py" timestamp="1588011515920">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="25" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.html" timestamp="1587970013498">
-        <mark key="[" line="40" column="79" />
-        <mark key="]" line="40" column="104" />
-        <mark key="^" line="40" column="104" />
-        <mark key="." line="40" column="103" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/.env" timestamp="1588009301125">
         <mark key="[" line="3" column="8" />
@@ -138,18 +136,18 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/student-tracker/frontend/app/package.json" timestamp="1588015945292">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/repositories/student-tracker/frontend/app/package.json" timestamp="1588022212648">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/student-tracker/docker-compose.yml" timestamp="1588015031003">
+      <file name="$USER_HOME$/repositories/student-tracker/docker-compose.yml" timestamp="1588022353197">
         <mark key="'" line="42" column="15" />
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="36" column="21" />
-        <mark key="^" line="36" column="21" />
-        <mark key="." line="36" column="20" />
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="35" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="38" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/config/nginx/app.conf" timestamp="1588014338965">
         <mark key="[" line="53" column="41" />
@@ -198,11 +196,11 @@
         <mark key="." line="61" column="68" />
         <mark key="^" line="61" column="69" />
       </file>
-      <file name="$USER_HOME$/repositories/student-tracker/backend/Dockerfile" timestamp="1588016359313">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="43" />
-        <mark key="^" line="25" column="17" />
-        <mark key="." line="25" column="43" />
+      <file name="$USER_HOME$/repositories/student-tracker/backend/Dockerfile" timestamp="1588022955202">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/core/management/commands/wait_for_db.py" timestamp="1588008516450">
         <mark key="'" line="0" column="0" />
@@ -211,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="0" filename="$USER_HOME$/repositories/title-page/app/test_title_page.py" />
-      <jump line="27" column="23" filename="$USER_HOME$/repositories/scratch/macro-kbd/macros.py" />
       <jump line="79" column="43" filename="$USER_HOME$/repositories/scratch/macro-kbd/macros.py" />
       <jump line="37" column="25" filename="$USER_HOME$/repositories/scratch/macro-kbd/macros.py" />
       <jump line="39" column="25" filename="$USER_HOME$/repositories/scratch/macro-kbd/macros.py" />
@@ -311,12 +307,14 @@
       <jump line="0" column="17" filename="$USER_HOME$/repositories/sheet_music_database/.env" />
       <jump line="20" column="15" filename="$USER_HOME$/repositories/student-tracker/docker-compose.yml" />
       <jump line="131" column="10" filename="$USER_HOME$/repositories/student-tracker/backend/api/api/settings.py" />
+      <jump line="4" column="26" filename="$USER_HOME$/repositories/student-tracker/backend/api/docker-start.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/student-tracker/backend/api/docker-start.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>:dev</text>
+        <text>/app/api/</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -345,7 +343,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:dev</text>
+        <text>/app/api/</text>
       </register>
       <register name="/" type="4">
         <text>Docker</text>
@@ -366,34 +364,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJuZXh0IjogIm5leHQiLAo=</text>
+        <text encoding="base64">Q09QWSBQaXBmaWxlIC4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIHBtMgo=</text>
+        <text encoding="base64">CkNPUFkgUGlwZmlsZSAuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nCg==</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwL2FwaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIG5wbSBydW4gYnVpbGQK</text>
+        <text encoding="base64">ICAgICJuZXh0IjogIm5leHQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIHBtMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2FkbWluLycsIGFkbWluLnNpdGUudXJscyksCg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
+        <text encoding="base64">UlVOIG5wbSBydW4gYnVpbGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUK</text>
+        <text encoding="base64">ICAgIHBhdGgoJ2FkbWluLycsIGFkbWluLnNpdGUudXJscyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Easy/Hard/g</text>
