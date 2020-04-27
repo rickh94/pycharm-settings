@@ -110,23 +110,17 @@
         <mark key="]" line="5" column="25" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/login.py" timestamp="1587951606413">
-        <mark key="[" line="53" column="90" />
-        <mark key="]" line="53" column="91" />
-        <mark key="^" line="53" column="91" />
-        <mark key="." line="53" column="90" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/login.py" timestamp="1587951773322">
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="48" column="46" />
+        <mark key="^" line="48" column="46" />
+        <mark key="." line="48" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/client/nuxt.config.js" timestamp="1587936427577">
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.css" timestamp="1587950085168">
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.css" timestamp="1587951800943">
         <mark key="'" line="19" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
         <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django_nuxt_recipe_app/.gitignore" timestamp="1587936530676">
@@ -192,6 +186,7 @@
         <mark key="^" line="5" column="73" />
         <mark key="." line="5" column="72" />
       </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/.env" timestamp="1587951788447" />
       <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/posts/index.py" timestamp="1587948438893">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
@@ -311,7 +306,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>seconds</text>
+        <text>seconds=30</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -340,7 +335,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>seconds</text>
+        <text>seconds=30</text>
       </register>
       <register name="/" type="4">
         <text>Easy</text>
@@ -361,34 +356,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJHJvb3QuaW5uZXJIVE1MID0gbG9hZGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChleHBpcmVzLnRvdGFsX3NlY29uZHMoKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2V0dXBMb2dpbkZvcm0oKTsK</text>
+        <text encoding="base64">ICAgICAgJHJvb3QuaW5uZXJIVE1MID0gbG9hZGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJHJvb3QuaW5uZXJIVE1MID0gbG9naW5Gb3JtOwo=</text>
+        <text encoding="base64">ICAgICAgc2V0dXBMb2dpbkZvcm0oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAkbG9naW5Gb3JtLgo=</text>
+        <text encoding="base64">ICAgICAgJHJvb3QuaW5uZXJIVE1MID0gbG9naW5Gb3JtOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlbAo=</text>
+        <text encoding="base64">ICAkbG9naW5Gb3JtLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygkbG9naW5Gb3JtLm9uc3VibWl0KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygkbG9naW5Gb3JtKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygkbG9naW5Gb3JtLm9uc3VibWl0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF5X2xvZ2dlZF9pbik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygkbG9naW5Gb3JtKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8Zm9ybSBjbGFzcz0ibG9naW4tZm9ybSIgaWQ9ImxvZ2luLWZvcm0iPgogICAgPGgzPlBsZWFzZSBsb2cgaW4gdG8gdmlldyB0aGlzIHBhZ2U8L2gyPgogICAgPGg0PkxvZyBpbiBhcy4uLjwvaDQ+CiAgICA8bGFiZWwgZm9yPSJzdHVkZW50Ij4KICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJsZXZlbCIgaWQ9InN0dWRlbnQiIHZhbHVlPSJzdHVkZW50IiBjaGVja2VkPgogICAgICBTdHVkZW50CiAgICA8L2xhYmVsPgogICAgPGxhYmVsIGZvcj0idGVhY2hlciI+CiAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0ibGV2ZWwiIGlkPSJ0ZWFjaGVyIiB2YWx1ZT0idGVhY2hlciI+CiAgICAgIFRlYWNoZXIKICAgIDwvbGFiZWw+CiAgICA8bGFiZWwgZm9yPSJwYXNzd29yZCI+UGFzc3dvcmQ8L2xhYmVsPgogICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJwYXNzd29yZCIgaWQ9InBhc3N3b3JkIiBjbGFzcz0idGV4dC1pbnB1dCIgcmVxdWlyZWQ+CiAgICA8bGFiZWwgZm9yPSJzdGF5X2xvZ2dlZF9pbiI+CiAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgbmFtZT0ic3RheV9sb2dnZWRfaW4iIGlkPSJzdGF5X2xvZ2dlZF9pbiI+CiAgICAgIEtlZXAgbWUgbG9nZ2VkIGluCiAgICA8L2xhYmVsPgogICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IkxvZ2luIiBjbGFzcz0ic3VibWl0LWJ1dHRvbiI+CiAgPC9mb3JtPgogICAgICBgOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF5X2xvZ2dlZF9pbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Easy/Hard/g</text>
