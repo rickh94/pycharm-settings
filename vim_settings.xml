@@ -96,8 +96,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1587948360447">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/teacher/award.py" timestamp="1587967210040">
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/docs.py" timestamp="1587951303420">
         <mark key="[" line="0" column="5" />
@@ -111,18 +115,18 @@
         <mark key="^" line="48" column="46" />
         <mark key="." line="48" column="45" />
       </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_common.py" timestamp="1587967659049">
+        <mark key="[" line="67" column="80" />
+        <mark key="]" line="67" column="116" />
+        <mark key="^" line="67" column="116" />
+        <mark key="." line="67" column="115" />
+      </file>
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.css" timestamp="1587954425602">
         <mark key="'" line="19" column="12" />
         <mark key="[" line="157" column="19" />
         <mark key="]" line="157" column="20" />
         <mark key="." line="157" column="19" />
         <mark key="^" line="157" column="20" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/css/teacher.css" timestamp="1587956804333">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.js" timestamp="1587956399149">
         <mark key="'" line="9" column="0" />
@@ -139,11 +143,6 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="34" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/js/teacher.js" timestamp="1587956578388">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/now.json" timestamp="1587955366141">
         <mark key="[" line="0" column="0" />
@@ -163,12 +162,7 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.html" timestamp="1587956794903">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="38" />
-        <mark key="." line="21" column="37" />
-        <mark key="^" line="21" column="38" />
-      </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.html" timestamp="1587956827469" />
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/index.py" timestamp="1587955555330">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="9" />
@@ -179,18 +173,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="2" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/posts/_routes.py" timestamp="1587948412593">
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="5" column="73" />
-        <mark key="^" line="5" column="73" />
-        <mark key="." line="5" column="72" />
-      </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/css/main.css" timestamp="1587956627411">
-        <mark key="[" line="139" column="17" />
-        <mark key="]" line="140" column="14" />
-        <mark key="^" line="140" column="14" />
-        <mark key="." line="140" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/.env" timestamp="1587951788447" />
       <file name="$USER_HOME$/repositories/tutorials/nextjs-blog/api/posts/index.py" timestamp="1587948438893">
@@ -207,11 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="4" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/permission_slip/templates/permission_en.html" />
-      <jump line="206" column="16" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/permission_slip/templates/permission_en.html" />
-      <jump line="205" column="53" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/permission_slip/templates/permission_en.html" />
-      <jump line="159" column="0" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/permission_slip/templates/permission_en.html" />
-      <jump line="208" column="88" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/permission_slip/templates/permission_en.html" />
       <jump line="209" column="78" filename="$USER_HOME$/repositories/tmm/tmm-document-creator/backend/app/permission_slip/templates/permission_en.html" />
       <jump line="0" column="23" filename="$USER_HOME$/repositories/title-page/Dockerfile" />
       <jump line="29" column="0" filename="$USER_HOME$/repositories/title-page/app/title_page.py" />
@@ -307,12 +284,17 @@
       <jump line="19" column="12" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/main.css" />
       <jump line="2" column="0" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.js" />
       <jump line="7" column="0" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.js" />
+      <jump line="8" column="26" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/teacher/award.py" />
+      <jump line="54" column="24" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_common.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_common.py" />
+      <jump line="61" column="51" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_common.py" />
+      <jump line="3" column="14" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_common.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-between</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -341,7 +323,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-between</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Easy</text>
@@ -362,34 +344,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MuZ2V0ZW52Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmZsZXggCg==</text>
+        <text encoding="base64">ICAgIHVqc29uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlYWNoZXJMb2dnZWRJbiA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgIHRtcF9yaWJib25zLndyaXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IHRlYWNoZXJMb2dnZWRJbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIHdpdGggCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvY3VtZW50LmJvZHkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlZEluCg==</text>
+        <text encoding="base64">ICAgIHJpYmJvbnNbc3R1ZGVudF9uYW1lXS5hcHBlbmQoY29sb3IpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmJvZHkK</text>
+        <text encoding="base64">ICAgIHJpYmJvbnMuaW5kZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJpYmJvbnMgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignRE9NQ29udGVudExvYWRlZCcsIGZ1bmN0aW9uKCkgewogICRyb290LmlubmVySFRNTCA9IGxvYWRlcjsKICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Easy/Hard/g</text>
