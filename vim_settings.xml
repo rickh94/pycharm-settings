@@ -154,19 +154,12 @@
         <mark key="." line="6" column="47" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.html" timestamp="1588093915911" />
-      <file name="$USER_HOME$/repositories/student-tracker/docker-compose.yml" timestamp="1588025440181">
-        <mark key="'" line="42" column="15" />
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="36" />
-        <mark key="^" line="24" column="36" />
-        <mark key="." line="24" column="35" />
-      </file>
-      <file name="$USER_HOME$/repositories/student-tracker/config/nginx/app.conf" timestamp="1588025401896">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="30" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.html" timestamp="1588095972866">
+        <mark key="'" line="73" column="12" />
+        <mark key="[" line="83" column="65" />
+        <mark key="]" line="83" column="88" />
+        <mark key="^" line="83" column="88" />
+        <mark key="." line="83" column="87" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/config/backend/nginx/django.conf" timestamp="1588037328511">
         <mark key="[" line="55" column="0" />
@@ -178,6 +171,12 @@
         <mark key="]" line="5" column="42" />
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/css/main.css" timestamp="1588096510591">
+        <mark key="[" line="162" column="22" />
+        <mark key="]" line="163" column="21" />
+        <mark key="^" line="163" column="21" />
+        <mark key="." line="163" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/mysite/settings.py" timestamp="1588044237273">
         <mark key="[" line="32" column="18" />
@@ -211,9 +210,14 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/js/teacher.js" timestamp="1588096381948">
+        <mark key="[" line="42" column="11" />
+        <mark key="]" line="43" column="12" />
+        <mark key="." line="43" column="11" />
+        <mark key="^" line="43" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="33" filename="$USER_HOME$/repositories/scratch/macro-kbd/macro_kbd/main.py" />
       <jump line="1" column="31" filename="$USER_HOME$/repositories/scratch/macro-kbd/macros.toml" />
       <jump line="109" column="0" filename="$USER_HOME$/repositories/scratch/macro-kbd/macro_kbd/main.py" />
       <jump line="11" column="15" filename="$USER_HOME$/repositories/scratch/macro-kbd/macro_kbd/main.py" />
@@ -313,12 +317,13 @@
       <jump line="122" column="19" filename="$USER_HOME$/repositories/student-tracker/backend/api/api/settings.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repositories/student-tracker/frontend/app/src/pages/index.js" />
       <jump line="8" column="4" filename="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/urls.py" />
+      <jump line="68" column="12" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>mysite.polls</text>
+        <text>:hover</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -347,13 +352,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>mysite.polls</text>
+        <text>:hover</text>
       </register>
       <register name="/" type="4">
         <text>results</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJzxpbnQ6cXVlc3Rpb25faWQ+L3Jlc3VsdHMvJywgdmlld3MucmVzdWx0cywgbmFtZT0ncmVzdWx0cycpLAo=</text>
+        <text encoding="base64">ICAgICAgPGZvcm0geC1zaG93PSJvcGVuVGFiID09PSAnYXdhcmRSaWJib24nIiBjbGFzcz0idGFiLWl0ZW0gZm9ybSIgYXV0b2NvbXBsZXRlPSJvZmYiCiAgICAgIGlkPSJhd2FyZC1yaWJib24tZm9ybSI+CiAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIiB4LWRhdGE9IntzaG93QXV0b2NvbXBsZXRlOiBmYWxzZSwgdmFsdWU6ICcnfSIgaWQ9InN0dWRlbnQtbmFtZS1jb250cm9sIj4KICAgICAgICAgIDxsYWJlbCBmb3I9InN0dWRlbnRfbmFtZSIgY2xhc3M9ImF1dG9jb21wbGV0ZS1sYWJlbCI+CiAgICAgICAgICAgIFN0dWRlbnQgTmFtZQogICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJzdHVkZW50X25hbWUiIGlkPSJzdHVkZW50X25hbWUiIGNsYXNzPSJhdXRvY29tcGxldGUtaW5wdXQiCiAgICAgICAgICAgICAgICAgeC1tb2RlbD0idmFsdWUiCiAgICAgICAgICAgICAgICAgQGZvY3VzPSJzaG93QXV0b2NvbXBsZXRlID0gdHJ1ZSIKICAgICAgICAgICAgICAgICBAYmx1cj0ic2V0VGltZW91dCgoKSA9PiBzaG93QXV0b2NvbXBsZXRlID0gZmFsc2UsIDIwMCkiCiAgICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgID4KICAgICAgICAgIDxkaXYgY2xhc3M9ImF1dG9jb21wbGV0ZS13cmFwcGVyIiB4LXNob3c9InNob3dBdXRvY29tcGxldGUiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJhdXRvY29tcGxldGUtbGlzdCIgaWQ9InN0dWRlbnRfbmFtZV9jb21wbGV0aW9ucyI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIiB4LWRhdGE9IntzaG93QXV0b2NvbXBsZXRlOiBmYWxzZSwgdmFsdWU6ICcnfSI+CiAgICAgICAgICA8bGFiZWwgZm9yPSJjb2xvciIgY2xhc3M9ImF1dG9jb21wbGV0ZS1sYWJlbCI+Q29sb3I8L2xhYmVsPgogICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9ImNvbG9yIiBpZD0iY29sb3IiIGNsYXNzPSJhdXRvY29tcGxldGUtaW5wdXQiCiAgICAgICAgICAgICAgICAgeC1tb2RlbD0idmFsdWUiCiAgICAgICAgICAgICAgICAgQGZvY3VzPSJzaG93QXV0b2NvbXBsZXRlID0gdHJ1ZSIKICAgICAgICAgICAgICAgICBAYmx1cj0ic2V0VGltZW91dCgoKSA9PiBzaG93QXV0b2NvbXBsZXRlID0gZmFsc2UsIDIwMCkiCiAgICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgID4KICAgICAgICAgIDxkaXYgY2xhc3M9ImF1dG9jb21wbGV0ZS13cmFwcGVyIiB4LXNob3c9InNob3dBdXRvY29tcGxldGUiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJhdXRvY29tcGxldGUtbGlzdCIgaWQ9ImNvbG9yX2NvbXBsZXRpb25zIj48L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSJTdWJtaXQiIGNsYXNzPSJzdWJtaXQtYnV0dG9uIj4KICAgICAgPC9mb3JtPgo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -367,35 +372,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>(&quot;Hello, world. You're at the polls index.&quot;)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdhZGQtc3R1ZGVudC1mb3JtJykucmVtb3ZlQ2hpbGQoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ25ldy1zdHVkZW50LWVycm9yJykpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text />
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmdldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJzxpbnQ6cXVlc3Rpb25faWQ+L3Jlc3VsdHMvJywgdmlld3MucmVzdWx0cywgbmFtZT0nZGV0YWlsJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgeC1tb2RlbD0idmFsdWUiCiAgICAgICAgICAgICAgIEBmb2N1cz0ic2hvd0F1dG9jb21wbGV0ZSA9IHRydWUiCiAgICAgICAgICAgICAgIEBibHVyPSJzZXRUaW1lb3V0KCgpID0+IHNob3dBdXRvY29tcGxldGUgPSBmYWxzZSwgMjAwKSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNvbnRyb2wiIHgtZGF0YT0ie3Nob3dBdXRvY29tcGxldGU6IGZhbHNlLCB2YWx1ZTogJyd9Ij4K</text>
       </register>
       <register name=":" type="4">
         <text>s/results/vote/g</text>
