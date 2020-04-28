@@ -103,30 +103,16 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/teacher/award.py" timestamp="1588101812922">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="35" column="17" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/teacher/award.py" timestamp="1588110298010">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/admin.py" timestamp="1588045094412">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="28" />
-      </file>
-      <file name="$USER_HOME$/repositories/student-tracker/backend/api/core/admin.py" timestamp="1588038534165">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/repositories/student-tracker/backend/api/api/settings.py" timestamp="1588038499647">
-        <mark key="'" line="122" column="19" />
-        <mark key="[" line="124" column="15" />
-        <mark key="]" line="124" column="19" />
-        <mark key="." line="124" column="18" />
-        <mark key="^" line="124" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/urls.py" timestamp="1588045469987">
         <mark key="'" line="8" column="4" />
@@ -135,10 +121,10 @@
         <mark key="^" line="7" column="67" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_common.py" timestamp="1588101670797">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="26" column="13" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_common.py" timestamp="1588110283481">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/frontend/app/src/pages/index.js" timestamp="1588039519314">
         <mark key="'" line="2" column="0" />
@@ -160,6 +146,12 @@
         <mark key="^" line="83" column="88" />
         <mark key="." line="83" column="87" />
       </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/index.py" timestamp="1588110289319">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="14" column="79" />
+      </file>
       <file name="$USER_HOME$/repositories/student-tracker/backend/api/core/views.py" timestamp="1588039104606">
         <mark key="'" line="5" column="22" />
         <mark key="[" line="5" column="30" />
@@ -167,11 +159,11 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/teacher/add_student.py" timestamp="1588098118678">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="24" column="18" />
-        <mark key="." line="24" column="17" />
-        <mark key="^" line="24" column="18" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/teacher/add_student.py" timestamp="1588110491411">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/css/main.css" timestamp="1588097767181">
         <mark key="[" line="162" column="22" />
@@ -194,11 +186,11 @@
       <file name="/" timestamp="1588039039089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_ribbon.py" timestamp="1588101886662">
-        <mark key="[" line="106" column="40" />
-        <mark key="]" line="106" column="40" />
-        <mark key="." line="106" column="40" />
-        <mark key="^" line="130" column="17" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_ribbon.py" timestamp="1588110469801">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="57" column="68" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1588038906583">
         <mark key="[" line="0" column="1" />
@@ -212,11 +204,17 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/js/teacher.js" timestamp="1588096381948">
-        <mark key="[" line="42" column="11" />
-        <mark key="]" line="43" column="12" />
-        <mark key="." line="43" column="11" />
-        <mark key="^" line="43" column="12" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/js/teacher.js" timestamp="1588111065554">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="17" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/teacher/index.py" timestamp="1588111025779">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="49" />
+        <mark key="^" line="19" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -325,7 +323,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>item.</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -354,13 +352,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>item.</text>
       </register>
       <register name="/" type="4">
         <text>results</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzX2NvZGU9NDAwLAogICAgICAgICAgICAgICAgICAgIGRldGFpbD1mIlN0dWRlbnQge3N0dWRlbnRfbmFtZX0gYWxyZWFkeSBoYXMge2NvbG9yfSByaWJib24iLAogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKAogICAgICAgICAgICBzdGF0dXNfY29kZT00MDAsIGRldGFpbD0iVGhlcmUgaXMgYWxyZWFkeSBhIHN0dWRlbnQgd2l0aCB0aGlzIG5hbWUuIgogICAgICAgICkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -375,34 +373,35 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmEK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmFtZXMgPSBbXTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9uYW1lczoK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lcy5wdXNoKGl0ZW0ubmFtZS50b0xvd2VyQ2FzZSgpLnRyaW0oKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9uYW0K</text>
+      <register name="5" type="4">
+        <text>;
+      $newStudentName.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBzZWxmX3JpYmJvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBhc19saXN0Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmFtZXMgPT4gewogICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgJHN1Ym1pdFN0dWRlbnRCdXR0b24gPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc3VibWl0LW5ldy1zdHVkZW50Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/results/vote/g</text>
