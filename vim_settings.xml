@@ -122,6 +122,12 @@
         <mark key="." line="124" column="18" />
         <mark key="^" line="124" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/urls.py" timestamp="1588042309229">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/repositories/student-tracker/frontend/app/src/pages/index.js" timestamp="1588039519314">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="0" column="0" />
@@ -134,12 +140,6 @@
         <mark key="]" line="22" column="52" />
         <mark key="." line="22" column="52" />
         <mark key="^" line="18" column="106" />
-      </file>
-      <file name="$USER_HOME$/repositories/student-tracker/frontend/app/pages/index.js" timestamp="1588015859714">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/backend/api/core/models.py" timestamp="1588037574413">
         <mark key="[" line="5" column="42" />
@@ -166,12 +166,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/student-tracker/frontend/Dockerfile" timestamp="1588010814964">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="11" />
-      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/config/backend/nginx/django.conf" timestamp="1588037328511">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="59" column="36" />
@@ -189,6 +183,12 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/views.py" timestamp="1588042267034">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="65" />
+        <mark key="." line="3" column="64" />
+        <mark key="^" line="3" column="65" />
+      </file>
       <file name="/" timestamp="1588039039089">
         <mark key="[" line="0" column="0" />
       </file>
@@ -197,17 +197,17 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/student-tracker/frontend/Dockerfile.dev" timestamp="1588016396935">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="24" />
-      </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1588038906583">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/mysite/urls.py" timestamp="1588042337343">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+        <mark key="." line="19" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/backend/Dockerfile" timestamp="1588024224065">
         <mark key="[" line="23" column="23" />
@@ -320,8 +320,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -350,7 +350,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>from django.shortcuts import render</text>
       </register>
       <register name="/" type="4">
         <text>Docker</text>
@@ -377,28 +377,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXdyaXRlIF4vYXBpLyguKikgJDE7Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByb290IC9zcnYvYmFja2VuZC87Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXdyaXRlIF4vYXBpLyguKikgJDE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dWlkID0gMTAxCmdpZCA9IDEwMQo=</text>
+        <text encoding="base64">ICAgICAgICByb290IC9zcnYvYmFja2VuZC87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIHVzZXJhZGQgIC1VIC11IDEwMSAtZyAxMDEgYmFja2VuZAo=</text>
+        <text encoding="base64">dWlkID0gMTAxCmdpZCA9IDEwMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIHVzZXJhZGQgLXUgMTAxIC1nIDEwMSBiYWNrZW5kCg==</text>
+        <text encoding="base64">UlVOIHVzZXJhZGQgIC1VIC11IDEwMSAtZyAxMDEgYmFja2VuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q09QWSBQaXBmaWxlIC4K</text>
+        <text encoding="base64">UlVOIHVzZXJhZGQgLXUgMTAxIC1nIDEwMSBiYWNrZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Easy/Hard/g</text>
