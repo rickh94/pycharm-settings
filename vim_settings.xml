@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>wire</entry>
         <entry>restic</entry>
         <entry>rclone</entry>
         <entry>smartmontools</entry>
@@ -25,6 +24,7 @@
         <entry>Easy</entry>
         <entry>docker</entry>
         <entry>Docker</entry>
+        <entry>results</entry>
       </history-search>
       <history-cmd>
         <entry>s/db/add/g</entry>
@@ -45,6 +45,7 @@
         <entry>w</entry>
         <entry>s/Easy/Medium/g</entry>
         <entry>s/Easy/Hard/g</entry>
+        <entry>s/results/vote/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -96,10 +97,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/models.py" timestamp="1588044063645">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="0" column="28" />
+      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/models.py" timestamp="1588044673830">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/backend/api/docker-start.sh" timestamp="1588024988503">
         <mark key="'" line="0" column="0" />
@@ -107,6 +109,12 @@
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/admin.py" timestamp="1588045094412">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/backend/api/core/urls.py" timestamp="1588038003320">
         <mark key="[" line="5" column="3" />
@@ -127,11 +135,12 @@
         <mark key="." line="124" column="18" />
         <mark key="^" line="124" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/urls.py" timestamp="1588042309229">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="5" column="37" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="36" />
+      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/urls.py" timestamp="1588045469987">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="70" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/frontend/app/src/pages/index.js" timestamp="1588039519314">
         <mark key="'" line="2" column="0" />
@@ -176,17 +185,17 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/student-tracker/backend/api/uwsgi.ini" timestamp="1588024769551">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="9" />
-        <mark key="." line="9" column="8" />
-        <mark key="^" line="9" column="9" />
+      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/mysite/settings.py" timestamp="1588044237273">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="33" column="29" />
+        <mark key="^" line="33" column="29" />
+        <mark key="." line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/views.py" timestamp="1588042267034">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="65" />
-        <mark key="." line="3" column="64" />
-        <mark key="^" line="3" column="65" />
+      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/views.py" timestamp="1588045799877">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="/" timestamp="1588039039089">
         <mark key="[" line="0" column="0" />
@@ -208,14 +217,8 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/student-tracker/backend/Dockerfile" timestamp="1588024224065">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/scratch/macro-kbd/macro_kbd/main.py" />
       <jump line="92" column="33" filename="$USER_HOME$/repositories/scratch/macro-kbd/macro_kbd/main.py" />
       <jump line="1" column="31" filename="$USER_HOME$/repositories/scratch/macro-kbd/macros.toml" />
       <jump line="109" column="0" filename="$USER_HOME$/repositories/scratch/macro-kbd/macro_kbd/main.py" />
@@ -315,12 +318,13 @@
       <jump line="4" column="22" filename="$USER_HOME$/repositories/student-tracker/backend/api/core/views.py" />
       <jump line="122" column="19" filename="$USER_HOME$/repositories/student-tracker/backend/api/api/settings.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repositories/student-tracker/frontend/app/src/pages/index.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/urls.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+      <register name="&quot;" type="4">
+        <text>(&quot;Hello, world. You're at the polls index.&quot;)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -349,13 +353,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>from django.shortcuts import render</text>
+        <text>(&quot;Hello, world. You're at the polls index.&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>Docker</text>
+        <text>results</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCB1d3NnaQo=</text>
+        <text encoding="base64">ICAgIHBhdGgoJzxpbnQ6cXVlc3Rpb25faWQ+L3Jlc3VsdHMvJywgdmlld3MucmVzdWx0cywgbmFtZT0ncmVzdWx0cycpLAo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -369,48 +373,48 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+      <register name="1" type="4">
+        <text>(&quot;Hello, world. You're at the polls index.&quot;)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+      <register name="2" type="4">
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+      <register name="3" type="4">
+        <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">ICAgIHBhdGgoJzxpbnQ6cXVlc3Rpb25faWQ+L3Jlc3VsdHMvJywgdmlld3MucmVzdWx0cywgbmFtZT0nZGV0YWlsJyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXdyaXRlIF4vYXBpLyguKikgJDE7Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb290IC9zcnYvYmFja2VuZC87Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dWlkID0gMTAxCmdpZCA9IDEwMQo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIHVzZXJhZGQgIC1VIC11IDEwMSAtZyAxMDEgYmFja2VuZAo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/Easy/Hard/g</text>
+        <text>s/results/vote/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Docker</last-search>
+      <last-search>results</last-search>
       <last-offset />
-      <last-pattern>Docker</last-pattern>
-      <last-replace>Hard</last-replace>
-      <last-substitute>Easy</last-substitute>
+      <last-pattern>results</last-pattern>
+      <last-replace>vote</last-replace>
+      <last-substitute>results</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
