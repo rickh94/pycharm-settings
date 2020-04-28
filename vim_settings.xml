@@ -191,10 +191,10 @@
         <mark key="^" line="33" column="29" />
         <mark key="." line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/views.py" timestamp="1588045799877">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="29" />
+      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/views.py" timestamp="1588045830587">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
         <mark key="^" line="8" column="30" />
       </file>
       <file name="/" timestamp="1588039039089">
@@ -324,7 +324,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(&quot;Hello, world. You're at the polls index.&quot;)</text>
+        <text>mysite.polls</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -353,7 +353,7 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(&quot;Hello, world. You're at the polls index.&quot;)</text>
+        <text>mysite.polls</text>
       </register>
       <register name="/" type="4">
         <text>results</text>
