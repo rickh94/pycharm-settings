@@ -103,17 +103,17 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/teacher/award.py" timestamp="1588097955017">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/admin.py" timestamp="1588045094412">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="28" />
-      </file>
-      <file name="$USER_HOME$/repositories/student-tracker/backend/api/core/urls.py" timestamp="1588038003320">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="44" />
-        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/backend/api/core/admin.py" timestamp="1588038534165">
         <mark key="[" line="5" column="6" />
@@ -135,6 +135,11 @@
         <mark key="^" line="7" column="67" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_common.py" timestamp="1588099028086">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="48" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/student-tracker/frontend/app/src/pages/index.js" timestamp="1588039519314">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="0" column="0" />
@@ -148,22 +153,12 @@
         <mark key="." line="22" column="52" />
         <mark key="^" line="18" column="106" />
       </file>
-      <file name="$USER_HOME$/repositories/student-tracker/backend/api/core/models.py" timestamp="1588037574413">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="6" column="48" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="48" />
-      </file>
       <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.html" timestamp="1588095972866">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="83" column="65" />
         <mark key="]" line="83" column="88" />
         <mark key="^" line="83" column="88" />
         <mark key="." line="83" column="87" />
-      </file>
-      <file name="$USER_HOME$/repositories/sheet_music_database/config/backend/nginx/django.conf" timestamp="1588037328511">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="59" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/backend/api/core/views.py" timestamp="1588039104606">
         <mark key="'" line="5" column="22" />
@@ -172,7 +167,13 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/css/main.css" timestamp="1588096510591">
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/teacher/add_student.py" timestamp="1588098118678">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/css/main.css" timestamp="1588097767181">
         <mark key="[" line="162" column="22" />
         <mark key="]" line="163" column="21" />
         <mark key="^" line="163" column="21" />
@@ -193,10 +194,12 @@
       <file name="/" timestamp="1588039039089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/student-tracker/backend/api/core/serializers.py" timestamp="1588037699972">
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_ribbon.py" timestamp="1588100338360">
+        <mark key="'" line="43" column="18" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="31" />
+        <mark key="^" line="43" column="31" />
+        <mark key="." line="43" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/sheet_music_database/backend/app/app/api_v1_urls.py" timestamp="1588038906583">
         <mark key="[" line="0" column="1" />
@@ -218,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="31" filename="$USER_HOME$/repositories/scratch/macro-kbd/macros.toml" />
       <jump line="109" column="0" filename="$USER_HOME$/repositories/scratch/macro-kbd/macro_kbd/main.py" />
       <jump line="11" column="15" filename="$USER_HOME$/repositories/scratch/macro-kbd/macro_kbd/main.py" />
       <jump line="52" column="3" filename="$USER_HOME$/repositories/setlist-placeholder/templates/primary.html" />
@@ -318,12 +320,13 @@
       <jump line="1" column="0" filename="$USER_HOME$/repositories/student-tracker/frontend/app/src/pages/index.js" />
       <jump line="8" column="4" filename="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/urls.py" />
       <jump line="68" column="12" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/teacher.html" />
+      <jump line="42" column="18" filename="$USER_HOME$/repositories/tmm/ribbon-leader-board/api/_ribbon.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>:hover</text>
+        <text>BufferedRandom()</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -352,13 +355,13 @@
         <text encoding="base64">ICAgICMgZGIgPSBjb25uZWN0X3RvX2RiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:hover</text>
+        <text>BufferedRandom()</text>
       </register>
       <register name="/" type="4">
         <text>results</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGZvcm0geC1zaG93PSJvcGVuVGFiID09PSAnYXdhcmRSaWJib24nIiBjbGFzcz0idGFiLWl0ZW0gZm9ybSIgYXV0b2NvbXBsZXRlPSJvZmYiCiAgICAgIGlkPSJhd2FyZC1yaWJib24tZm9ybSI+CiAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIiB4LWRhdGE9IntzaG93QXV0b2NvbXBsZXRlOiBmYWxzZSwgdmFsdWU6ICcnfSIgaWQ9InN0dWRlbnQtbmFtZS1jb250cm9sIj4KICAgICAgICAgIDxsYWJlbCBmb3I9InN0dWRlbnRfbmFtZSIgY2xhc3M9ImF1dG9jb21wbGV0ZS1sYWJlbCI+CiAgICAgICAgICAgIFN0dWRlbnQgTmFtZQogICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJzdHVkZW50X25hbWUiIGlkPSJzdHVkZW50X25hbWUiIGNsYXNzPSJhdXRvY29tcGxldGUtaW5wdXQiCiAgICAgICAgICAgICAgICAgeC1tb2RlbD0idmFsdWUiCiAgICAgICAgICAgICAgICAgQGZvY3VzPSJzaG93QXV0b2NvbXBsZXRlID0gdHJ1ZSIKICAgICAgICAgICAgICAgICBAYmx1cj0ic2V0VGltZW91dCgoKSA9PiBzaG93QXV0b2NvbXBsZXRlID0gZmFsc2UsIDIwMCkiCiAgICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgID4KICAgICAgICAgIDxkaXYgY2xhc3M9ImF1dG9jb21wbGV0ZS13cmFwcGVyIiB4LXNob3c9InNob3dBdXRvY29tcGxldGUiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJhdXRvY29tcGxldGUtbGlzdCIgaWQ9InN0dWRlbnRfbmFtZV9jb21wbGV0aW9ucyI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIiB4LWRhdGE9IntzaG93QXV0b2NvbXBsZXRlOiBmYWxzZSwgdmFsdWU6ICcnfSI+CiAgICAgICAgICA8bGFiZWwgZm9yPSJjb2xvciIgY2xhc3M9ImF1dG9jb21wbGV0ZS1sYWJlbCI+Q29sb3I8L2xhYmVsPgogICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9ImNvbG9yIiBpZD0iY29sb3IiIGNsYXNzPSJhdXRvY29tcGxldGUtaW5wdXQiCiAgICAgICAgICAgICAgICAgeC1tb2RlbD0idmFsdWUiCiAgICAgICAgICAgICAgICAgQGZvY3VzPSJzaG93QXV0b2NvbXBsZXRlID0gdHJ1ZSIKICAgICAgICAgICAgICAgICBAYmx1cj0ic2V0VGltZW91dCgoKSA9PiBzaG93QXV0b2NvbXBsZXRlID0gZmFsc2UsIDIwMCkiCiAgICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgID4KICAgICAgICAgIDxkaXYgY2xhc3M9ImF1dG9jb21wbGV0ZS13cmFwcGVyIiB4LXNob3c9InNob3dBdXRvY29tcGxldGUiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJhdXRvY29tcGxldGUtbGlzdCIgaWQ9ImNvbG9yX2NvbXBsZXRpb25zIj48L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSJTdWJtaXQiIGNsYXNzPSJzdWJtaXQtYnV0dG9uIj4KICAgICAgPC9mb3JtPgo=</text>
+        <text encoding="base64">ICAgIGJ1Y2tldF9uYW1lID0gb3MuZ2V0ZW52KCJNSU5JT19CVUNLRVRfTkFNRSIpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -373,34 +376,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSB0bXBfcmliYm9ucy5uYW1lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdhZGQtc3R1ZGVudC1mb3JtJykucmVtb3ZlQ2hpbGQoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ25ldy1zdHVkZW50LWVycm9yJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0bXBfcmliYm9ucy5uYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmdldAo=</text>
+        <text encoding="base64">ZnJvbSBfY29tbW9uIGltcG9ydCBzYXZlX3JpYmJvbnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHNhdmVfcmliYm9ucyhyaWJib25zLl9yaWJib25zKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHNhdmVfcmliYm9ucyhyaWJib25zLl9yaWJib25zKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KHJpYmJvbnMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHJpYmJvbnMuc2F2ZSgp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgeC1tb2RlbD0idmFsdWUiCiAgICAgICAgICAgICAgIEBmb2N1cz0ic2hvd0F1dG9jb21wbGV0ZSA9IHRydWUiCiAgICAgICAgICAgICAgIEBibHVyPSJzZXRUaW1lb3V0KCgpID0+IHNob3dBdXRvY29tcGxldGUgPSBmYWxzZSwgMjAwKSIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl9yaWJib25zKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNvbnRyb2wiIHgtZGF0YT0ie3Nob3dBdXRvY29tcGxldGU6IGZhbHNlLCB2YWx1ZTogJyd9Ij4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl9yaWJib25zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/results/vote/g</text>
