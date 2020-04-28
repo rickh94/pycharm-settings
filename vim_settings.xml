@@ -96,6 +96,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/tutorials/django-poll/mysite/polls/models.py" timestamp="1588044063645">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/repositories/student-tracker/backend/api/docker-start.sh" timestamp="1588024988503">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="24" />
@@ -146,12 +151,6 @@
         <mark key="]" line="6" column="48" />
         <mark key="." line="6" column="47" />
         <mark key="^" line="6" column="48" />
-      </file>
-      <file name="$USER_HOME$/repositories/student-tracker/frontend/app/package.json" timestamp="1588022212648">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/student-tracker/docker-compose.yml" timestamp="1588025440181">
         <mark key="'" line="42" column="15" />
@@ -321,7 +320,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -371,7 +370,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -380,25 +379,25 @@
         <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXdyaXRlIF4vYXBpLyguKikgJDE7Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb290IC9zcnYvYmFja2VuZC87Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXdyaXRlIF4vYXBpLyguKikgJDE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dWlkID0gMTAxCmdpZCA9IDEwMQo=</text>
+        <text encoding="base64">ICAgICAgICByb290IC9zcnYvYmFja2VuZC87Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIHVzZXJhZGQgIC1VIC11IDEwMSAtZyAxMDEgYmFja2VuZAo=</text>
+        <text encoding="base64">dWlkID0gMTAxCmdpZCA9IDEwMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIHVzZXJhZGQgLXUgMTAxIC1nIDEwMSBiYWNrZW5kCg==</text>
+        <text encoding="base64">UlVOIHVzZXJhZGQgIC1VIC11IDEwMSAtZyAxMDEgYmFja2VuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Easy/Hard/g</text>
