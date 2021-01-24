@@ -1,11 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="pcss" type="CSS" />
-      <mapping pattern="Dockerfile.prod" type="Dockerfile" />
-      <mapping pattern="Dockerfile.dev" type="Dockerfile" />
       <mapping pattern="Dockerfile.test" type="Dockerfile" />
+      <mapping pattern="Dockerfile.dev" type="Dockerfile" />
+      <mapping pattern="Dockerfile.prod" type="Dockerfile" />
       <mapping pattern=".zeroignore" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
